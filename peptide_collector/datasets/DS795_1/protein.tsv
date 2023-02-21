@@ -1,0 +1,839 @@
+protein_id	accession	symbol	name	protein_type	pep_count	psm_count	uniq_pep_count
+PRT795_1_A6TGP1	A6TGP1	RPOC_KLEP7	DNA-directed RNA polymerase subunit beta'	leading protein	30	124	30
+PRT795_1_A6T4Q7	A6T4Q7	A6T4Q7_KLEP7	Pyruvate dehydrogenase E1 component	leading protein	29	142	29
+PRT795_1_A6T6Z6	A6T6Z6	A6T6Z6_KLEP7	Formate acetyltransferase 1	leading protein	28	115	25
+PRT795_1_A6T4F4	A6T4F4	DNAK_KLEP7	Chaperone protein DnaK	leading protein	27	146	27
+PRT795_1_A6TGP0	A6TGP0	RPOB_KLEP7	DNA-directed RNA polymerase subunit beta	leading protein	25	91	25
+PRT795_1_A6TAK6	A6TAK6	A6TAK6_KLEP7	Aldehyde-alcohol dehydrogenase	leading protein	24	134	24
+PRT795_1_A6T7Y4	A6T7Y4	A6T7Y4_KLEP7	Aconitate hydratase	leading protein	24	73	24
+PRT795_1_A6TEX8	A6TEX8	A6TEX8_KLEP7	Elongation factor G	leading protein	24	139	24
+PRT795_1_A6TH53	A6TH53	CH60_KLEP7	60 kDa chaperonin	leading protein	23	360	23
+PRT795_1_A6TG38	A6TG38	ATPA_KLEP7	ATP synthase subunit alpha	leading protein	21	259	20
+PRT795_1_A6TEX7	A6TEX7	EFTU_KLEP7	Elongation factor Tu	leading protein	21	840	21
+PRT795_1_A6T703	A6T703	A6T703_KLEP7	30S ribosomal protein S1	leading protein	20	118	20
+PRT795_1_A6T5T1	A6T5T1	A6T5T1_KLEP7	Lysine--tRNA ligase	leading protein	19	78	12
+PRT795_1_A6TG36	A6TG36	ATPB_KLEP7	ATP synthase subunit beta	leading protein	19	77	19
+PRT795_1_A6T5H9	A6T5H9	TIG_KLEP7	Trigger factor	leading protein	19	55	19
+PRT795_1_A6TDT1	A6TDT1	A6TDT1_KLEP7	Phosphoglycerate kinase	leading protein	19	221	19
+PRT795_1_A6T6F4	A6T6F4	A6T6F4_KLEP7	2-oxoglutarate decarboxylase	leading protein	18	57	18
+PRT795_1_A6TEQ3	A6TEQ3	MDH_KLEP7	Malate dehydrogenase	leading protein	16	71	16
+PRT795_1_A6T9L3	A6T9L3	A6T9L3_KLEP7	Alcohol dehydrogenase	leading protein	16	421	16
+PRT795_1_A6THZ8	A6THZ8	A6THZ8_KLEP7	Phosphopentomutase	leading protein	16	54	16
+PRT795_1_A6T6L1	A6T6L1	HUTH_KLEP7	Histidine ammonia-lyase	leading protein	15	61	15
+PRT795_1_A6TH49	A6TH49	A6TH49_KLEP7	Aspartate ammonia-lyase	leading protein	15	68	15
+PRT795_1_A6TD53	A6TD53	ENO_KLEP7	Enolase	leading protein	15	178	15
+PRT795_1_A6TBY4	A6TBY4	A6TBY4_KLEP7	Phosphate acetyltransferase	leading protein	15	69	15
+PRT795_1_A6TAG7	A6TAG7	A6TAG7_KLEP7	Phosphoenolpyruvate synthase	leading protein	14	83	14
+PRT795_1_A6TB24	A6TB24	A6TB24_KLEP7	Pyruvate kinase	leading protein	14	74	14
+PRT795_1_A6T7Q9	A6T7Q9	A6T7Q9_KLEP7	Glyceraldehyde-3-phosphate dehydrogenase	leading protein	14	337	13
+PRT795_1_A6TEI3	A6TEI3	PNP_KLEP7	Polyribonucleotide nucleotidyltransferase	leading protein	14	29	14
+PRT795_1_A6T6F6	A6T6F6	SUCC_KLEP7	Succinate--CoA ligase [ADP-forming] subunit beta	leading protein	13	51	13
+PRT795_1_A6TDP4	A6TDP4	A6TDP4_KLEP7	Lysine--tRNA ligase	leading protein	13	48	6
+PRT795_1_A6T7Q5	A6T7Q5	A6T7Q5_KLEP7	AAA_PrkA domain-containing protein	leading protein	13	38	13
+PRT795_1_A6TDT0	A6TDT0	A6TDT0_KLEP7	Fructose-bisphosphate aldolase	leading protein	13	189	13
+PRT795_1_A6T7E5	A6T7E5	A6T7E5_KLEP7	Ribonuclease E	leading protein	13	42	13
+PRT795_1_A6TEU8	A6TEU8	RPOA_KLEP7	DNA-directed RNA polymerase subunit alpha	leading protein	12	36	12
+PRT795_1_A6T5S9	A6T5S9	A6T5S9_KLEP7	Lysine decarboxylase 1	leading protein	12	24	12
+PRT795_1_A6TBJ6	A6TBJ6	A6TBJ6_KLEP7	Fructose-bisphosphate aldolase	leading protein	12	60	12
+PRT795_1_A6T4E8	A6T4E8	A6T4E8_KLEP7	Transaldolase	leading protein	12	47	11
+PRT795_1_A6TC52	A6TC52	A6TC52_KLEP7	Phosphoenolpyruvate-protein phosphotransferase	leading protein	12	83	12
+PRT795_1_A6T6Q6	A6T6Q6	DPS_KLEP7	DNA protection during starvation protein	leading protein	12	100	12
+PRT795_1_A6TF26	A6TF26	A6TF26_KLEP7	Phosphoenolpyruvate carboxykinase (ATP)	leading protein	12	41	9
+PRT795_1_A6T6L0	A6T6L0	HUTU_KLEP7	Urocanate hydratase	leading protein	12	41	12
+PRT795_1_A6T6D3	A6T6D3	A6T6D3_KLEP7	Phosphoglucomutase	leading protein	11	284	11
+PRT795_1_A6TAE0	A6TAE0	A6TAE0_KLEP7	Pyruvate kinase	leading protein	11	88	11
+PRT795_1_A6T7I9	A6T7I9	A6T7I9_KLEP7	Transketolase	leading protein	11	37	0
+PRT795_1_A6T5N6	A6T5N6	HTPG_KLEP7	Chaperone protein HtpG	leading protein	11	35	11
+PRT795_1_A6T9H9	A6T9H9	KATG_KLEP7	Catalase-peroxidase	leading protein	11	26	11
+PRT795_1_A6TEI8	A6TEI8	A6TEI8_KLEP7	Transcription termination/antitermination protein NusA	leading protein	11	31	11
+PRT795_1_A6T751	A6T751	A6T751_KLEP7	Outer membrane protein 3a (II*Gd)	leading protein	11	51	11
+PRT795_1_A6TBY3	A6TBY3	A6TBY3_KLEP7	Acetate kinase	leading protein	11	39	11
+PRT795_1_A6T4Q8	A6T4Q8	A6T4Q8_KLEP7	Acetyltransferase component of pyruvate dehydrogenase complex	leading protein	11	27	11
+PRT795_1_A6T8M6	A6T8M6	A6T8M6_KLEP7	Fumarate hydratase class I	leading protein	11	21	7
+PRT795_1_A6T4X2	A6T4X2	EFTS_KLEP7	Elongation factor Ts	leading protein	11	103	11
+PRT795_1_A6TEI7	A6TEI7	IF2_KLEP7	Translation initiation factor IF-2	leading protein	11	20	11
+PRT795_1_A6T4Q9	A6T4Q9	A6T4Q9_KLEP7	Dihydrolipoyl dehydrogenase	leading protein	10	22	10
+PRT795_1_A6TDR5	A6TDR5	GCSP_KLEP7	Glycine dehydrogenase (decarboxylating)	leading protein	10	23	10
+PRT795_1_A6TG74	A6TG74	A6TG74_KLEP7	GTP-binding elongation factor family protein	leading protein	10	27	10
+PRT795_1_A6T6F7	A6T6F7	A6T6F7_KLEP7	Succinate--CoA ligase [ADP-forming] subunit alpha	leading protein	10	63	10
+PRT795_1_A6T8K3	A6T8K3	A6T8K3_KLEP7	Glutamate dehydrogenase	leading protein	10	31	10
+PRT795_1_A6T720	A6T720	A6T720_KLEP7	Aminotransferase	leading protein	10	25	10
+PRT795_1_A6TBE6	A6TBE6	A6TBE6_KLEP7	6-phosphogluconate dehydrogenase, decarboxylating	leading protein	10	25	10
+PRT795_1_A6TC86	A6TC86	A6TC86_KLEP7	Phosphate acetyltransferase	leading protein	10	24	10
+PRT795_1_A6T4X1	A6T4X1	RS2_KLEP7	30S ribosomal protein S2	leading protein	10	67	10
+PRT795_1_A6TGT4	A6TGT4	G6PI_KLEP7	Glucose-6-phosphate isomerase	leading protein	10	35	10
+PRT795_1_A6THZ9	A6THZ9	A6THZ9_KLEP7	Purine nucleoside phosphorylase DeoD-type	leading protein	9	24	9
+PRT795_1_A6T4G0	A6T4G0	A6T4G0_KLEP7	Isoleucine--tRNA ligase	leading protein	9	22	9
+PRT795_1_A6T4W5	A6T4W5	A6T4W5_KLEP7	Periplasmic serine endoprotease DegP-like	leading protein	9	49	9
+PRT795_1_A6T6Z0	A6T6Z0	SYS_KLEP7	Serine--tRNA ligase	leading protein	9	35	9
+PRT795_1_A6TH73	A6TH73	A6TH73_KLEP7	Fumarate reductase flavoprotein subunit	leading protein	9	28	9
+PRT795_1_A6T6E9	A6T6E9	A6T6E9_KLEP7	Citrate synthase	leading protein	9	31	9
+PRT795_1_A6TCJ1	A6TCJ1	GRCA_KLEP7	Autonomous glycyl radical cofactor	leading protein	9	54	8
+PRT795_1_A6T6F5	A6T6F5	A6T6F5_KLEP7	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	leading protein	9	48	9
+PRT795_1_A6T6F2	A6T6F2	A6T6F2_KLEP7	Succinate dehydrogenase flavoprotein subunit	leading protein	9	44	9
+PRT795_1_A6TI05	A6TI05	A6TI05_KLEP7	Putative ATP-binding component of a transport system	leading protein	9	13	9
+PRT795_1_A6T7K6	A6T7K6	A6T7K6_KLEP7	Isocitrate dehydrogenase [NADP]	leading protein	9	52	9
+PRT795_1_A6TB22	A6TB22	A6TB22_KLEP7	Glucose-6-phosphate 1-dehydrogenase	leading protein	9	17	9
+PRT795_1_A6TGB8	A6TGB8	PFKA_KLEP7	ATP-dependent 6-phosphofructokinase	leading protein	8	22	8
+PRT795_1_A6T4R3	A6T4R3	A6T4R3_KLEP7	Aconitate hydratase B	leading protein	8	18	8
+PRT795_1_A6TAU0	A6TAU0	A6TAU0_KLEP7	Phosphoenolpyruvate carboxykinase (ATP)	leading protein	8	35	5
+PRT795_1_A6TEZ6	A6TEZ6	A6TEZ6_KLEP7	Cyclic AMP receptor protein	leading protein	8	25	8
+PRT795_1_A6T4P1	A6T4P1	SECA_KLEP7	Protein translocase subunit SecA	leading protein	8	23	8
+PRT795_1_A6T6Y0	A6T6Y0	A6T6Y0_KLEP7	ATP-binding component of serine protease	leading protein	8	20	8
+PRT795_1_A6TGN6	A6TGN6	RL1_KLEP7	50S ribosomal protein L1	leading protein	8	33	8
+PRT795_1_A6TA04	A6TA04	A6TA04_KLEP7	Superoxide dismutase	leading protein	8	82	8
+PRT795_1_A6TEW9	A6TEW9	RL2_KLEP7	50S ribosomal protein L2	leading protein	8	22	8
+PRT795_1_A6T7U0	A6T7U0	A6T7U0_KLEP7	NH(3)-dependent NAD(+) synthetase	leading protein	8	19	8
+PRT795_1_A6TGH1	A6TGH1	A6TGH1_KLEP7	Transcription termination factor Rho	leading protein	8	27	8
+PRT795_1_A6T531	A6T531	A6T531_KLEP7	Aminoacyl-histidine dipeptidase (Peptidase D)	leading protein	8	18	8
+PRT795_1_A6TC88	A6TC88	A6TC88_KLEP7	Transketolase	leading protein	8	23	7
+PRT795_1_A6TC87	A6TC87	A6TC87_KLEP7	Transaldolase	leading protein	8	21	8
+PRT795_1_A6T5D5	A6T5D5	A6T5D5_KLEP7	Putative thiol-alkyl hydroperoxide reductase	leading protein	8	71	8
+PRT795_1_A6TEV7	A6TEV7	RL6_KLEP7	50S ribosomal protein L6	leading protein	8	36	8
+PRT795_1_A6TBW9	A6TBW9	A6TBW9_KLEP7	NADH-quinone oxidoreductase	leading protein	8	25	8
+PRT795_1_A6TFQ6	A6TFQ6	A6TFQ6_KLEP7	Triosephosphate isomerase	leading protein	8	39	8
+PRT795_1_A6T5I1	A6T5I1	CLPX_KLEP7	ATP-dependent Clp protease ATP-binding subunit ClpX	leading protein	8	24	8
+PRT795_1_A6T679	A6T679	A6T679_KLEP7	Alkyl hydroperoxide reductase C	leading protein	8	82	8
+PRT795_1_A6T4N8	A6T4N8	A6T4N8_KLEP7	Cell division protein FtsZ	leading protein	8	14	8
+PRT795_1_A6T6I3	A6T6I3	GPMA_KLEP7	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	leading protein	8	23	8
+PRT795_1_A6TCG5	A6TCG5	GLYA_KLEP7	Serine hydroxymethyltransferase	leading protein	8	32	8
+PRT795_1_A6TEB4	A6TEB4	LSRF_KLEP7	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	leading protein	7	15	7
+PRT795_1_A6TEN7	A6TEN7	A6TEN7_KLEP7	Stringent starvation protein A	leading protein	7	43	7
+PRT795_1_A6TFR2	A6TFR2	GLPK_KLEP7	Glycerol kinase	leading protein	7	14	7
+PRT795_1_A6TDV1	A6TDV1	METK_KLEP7	S-adenosylmethionine synthase	leading protein	7	19	7
+PRT795_1_A6THT4	A6THT4	A6THT4_KLEP7	Putative aldehyde dehydrogenase	leading protein	7	16	7
+PRT795_1_A6TCK0	A6TCK0	A6TCK0_KLEP7	Chaperone protein ClpB	leading protein	7	15	6
+PRT795_1_A6TC43	A6TC43	SYE_KLEP7	Glutamate--tRNA ligase	leading protein	7	18	7
+PRT795_1_A6TE07	A6TE07	A6TE07_KLEP7	2,5-diketo-D-gluconate reductase A	leading protein	7	12	6
+PRT795_1_A6THB1	A6THB1	RS6_KLEP7	30S ribosomal protein S6	leading protein	7	40	7
+PRT795_1_A6THE3	A6THE3	F16PA_KLEP7	Fructose-1,6-bisphosphatase class 1	leading protein	7	19	7
+PRT795_1_A6T7F5	A6T7F5	A6T7F5_KLEP7	3-oxoacyl-[acyl-carrier-protein] synthase 2	leading protein	7	24	7
+PRT795_1_A6T6J6	A6T6J6	6PGL_KLEP7	6-phosphogluconolactonase	leading protein	7	33	7
+PRT795_1_A6TEW6	A6TEW6	RS3_KLEP7	30S ribosomal protein S3	leading protein	7	25	7
+PRT795_1_A6TAK9	A6TAK9	A6TAK9_KLEP7	UTP--glucose-1-phosphate uridylyltransferase	leading protein	7	31	6
+PRT795_1_A6T7A5	A6T7A5	A6T7A5_KLEP7	Bifunctional protein PutA	leading protein	7	10	7
+PRT795_1_A6TGN8	A6TGN8	RL10_KLEP7	50S ribosomal protein L10	leading protein	7	31	7
+PRT795_1_A6T5I4	A6T5I4	A6T5I4_KLEP7	Peptidylprolyl isomerase	leading protein	7	14	7
+PRT795_1_A6TB35	A6TB35	SYD_KLEP7	Aspartate--tRNA ligase	leading protein	7	37	7
+PRT795_1_A6TC73	A6TC73	A6TC73_KLEP7	Ethanolamine ammonia-lyase, heavy chain	leading protein	7	12	7
+PRT795_1_A6TD54	A6TD54	PYRG_KLEP7	CTP synthase	leading protein	7	11	7
+PRT795_1_A6T4W8	A6T4W8	DAPD_KLEP7	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	leading protein	7	16	7
+PRT795_1_A6THB4	A6THB4	RL9_KLEP7	50S ribosomal protein L9	leading protein	7	35	7
+PRT795_1_A6T681	A6T681	A6T681_KLEP7	Usp domain-containing protein	leading protein	7	138	7
+PRT795_1_A6TAP3	A6TAP3	A6TAP3_KLEP7	Ribose-phosphate pyrophosphokinase	leading protein	6	11	6
+PRT795_1_A6TGN9	A6TGN9	RL7_KLEP7	50S ribosomal protein L7/L12	leading protein	6	100	6
+PRT795_1_A6TCB0	A6TCB0	UPP_KLEP7	Uracil phosphoribosyltransferase	leading protein	6	21	6
+PRT795_1_A6TED1	A6TED1	A6TED1_KLEP7	Uronate isomerase	leading protein	6	21	6
+PRT795_1_A6THC5	A6THC5	A6THC5_KLEP7	3'(2'),5'-bisphosphate nucleotidase CysQ	leading protein	6	9	6
+PRT795_1_A6TBT2	A6TBT2	A6TBT2_KLEP7	Outer membrane pore protein 1b (Ibc)	leading protein	6	16	6
+PRT795_1_A6TED7	A6TED7	A6TED7_KLEP7	Uncharacterized protein	leading protein	6	95	6
+PRT795_1_A6THG8	A6THG8	A6THG8_KLEP7	Trehalase 6-P hydrolase	leading protein	6	18	6
+PRT795_1_A6THI0	A6THI0	A6THI0_KLEP7	Valine--tRNA ligase	leading protein	6	9	6
+PRT795_1_A6TG33	A6TG33	A6TG33_KLEP7	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	leading protein	6	14	6
+PRT795_1_A6TEV5	A6TEV5	RS5_KLEP7	30S ribosomal protein S5	leading protein	6	15	6
+PRT795_1_A6TC53	A6TC53	A6TC53_KLEP7	Glucose-specific PTS system enzyme IIA component	leading protein	6	42	6
+PRT795_1_A6T7F3	A6T7F3	A6T7F3_KLEP7	3-oxoacyl-[acyl-carrier-protein] reductase	leading protein	6	12	6
+PRT795_1_A6T6F8	A6T6F8	A6T6F8_KLEP7	Cytochrome d terminal oxidase, polypeptide subunit I	leading protein	6	29	6
+PRT795_1_A6T9Y3	A6T9Y3	A6T9Y3_KLEP7	Glutathionine S-transferase	leading protein	6	11	6
+PRT795_1_A6TAZ8	A6TAZ8	A6TAZ8_KLEP7	Putative transcriptional repressor (IclR family)	leading protein	6	16	6
+PRT795_1_A6T7U1	A6T7U1	A6T7U1_KLEP7	Activator of ntrL protein	leading protein	6	104	6
+PRT795_1_A6TBT8	A6TBT8	A6TBT8_KLEP7	Ribonucleoside-diphosphate reductase	leading protein	6	23	6
+PRT795_1_A6TEW0	A6TEW0	RL5_KLEP7	50S ribosomal protein L5	leading protein	6	28	6
+PRT795_1_A6T793	A6T793	A6T793_KLEP7	NAD(P)H dehydrogenase (quinone)	leading protein	6	60	6
+PRT795_1_A6TEH2	A6TEH2	A6TEH2_KLEP7	Putative intracellular proteinase with catalase domain	leading protein	6	27	6
+PRT795_1_A6TC50	A6TC50	A6TC50_KLEP7	Cysteine synthase	leading protein	6	18	6
+PRT795_1_A6T726	A6T726	SYN_KLEP7	Asparagine--tRNA ligase	leading protein	6	17	6
+PRT795_1_A6T5I2	A6T5I2	A6T5I2_KLEP7	Lon protease	leading protein	6	17	6
+PRT795_1_A6TAX4	A6TAX4	A6TAX4_KLEP7	Cell division inhibitor, a membrane ATPase, activates minC	leading protein	6	16	6
+PRT795_1_A6TAL9	A6TAL9	A6TAL9_KLEP7	Nitrate reductase 1, alpha subunit	leading protein	6	12	6
+PRT795_1_A6TAY8	A6TAY8	A6TAY8_KLEP7	PTS enzyme IIAB, mannose-specific	leading protein	6	21	6
+PRT795_1_A6THZ6	A6THZ6	A6THZ6_KLEP7	Deoxyribose-phosphate aldolase	leading protein	6	18	6
+PRT795_1_A6TC09	A6TC09	A6TC09_KLEP7	3-oxoacyl-(Acyl carrier protein) synthase	leading protein	6	34	6
+PRT795_1_A6TAI7	A6TAI7	A6TAI7_KLEP7	Threonine--tRNA ligase	leading protein	6	10	6
+PRT795_1_A6TEJ7	A6TEJ7	A6TEJ7_KLEP7	ATP-dependent zinc metalloprotease FtsH	leading protein	6	14	6
+PRT795_1_A6T6F3	A6T6F3	A6T6F3_KLEP7	Succinate dehydrogenase iron-sulfur subunit	leading protein	6	17	6
+PRT795_1_A6TCV9	A6TCV9	SYA_KLEP7	Alanine--tRNA ligase	leading protein	6	12	6
+PRT795_1_A6TGN5	A6TGN5	RL11_KLEP7	50S ribosomal protein L11	leading protein	6	20	6
+PRT795_1_A6TF47	A6TF47	A6TF47_KLEP7	Alpha-1,4 glucan phosphorylase	leading protein	6	15	6
+PRT795_1_A6THI7	A6THI7	A6THI7_KLEP7	Putative aldehyde dehydrogenase	leading protein	6	15	6
+PRT795_1_A6T6W9	A6T6W9	A6T6W9_KLEP7	Pyruvate dehydrogenase	leading protein	6	12	6
+PRT795_1_A6TAJ2	A6TAJ2	A6TAJ2_KLEP7	Conserved protein, protein kinase-like protein	leading protein	6	9	6
+PRT795_1_A6TCS6	A6TCS6	A6TCS6_KLEP7	Aldehyde dehydrogenase B (Lactaldehyde dehydrogenase)	leading protein	6	14	6
+PRT795_1_A6T6A3	A6T6A3	SYL_KLEP7	Leucine--tRNA ligase	leading protein	5	14	5
+PRT795_1_A6T792	A6T792	A6T792_KLEP7	Uncharacterized protein	leading protein	5	79	5
+PRT795_1_A6T6C8	A6T6C8	A6T6C8_KLEP7	Ferric uptake regulation protein	leading protein	5	9	5
+PRT795_1_A6T5G0	A6T5G0	Y370_KLEP7	UPF0234 protein KPN78578_03700	leading protein	5	13	5
+PRT795_1_A6TEW2	A6TEW2	RL14_KLEP7	50S ribosomal protein L14	leading protein	5	22	5
+PRT795_1_A6T4W7	A6T4W7	Y177_KLEP7	UPF0325 protein KPN78578_01770	leading protein	5	24	5
+PRT795_1_A6T5F2	A6T5F2	A6T5F2_KLEP7	Putative NAD(P)H-dependent xylose reductase	leading protein	5	12	5
+PRT795_1_A6TGM5	A6TGM5	PEPQ_KLEP7	Xaa-Pro dipeptidase	leading protein	5	14	5
+PRT795_1_A6TBE0	A6TBE0	A6TBE0_KLEP7	UDP-glucose 6-dehydrogenase	leading protein	5	10	5
+PRT795_1_A6TCE4	A6TCE4	PEPB_KLEP7	Peptidase B	leading protein	5	11	5
+PRT795_1_A6THH2	A6THH2	A6THH2_KLEP7	Uncharacterized protein	leading protein	5	51	5
+PRT795_1_A6TCA3	A6TCA3	A6TCA3_KLEP7	Bacterioferritin comigratory protein	leading protein	5	15	5
+PRT795_1_A6T9J1	A6T9J1	A6T9J1_KLEP7	Osmotically inducible protein	leading protein	5	12	5
+PRT795_1_A6THI5	A6THI5	A6THI5_KLEP7	Putative enzyme contains P-loop containing nucleotide triphosphate hydrolase domain	leading protein	5	18	5
+PRT795_1_A6TDR7	A6TDR7	GCST_KLEP7	Aminomethyltransferase	leading protein	5	9	5
+PRT795_1_A6TGH0	A6TGH0	A6TGH0_KLEP7	Thioredoxin	leading protein	5	28	5
+PRT795_1_A6TAE2	A6TAE2	A6TAE2_KLEP7	Putative ATP synthase subunit	leading protein	5	10	5
+PRT795_1_A6TFK7	A6TFK7	A6TFK7_KLEP7	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	leading protein	5	31	5
+PRT795_1_A6TEX9	A6TEX9	RS7_KLEP7	30S ribosomal protein S7	leading protein	5	29	5
+PRT795_1_A6TH30	A6TH30	A6TH30_KLEP7	Curved DNA-binding protein	leading protein	5	12	5
+PRT795_1_A6TFP8	A6TFP8	RPOZ_KLEP7	DNA-directed RNA polymerase subunit omega	leading protein	5	17	5
+PRT795_1_A6T9K7	A6T9K7	MAO1_KLEP7	NAD-dependent malic enzyme	leading protein	5	15	5
+PRT795_1_A6TBR5	A6TBR5	RL25_KLEP7	50S ribosomal protein L25	leading protein	5	55	5
+PRT795_1_A6T791	A6T791	A6T791_KLEP7	Glucose-1-phosphatase	leading protein	5	17	5
+PRT795_1_A6TCK4	A6TCK4	A6TCK4_KLEP7	Putative yhbH sigma 54 modulator	leading protein	5	40	5
+PRT795_1_A6TEX2	A6TEX2	RL3_KLEP7	50S ribosomal protein L3	leading protein	5	63	5
+PRT795_1_A6TFB3	A6TFB3	A6TFB3_KLEP7	Universal stress protein	leading protein	5	37	5
+PRT795_1_A6TGB2	A6TGB2	A6TGB2_KLEP7	Superoxide dismutase	leading protein	5	13	5
+PRT795_1_A6TBL6	A6TBL6	A6TBL6_KLEP7	Quinone-dependent D-lactate dehydrogenase	leading protein	5	13	5
+PRT795_1_A6THJ4	A6THJ4	IOLE_KLEP7	Inosose dehydratase	leading protein	5	10	5
+PRT795_1_A6TG40	A6TG40	ATPF_KLEP7	ATP synthase subunit b	leading protein	5	14	5
+PRT795_1_A6T7F2	A6T7F2	A6T7F2_KLEP7	Malonyl CoA-acyl carrier protein transacylase	leading protein	5	24	5
+PRT795_1_A6T500	A6T500	A6T500_KLEP7	Lipoprotein	leading protein	5	13	5
+PRT795_1_A6T4Z7	A6T4Z7	SYP_KLEP7	Proline--tRNA ligase	leading protein	5	13	5
+PRT795_1_A6TEU9	A6TEU9	RS4_KLEP7	30S ribosomal protein S4	leading protein	5	18	5
+PRT795_1_A6TCD7	A6TCD7	NDK_KLEP7	Nucleoside diphosphate kinase	leading protein	5	37	5
+PRT795_1_A6TH72	A6TH72	A6TH72_KLEP7	Succinate dehydrogenase iron-sulfur subunit	leading protein	5	10	5
+PRT795_1_A6T7Z6	A6T7Z6	A6T7Z6_KLEP7	Enoyl-[acyl-carrier-protein] reductase [NADH]	leading protein	5	12	5
+PRT795_1_A6T4W3	A6T4W3	MTNN_KLEP7	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	leading protein	5	15	5
+PRT795_1_A6TEW7	A6TEW7	RL22_KLEP7	50S ribosomal protein L22	leading protein	5	17	5
+PRT795_1_A6TCD3	A6TCD3	A6TCD3_KLEP7	Histidine--tRNA ligase	leading protein	5	10	5
+PRT795_1_A6TH93	A6TH93	PURA_KLEP7	Adenylosuccinate synthetase	leading protein	5	10	5
+PRT795_1_A6TEW1	A6TEW1	RL24_KLEP7	50S ribosomal protein L24	leading protein	5	28	5
+PRT795_1_A6TEV1	A6TEV1	RS13_KLEP7	30S ribosomal protein S13	leading protein	5	18	5
+PRT795_1_A6THJ2	A6THJ2	IOLG_KLEP7	Inositol 2-dehydrogenase	leading protein	5	20	5
+PRT795_1_A6TAK4	A6TAK4	A6TAK4_KLEP7	Oligopeptide transport protein (ABC superfamily, peri_bind)	leading protein	5	25	5
+PRT795_1_A6TFB6	A6TFB6	A6TFB6_KLEP7	Oligopeptidase A	leading protein	5	7	5
+PRT795_1_A6TAK8	A6TAK8	A6TAK8_KLEP7	DNA-binding protein	leading protein	5	46	5
+PRT795_1_A6T733	A6T733	A6T733_KLEP7	Aminopeptidase N	leading protein	5	12	5
+PRT795_1_A6TEN9	A6TEN9	RL13_KLEP7	50S ribosomal protein L13	leading protein	5	22	5
+PRT795_1_A6TEX3	A6TEX3	RS10_KLEP7	30S ribosomal protein S10	leading protein	5	17	5
+PRT795_1_A6TFL4	A6TFL4	HLDD_KLEP7	ADP-L-glycero-D-manno-heptose-6-epimerase	leading protein	5	8	5
+PRT795_1_A6TAN5	A6TAN5	KDSA_KLEP7	2-dehydro-3-deoxyphosphooctonate aldolase	leading protein	5	11	5
+PRT795_1_A6TEW5	A6TEW5	RL16_KLEP7	50S ribosomal protein L16	leading protein	5	19	5
+PRT795_1_A6T7R8	A6T7R8	A6T7R8_KLEP7	Acid phosphatase	leading protein	5	36	5
+PRT795_1_A6TER1	A6TER1	A6TER1_KLEP7	Suppresses inhibitory activity of CsrA	leading protein	5	14	5
+PRT795_1_A6TF12	A6TF12	A6TF12_KLEP7	Cell division protein DamX	leading protein	4	12	4
+PRT795_1_A6TCL7	A6TCL7	RS16_KLEP7	30S ribosomal protein S16	leading protein	4	10	4
+PRT795_1_A6T9B3	A6T9B3	A6T9B3_KLEP7	Putative ABC-type spermidine/putrescine transport systems	leading protein	4	8	4
+PRT795_1_A6TEV8	A6TEV8	RS8_KLEP7	30S ribosomal protein S8	leading protein	4	15	4
+PRT795_1_A6TDU9	A6TDU9	SPEB_KLEP7	Agmatinase	leading protein	4	16	4
+PRT795_1_A6TD68	A6TD68	A6TD68_KLEP7	Uncharacterized protein	leading protein	4	8	4
+PRT795_1_A6TAL8	A6TAL8	A6TAL8_KLEP7	Nitrate reductase 1, Fe-S (Beta) subunit	leading protein	4	14	3
+PRT795_1_A6TEP1	A6TEP1	A6TEP1_KLEP7	Uncharacterized protein	leading protein	4	28	4
+PRT795_1_A6TFK4	A6TFK4	SECB_KLEP7	Protein-export protein SecB	leading protein	4	57	4
+PRT795_1_A6TBN5	A6TBN5	A6TBN5_KLEP7	Galactose transport protein (ABC superfamily, peri_bind)	leading protein	4	6	4
+PRT795_1_A6TAZ5	A6TAZ5	A6TAZ5_KLEP7	Cold shock protein	leading protein	4	48	4
+PRT795_1_A6T5V4	A6T5V4	A6T5V4_KLEP7	Putative aldo/keto reductase	leading protein	4	13	4
+PRT795_1_A6TES3	A6TES3	A6TES3_KLEP7	Biotin carboxylase	leading protein	4	7	4
+PRT795_1_A6T5E8	A6T5E8	RISB_KLEP7	6,7-dimethyl-8-ribityllumazine synthase	leading protein	4	16	4
+PRT795_1_A6TEX1	A6TEX1	RL4_KLEP7	50S ribosomal protein L4	leading protein	4	35	4
+PRT795_1_A6T4X4	A6T4X4	A6T4X4_KLEP7	Ribosome-recycling factor	leading protein	4	19	4
+PRT795_1_A6TEU0	A6TEU0	DEF_KLEP7	Peptide deformylase	leading protein	4	15	4
+PRT795_1_A6TAI1	A6TAI1	IHFA_KLEP7	Integration host factor subunit alpha	leading protein	4	13	4
+PRT795_1_A6TH89	A6TH89	A6TH89_KLEP7	Protein HflK	leading protein	4	7	4
+PRT795_1_A6TGC1	A6TGC1	HSLU_KLEP7	ATP-dependent protease ATPase subunit HslU	leading protein	4	16	4
+PRT795_1_A6TAJ0	A6TAJ0	A6TAJ0_KLEP7	Phosphofructokinase	leading protein	4	8	4
+PRT795_1_A6TBS4	A6TBS4	A6TBS4_KLEP7	Ecotin	leading protein	4	15	4
+PRT795_1_A6T685	A6T685	A6T685_KLEP7	Cold shock protein E	leading protein	4	22	4
+PRT795_1_A6TH65	A6TH65	EFP_KLEP7	Elongation factor P	leading protein	4	7	4
+PRT795_1_A6T5I0	A6T5I0	A6T5I0_KLEP7	ATP-dependent Clp protease proteolytic subunit	leading protein	4	6	4
+PRT795_1_A6TGG1	A6TGG1	ILVC_KLEP7	Ketol-acid reductoisomerase (NADP(+))	leading protein	4	9	4
+PRT795_1_A6TE93	A6TE93	A6TE93_KLEP7	Uncharacterized protein	leading protein	4	6	4
+PRT795_1_A6TB57	A6TB57	A6TB57_KLEP7	Ferritin	leading protein	4	9	4
+PRT795_1_A6TEY5	A6TEY5	A6TEY5_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	4	11	4
+PRT795_1_A6T5M5	A6T5M5	A6T5M5_KLEP7	Acridine efflux pump	leading protein	4	13	4
+PRT795_1_A6TCC2	A6TCC2	GUAA_KLEP7	GMP synthase [glutamine-hydrolyzing]	leading protein	4	9	4
+PRT795_1_A6TGQ7	A6TGQ7	A6TGQ7_KLEP7	DNA-binding protein HU-alpha (HU-2)	leading protein	4	83	4
+PRT795_1_A6TAI2	A6TAI2	A6TAI2_KLEP7	Phenylalanine--tRNA ligase beta subunit	leading protein	4	7	4
+PRT795_1_A6T5P7	A6T5P7	A6T5P7_KLEP7	Putative protease	leading protein	4	7	4
+PRT795_1_A6T9G2	A6T9G2	A6T9G2_KLEP7	Putative pyridoxal-dependent decarboxylase	leading protein	4	16	4
+PRT795_1_A6TF45	A6TF45	A6TF45_KLEP7	Glycerol-3-phosphate dehydrogenase	leading protein	4	7	4
+PRT795_1_A6TCV3	A6TCV3	A6TCV3_KLEP7	S-ribosylhomocysteine lyase	leading protein	4	33	4
+PRT795_1_A6TCE0	A6TCE0	A6TCE0_KLEP7	Sulfurtransferase	leading protein	4	7	4
+PRT795_1_A6TGV9	A6TGV9	A6TGV9_KLEP7	Quinone oxidoreductase	leading protein	4	7	4
+PRT795_1_A6T8F5	A6T8F5	A6T8F5_KLEP7	Usp domain-containing protein	leading protein	4	18	4
+PRT795_1_A6TC63	A6TC63	A6TC63_KLEP7	Uncharacterized protein	leading protein	4	6	4
+PRT795_1_A6T7T3	A6T7T3	A6T7T3_KLEP7	Acetylornithine/succinyldiaminopimelate aminotransferase	leading protein	4	4	4
+PRT795_1_A6T6C3	A6T6C3	SYQ_KLEP7	Glutamine--tRNA ligase	leading protein	4	9	4
+PRT795_1_A6TFK5	A6TFK5	A6TFK5_KLEP7	Glutaredoxin	leading protein	4	11	4
+PRT795_1_A6T4X0	A6T4X0	A6T4X0_KLEP7	Methionine aminopeptidase	leading protein	4	10	4
+PRT795_1_A6TEX5	A6TEX5	A6TEX5_KLEP7	Bacterioferritin	leading protein	4	7	4
+PRT795_1_A6T4T4	A6T4T4	A6T4T4_KLEP7	RNA polymerase-binding transcription factor DksA	leading protein	4	13	4
+PRT795_1_A6T5N7	A6T5N7	KAD_KLEP7	Adenylate kinase	leading protein	4	9	4
+PRT795_1_A6TG37	A6TG37	ATPG_KLEP7	ATP synthase gamma chain	leading protein	4	9	4
+PRT795_1_A6TG73	A6TG73	A6TG73_KLEP7	Glutamine synthetase	leading protein	4	9	4
+PRT795_1_A6TEN8	A6TEN8	RS9_KLEP7	30S ribosomal protein S9	leading protein	4	18	4
+PRT795_1_A6TBG2	A6TBG2	A6TBG2_KLEP7	UDP-glucose pyrophosphorylase	leading protein	4	7	3
+PRT795_1_A6TEK0	A6TEK0	A6TEK0_KLEP7	Transcription elongation factor GreA	leading protein	4	19	4
+PRT795_1_A6T4P6	A6T4P6	GUAC_KLEP7	GMP reductase	leading protein	4	4	4
+PRT795_1_A6T758	A6T758	A6T758_KLEP7	CoA_binding domain-containing protein	leading protein	4	10	4
+PRT795_1_A6T8M5	A6T8M5	A6T8M5_KLEP7	Mannose-6-phosphate isomerase	leading protein	4	7	4
+PRT795_1_A6T6A4	A6T6A4	A6T6A4_KLEP7	Putative alpha helical protein	leading protein	4	10	4
+PRT795_1_A6TAX5	A6TAX5	MINE_KLEP7	Cell division topological specificity factor	leading protein	4	13	4
+PRT795_1_A6T680	A6T680	A6T680_KLEP7	Alkyl hydroperoxide reductase subunit, FAD/NAD(P)-binding protein	leading protein	4	7	4
+PRT795_1_A6TFH4	A6TFH4	SYGB_KLEP7	Glycine--tRNA ligase beta subunit	leading protein	4	9	4
+PRT795_1_A6T4Y0	A6T4Y0	A6T4Y0_KLEP7	Periplasmic molecular chaperone for outer membrane proteins	leading protein	4	17	4
+PRT795_1_A6TFJ3	A6TFJ3	A6TFJ3_KLEP7	PTS family enzyme IICB/enzyme IIA	leading protein	4	14	4
+PRT795_1_A6TAI4	A6TAI4	RL20_KLEP7	50S ribosomal protein L20	leading protein	3	6	3
+PRT795_1_A6T7Q8	A6T7Q8	A6T7Q8_KLEP7	Putative glucose-6-phosphate 1-epimerase	leading protein	3	12	3
+PRT795_1_A6TF91	A6TF91	A6TF91_KLEP7	Periplasmic protein	leading protein	3	7	3
+PRT795_1_A6TEV0	A6TEV0	RS11_KLEP7	30S ribosomal protein S11	leading protein	3	29	3
+PRT795_1_A6TF49	A6TF49	GLGC_KLEP7	Glucose-1-phosphate adenylyltransferase	leading protein	3	4	3
+PRT795_1_A6THJ0	A6THJ0	A6THJ0_KLEP7	Putative carbohydrate kinase	leading protein	3	5	3
+PRT795_1_A6TH97	A6TH97	A6TH97_KLEP7	Putative acyl coenzyme A dehydrogenase	leading protein	3	6	3
+PRT795_1_A6T532	A6T532	XGPT_KLEP7	Xanthine phosphoribosyltransferase	leading protein	3	22	3
+PRT795_1_A6T8G0	A6T8G0	A6T8G0_KLEP7	D-lactate dehydrogenase	leading protein	3	5	3
+PRT795_1_A6TDS7	A6TDS7	A6TDS7_KLEP7	Putative actin	leading protein	3	4	3
+PRT795_1_A6THW9	A6THW9	A6THW9_KLEP7	Putative glucosamine-fructose-6-phosphate aminotransferase	leading protein	3	5	3
+PRT795_1_A6T8L2	A6T8L2	A6T8L2_KLEP7	Glyceraldehyde-3-phosphate dehydrogenase	leading protein	3	10	3
+PRT795_1_A6THZ1	A6THZ1	A6THZ1_KLEP7	Hyperosmotically inducible periplasmic protein	leading protein	3	10	3
+PRT795_1_A6TEI4	A6TEI4	RS15_KLEP7	30S ribosomal protein S15	leading protein	3	9	3
+PRT795_1_A6TEW3	A6TEW3	RS17_KLEP7	30S ribosomal protein S17	leading protein	3	10	3
+PRT795_1_A6TB90	A6TB90	A6TB90_KLEP7	Putative dehydrogenase	leading protein	3	11	3
+PRT795_1_A6TG75	A6TG75	A6TG75_KLEP7	Phosphatase	leading protein	3	13	3
+PRT795_1_A6TEY7	A6TEY7	A6TEY7_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	3	6	3
+PRT795_1_A6T6Q5	A6T6Q5	A6T6Q5_KLEP7	Glutamine ABC transporter periplasmic-binding protein	leading protein	3	6	3
+PRT795_1_A6TBQ1	A6TBQ1	A6TBQ1_KLEP7	Mannonate dehydratase	leading protein	3	7	3
+PRT795_1_A6TBT6	A6TBT6	A6TBT6_KLEP7	DNA gyrase subunit A	leading protein	3	13	3
+PRT795_1_A6THW8	A6THW8	A6THW8_KLEP7	Putative glucosamine-fructose-6-phosphate aminotransferase	leading protein	3	5	3
+PRT795_1_A6T5N2	A6T5N2	APT_KLEP7	Adenine phosphoribosyltransferase	leading protein	3	4	3
+PRT795_1_A6THD8	A6THD8	A6THD8_KLEP7	Inorganic pyrophosphatase	leading protein	3	9	3
+PRT795_1_A6T6K7	A6T6K7	HUTI_KLEP7	Imidazolonepropionase	leading protein	3	5	3
+PRT795_1_A6TFG7	A6TFG7	GHRB_KLEP7	Glyoxylate/hydroxypyruvate reductase B	leading protein	3	5	3
+PRT795_1_A6TC48	A6TC48	ZIPA_KLEP7	Cell division protein ZipA	leading protein	3	15	3
+PRT795_1_A6T4N7	A6T4N7	A6T4N7_KLEP7	Cell division protein FtsA	leading protein	3	5	3
+PRT795_1_A6TDX0	A6TDX0	FETP_KLEP7	Probable Fe(2+)-trafficking protein	leading protein	3	6	3
+PRT795_1_A6T4Y2	A6T4Y2	FABZ_KLEP7	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	leading protein	3	5	3
+PRT795_1_A6TF98	A6TF98	ARNA_KLEP7	Bifunctional polymyxin resistance protein ArnA	leading protein	3	7	3
+PRT795_1_A6TGL1	A6TGL1	A6TGL1_KLEP7	Uridine phosphorylase	leading protein	3	9	3
+PRT795_1_A6TCL4	A6TCL4	RL19_KLEP7	50S ribosomal protein L19	leading protein	3	10	3
+PRT795_1_A6TBY5	A6TBY5	A6TBY5_KLEP7	Putative enzyme (Nudix hydrolase)	leading protein	3	5	3
+PRT795_1_A6T5R2	A6T5R2	SYC_KLEP7	Cysteine--tRNA ligase	leading protein	3	4	3
+PRT795_1_A6TF13	A6TF13	AROB_KLEP7	3-dehydroquinate synthase	leading protein	3	6	3
+PRT795_1_A6T9Y5	A6T9Y5	SYY_KLEP7	Tyrosine--tRNA ligase	leading protein	3	7	3
+PRT795_1_A6TGI6	A6TGI6	A6TGI6_KLEP7	Uroporphyrinogen III methylase	leading protein	3	7	3
+PRT795_1_A6TC35	A6TC35	A6TC35_KLEP7	Putative pyruvate decarboxylase	leading protein	3	8	3
+PRT795_1_A6TCC3	A6TCC3	A6TCC3_KLEP7	Inosine-5'-monophosphate dehydrogenase	leading protein	3	4	3
+PRT795_1_A6TE32	A6TE32	GLNE_KLEP7	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme	leading protein	3	14	3
+PRT795_1_A6TGP4	A6TGP4	A6TGP4_KLEP7	Putative phosphotransferase system, lactose/cellobiose-specific IIB subunit	leading protein	3	13	3
+PRT795_1_A6T7R9	A6T7R9	A6T7R9_KLEP7	Selenide, water dikinase	leading protein	3	4	3
+PRT795_1_A6TCW1	A6TCW1	RECA_KLEP7	Protein RecA	leading protein	3	5	3
+PRT795_1_A6TGN4	A6TGN4	A6TGN4_KLEP7	Transcription termination/antitermination protein NusG	leading protein	3	3	3
+PRT795_1_A6TE47	A6TE47	RS21_KLEP7	30S ribosomal protein S21	leading protein	3	9	3
+PRT795_1_A6TC78	A6TC78	A6TC78_KLEP7	Ethanolamine utilization protein	leading protein	3	11	3
+PRT795_1_A6T7G7	A6T7G7	Y1077_KLEP7	UPF0227 protein KPN78578_10770	leading protein	3	7	3
+PRT795_1_A6TGU4	A6TGU4	A6TGU4_KLEP7	Maltodextrin-binding protein	leading protein	3	14	3
+PRT795_1_A6TF40	A6TF40	A6TF40_KLEP7	Alpha-1,4 glucan phosphorylase	leading protein	3	6	3
+PRT795_1_A6TG39	A6TG39	ATPD_KLEP7	ATP synthase subunit delta	leading protein	3	11	3
+PRT795_1_A6TEK5	A6TEK5	RL21_KLEP7	50S ribosomal protein L21	leading protein	3	13	3
+PRT795_1_A6TCM1	A6TCM1	GRPE_KLEP7	Protein GrpE	leading protein	3	7	3
+PRT795_1_A6T7Q4	A6T7Q4	Y1164_KLEP7	UPF0229 protein KPN78578_11640	leading protein	3	7	3
+PRT795_1_A6T6W3	A6T6W3	A6T6W3_KLEP7	Putative lipoprotein	leading protein	3	6	3
+PRT795_1_A6T8N9	A6T8N9	A6T8N9_KLEP7	Conserved protein, adenine nucleotide-binding domain	leading protein	3	23	3
+PRT795_1_A6TC51	A6TC51	A6TC51_KLEP7	PTS family Hpr protein, phosphohistidinoprotein-hexose phosphotransferase	leading protein	3	146	3
+PRT795_1_A6TAH4	A6TAH4	A6TAH4_KLEP7	Thioredoxin/glutathione peroxidase BtuE	leading protein	3	5	3
+PRT795_1_A6TI15	A6TI15	A6TI15_KLEP7	Negative response regulator of genes in aerobic pathways, (Sensors, ArcB and CpxA)	leading protein	3	5	3
+PRT795_1_A6TCT6	A6TCT6	A6TCT6_KLEP7	Uncharacterized protein	leading protein	3	20	3
+PRT795_1_A6T6Z1	A6T6Z1	A6T6Z1_KLEP7	Anaerobic dimethyl sulfoxide (DMSO) reductase, subunit A	leading protein	3	5	3
+PRT795_1_A6TDV0	A6TDV0	A6TDV0_KLEP7	Biosynthetic arginine decarboxylase	leading protein	3	5	3
+PRT795_1_A6T7X1	A6T7X1	A6T7X1_KLEP7	YrdC-like domain-containing protein	leading protein	3	6	3
+PRT795_1_A6TCA1	A6TCA1	DAPA_KLEP7	4-hydroxy-tetrahydrodipicolinate synthase	leading protein	3	5	3
+PRT795_1_A6TGZ9	A6TGZ9	A6TGZ9_KLEP7	Acetyl-coenzyme A synthetase	leading protein	3	9	3
+PRT795_1_A6TEM2	A6TEM2	A6TEM2_KLEP7	Probable sigma-54 modulation protein	leading protein	3	9	3
+PRT795_1_A6TEB3	A6TEB3	LSRG_KLEP7	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase	leading protein	3	6	3
+PRT795_1_A6TC72	A6TC72	A6TC72_KLEP7	Ethanolamine ammonia-lyase light chain	leading protein	3	6	3
+PRT795_1_A6TB98	A6TB98	A6TB98_KLEP7	Putative non-heme chloroperoxidase	leading protein	3	20	3
+PRT795_1_A6TAI3	A6TAI3	SYFA_KLEP7	Phenylalanine--tRNA ligase alpha subunit	leading protein	3	7	3
+PRT795_1_A6T5N4	A6T5N4	Y444_KLEP7	Nucleoid-associated protein KPN78578_04440	leading protein	3	13	3
+PRT795_1_A6TDS5	A6TDS5	RPIA_KLEP7	Ribose-5-phosphate isomerase A	leading protein	3	9	3
+PRT795_1_A6T4H8	A6T4H8	DAPB_KLEP7	4-hydroxy-tetrahydrodipicolinate reductase	leading protein	3	4	3
+PRT795_1_A6TAI6	A6TAI6	A6TAI6_KLEP7	Translation initiation factor IF-3	leading protein	3	8	3
+PRT795_1_A6T4Y7	A6T4Y7	ACCA_KLEP7	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	leading protein	3	6	3
+PRT795_1_A6T6I8	A6T6I8	A6T6I8_KLEP7	UDP-glucose 4-epimerase	leading protein	3	5	3
+PRT795_1_A6TB94	A6TB94	A6TB94_KLEP7	AMP nucleosidase	leading protein	3	5	3
+PRT795_1_A6T5E9	A6T5E9	NUSB_KLEP7	Transcription antitermination protein NusB	leading protein	3	4	3
+PRT795_1_A6TFM8	A6TFM8	RL28_KLEP7	50S ribosomal protein L28	leading protein	3	11	3
+PRT795_1_A6T8G6	A6T8G6	A6T8G6_KLEP7	Phenylacetaldehyde dehydrogenase	leading protein	3	10	3
+PRT795_1_A6TEP2	A6TEP2	A6TEP2_KLEP7	Periplasmic serine endoprotease DegP-like	leading protein	3	6	3
+PRT795_1_A6TBK7	A6TBK7	SYM_KLEP7	Methionine--tRNA ligase	leading protein	3	7	3
+PRT795_1_A6TF08	A6TF08	A6TF08_KLEP7	Tryptophan--tRNA ligase	leading protein	3	13	3
+PRT795_1_A6TBY0	A6TBY0	A6TBY0_KLEP7	Uncharacterized protein	leading protein	3	5	3
+PRT795_1_A6T7K3	A6T7K3	MNMA_KLEP7	tRNA-specific 2-thiouridylase MnmA	leading protein	3	11	3
+PRT795_1_A6TCV7	A6TCV7	A6TCV7_KLEP7	BON domain-containing protein	leading protein	3	11	3
+PRT795_1_A6TFJ4	A6TFJ4	MTLD_KLEP7	Mannitol-1-phosphate 5-dehydrogenase	leading protein	3	6	3
+PRT795_1_A6TEJ0	A6TEJ0	ASSY_KLEP7	Argininosuccinate synthase	leading protein	3	4	3
+PRT795_1_A6TD70	A6TD70	A6TD70_KLEP7	L-serine dehydratase	leading protein	3	9	3
+PRT795_1_A6T518	A6T518	GMHA_KLEP7	Phosphoheptose isomerase	leading protein	3	9	3
+PRT795_1_A6TGV4	A6TGV4	A6TGV4_KLEP7	CsbD domain-containing protein	leading protein	3	14	3
+PRT795_1_A6TEY0	A6TEY0	RS12_KLEP7	30S ribosomal protein S12	leading protein	3	69	3
+PRT795_1_A6TEW8	A6TEW8	RS19_KLEP7	30S ribosomal protein S19	leading protein	3	6	3
+PRT795_1_A6T8V0	A6T8V0	A6T8V0_KLEP7	Putative oxidoreductase	leading protein	3	5	3
+PRT795_1_A6T5X6	A6T5X6	A6T5X6_KLEP7	Putative phosphosugar isomerases	leading protein	3	7	3
+PRT795_1_A6THI2	A6THI2	AMPA_KLEP7	Probable cytosol aminopeptidase	leading protein	3	3	3
+PRT795_1_A6TES2	A6TES2	A6TES2_KLEP7	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	leading protein	3	67	3
+PRT795_1_A6TCK3	A6TCK3	A6TCK3_KLEP7	Outer membrane protein assembly factor BamD	leading protein	3	6	3
+PRT795_1_A6T5R1	A6T5R1	A6T5R1_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	3	6	3
+PRT795_1_A6T5S6	A6T5S6	A6T5S6_KLEP7	DUF1471 domain-containing protein	leading protein	3	59	3
+PRT795_1_A6TH52	A6TH52	CH10_KLEP7	10 kDa chaperonin	leading protein	3	53	3
+PRT795_1_A6TEM7	A6TEM7	A6TEM7_KLEP7	Glyoxalase	leading protein	3	9	3
+PRT795_1_A6TGM2	A6TGM2	A6TGM2_KLEP7	NAD(P)H-flavin reductase	leading protein	2	18	2
+PRT795_1_A6T7A8	A6T7A8	A6T7A8_KLEP7	Nucleoside transport protein (NUP family)	leading protein	2	7	1
+PRT795_1_A6T6I9	A6T6I9	A6T6I9_KLEP7	ATP-binding component of molybdate transport system	leading protein	2	2	2
+PRT795_1_A6T534	A6T534	A6T534_KLEP7	Sigma factor-binding protein Crl	leading protein	2	2	2
+PRT795_1_A6T7G4	A6T7G4	LPOB_KLEP7	Penicillin-binding protein activator LpoB	leading protein	2	5	2
+PRT795_1_A6TEG9	A6TEG9	A6TEG9_KLEP7	Putative periplasmic protein	leading protein	2	3	2
+PRT795_1_A6TH95	A6TH95	A6TH95_KLEP7	Ribonuclease R	leading protein	2	4	2
+PRT795_1_A6T4E9	A6T4E9	A6T4E9_KLEP7	Molybdenum cofactor biosynthesis protein	leading protein	2	2	2
+PRT795_1_A6T7G8	A6T7G8	A6T7G8_KLEP7	Respiratory NADH dehydrogenase	leading protein	2	3	2
+PRT795_1_A6TF52	A6TF52	A6TF52_KLEP7	Aspartate-semialdehyde dehydrogenase	leading protein	2	3	2
+PRT795_1_A6TEJ5	A6TEJ5	GLMM_KLEP7	Phosphoglucosamine mutase	leading protein	2	16	2
+PRT795_1_A6T4S9	A6T4S9	PANC_KLEP7	Pantothenate synthetase	leading protein	2	7	2
+PRT795_1_A6TFL2	A6TFL2	TDH_KLEP7	L-threonine 3-dehydrogenase	leading protein	2	7	2
+PRT795_1_A6TAE1	A6TAE1	A6TAE1_KLEP7	Murein lipoprotein	leading protein	2	8	2
+PRT795_1_A6TEK9	A6TEK9	A6TEK9_KLEP7	Putative transcriptional regulator (BolA family)	leading protein	2	4	2
+PRT795_1_A6T9K2	A6T9K2	A6T9K2_KLEP7	Putative oxidoreductase	leading protein	2	3	2
+PRT795_1_A6T702	A6T702	KCY_KLEP7	Cytidylate kinase	leading protein	2	4	2
+PRT795_1_A6TDT4	A6TDT4	A6TDT4_KLEP7	Peptidase_M48 domain-containing protein	leading protein	2	3	2
+PRT795_1_A6TBX2	A6TBX2	NUOCD_KLEP7	NADH-quinone oxidoreductase subunit C/D	leading protein	2	3	2
+PRT795_1_A6TC71	A6TC71	A6TC71_KLEP7	Putative carboxysome structural protein, ethanolamine utilization	leading protein	2	8	2
+PRT795_1_A6T4X9	A6T4X9	BAMA_KLEP7	Outer membrane protein assembly factor BamA	leading protein	2	2	2
+PRT795_1_A6T9R7	A6T9R7	A6T9R7_KLEP7	Uncharacterized protein	leading protein	2	8	2
+PRT795_1_A6T6C9	A6T6C9	A6T6C9_KLEP7	Flavodoxin	leading protein	2	8	2
+PRT795_1_A6T622	A6T622	A6T622_KLEP7	Putative transketolase C-terminal section	leading protein	2	2	2
+PRT795_1_A6T6C1	A6T6C1	NAGB_KLEP7	Glucosamine-6-phosphate deaminase	leading protein	2	3	2
+PRT795_1_A6TGC6	A6TGC6	RL31_KLEP7	50S ribosomal protein L31	leading protein	2	4	2
+PRT795_1_A6TF14	A6TF14	A6TF14_KLEP7	Shikimate kinase 1	leading protein	2	3	2
+PRT795_1_A6TD63	A6TD63	A6TD63_KLEP7	Flavodoxin	leading protein	2	3	2
+PRT795_1_A6TCX3	A6TCX3	A6TCX3_KLEP7	Arabinose 5-phosphate isomerase	leading protein	2	4	2
+PRT795_1_A6TH90	A6TH90	A6TH90_KLEP7	Protein HflC	leading protein	2	9	2
+PRT795_1_A6TBX9	A6TBX9	A6TBX9_KLEP7	Putative phosphatase	leading protein	2	4	2
+PRT795_1_A6TBX1	A6TBX1	A6TBX1_KLEP7	ATP synthase subunit E	leading protein	2	3	2
+PRT795_1_A6TG46	A6TG46	A6TG46_KLEP7	Flavodoxin	leading protein	2	4	2
+PRT795_1_A6TER7	A6TER7	A6TER7_KLEP7	Regulator of ftsI, penicillin binding protein 3, septation function	leading protein	2	5	2
+PRT795_1_A6TF83	A6TF83	A6TF83_KLEP7	Signal recognition particle receptor FtsY	leading protein	2	3	2
+PRT795_1_A6TF25	A6TF25	A6TF25_KLEP7	33 kDa chaperonin	leading protein	2	5	2
+PRT795_1_A6TFL3	A6TFL3	A6TFL3_KLEP7	2-amino-3-ketobutyrate coenzyme A ligase	leading protein	2	3	2
+PRT795_1_A6T7F1	A6T7F1	FABH_KLEP7	3-oxoacyl-[acyl-carrier-protein] synthase 3	leading protein	2	3	2
+PRT795_1_A6TCD2	A6TCD2	A6TCD2_KLEP7	TPR_21 domain-containing protein	leading protein	2	5	2
+PRT795_1_A6THE8	A6THE8	A6THE8_KLEP7	Maturation of antibiotic MccB17	leading protein	2	3	2
+PRT795_1_A6TBT9	A6TBT9	A6TBT9_KLEP7	Ribonucleotide-diphosphate reductase beta subunit	leading protein	2	3	2
+PRT795_1_A6TG22	A6TG22	A6TG22_KLEP7	Putative oxidoreductase, flavoprotein	leading protein	2	3	2
+PRT795_1_A6T706	A6T706	A6T706_KLEP7	Lipid A export ATP-binding/permease protein MsbA	leading protein	2	2	2
+PRT795_1_A6T7W0	A6T7W0	A6T7W0_KLEP7	Outer membrane protein W colicin S4 receptor putative transport protein	leading protein	2	6	2
+PRT795_1_A6TG82	A6TG82	FDHE_KLEP7	Protein FdhE homolog	leading protein	2	6	2
+PRT795_1_A6TCF1	A6TCF1	ISCS_KLEP7	Cysteine desulfurase IscS	leading protein	2	4	2
+PRT795_1_A6TA10	A6TA10	A6TA10_KLEP7	Riboflavin synthase subunit alpha	leading protein	2	4	2
+PRT795_1_A6T7F4	A6T7F4	ACP_KLEP7	Acyl carrier protein	leading protein	2	10	2
+PRT795_1_A6TE49	A6TE49	A6TE49_KLEP7	RNA polymerase sigma factor RpoD	leading protein	2	4	2
+PRT795_1_A6T809	A6T809	A6T809_KLEP7	Phage shock protein, inner membrane protein	leading protein	2	3	2
+PRT795_1_A6TAE7	A6TAE7	A6TAE7_KLEP7	Putative transport protein	leading protein	2	7	2
+PRT795_1_A6TBT4	A6TBT4	A6TBT4_KLEP7	Transcriptional regulatory protein RcsB	leading protein	2	4	2
+PRT795_1_A6TEV3	A6TEV3	RL15_KLEP7	50S ribosomal protein L15	leading protein	2	5	2
+PRT795_1_A6TB02	A6TB02	PROQ_KLEP7	RNA chaperone ProQ	leading protein	2	4	2
+PRT795_1_A6TB43	A6TB43	SYR_KLEP7	Arginine--tRNA ligase	leading protein	2	4	2
+PRT795_1_A6T7J1	A6T7J1	A6T7J1_KLEP7	Putrescine-binding periplasmic protein	leading protein	2	2	2
+PRT795_1_A6T7C0	A6T7C0	A6T7C0_KLEP7	Putative oxidoreductase component	leading protein	2	9	2
+PRT795_1_A6TGN0	A6TGN0	A6TGN0_KLEP7	Bifunctional ligase/repressor BirA	leading protein	2	2	2
+PRT795_1_A6T4S2	A6T4S2	A6T4S2_KLEP7	Hypoxanthine phosphoribosyltransferase	leading protein	2	8	2
+PRT795_1_A6TAN0	A6TAN0	A6TAN0_KLEP7	Putative phosphatase	leading protein	2	8	2
+PRT795_1_A6T6G6	A6T6G6	A6T6G6_KLEP7	Tol-Pal system protein TolB	leading protein	2	6	2
+PRT795_1_A6T9V7	A6T9V7	A6T9V7_KLEP7	DUF1338 domain-containing protein	leading protein	2	6	2
+PRT795_1_A6T5H4	A6T5H4	A6T5H4_KLEP7	Cytochrome o ubiquinol oxidase subunit I	leading protein	2	5	2
+PRT795_1_A6T9K6	A6T9K6	A6T9K6_KLEP7	30S ribosomal subunit protein S22 stationary phase-induced ribosome-associated protein	leading protein	2	3	2
+PRT795_1_A6TGE0	A6TGE0	A6TGE0_KLEP7	Phosphoenolpyruvate carboxylase	leading protein	2	3	2
+PRT795_1_A6T4F5	A6T4F5	DNAJ_KLEP7	Chaperone protein DnaJ	leading protein	2	3	2
+PRT795_1_A6TEW4	A6TEW4	RL29_KLEP7	50S ribosomal protein L29	leading protein	2	11	2
+PRT795_1_A6TCD1	A6TCD1	A6TCD1_KLEP7	Outer membrane protein assembly factor BamB	leading protein	2	2	2
+PRT795_1_A6T4Z9	A6T4Z9	A6T4Z9_KLEP7	Outer membrane lipoprotein RcsF	leading protein	2	8	2
+PRT795_1_A6TEA7	A6TEA7	A6TEA7_KLEP7	Putative dihydroxyacetone kinase, C-terminal domain	leading protein	2	2	2
+PRT795_1_A6T7C5	A6T7C5	A6T7C5_KLEP7	Glucans biosynthesis protein G	leading protein	2	2	2
+PRT795_1_A6TIC7	A6TIC7	A6TIC7_KLEP7	RepFiA replicon essential function protein	leading protein	2	3	2
+PRT795_1_A6TGD6	A6TGD6	A6TGD6_KLEP7	Glycerol dehydrogenase	leading protein	2	9	2
+PRT795_1_A6T4M8	A6T4M8	A6T4M8_KLEP7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	leading protein	2	2	2
+PRT795_1_A6T9W8	A6T9W8	ADD_KLEP7	Adenosine deaminase	leading protein	2	2	2
+PRT795_1_A6T716	A6T716	MUKB_KLEP7	Chromosome partition protein MukB	leading protein	2	3	2
+PRT795_1_A6T693	A6T693	A6T693_KLEP7	D-alanyl-D-alanine carboxypeptidase, fraction A penicillin-binding protein 5	leading protein	2	3	2
+PRT795_1_A6TBB2	A6TBB2	Y2422_KLEP7	UPF0265 protein KPN78578_24220	leading protein	2	5	2
+PRT795_1_A6TEM4	A6TEM4	RAPZ_KLEP7	RNase adapter protein RapZ	leading protein	2	5	2
+PRT795_1_A6THI6	A6THI6	A6THI6_KLEP7	AP_endonuc_2 domain-containing protein	leading protein	2	2	2
+PRT795_1_A6T9Y9	A6T9Y9	A6T9Y9_KLEP7	Putative outer membrane lipoprotein	leading protein	2	3	2
+PRT795_1_A6TB71	A6TB71	A6TB71_KLEP7	Cytoplasmic alpha-amylase	leading protein	2	3	2
+PRT795_1_A6T4F8	A6T4F8	A6T4F8_KLEP7	30S ribosomal protein S20	leading protein	2	12	2
+PRT795_1_A6TGB9	A6TGB9	RRAA_KLEP7	Regulator of ribonuclease activity A	leading protein	2	11	2
+PRT795_1_A6TFA1	A6TFA1	A6TFA1_KLEP7	Putative phenolic acid decarboxylase	leading protein	2	6	2
+PRT795_1_A6TEQ4	A6TEQ4	ARGR_KLEP7	Arginine repressor	leading protein	2	3	2
+PRT795_1_A6TDG9	A6TDG9	A6TDG9_KLEP7	Uncharacterized protein	leading protein	2	13	2
+PRT795_1_A6T7C8	A6T7C8	A6T7C8_KLEP7	Uncharacterized protein	leading protein	2	6	2
+PRT795_1_A6T9Z9	A6T9Z9	A6T9Z9_KLEP7	N-ethylmaleimide reductase	leading protein	2	7	2
+PRT795_1_A6TGI5	A6TGI5	A6TGI5_KLEP7	TPR_REGION domain-containing protein	leading protein	2	4	2
+PRT795_1_A6TBP7	A6TBP7	A6TBP7_KLEP7	PTS family enzyme IIA/FPr	leading protein	2	4	2
+PRT795_1_A6TBA9	A6TBA9	A6TBA9_KLEP7	Putative S-adenosylhomocysteine hydrolase	leading protein	2	7	2
+PRT795_1_A6TCH1	A6TCH1	A6TCH1_KLEP7	Phosphoribosylformylglycinamidine synthase	leading protein	2	2	2
+PRT795_1_A6T9X8	A6T9X8	A6T9X8_KLEP7	Ion-translocating oxidoreductase complex subunit G	leading protein	2	13	2
+PRT795_1_A6TCI3	A6TCI3	LEPA_KLEP7	Elongation factor 4	leading protein	2	3	2
+PRT795_1_A6TFH1	A6TFH1	A6TFH1_KLEP7	Cold shock protein 7.4, transcriptional activator of hns	leading protein	2	5	2
+PRT795_1_A6T9Z1	A6T9Z1	A6T9Z1_KLEP7	Transcriptional regulator SlyA	leading protein	2	3	2
+PRT795_1_A6THB3	A6THB3	RS18_KLEP7	30S ribosomal protein S18	leading protein	2	8	2
+PRT795_1_A6TEV9	A6TEV9	A6TEV9_KLEP7	30S ribosomal protein S14	leading protein	2	4	2
+PRT795_1_A6TAV8	A6TAV8	A6TAV8_KLEP7	Periplasmic trehalase	leading protein	2	3	2
+PRT795_1_A6TGF7	A6TGF7	A6TGF7_KLEP7	Branched-chain-amino-acid aminotransferase	leading protein	2	6	2
+PRT795_1_A6TFF2	A6TFF2	A6TFF2_KLEP7	Dipeptide transport protein	leading protein	2	9	2
+PRT795_1_A6TCG7	A6TCG7	A6TCG7_KLEP7	Nitrogen assimilation by glutamine synthetase (ATase) regulatory protein (P-II)	leading protein	2	11	2
+PRT795_1_A6T5B4	A6T5B4	A6T5B4_KLEP7	Uncharacterized protein	leading protein	2	2	2
+PRT795_1_A6TC06	A6TC06	A6TC06_KLEP7	Erythronate-4-phosphate dehydrogenase	leading protein	2	3	2
+PRT795_1_A6T5J7	A6T5J7	A6T5J7_KLEP7	Glycoprotein/polysaccharide metabolism	leading protein	2	11	2
+PRT795_1_A6TE30	A6TE30	A6TE30_KLEP7	Uncharacterized protein	leading protein	2	7	2
+PRT795_1_A6TG01	A6TG01	A6TG01_KLEP7	DNA gyrase subunit B	leading protein	2	4	2
+PRT795_1_A6TBX0	A6TBX0	A6TBX0_KLEP7	NADH-quinone oxidoreductase subunit F	leading protein	2	11	2
+PRT795_1_A6TG35	A6TG35	ATPE_KLEP7	ATP synthase epsilon chain	leading protein	2	12	2
+PRT795_1_A6TG65	A6TG65	A6TG65_KLEP7	Thiol:disulfide interchange protein	leading protein	2	2	2
+PRT795_1_A6TE18	A6TE18	A6TE18_KLEP7	ABM domain-containing protein	leading protein	2	5	2
+PRT795_1_A6T6G8	A6T6G8	A6T6G8_KLEP7	Cell division coordinator CpoB	leading protein	2	4	2
+PRT795_1_A6T9B7	A6T9B7	A6T9B7_KLEP7	Putative NADH:flavin oxidoreductase/NADH oxidase	leading protein	2	3	2
+PRT795_1_A6TBU1	A6TBU1	A6TBU1_KLEP7	Glycerophosphodiester phosphodiesterase, periplasmic	leading protein	2	2	2
+PRT795_1_A6TEA6	A6TEA6	A6TEA6_KLEP7	Putative dihydroxyacetone kinase, N-terminal domain	leading protein	2	3	2
+PRT795_1_A6T8M4	A6T8M4	A6T8M4_KLEP7	Uncharacterized protein	leading protein	2	3	2
+PRT795_1_A6T9A3	A6T9A3	A6T9A3_KLEP7	PTS family enzyme IIA/ enzyme IIBC	leading protein	2	5	2
+PRT795_1_A6TCV8	A6TCV8	CSRA_KLEP7	Translational regulator CsrA	leading protein	2	6	2
+PRT795_1_A6TF02	A6TF02	A6TF02_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	2	3	2
+PRT795_1_A6TGF3	A6TGF3	A6TGF3_KLEP7	Putative transcriptional regulator with pssR	leading protein	2	2	2
+PRT795_1_A6TCA6	A6TCA6	A6TCA6_KLEP7	Arsenate reductase	leading protein	2	3	2
+PRT795_1_A6T9D7	A6T9D7	A6T9D7_KLEP7	3-oxoacyl-[acyl-carrier-protein] synthase 2	leading protein	2	7	2
+PRT795_1_A6TDV6	A6TDV6	A6TDV6_KLEP7	Glutathione synthetase	leading protein	2	4	2
+PRT795_1_A6T5R4	A6T5R4	FOLD_KLEP7	Bifunctional protein FolD	leading protein	2	3	2
+PRT795_1_A6TG63	A6TG63	A6TG63_KLEP7	Uncharacterized protein	leading protein	2	5	2
+PRT795_1_A6T7E9	A6T7E9	RL32_KLEP7	50S ribosomal protein L32	leading protein	2	8	2
+PRT795_1_A6T5H7	A6T5H7	A6T5H7_KLEP7	Putative lipoprotein	leading protein	2	2	2
+PRT795_1_A6TEU7	A6TEU7	RL17_KLEP7	50S ribosomal protein L17	leading protein	2	6	2
+PRT795_1_A6TA02	A6TA02	A6TA02_KLEP7	Glutaredoxin	leading protein	2	3	2
+PRT795_1_A6TGE4	A6TGE4	ARLY_KLEP7	Argininosuccinate lyase	leading protein	2	3	2
+PRT795_1_A6T8U0	A6T8U0	A6T8U0_KLEP7	Putative dimethyl sulfoxide reductase, major subunit	leading protein	2	4	2
+PRT795_1_A6T533	A6T533	Y243_KLEP7	UPF0255 protein KPN78578_02430	leading protein	2	5	2
+PRT795_1_A6T8V6	A6T8V6	A6T8V6_KLEP7	Heat shock protein	leading protein	2	4	2
+PRT795_1_A6TBY9	A6TBY9	A6TBY9_KLEP7	D-erythro-7,8-dihydroneopterin tri P epimerase	leading protein	2	4	2
+PRT795_1_A6TCF0	A6TCF0	A6TCF0_KLEP7	Iron-sulfur cluster assembly scaffold protein IscU	leading protein	2	5	2
+PRT795_1_A6THZ7	A6THZ7	TYPH_KLEP7	Thymidine phosphorylase	leading protein	2	3	2
+PRT795_1_A6TBV6	A6TBV6	A6TBV6_KLEP7	1,4-dihydroxy-2-naphthoyl-CoA synthase	leading protein	2	3	2
+PRT795_1_A6TA96	A6TA96	A6TA96_KLEP7	Putative dehydrogenase	leading protein	1	1	1
+PRT795_1_A6T6B0	A6T6B0	A6T6B0_KLEP7	Glutamate/aspartate periplasmic binding protein	leading protein	1	1	1
+PRT795_1_A6T6Y5	A6T6Y5	A6T6Y5_KLEP7	Thioredoxin reductase	leading protein	1	2	1
+PRT795_1_A6T5B0	A6T5B0	A6T5B0_KLEP7	Pyrroline-5-carboxylate reductase	leading protein	1	2	1
+PRT795_1_A6TC21	A6TC21	A6TC21_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TH24	A6TH24	A6TH24_KLEP7	Low-affinity transport system proline permease II	leading protein	1	4	1
+PRT795_1_A6TBK9	A6TBK9	A6TBK9_KLEP7	Putative response regulator in two-compoent regulatory system	leading protein	1	1	1
+PRT795_1_A6T4N6	A6T4N6	A6T4N6_KLEP7	Cell division protein FtsQ	leading protein	1	1	1
+PRT795_1_A6T7G1	A6T7G1	A6T7G1_KLEP7	PTS family enzyme IIC/enzyme IIB	leading protein	1	2	1
+PRT795_1_A6TGW7	A6TGW7	A6TGW7_KLEP7	Single-stranded DNA-binding protein	leading protein	1	1	0
+PRT795_1_A6T9S3	A6T9S3	A6T9S3_KLEP7	Putative dehydrogenase, NAD(P)-binding	leading protein	1	2	1
+PRT795_1_A6TFH5	A6TFH5	SYGA_KLEP7	Glycine--tRNA ligase alpha subunit	leading protein	1	1	1
+PRT795_1_A6TG03	A6TG03	A6TG03_KLEP7	Beta sliding clamp	leading protein	1	1	1
+PRT795_1_A6TEK4	A6TEK4	RL27_KLEP7	50S ribosomal protein L27	leading protein	1	4	1
+PRT795_1_A6TG55	A6TG55	A6TG55_KLEP7	D-ribose periplasmic binding protein	leading protein	1	1	1
+PRT795_1_A6TFG8	A6TFG8	A6TFG8_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6TBQ0	A6TBQ0	EFPL_KLEP7	Elongation factor P-like protein	leading protein	1	4	1
+PRT795_1_A6T7Y1	A6T7Y1	A6T7Y1_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6T985	A6T985	A6T985_KLEP7	Putative LysM domain	leading protein	1	1	1
+PRT795_1_A6TAN9	A6TAN9	RF1_KLEP7	Peptide chain release factor 1	leading protein	1	1	1
+PRT795_1_A6T6E3	A6T6E3	A6T6E3_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TFE1	A6TFE1	A6TFE1_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TBW7	A6TBW7	A6TBW7_KLEP7	NADH-quinone oxidoreductase subunit I	leading protein	1	3	1
+PRT795_1_A6TH02	A6TH02	A6TH02_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6T6K6	A6T6K6	A6T6K6_KLEP7	Pectinesterase	leading protein	1	1	1
+PRT795_1_A6T9X7	A6T9X7	A6T9X7_KLEP7	Ion-translocating oxidoreductase complex subunit D	leading protein	1	3	1
+PRT795_1_A6TEL1	A6TEL1	A6TEL1_KLEP7	Putative transport protein (ABC superfamily, atp_bind and membrane)	leading protein	1	7	1
+PRT795_1_A6TE43	A6TE43	UREE_KLEP7	Urease accessory protein UreE	leading protein	1	2	1
+PRT795_1_A6TAY1	A6TAY1	A6TAY1_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6T8U7	A6T8U7	A6T8U7_KLEP7	Putative mannitol dehydrogenase	leading protein	1	2	1
+PRT795_1_A6THZ0	A6THZ0	RF3_KLEP7	Peptide chain release factor 3	leading protein	1	2	1
+PRT795_1_A6TBD9	A6TBD9	A6TBD9_KLEP7	Uridine diphosphate galacturonate 4-epimerase	leading protein	1	2	1
+PRT795_1_A6TH87	A6TH87	HFQ_KLEP7	RNA-binding protein Hfq	leading protein	1	10	1
+PRT795_1_A6TFM7	A6TFM7	RL33_KLEP7	50S ribosomal protein L33	leading protein	1	3	1
+PRT795_1_A6T8H9	A6T8H9	A6T8H9_KLEP7	Phenylacetic acid degradation protein putative aldehyde dehydrogenase	leading protein	1	1	1
+PRT795_1_A6T4V8	A6T4V8	GSA_KLEP7	Glutamate-1-semialdehyde 2,1-aminomutase	leading protein	1	1	1
+PRT795_1_A6T7C6	A6T7C6	OPGH_KLEP7	Glucans biosynthesis glucosyltransferase H	leading protein	1	1	1
+PRT795_1_A6TE12	A6TE12	A6TE12_KLEP7	DNA topoisomerase 4 subunit A	leading protein	1	1	1
+PRT795_1_A6TCH8	A6TCH8	A6TCH8_KLEP7	Pyridoxine 5'-phosphate synthase	leading protein	1	2	1
+PRT795_1_A6THJ1	A6THJ1	A6THJ1_KLEP7	Putative acetolactate synthase large subunit	leading protein	1	2	1
+PRT795_1_A6TG00	A6TG00	A6TG00_KLEP7	Conserved protein, phophatase-like domain	leading protein	1	3	1
+PRT795_1_A6TA89	A6TA89	A6TA89_KLEP7	Gluconate dehydrogenase cytochrome c subunit, putative	leading protein	1	1	1
+PRT795_1_A6TE25	A6TE25	Y3385_KLEP7	UPF0441 protein KPN78578_33850	leading protein	1	2	1
+PRT795_1_A6T691	A6T691	LIPB_KLEP7	Octanoyltransferase	leading protein	1	2	1
+PRT795_1_A6TCM7	A6TCM7	SSRP_KLEP7	SsrA-binding protein	leading protein	1	1	1
+PRT795_1_A6TEV2	A6TEV2	A6TEV2_KLEP7	Protein translocase subunit SecY	leading protein	1	2	1
+PRT795_1_A6TDQ6	A6TDQ6	A6TDQ6_KLEP7	6-phospho-beta-glucosidase A	leading protein	1	1	1
+PRT795_1_A6TAP8	A6TAP8	A6TAP8_KLEP7	Ribosome-binding ATPase YchF	leading protein	1	3	1
+PRT795_1_A6T7E2	A6T7E2	A6T7E2_KLEP7	Probable lipid II flippase MurJ	leading protein	1	1	1
+PRT795_1_A6TFP7	A6TFP7	A6TFP7_KLEP7	Guanylate kinase	leading protein	1	1	1
+PRT795_1_A6T704	A6T704	IHFB_KLEP7	Integration host factor subunit beta	leading protein	1	2	1
+PRT795_1_A6T526	A6T526	NQRF_KLEP7	Na(+)-translocating NADH-quinone reductase subunit F	leading protein	1	2	1
+PRT795_1_A6T5P1	A6T5P1	A6T5P1_KLEP7	UDP-sugar hydrolase (5'-nucleotidase)	leading protein	1	2	1
+PRT795_1_A6T4G2	A6T4G2	A6T4G2_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	1	1	1
+PRT795_1_A6T5J6	A6T5J6	A6T5J6_KLEP7	Acyl-CoA thioesterase II	leading protein	1	1	1
+PRT795_1_A6TEM8	A6TEM8	A6TEM8_KLEP7	Aerobic respiration control sensor protein	leading protein	1	2	1
+PRT795_1_A6T7U6	A6T7U6	A6T7U6_KLEP7	Phospho-beta-glucosidase, NAD(P)-binding (Cellobiose-6-phosphate hydrolase)	leading protein	1	1	1
+PRT795_1_A6TDP7	A6TDP7	A6TDP7_KLEP7	Thiol:disulfide interchange protein	leading protein	1	2	1
+PRT795_1_A6TCD9	A6TCD9	A6TCD9_KLEP7	Alpha-2-macroglobulin	leading protein	1	2	1
+PRT795_1_A6TEH5	A6TEH5	A6TEH5_KLEP7	N-acetyltransferase domain-containing protein	leading protein	1	2	1
+PRT795_1_A6T521	A6T521	NQRA_KLEP7	Na(+)-translocating NADH-quinone reductase subunit A	leading protein	1	3	1
+PRT795_1_A6T8L0	A6T8L0	A6T8L0_KLEP7	DUF218 domain-containing protein	leading protein	1	2	1
+PRT795_1_A6TFJ6	A6TFJ6	A6TFJ6_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6T7T2	A6T7T2	A6T7T2_KLEP7	Exonuclease III	leading protein	1	2	1
+PRT795_1_A6TB65	A6TB65	A6TB65_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6TEE2	A6TEE2	A6TEE2_KLEP7	Putative cytochrome	leading protein	1	8	1
+PRT795_1_A6T715	A6T715	A6T715_KLEP7	Chromosome partition protein MukE	leading protein	1	6	1
+PRT795_1_A6T6B5	A6T6B5	MIAB_KLEP7	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	leading protein	1	4	1
+PRT795_1_A6T4H9	A6T4H9	A6T4H9_KLEP7	Carbamoyl-phosphate synthase small chain	leading protein	1	2	1
+PRT795_1_A6T6X8	A6T6X8	A6T6X8_KLEP7	DNA replication inhibitor, nucleic acid-binding domain	leading protein	1	7	1
+PRT795_1_A6TEQ6	A6TEQ6	A6TEQ6_KLEP7	Barstar domain-containing protein	leading protein	1	2	1
+PRT795_1_A6T4I0	A6T4I0	A6T4I0_KLEP7	Carbamoyl-phosphate synthase large chain	leading protein	1	1	1
+PRT795_1_A6T9B8	A6T9B8	A6T9B8_KLEP7	Putative cell envelope integrity inner membrane protein TolA	leading protein	1	20	1
+PRT795_1_A6TBI0	A6TBI0	A6TBI0_KLEP7	Probable lipid kinase YegS-like	leading protein	1	3	1
+PRT795_1_A6T748	A6T748	FABA_KLEP7	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	leading protein	1	2	1
+PRT795_1_A6TAE5	A6TAE5	A6TAE5_KLEP7	Required for stability of iron-sulfur component of FhuF	leading protein	1	1	1
+PRT795_1_A6TBT7	A6TBT7	UBIG_KLEP7	Ubiquinone biosynthesis O-methyltransferase	leading protein	1	2	1
+PRT795_1_A6THI8	A6THI8	A6THI8_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TC47	A6TC47	DNLJ_KLEP7	DNA ligase	leading protein	1	2	1
+PRT795_1_A6TFZ7	A6TFZ7	A6TFZ7_KLEP7	Transcriptional repressor for galactonate utilization (GntR family)	leading protein	1	3	1
+PRT795_1_A6TH45	A6TH45	A6TH45_KLEP7	Putative regulator (TetR/AcrR family)	leading protein	1	2	1
+PRT795_1_A6T7C2	A6T7C2	A6T7C2_KLEP7	O-acetyl-ADP-ribose deacetylase	leading protein	1	1	1
+PRT795_1_A6TAW5	A6TAW5	A6TAW5_KLEP7	Putative sporulation protein	leading protein	1	1	1
+PRT795_1_A6TGD4	A6TGD4	A6TGD4_KLEP7	Methylenetetrahydrofolate reductase	leading protein	1	1	1
+PRT795_1_A6TBP6	A6TBP6	A6TBP6_KLEP7	Phosphofructokinase	leading protein	1	6	1
+PRT795_1_A6T9Y4	A6T9Y4	A6T9Y4_KLEP7	Pyridoxal kinase PdxY	leading protein	1	3	1
+PRT795_1_A6TB47	A6TB47	OTSA_KLEP7	Trehalose-6-phosphate synthase	leading protein	1	1	1
+PRT795_1_A6TEN6	A6TEN6	A6TEN6_KLEP7	Stringent starvation protein B	leading protein	1	2	1
+PRT795_1_A6TEL9	A6TEL9	A6TEL9_KLEP7	Lipopolysaccharide export system protein LptA	leading protein	1	4	1
+PRT795_1_A6TCD5	A6TCD5	RODZ_KLEP7	Cytoskeleton protein RodZ	leading protein	1	3	1
+PRT795_1_A6T4V3	A6T4V3	A6T4V3_KLEP7	Penicillin-binding protein 1B	leading protein	1	2	1
+PRT795_1_A6TB40	A6TB40	CMOB_KLEP7	tRNA U34 carboxymethyltransferase	leading protein	1	2	1
+PRT795_1_A6TC83	A6TC83	A6TC83_KLEP7	Putative regulator of ethanolamine utilization	leading protein	1	1	1
+PRT795_1_A6TAE4	A6TAE4	SUFS_KLEP7	Cysteine desulfurase	leading protein	1	2	1
+PRT795_1_A6T700	A6T700	SERC_KLEP7	Phosphoserine aminotransferase	leading protein	1	2	1
+PRT795_1_A6TEL6	A6TEL6	A6TEL6_KLEP7	Arabinose 5-phosphate isomerase	leading protein	1	2	1
+PRT795_1_A6TGW3	A6TGW3	A6TGW3_KLEP7	Class B acid phosphatase	leading protein	1	1	1
+PRT795_1_A6TEV4	A6TEV4	RL30_KLEP7	50S ribosomal protein L30	leading protein	1	4	1
+PRT795_1_A6TGQ3	A6TGQ3	NUDC_KLEP7	NADH pyrophosphatase	leading protein	1	3	1
+PRT795_1_A6TBJ8	A6TBJ8	THIM_KLEP7	Hydroxyethylthiazole kinase	leading protein	1	1	1
+PRT795_1_A6T510	A6T510	GLO2_KLEP7	Hydroxyacylglutathione hydrolase	leading protein	1	2	1
+PRT795_1_A6TBL5	A6TBL5	A6TBL5_KLEP7	Beta-D-glucoside glucohydrolase, periplasmic	leading protein	1	2	1
+PRT795_1_A6TGW5	A6TGW5	A6TGW5_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6TG08	A6TG08	YIDC_KLEP7	Membrane protein insertase YidC	leading protein	1	2	1
+PRT795_1_A6TGV7	A6TGV7	A6TGV7_KLEP7	tRNA-dihydrouridine(20/20a) synthase	leading protein	1	1	1
+PRT795_1_A6T8Q2	A6T8Q2	A6T8Q2_KLEP7	Putative 3-oxoadipate enol-lactonase II	leading protein	1	5	1
+PRT795_1_A6TB46	A6TB46	A6TB46_KLEP7	Universal stress protein	leading protein	1	2	1
+PRT795_1_A6TGS0	A6TGS0	A6TGS0_KLEP7	Methionine synthase	leading protein	1	2	1
+PRT795_1_A6T7J8	A6T7J8	A6T7J8_KLEP7	Response regulator in two-component regulatory system with PhoQ, regulates gene expression at low	leading protein	1	1	1
+PRT795_1_A6T4J0	A6T4J0	A6T4J0_KLEP7	LPS-assembly protein LptD	leading protein	1	2	1
+PRT795_1_A6T4T2	A6T4T2	A6T4T2_KLEP7	Poly(A) polymerase I	leading protein	1	1	1
+PRT795_1_A6TDD7	A6TDD7	A6TDD7_KLEP7	Propanediol utilization: polyhedral bodies	leading protein	1	1	1
+PRT795_1_A6T7G6	A6T7G6	A6T7G6_KLEP7	Beta-hexosaminidase	leading protein	1	1	1
+PRT795_1_A6TBX3	A6TBX3	NUOB_KLEP7	NADH-quinone oxidoreductase subunit B	leading protein	1	3	1
+PRT795_1_A6T562	A6T562	PROB_KLEP7	Glutamate 5-kinase	leading protein	1	1	1
+PRT795_1_A6T8R3	A6T8R3	A6T8R3_KLEP7	SIS domain-containing protein	leading protein	1	2	1
+PRT795_1_A6T814	A6T814	Y1274_KLEP7	UPF0283 membrane protein KPN78578_12740	leading protein	1	1	1
+PRT795_1_A6T4Y9	A6T4Y9	A6T4Y9_KLEP7	Putative enzyme	leading protein	1	1	1
+PRT795_1_A6TCD0	A6TCD0	DER_KLEP7	GTPase Der	leading protein	1	1	1
+PRT795_1_A6TCD4	A6TCD4	ISPG_KLEP7	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	leading protein	1	6	1
+PRT795_1_A6TEC0	A6TEC0	LSRK_KLEP7	Autoinducer-2 kinase	leading protein	1	1	1
+PRT795_1_A6T7E1	A6T7E1	A6T7E1_KLEP7	Putative NAD(P)-binding virulence factor	leading protein	1	1	1
+PRT795_1_A6TFG5	A6TFG5	A6TFG5_KLEP7	Putative kinase	leading protein	1	1	1
+PRT795_1_A6T6B4	A6T6B4	A6T6B4_KLEP7	Putative ATP-binding protein in pho regulon	leading protein	1	1	1
+PRT795_1_A6T6K4	A6T6K4	A6T6K4_KLEP7	Usp domain-containing protein	leading protein	1	3	1
+PRT795_1_A6TA09	A6TA09	A6TA09_KLEP7	Cyclopropane fatty acyl phospholipid synthase	leading protein	1	1	1
+PRT795_1_A6TH71	A6TH71	FRDC_KLEP7	Fumarate reductase subunit C	leading protein	1	1	1
+PRT795_1_A6TCT2	A6TCT2	A6TCT2_KLEP7	Asp_Arg_Hydrox domain-containing protein	leading protein	1	2	1
+PRT795_1_A6TGK9	A6TGK9	METE_KLEP7	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	leading protein	1	1	1
+PRT795_1_A6T6Y6	A6T6Y6	A6T6Y6_KLEP7	Regulator for leucine (Or lrp) regulon and high-affinity branched-chain amino acid transport system	leading protein	1	1	1
+PRT795_1_A6T5B8	A6T5B8	A6T5B8_KLEP7	Possible NAGC-like transcriptional regulator	leading protein	1	4	1
+PRT795_1_A6TC95	A6TC95	A6TC95_KLEP7	UPF0370 protein KPN_02806	leading protein	1	1	1
+PRT795_1_A6TGP3	A6TGP3	A6TGP3_KLEP7	Putative PEP-dependent phosphotransferase enzyme III	leading protein	1	15	1
+PRT795_1_A6TEN4	A6TEN4	A6TEN4_KLEP7	Glutamate synthase, small subunit	leading protein	1	2	1
+PRT795_1_A6TGW2	A6TGW2	A6TGW2_KLEP7	Aminotransferase	leading protein	1	1	1
+PRT795_1_A6TFP1	A6TFP1	A6TFP1_KLEP7	Putative alpha helix protein	leading protein	1	2	1
+PRT795_1_A6T6W2	A6T6W2	A6T6W2_KLEP7	ATP-binding component of 3rd arginine transport system	leading protein	1	2	1
+PRT795_1_A6TFN3	A6TFN3	A6TFN3_KLEP7	Putative outer membrane protein gluconolactonase	leading protein	1	1	1
+PRT795_1_A6T538	A6T538	A6T538_KLEP7	Succinate-semialdehyde dehydrogenase I, NADP-dependent	leading protein	1	3	1
+PRT795_1_A6TBK6	A6TBK6	A6TBK6_KLEP7	Iron-sulfur cluster carrier protein	leading protein	1	1	1
+PRT795_1_A6TH88	A6TH88	A6TH88_KLEP7	GTPase HflX	leading protein	1	1	1
+PRT795_1_A6TCT8	A6TCT8	A6TCT8_KLEP7	Alkyl hydroperoxide reductase AhpD	leading protein	1	2	1
+PRT795_1_A6T749	A6T749	A6T749_KLEP7	Endopeptidase La	leading protein	1	1	1
+PRT795_1_A6T8Q8	A6T8Q8	A6T8Q8_KLEP7	Urocanate reductase	leading protein	1	2	1
+PRT795_1_A6TG85	A6TG85	A6TG85_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TGH3	A6TGH3	A6TGH3_KLEP7	ECA polysaccharide chain length modulation protein	leading protein	1	2	1
+PRT795_1_A6T4J7	A6T4J7	RAPA_KLEP7	RNA polymerase-associated protein RapA	leading protein	1	2	1
+PRT795_1_A6TBJ0	A6TBJ0	A6TBJ0_KLEP7	D-arabinitol dehydrogenase	leading protein	1	2	1
+PRT795_1_A6T9T4	A6T9T4	A6T9T4_KLEP7	Gamma-aminobutyraldehyde dehydrogenase	leading protein	1	1	1
+PRT795_1_A6TDQ2	A6TDQ2	A6TDQ2_KLEP7	tRNA-modifying protein YgfZ	leading protein	1	2	1
+PRT795_1_A6T5D9	A6T5D9	A6T5D9_KLEP7	Sec translocon accessory complex subunit YajC	leading protein	1	1	1
+PRT795_1_A6TDK6	A6TDK6	A6TDK6_KLEP7	Putative fimbrial-like protein	leading protein	1	3	1
+PRT795_1_A6TBF9	A6TBF9	A6TBF9_KLEP7	CPS export-outer membrane protein	leading protein	1	2	1
+PRT795_1_A6TH67	A6TH67	A6TH67_KLEP7	Entericidin B	leading protein	1	15	1
+PRT795_1_A6TG67	A6TG67	A6TG67_KLEP7	DNA polymerase I	leading protein	1	1	1
+PRT795_1_A6TBN1	A6TBN1	CDD_KLEP7	Cytidine deaminase	leading protein	1	2	1
+PRT795_1_A6TF10	A6TF10	A6TF10_KLEP7	Ribulose-phosphate 3-epimerase	leading protein	1	9	1
+PRT795_1_A6TD67	A6TD67	QUEF_KLEP7	NADPH-dependent 7-cyano-7-deazaguanine reductase	leading protein	1	1	1
+PRT795_1_A6T5H8	A6T5H8	A6T5H8_KLEP7	Possible regulator of murein genes	leading protein	1	5	1
+PRT795_1_A6T4M5	A6T4M5	RSMH_KLEP7	Ribosomal RNA small subunit methyltransferase H	leading protein	1	2	1
+PRT795_1_A6TDS2	A6TDS2	ZAPA_KLEP7	Cell division protein ZapA	leading protein	1	5	1
+PRT795_1_A6TAY9	A6TAY9	A6TAY9_KLEP7	PTS enzyme IIC, mannose-specific	leading protein	1	13	1
+PRT795_1_A6TED0	A6TED0	A6TED0_KLEP7	Altronate hydrolase	leading protein	1	4	1
+PRT795_1_A6T6L3	A6T6L3	A6T6L3_KLEP7	Conserved protein, phosphatidylethanolamine-binding domain	leading protein	1	2	1
+PRT795_1_A6TFN1	A6TFN1	DUT_KLEP7	Deoxyuridine 5'-triphosphate nucleotidohydrolase	leading protein	1	1	1
+PRT795_1_A6T6W8	A6T6W8	A6T6W8_KLEP7	L-allo-threonine aldolase, PLP-dependent	leading protein	1	1	1
+PRT795_1_A6T9P0	A6T9P0	A6T9P0_KLEP7	Cryptic nitrate reductase 2 alpha subunit	leading protein	1	1	1
+PRT795_1_A6TFB9	A6TFB9	A6TFB9_KLEP7	Glutathione reductase	leading protein	1	1	1
+PRT795_1_A6THC2	A6THC2	A6THC2_KLEP7	Putative oxidoreductase	leading protein	1	3	1
+PRT795_1_A6T5B7	A6T5B7	RDGC_KLEP7	Recombination-associated protein RdgC	leading protein	1	2	1
+PRT795_1_A6TES8	A6TES8	FIS_KLEP7	DNA-binding protein Fis	leading protein	1	1	1
+PRT795_1_A6TAT2	A6TAT2	A6TAT2_KLEP7	Putative nucleoprotein/polynucleotide-associated enzyme	leading protein	1	2	1
+PRT795_1_A6TF61	A6TF61	A6TF61_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TB03	A6TB03	A6TB03_KLEP7	GAF domain-containing protein	leading protein	1	3	1
+PRT795_1_A6TEE1	A6TEE1	A6TEE1_KLEP7	Putative enzyme with S-transferase domain	leading protein	1	2	1
+PRT795_1_A6TB20	A6TB20	A6TB20_KLEP7	Keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase	leading protein	1	2	1
+PRT795_1_A6TH23	A6TH23	A6TH23_KLEP7	Putative alkylphosphonate uptake protein in phosphonate metabolism	leading protein	1	2	1
+PRT795_1_A6TGC4	A6TGC4	A6TGC4_KLEP7	Regulator for deo operon, udp, cdd, tsx, nupC, and nupG	leading protein	1	1	1
+PRT795_1_A6TFN5	A6TFN5	RNPH_KLEP7	Ribonuclease PH	leading protein	1	2	1
+PRT795_1_A6TE29	A6TE29	RIBB_KLEP7	3,4-dihydroxy-2-butanone 4-phosphate synthase	leading protein	1	4	1
+PRT795_1_A6TCE6	A6TCE6	A6TCE6_KLEP7	[2FE-2S] ferredoxin, electron carrer protein	leading protein	1	1	1
+PRT795_1_A6TEI5	A6TEI5	TRUB_KLEP7	tRNA pseudouridine synthase B	leading protein	1	1	1
+PRT795_1_A6TH77	A6TH77	PSD_KLEP7	Phosphatidylserine decarboxylase proenzyme	leading protein	1	7	1
+PRT795_1_A6TBM4	A6TBM4	A6TBM4_KLEP7	Putative phospho-beta-glucosidase	leading protein	1	2	1
+PRT795_1_A6TGC2	A6TGC2	HSLV_KLEP7	ATP-dependent protease subunit HslV	leading protein	1	2	1
+PRT795_1_A6THQ9	A6THQ9	A6THQ9_KLEP7	JmjC domain-containing protein	leading protein	1	1	1
+PRT795_1_A6T4I7	A6T4I7	RSMA_KLEP7	Ribosomal RNA small subunit methyltransferase A	leading protein	1	4	1
+PRT795_1_A6T7Q7	A6T7Q7	A6T7Q7_KLEP7	Putative an aldehyde reductase	leading protein	1	8	1
+PRT795_1_A6TB33	A6TB33	Y2343_KLEP7	Probable transcriptional regulatory protein KPN78578_23430	leading protein	1	1	1
+PRT795_1_A6TA21	A6TA21	A6TA21_KLEP7	Carbonic anhydrase	leading protein	1	2	1
+PRT795_1_A6T7G0	A6T7G0	A6T7G0_KLEP7	Putative hydrolase	leading protein	1	5	1
+PRT795_1_A6T9J0	A6T9J0	A6T9J0_KLEP7	DUF2236 domain-containing protein	leading protein	1	1	1
+PRT795_1_A6TGJ0	A6TGJ0	CYAY_KLEP7	Iron-sulfur cluster assembly protein CyaY	leading protein	1	1	1
+PRT795_1_A6T9P8	A6T9P8	A6T9P8_KLEP7	Putative enzyme	leading protein	1	1	1
+PRT795_1_A6T7J6	A6T7J6	A6T7J6_KLEP7	Putative enzyme	leading protein	1	1	1
+PRT795_1_A6TE24	A6TE24	A6TE24_KLEP7	Outer membrane channel protein	leading protein	1	5	1
+PRT795_1_A6T4Y3	A6T4Y3	LPXA_KLEP7	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	leading protein	1	5	1
+PRT795_1_A6TAW4	A6TAW4	DADA_KLEP7	D-amino acid dehydrogenase	leading protein	1	2	1
+PRT795_1_A6T6M3	A6T6M3	A6T6M3_KLEP7	Putative transmembrane protein	leading protein	1	2	1
+PRT795_1_A6TDW7	A6TDW7	A6TDW7_KLEP7	Uncharacterized protein	leading protein	1	3	1
+PRT795_1_A6TEU4	A6TEU4	MSCL_KLEP7	Large-conductance mechanosensitive channel	leading protein	1	3	1
+PRT795_1_A6T766	A6T766	RLMI_KLEP7	Ribosomal RNA large subunit methyltransferase I	leading protein	1	1	1
+PRT795_1_A6T6Y1	A6T6Y1	IF1_KLEP7	Translation initiation factor IF-1	leading protein	1	2	1
+PRT795_1_A6TIA1	A6TIA1	A6TIA1_KLEP7	Putative cation transporting P-type ATPase (Silver resistance)	leading protein	1	2	1
+PRT795_1_A6TBU2	A6TBU2	A6TBU2_KLEP7	sn-glycerol-3-phosphate permease	leading protein	1	3	1
+PRT795_1_A6TCR5	A6TCR5	A6TCR5_KLEP7	Putative short-chain dehydrogenase/reductase	leading protein	1	1	1
+PRT795_1_A6T8J3	A6T8J3	A6T8J3_KLEP7	GFA domain-containing protein	leading protein	1	2	1
+PRT795_1_A6T4G4	A6T4G4	RIHC_KLEP7	Non-specific ribonucleoside hydrolase RihC	leading protein	1	3	1
+PRT795_1_A6T7D3	A6T7D3	A6T7D3_KLEP7	N-methyl-L-tryptophan oxidase	leading protein	1	3	1
+PRT795_1_A6T5B2	A6T5B2	A6T5B2_KLEP7	Uncharacterized protein conserved in bacteria	leading protein	1	1	1
+PRT795_1_A6TFJ7	A6TFJ7	A6TFJ7_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TDS9	A6TDS9	A6TDS9_KLEP7	Component of the MscS mechanosensitive channel	leading protein	1	2	1
+PRT795_1_A6TGB5	A6TGB5	A6TGB5_KLEP7	Response regulator in two-component regulatory system with CpxA, regulates expression of stress-related genes (OmpR family)	leading protein	1	1	1
+PRT795_1_A6TIC4	A6TIC4	A6TIC4_KLEP7	Integrase	leading protein	1	1	1
+PRT795_1_A6TC80	A6TC80	A6TC80_KLEP7	Detox protein	leading protein	1	2	1
+PRT795_1_A6TH28	A6TH28	A6TH28_KLEP7	Chaperonin GroEL	leading protein	1	2	1
+PRT795_1_A6TD34	A6TD34	A6TD34_KLEP7	Lipoprotein	leading protein	1	4	1
+PRT795_1_A6TF34	A6TF34	A6TF34_KLEP7	DUF1471 domain-containing protein	leading protein	1	2	1
+PRT795_1_A6TEL8	A6TEL8	A6TEL8_KLEP7	Lipopolysaccharide export system protein LptC	leading protein	1	1	1
+PRT795_1_A6THH4	A6THH4	PYRB_KLEP7	Aspartate carbamoyltransferase	leading protein	1	4	1
+PRT795_1_A6TBY7	A6TBY7	A6TBY7_KLEP7	Putative glutathione S-transferase	leading protein	1	2	1
+PRT795_1_A6T5G2	A6T5G2	A6T5G2_KLEP7	Oxidoreductase	leading protein	1	1	1
+PRT795_1_A6TGG9	A6TGG9	RHLB_KLEP7	ATP-dependent RNA helicase RhlB	leading protein	1	2	1
+PRT795_1_A6TDI1	A6TDI1	A6TDI1_KLEP7	Putative aspartate racemase	leading protein	1	2	1
+PRT795_1_A6TGR6	A6TGR6	A6TGR6_KLEP7	Malate synthase	leading protein	1	1	1
+PRT795_1_A6TDR6	A6TDR6	GCSH_KLEP7	Glycine cleavage system H protein	leading protein	1	6	1
+PRT795_1_A6TH96	A6TH96	A6TH96_KLEP7	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	leading protein	1	2	1
+PRT795_1_A6TCE8	A6TCE8	HSCB_KLEP7	Co-chaperone protein HscB	leading protein	1	2	1
+PRT795_1_A6TB07	A6TB07	A6TB07_KLEP7	Uncharacterized protein	leading protein	1	3	1
+PRT795_1_A6TEV6	A6TEV6	RL18_KLEP7	50S ribosomal protein L18	leading protein	1	2	1
+PRT795_1_A6T4X3	A6T4X3	PYRH_KLEP7	Uridylate kinase	leading protein	1	1	1
+PRT795_1_A6TE34	A6TE34	A6TE34_KLEP7	SH3b domain-containing protein	leading protein	1	3	1
+PRT795_1_A6TDL4	A6TDL4	A6TDL4_KLEP7	Major type 1 subunit fimbrin (Pilin)	leading protein	1	5	1
+PRT795_1_A6TBZ0	A6TBZ0	A6TBZ0_KLEP7	Putative cell division inhibitor, NAD(P)-binding	leading protein	1	2	1
+PRT795_1_A6TGU7	A6TGU7	A6TGU7_KLEP7	Periplasmic protein of mal regulon	leading protein	1	1	1
+PRT795_1_A6TFA0	A6TFA0	ARNB_KLEP7	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase	leading protein	1	1	1
+PRT795_1_A6TDP5	A6TDP5	A6TDP5_KLEP7	Peptide chain release factor 2	leading protein	1	2	1
+PRT795_1_A6T5Q0	A6T5Q0	A6T5Q0_KLEP7	Putative thioredoxin protein	leading protein	1	2	1
+PRT795_1_A6TG24	A6TG24	A6TG24_KLEP7	Putative enzyme with a phophatase-like domain	leading protein	1	1	1
+PRT795_1_A6TDM7	A6TDM7	A6TDM7_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6TBY1	A6TBY1	A6TBY1_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6THG3	A6THG3	A6THG3_KLEP7	Anaerobic ribonucleoside-triphosphate reductase	leading protein	1	2	1
+PRT795_1_A6TCF4	A6TCF4	A6TCF4_KLEP7	Inositol-1-monophosphatase	leading protein	1	9	1
+PRT795_1_A6T7G2	A6T7G2	A6T7G2_KLEP7	HIT domain-containing protein	leading protein	1	1	1
+PRT795_1_A6T941	A6T941	A6T941_KLEP7	Galactose-proton symport of transport system	leading protein	1	5	1
+PRT795_1_A6T9W0	A6T9W0	A6T9W0_KLEP7	Putative transcriptional regulator (LysR familiy)	leading protein	1	1	1
+PRT795_1_A6T4E4	A6T4E4	A6T4E4_KLEP7	Threonine synthase	leading protein	1	2	1
+PRT795_1_A6TF99	A6TF99	ARNC_KLEP7	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	leading protein	1	1	1
+PRT795_1_A6T6W1	A6T6W1	A6T6W1_KLEP7	Arginine 3rd transport system periplasmic binding protein	leading protein	1	1	1
+PRT795_1_A6T8T4	A6T8T4	A6T8T4_KLEP7	Putative NAGC-like transcriptional regulator	leading protein	1	2	1
+PRT795_1_A6TH54	A6TH54	A6TH54_KLEP7	Uncharacterized protein	leading protein	1	2	1
+PRT795_1_A6T4L2	A6T4L2	AROD_KLEP7	3-dehydroquinate dehydratase	leading protein	1	2	1
+PRT795_1_A6TEI6	A6TEI6	RBFA_KLEP7	Ribosome-binding factor A	leading protein	1	1	1
+PRT795_1_A6T6X6	A6T6X6	A6T6X6_KLEP7	Accessory protein to ABC-type macrolide transport protein MacB	leading protein	1	2	1
+PRT795_1_A6TFC9	A6TFC9	A6TFC9_KLEP7	Ketodeoxygluconokinase	leading protein	1	2	1
+PRT795_1_A6TAZ0	A6TAZ0	A6TAZ0_KLEP7	PTS enzyme IID, mannose-specific	leading protein	1	2	1
+PRT795_1_A6T7B2	A6T7B2	A6T7B2_KLEP7	PhoB-dependent, ATP-binding pho regulon component	leading protein	1	2	1
+PRT795_1_A6TF66	A6TF66	A6TF66_KLEP7	sn-glycerol 3-phosphate transport protein (ABC superfamily, peri_bind)	leading protein	1	5	1
+PRT795_1_A6T6Z2	A6T6Z2	A6T6Z2_KLEP7	Anaerobic dimethyl sulfoxide (DMSO) reductase, subunit B	leading protein	1	1	0
+PRT795_1_A6TEU1	A6TEU1	FMT_KLEP7	Methionyl-tRNA formyltransferase	leading protein	1	1	1
+PRT795_1_A6T953	A6T953	A6T953_KLEP7	Putative acetyl-CoA acetyltransferase	leading protein	1	8	1
+PRT795_1_A6TFR3	A6TFR3	A6TFR3_KLEP7	Sodium/glutamate symporter	leading protein	1	1	1
+PRT795_1_A6T4R5	A6T4R5	SPED_KLEP7	S-adenosylmethionine decarboxylase proenzyme	leading protein	1	2	1
+PRT795_1_A6T7R7	A6T7R7	A6T7R7_KLEP7	Nitroreductase domain-containing protein	leading protein	1	1	1
+PRT795_1_A6TGC9	A6TGC9	A6TGC9_KLEP7	Bifunctional aspartokinase/homoserine dehydrogenase	leading protein	1	3	1
+PRT795_1_A6T614	A6T614	A6T614_KLEP7	NAD/NADP-dependent betaine aldehyde dehydrogenase	leading protein	1	1	1
+PRT795_1_A6T6Y8	A6T6Y8	LOLA_KLEP7	Outer-membrane lipoprotein carrier protein	leading protein	1	6	1
+PRT795_1_A6TFD5	A6TFD5	A6TFD5_KLEP7	Cyclic di-GMP-binding protein	leading protein	1	1	1
+PRT795_1_A6TEZ5	A6TEZ5	A6TEZ5_KLEP7	Uncharacterized protein	leading protein	1	9	1
+PRT795_1_A6TCU5	A6TCU5	A6TCU5_KLEP7	Glycine/betaine/proline transport protein (ABC superfamily, peri_bind)	leading protein	1	3	1
+PRT795_1_A6T503	A6T503	A6T503_KLEP7	D,D-heptose 1,7-bisphosphate phosphatase	leading protein	1	2	1
+PRT795_1_A6T7Y3	A6T7Y3	A6T7Y3_KLEP7	Transcriptional regulator for cysteine regulon	leading protein	1	2	1
+PRT795_1_A6TA06	A6TA06	PURR_KLEP7	HTH-type transcriptional repressor PurR	leading protein	1	1	1
+PRT795_1_A6TF57	A6TF57	A6TF57_KLEP7	Putative NAD(P)-binding dehydrogenase	leading protein	1	2	1
+PRT795_1_A6TAJ4	A6TAJ4	A6TAJ4_KLEP7	YCII domain-containing protein	leading protein	1	3	1
+PRT795_1_A6T7U2	A6T7U2	A6T7U2_KLEP7	PEP-dependent phosphotransferase enzyme IV	leading protein	1	2	1
+PRT795_1_A6TEK6	A6TEK6	A6TEK6_KLEP7	Octaprenyl-diphosphate synthase	leading protein	1	3	1
+PRT795_1_A6T4P4	A6T4P4	ZAPD_KLEP7	Cell division protein ZapD	leading protein	1	2	1
+PRT795_1_A6TIC6	A6TIC6	A6TIC6_KLEP7	RepFiA replicon essential function protein	leading protein	1	1	1
+PRT795_1_A6TGH9	A6TGH9	A6TGH9_KLEP7	dTDP-4-amino-4,6-dideoxygalactose transaminase	leading protein	1	1	1
+PRT795_1_A6TGH6	A6TGH6	A6TGH6_KLEP7	dTDP-glucose 4,6-dehydratase	leading protein	1	1	1
+PRT795_1_A6TBZ5	A6TBZ5	A6TBZ5_KLEP7	Histidine transport protein (ABC superfamily, peri_bind)	leading protein	1	2	1
+PRT795_1_A6T6C2	A6T6C2	A6T6C2_KLEP7	PTS family enzyme IIC/enzyme IIB/enzyme IIC	leading protein	1	13	1
+PRT795_1_A6TEM0	A6TEM0	A6TEM0_KLEP7	Putative ATP-binding component of a transport system	leading protein	1	4	1
+PRT795_1_A6TGM4	A6TGM4	FADB_KLEP7	Fatty acid oxidation complex subunit alpha	leading protein	1	2	1
+PRT795_1_A6TGL8	A6TGL8	A6TGL8_KLEP7	Sec-independent protein translocase protein TatC	leading protein	1	4	1
+PRT795_1_A6TF54	A6TF54	A6TF54_KLEP7	Gluconokinase	leading protein	1	2	1
+PRT795_1_A6THB7	A6THB7	A6THB7_KLEP7	Peptidyl-prolyl cis-trans isomerase	leading protein	1	1	1
+PRT795_1_A6TCA5	A6TCA5	A6TCA5_KLEP7	Beta-barrel assembly-enhancing protease	leading protein	1	1	1
+PRT795_1_A6T6G7	A6T6G7	A6T6G7_KLEP7	Peptidoglycan-associated protein	leading protein	1	16	1
+PRT795_1_A6THQ0	A6THQ0	A6THQ0_KLEP7	Outer membrane lipoprotein Blc	leading protein	1	1	1
+PRT795_1_A6TG80	A6TG80	A6TG80_KLEP7	RHH_3 domain-containing protein	leading protein	1	1	1
+PRT795_1_A6TBC4	A6TBC4	HIS8_KLEP7	Histidinol-phosphate aminotransferase	leading protein	1	2	1
+PRT795_1_A6T6B9	A6T6B9	A6T6B9_KLEP7	Transcriptional repressor of genes for catabolic enzyme (NagC/XylR (ROK) family)	leading protein	1	1	1
+PRT795_1_A6TGB3	A6TGB3	A6TGB3_KLEP7	MOSC domain-containing protein	leading protein	1	1	1
+PRT795_1_A6TEX0	A6TEX0	A6TEX0_KLEP7	50S ribosomal protein L23	leading protein	1	14	1
+PRT795_1_A6T714	A6T714	MUKF_KLEP7	Chromosome partition protein MukF	leading protein	1	1	1
+PRT795_1_A6TGC3	A6TGC3	A6TGC3_KLEP7	Cell division protein FtsN	leading protein	1	6	1
+PRT795_1_A6T5H5	A6T5H5	A6T5H5_KLEP7	Ubiquinol oxidase subunit 2	leading protein	1	2	1
+PRT795_1_A6T4T9	A6T4T9	A6T4T9_KLEP7	Pullulanase N protein	leading protein	1	1	1
+PRT795_1_A6TAT4	A6TAT4	A6TAT4_KLEP7	Cold shock protein E	leading protein	1	2	1
+PRT795_1_A6TCF2	A6TCF2	ISCR_KLEP7	HTH-type transcriptional regulator IscR	leading protein	1	4	1
+PRT795_1_A6TEM3	A6TEM3	A6TEM3_KLEP7	PTS family enzyme IIA, sugar-specific, regulates N metabolism	leading protein	1	2	1
+PRT795_1_A6T6R4	A6T6R4	A6T6R4_KLEP7	Uncharacterized protein	leading protein	1	1	1
+PRT795_1_A6T701	A6T701	AROA_KLEP7	3-phosphoshikimate 1-carboxyvinyltransferase	leading protein	1	2	1
+PRT795_1_A6TDV7	A6TDV7	Y3317_KLEP7	UPF0301 protein KPN78578_33170	leading protein	1	1	1
+PRT795_1_A6TCB3	A6TCB3	PUR5_KLEP7	Phosphoribosylformylglycinamidine cyclo-ligase	leading protein	1	3	1
+PRT795_1_A6TDT3	A6TDT3	A6TDT3_KLEP7	Transketolase	spectrum same-set protein	11	37	0
+PRT795_1_A6TID9	A6TID9	A6TID9_KLEP7	Single-stranded DNA-binding protein	spectrum same-set protein	1	1	0
+PRT795_1_A6TIR6	A6TIR6	A6TIR6_KLEP7	Single-stranded DNA-binding protein	spectrum same-set protein	1	1	0
+PRT795_1_A6T8T9	A6T8T9	A6T8T9_KLEP7	Anaerobic dimethyl sulfoxide (DMSO) reductase, subunit B	spectrum same-set protein	1	1	0
+PRT795_1_A6T8Q6	A6T8Q6	A6T8Q6_KLEP7	Fumarate hydratase class I	spectrum sub-set protein	4	7	0
+PRT795_1_A6TAU7	A6TAU7	A6TAU7_KLEP7	Probable formate acetyltransferase 3	spectrum sub-set protein	2	12	0
+PRT795_1_A6TC39	A6TC39	A6TC39_KLEP7	Nucleoside permease	spectrum sub-set protein	1	5	0
+PRT795_1_A6T970	A6T970	A6T970_KLEP7	Glyceraldehyde-3-phosphate dehydrogenase	spectrum sub-set protein	1	2	0
+PRT795_1_A6T7I8	A6T7I8	A6T7I8_KLEP7	Transaldolase	spectrum sub-set protein	1	2	0
+PRT795_1_A6T5E0	A6T5E0	A6T5E0_KLEP7	Protein translocase subunit SecD	spectrum sub-set protein	1	2	0
+PRT795_1_A6T9P1	A6T9P1	A6T9P1_KLEP7	Cryptic nitrate reductase 2 beta subunit	spectrum sub-set protein	1	2	0
+PRT795_1_A6T504	A6T504	A6T504_KLEP7	2,5-diketo-D-gluconate reductase B	spectrum sub-set protein	1	2	0
+PRT795_1_A6TI57	A6TI57	A6TI57_KLEP7	ATPase with chaperone activity, ATP-binding subunit	spectrum sub-set protein	1	1	0

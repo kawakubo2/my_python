@@ -1,0 +1,2278 @@
+psm_id	modification	site	position
+PSM825_3_10	Carbamidomethyl	C	5
+PSM825_3_1000	Carbamidomethyl	C	9
+PSM825_3_1004	Carbamidomethyl	C	9
+PSM825_3_1005	Carbamidomethyl	C	9
+PSM825_3_1007	Carbamidomethyl	C	11
+PSM825_3_1008	Carbamidomethyl	C	11
+PSM825_3_1011	Carbamidomethyl	C	19
+PSM825_3_1012	Carbamidomethyl	C	19
+PSM825_3_1014	Carbamidomethyl	C	3
+PSM825_3_1018	Carbamidomethyl	C	10
+PSM825_3_1018	Carbamidomethyl	C	20
+PSM825_3_1019	Gln->pyro-Glu	N-term	
+PSM825_3_1041	Carbamidomethyl	C	7
+PSM825_3_1058	Carbamidomethyl	C	2
+PSM825_3_1058	Carbamidomethyl	C	14
+PSM825_3_1058	Carbamidomethyl	C	15
+PSM825_3_1059	Carbamidomethyl	C	2
+PSM825_3_1059	Carbamidomethyl	C	14
+PSM825_3_1059	Carbamidomethyl	C	15
+PSM825_3_1060	Carbamidomethyl	C	2
+PSM825_3_1060	Carbamidomethyl	C	14
+PSM825_3_1060	Carbamidomethyl	C	15
+PSM825_3_1064	Carbamidomethyl	C	11
+PSM825_3_1095	Carbamidomethyl	C	5
+PSM825_3_1096	Carbamidomethyl	C	5
+PSM825_3_11	Carbamidomethyl	C	5
+PSM825_3_1106	Carbamidomethyl	C	9
+PSM825_3_1107	Carbamidomethyl	C	9
+PSM825_3_1108	Carbamidomethyl	C	14
+PSM825_3_1109	Carbamidomethyl	C	14
+PSM825_3_1110	Carbamidomethyl	C	14
+PSM825_3_1111	Carbamidomethyl	C	7
+PSM825_3_1112	Carbamidomethyl	C	7
+PSM825_3_1113	Carbamidomethyl	C	7
+PSM825_3_1114	Carbamidomethyl	C	7
+PSM825_3_1115	Carbamidomethyl	C	2
+PSM825_3_1116	Carbamidomethyl	C	2
+PSM825_3_1117	Oxidation	M	15
+PSM825_3_1118	Oxidation	M	15
+PSM825_3_1119	Oxidation	M	15
+PSM825_3_1120	Oxidation	M	15
+PSM825_3_1121	Carbamidomethyl	C	14
+PSM825_3_1122	Carbamidomethyl	C	14
+PSM825_3_1123	Carbamidomethyl	C	15
+PSM825_3_1124	Carbamidomethyl	C	15
+PSM825_3_1135	Carbamidomethyl	C	9
+PSM825_3_1136	Carbamidomethyl	C	9
+PSM825_3_1139	Carbamidomethyl	C	2
+PSM825_3_1140	Carbamidomethyl	C	11
+PSM825_3_1140	Carbamidomethyl	C	16
+PSM825_3_1141	Carbamidomethyl	C	11
+PSM825_3_1141	Carbamidomethyl	C	16
+PSM825_3_1142	Carbamidomethyl	C	11
+PSM825_3_1142	Carbamidomethyl	C	16
+PSM825_3_1143	Carbamidomethyl	C	11
+PSM825_3_1143	Carbamidomethyl	C	16
+PSM825_3_1150	Oxidation	M	10
+PSM825_3_1151	Oxidation	M	10
+PSM825_3_1152	Oxidation	M	10
+PSM825_3_1153	Oxidation	M	10
+PSM825_3_1165	Carbamidomethyl	C	35
+PSM825_3_1184	Carbamidomethyl	C	28
+PSM825_3_1187	Carbamidomethyl	C	10
+PSM825_3_1187	Carbamidomethyl	C	13
+PSM825_3_1188	Carbamidomethyl	C	10
+PSM825_3_1188	Carbamidomethyl	C	13
+PSM825_3_1189	Carbamidomethyl	C	10
+PSM825_3_1189	Carbamidomethyl	C	13
+PSM825_3_1190	Carbamidomethyl	C	10
+PSM825_3_1190	Carbamidomethyl	C	13
+PSM825_3_1191	Carbamidomethyl	C	10
+PSM825_3_1191	Carbamidomethyl	C	13
+PSM825_3_1192	Ammonia-loss	N-term	
+PSM825_3_1192	Carbamidomethyl	C	1
+PSM825_3_1193	Ammonia-loss	N-term	
+PSM825_3_1193	Carbamidomethyl	C	1
+PSM825_3_1194	Ammonia-loss	N-term	
+PSM825_3_1194	Carbamidomethyl	C	1
+PSM825_3_1195	Acetyl	N-term	
+PSM825_3_1196	Acetyl	N-term	
+PSM825_3_1197	Acetyl	N-term	
+PSM825_3_12	Carbamidomethyl	C	5
+PSM825_3_1205	Carbamidomethyl	C	5
+PSM825_3_1205	Carbamidomethyl	C	10
+PSM825_3_1206	Carbamidomethyl	C	5
+PSM825_3_1206	Carbamidomethyl	C	10
+PSM825_3_1213	Carbamidomethyl	C	3
+PSM825_3_1214	Carbamidomethyl	C	3
+PSM825_3_1215	Carbamidomethyl	C	3
+PSM825_3_1221	Carbamidomethyl	C	9
+PSM825_3_1222	Carbamidomethyl	C	9
+PSM825_3_1223	Carbamidomethyl	C	9
+PSM825_3_1224	Carbamidomethyl	C	11
+PSM825_3_1239	Carbamidomethyl	C	9
+PSM825_3_1240	Carbamidomethyl	C	9
+PSM825_3_1241	Carbamidomethyl	C	9
+PSM825_3_1242	Carbamidomethyl	C	9
+PSM825_3_1243	Carbamidomethyl	C	8
+PSM825_3_1244	Carbamidomethyl	C	8
+PSM825_3_1245	Carbamidomethyl	C	8
+PSM825_3_125	Ammonia-loss	N-term	
+PSM825_3_125	Carbamidomethyl	C	1
+PSM825_3_126	Ammonia-loss	N-term	
+PSM825_3_126	Carbamidomethyl	C	1
+PSM825_3_1260	Carbamidomethyl	C	4
+PSM825_3_1261	Carbamidomethyl	C	4
+PSM825_3_1279	Carbamidomethyl	C	9
+PSM825_3_1280	Carbamidomethyl	C	9
+PSM825_3_1281	Carbamidomethyl	C	8
+PSM825_3_1282	Carbamidomethyl	C	14
+PSM825_3_1287	Carbamidomethyl	C	11
+PSM825_3_1288	Carbamidomethyl	C	11
+PSM825_3_1289	Carbamidomethyl	C	11
+PSM825_3_1290	Carbamidomethyl	C	10
+PSM825_3_1290	Carbamidomethyl	C	12
+PSM825_3_1291	Carbamidomethyl	C	10
+PSM825_3_1291	Carbamidomethyl	C	12
+PSM825_3_1292	Carbamidomethyl	C	10
+PSM825_3_1292	Carbamidomethyl	C	12
+PSM825_3_1293	Carbamidomethyl	C	13
+PSM825_3_1294	Carbamidomethyl	C	13
+PSM825_3_1295	Carbamidomethyl	C	13
+PSM825_3_1296	Carbamidomethyl	C	13
+PSM825_3_13	Carbamidomethyl	C	5
+PSM825_3_1309	Carbamidomethyl	C	5
+PSM825_3_1310	Carbamidomethyl	C	7
+PSM825_3_1310	Carbamidomethyl	C	19
+PSM825_3_1311	Carbamidomethyl	C	7
+PSM825_3_1311	Carbamidomethyl	C	19
+PSM825_3_1323	Carbamidomethyl	C	13
+PSM825_3_1324	Carbamidomethyl	C	13
+PSM825_3_1335	Carbamidomethyl	C	11
+PSM825_3_1336	Carbamidomethyl	C	11
+PSM825_3_1349	Carbamidomethyl	C	15
+PSM825_3_1350	Carbamidomethyl	C	15
+PSM825_3_1351	Carbamidomethyl	C	15
+PSM825_3_1352	Carbamidomethyl	C	15
+PSM825_3_1365	Carbamidomethyl	C	13
+PSM825_3_1369	Carbamidomethyl	C	14
+PSM825_3_1373	Carbamidomethyl	C	2
+PSM825_3_1373	Carbamidomethyl	C	11
+PSM825_3_1376	Carbamidomethyl	C	13
+PSM825_3_1376	Carbamidomethyl	C	14
+PSM825_3_1377	Carbamidomethyl	C	13
+PSM825_3_1377	Carbamidomethyl	C	14
+PSM825_3_1378	Carbamidomethyl	C	13
+PSM825_3_1378	Carbamidomethyl	C	14
+PSM825_3_1379	Carbamidomethyl	C	13
+PSM825_3_1379	Carbamidomethyl	C	14
+PSM825_3_1380	Gln->pyro-Glu	N-term	
+PSM825_3_1383	Acetyl	N-term	
+PSM825_3_1384	Acetyl	N-term	
+PSM825_3_1385	Acetyl	N-term	
+PSM825_3_1386	Acetyl	N-term	
+PSM825_3_1393	Carbamidomethyl	C	2
+PSM825_3_1393	Carbamidomethyl	C	11
+PSM825_3_1394	Carbamidomethyl	C	2
+PSM825_3_1394	Carbamidomethyl	C	11
+PSM825_3_1395	Carbamidomethyl	C	2
+PSM825_3_1395	Carbamidomethyl	C	11
+PSM825_3_1396	Carbamidomethyl	C	6
+PSM825_3_14	Carbamidomethyl	C	5
+PSM825_3_1415	Carbamidomethyl	C	4
+PSM825_3_1416	Carbamidomethyl	C	4
+PSM825_3_1417	Carbamidomethyl	C	4
+PSM825_3_1426	Carbamidomethyl	C	2
+PSM825_3_1427	Carbamidomethyl	C	2
+PSM825_3_1428	Carbamidomethyl	C	2
+PSM825_3_1429	Carbamidomethyl	C	2
+PSM825_3_1430	Carbamidomethyl	C	2
+PSM825_3_1447	Carbamidomethyl	C	2
+PSM825_3_1448	Carbamidomethyl	C	2
+PSM825_3_1449	Carbamidomethyl	C	2
+PSM825_3_1450	Carbamidomethyl	C	9
+PSM825_3_1451	Carbamidomethyl	C	9
+PSM825_3_1452	Carbamidomethyl	C	9
+PSM825_3_1453	Carbamidomethyl	C	9
+PSM825_3_1470	Carbamidomethyl	C	14
+PSM825_3_1471	Carbamidomethyl	C	14
+PSM825_3_1475	Carbamidomethyl	C	15
+PSM825_3_1475	Carbamidomethyl	C	19
+PSM825_3_1476	Carbamidomethyl	C	15
+PSM825_3_1476	Carbamidomethyl	C	19
+PSM825_3_1477	Carbamidomethyl	C	15
+PSM825_3_1477	Carbamidomethyl	C	19
+PSM825_3_1478	Carbamidomethyl	C	2
+PSM825_3_1489	Carbamidomethyl	C	7
+PSM825_3_1490	Carbamidomethyl	C	7
+PSM825_3_1491	Carbamidomethyl	C	7
+PSM825_3_1492	Carbamidomethyl	C	7
+PSM825_3_15	Carbamidomethyl	C	5
+PSM825_3_1504	Carbamidomethyl	C	16
+PSM825_3_1505	Carbamidomethyl	C	16
+PSM825_3_1506	Carbamidomethyl	C	12
+PSM825_3_1507	Carbamidomethyl	C	12
+PSM825_3_1519	Carbamidomethyl	C	14
+PSM825_3_152	Carbamidomethyl	C	3
+PSM825_3_152	Carbamidomethyl	C	30
+PSM825_3_1523	Carbamidomethyl	C	1
+PSM825_3_1524	Carbamidomethyl	C	7
+PSM825_3_1525	Carbamidomethyl	C	7
+PSM825_3_153	Carbamidomethyl	C	3
+PSM825_3_153	Carbamidomethyl	C	30
+PSM825_3_1531	Carbamidomethyl	C	12
+PSM825_3_1532	Carbamidomethyl	C	12
+PSM825_3_1533	Carbamidomethyl	C	12
+PSM825_3_154	Carbamidomethyl	C	3
+PSM825_3_154	Carbamidomethyl	C	30
+PSM825_3_1540	Carbamidomethyl	C	15
+PSM825_3_1541	Carbamidomethyl	C	15
+PSM825_3_1548	Carbamidomethyl	C	9
+PSM825_3_1549	Carbamidomethyl	C	9
+PSM825_3_1550	Carbamidomethyl	C	9
+PSM825_3_1563	Acetyl	N-term	
+PSM825_3_1569	Acetyl	N-term	
+PSM825_3_157	Carbamidomethyl	C	12
+PSM825_3_1570	Acetyl	N-term	
+PSM825_3_1571	Gln->pyro-Glu	N-term	
+PSM825_3_1572	Gln->pyro-Glu	N-term	
+PSM825_3_1573	Gln->pyro-Glu	N-term	
+PSM825_3_1574	Gln->pyro-Glu	N-term	
+PSM825_3_1575	Gln->pyro-Glu	N-term	
+PSM825_3_1576	Acetyl	N-term	
+PSM825_3_1577	Acetyl	N-term	
+PSM825_3_1578	Acetyl	N-term	
+PSM825_3_1579	Acetyl	N-term	
+PSM825_3_158	Carbamidomethyl	C	12
+PSM825_3_1581	Acetyl	N-term	
+PSM825_3_1582	Acetyl	N-term	
+PSM825_3_1582	Carbamidomethyl	C	24
+PSM825_3_1583	Acetyl	N-term	
+PSM825_3_1583	Carbamidomethyl	C	24
+PSM825_3_1584	Gln->pyro-Glu	N-term	
+PSM825_3_1584	Carbamidomethyl	C	3
+PSM825_3_1585	Acetyl	N-term	
+PSM825_3_1586	Acetyl	N-term	
+PSM825_3_159	Carbamidomethyl	C	12
+PSM825_3_1592	Carbamidomethyl	C	11
+PSM825_3_1593	Carbamidomethyl	C	11
+PSM825_3_1596	Carbamidomethyl	C	4
+PSM825_3_1597	Carbamidomethyl	C	4
+PSM825_3_1599	Carbamidomethyl	C	2
+PSM825_3_16	Carbamidomethyl	C	5
+PSM825_3_160	Carbamidomethyl	C	12
+PSM825_3_1600	Carbamidomethyl	C	2
+PSM825_3_1601	Carbamidomethyl	C	2
+PSM825_3_1602	Carbamidomethyl	C	2
+PSM825_3_1603	Carbamidomethyl	C	2
+PSM825_3_1604	Carbamidomethyl	C	2
+PSM825_3_161	Carbamidomethyl	C	12
+PSM825_3_162	Carbamidomethyl	C	12
+PSM825_3_1628	Oxidation	M	2
+PSM825_3_1629	Oxidation	M	2
+PSM825_3_163	Carbamidomethyl	C	13
+PSM825_3_1630	Oxidation	M	2
+PSM825_3_1631	Oxidation	M	2
+PSM825_3_1632	Oxidation	M	2
+PSM825_3_164	Carbamidomethyl	C	13
+PSM825_3_1643	Carbamidomethyl	C	5
+PSM825_3_1643	Carbamidomethyl	C	9
+PSM825_3_165	Carbamidomethyl	C	13
+PSM825_3_166	Carbamidomethyl	C	13
+PSM825_3_167	Carbamidomethyl	C	13
+PSM825_3_1674	Carbamidomethyl	C	4
+PSM825_3_1675	Carbamidomethyl	C	4
+PSM825_3_1676	Carbamidomethyl	C	8
+PSM825_3_1677	Carbamidomethyl	C	8
+PSM825_3_1678	Carbamidomethyl	C	15
+PSM825_3_1679	Carbamidomethyl	C	15
+PSM825_3_168	Carbamidomethyl	C	13
+PSM825_3_1680	Carbamidomethyl	C	15
+PSM825_3_1686	Carbamidomethyl	C	6
+PSM825_3_1687	Carbamidomethyl	C	6
+PSM825_3_1688	Carbamidomethyl	C	11
+PSM825_3_1689	Carbamidomethyl	C	11
+PSM825_3_169	Carbamidomethyl	C	13
+PSM825_3_1692	Carbamidomethyl	C	9
+PSM825_3_1692	Carbamidomethyl	C	12
+PSM825_3_1693	Carbamidomethyl	C	9
+PSM825_3_1693	Carbamidomethyl	C	12
+PSM825_3_1694	Carbamidomethyl	C	9
+PSM825_3_1694	Carbamidomethyl	C	12
+PSM825_3_1695	Carbamidomethyl	C	9
+PSM825_3_1695	Carbamidomethyl	C	12
+PSM825_3_1699	Carbamidomethyl	C	9
+PSM825_3_17	Carbamidomethyl	C	5
+PSM825_3_170	Carbamidomethyl	C	14
+PSM825_3_1700	Carbamidomethyl	C	9
+PSM825_3_1702	Oxidation	M	23
+PSM825_3_1703	Oxidation	M	23
+PSM825_3_1704	Oxidation	M	23
+PSM825_3_1705	Oxidation	M	23
+PSM825_3_171	Carbamidomethyl	C	14
+PSM825_3_172	Carbamidomethyl	C	14
+PSM825_3_1739	Carbamidomethyl	C	19
+PSM825_3_1744	Carbamidomethyl	C	2
+PSM825_3_1745	Carbamidomethyl	C	2
+PSM825_3_1761	Carbamidomethyl	C	8
+PSM825_3_1762	Carbamidomethyl	C	8
+PSM825_3_1763	Carbamidomethyl	C	3
+PSM825_3_1764	Carbamidomethyl	C	3
+PSM825_3_1766	Carbamidomethyl	C	14
+PSM825_3_1767	Carbamidomethyl	C	14
+PSM825_3_1768	Carbamidomethyl	C	14
+PSM825_3_1776	Carbamidomethyl	C	14
+PSM825_3_1777	Carbamidomethyl	C	14
+PSM825_3_179	Carbamidomethyl	C	7
+PSM825_3_18	Carbamidomethyl	C	5
+PSM825_3_180	Carbamidomethyl	C	7
+PSM825_3_1800	Carbamidomethyl	C	13
+PSM825_3_1801	Carbamidomethyl	C	7
+PSM825_3_1801	Carbamidomethyl	C	23
+PSM825_3_1804	Carbamidomethyl	C	11
+PSM825_3_1817	Gln->pyro-Glu	N-term	
+PSM825_3_1818	Gln->pyro-Glu	N-term	
+PSM825_3_1819	Ammonia-loss	N-term	
+PSM825_3_1819	Carbamidomethyl	C	1
+PSM825_3_1819	Carbamidomethyl	C	12
+PSM825_3_1820	Acetyl	N-term	
+PSM825_3_1821	Acetyl	N-term	
+PSM825_3_1822	Acetyl	N-term	
+PSM825_3_1823	Acetyl	N-term	
+PSM825_3_1824	Gln->pyro-Glu	N-term	
+PSM825_3_1824	Carbamidomethyl	C	14
+PSM825_3_1829	Oxidation	M	2
+PSM825_3_1829	Carbamidomethyl	C	3
+PSM825_3_1830	Oxidation	M	2
+PSM825_3_1830	Carbamidomethyl	C	3
+PSM825_3_1850	Carbamidomethyl	C	7
+PSM825_3_1851	Carbamidomethyl	C	7
+PSM825_3_1852	Carbamidomethyl	C	7
+PSM825_3_1857	Carbamidomethyl	C	1
+PSM825_3_1858	Carbamidomethyl	C	1
+PSM825_3_1860	Carbamidomethyl	C	12
+PSM825_3_1861	Carbamidomethyl	C	12
+PSM825_3_1862	Carbamidomethyl	C	12
+PSM825_3_1882	Oxidation	M	3
+PSM825_3_1893	Carbamidomethyl	C	6
+PSM825_3_19	Carbamidomethyl	C	5
+PSM825_3_1908	Carbamidomethyl	C	13
+PSM825_3_1909	Carbamidomethyl	C	13
+PSM825_3_1910	Carbamidomethyl	C	13
+PSM825_3_1911	Carbamidomethyl	C	9
+PSM825_3_1912	Carbamidomethyl	C	9
+PSM825_3_1913	Carbamidomethyl	C	9
+PSM825_3_1914	Oxidation	M	13
+PSM825_3_1915	Oxidation	M	13
+PSM825_3_1916	Oxidation	M	13
+PSM825_3_1917	Oxidation	M	13
+PSM825_3_1927	Carbamidomethyl	C	4
+PSM825_3_1928	Carbamidomethyl	C	4
+PSM825_3_1929	Carbamidomethyl	C	16
+PSM825_3_1930	Carbamidomethyl	C	16
+PSM825_3_1943	Carbamidomethyl	C	7
+PSM825_3_1947	Carbamidomethyl	C	15
+PSM825_3_1948	Carbamidomethyl	C	15
+PSM825_3_1949	Carbamidomethyl	C	15
+PSM825_3_1957	Carbamidomethyl	C	5
+PSM825_3_1958	Carbamidomethyl	C	5
+PSM825_3_1969	Carbamidomethyl	C	3
+PSM825_3_1970	Carbamidomethyl	C	1
+PSM825_3_1971	Carbamidomethyl	C	1
+PSM825_3_1973	Carbamidomethyl	C	8
+PSM825_3_1973	Carbamidomethyl	C	24
+PSM825_3_1974	Carbamidomethyl	C	8
+PSM825_3_1974	Carbamidomethyl	C	24
+PSM825_3_1975	Carbamidomethyl	C	33
+PSM825_3_1975	Carbamidomethyl	C	40
+PSM825_3_1976	Carbamidomethyl	C	33
+PSM825_3_1976	Carbamidomethyl	C	40
+PSM825_3_1985	Carbamidomethyl	C	17
+PSM825_3_1987	Carbamidomethyl	C	16
+PSM825_3_1988	Carbamidomethyl	C	16
+PSM825_3_1989	Carbamidomethyl	C	16
+PSM825_3_1992	Carbamidomethyl	C	15
+PSM825_3_1992	Carbamidomethyl	C	18
+PSM825_3_1992	Carbamidomethyl	C	19
+PSM825_3_20	Carbamidomethyl	C	5
+PSM825_3_2009	Carbamidomethyl	C	4
+PSM825_3_2012	Glu->pyro-Glu	N-term	
+PSM825_3_2013	Ammonia-loss	N-term	
+PSM825_3_2013	Carbamidomethyl	C	1
+PSM825_3_2014	Ammonia-loss	N-term	
+PSM825_3_2014	Carbamidomethyl	C	1
+PSM825_3_2015	Gln->pyro-Glu	N-term	
+PSM825_3_2016	Gln->pyro-Glu	N-term	
+PSM825_3_2017	Gln->pyro-Glu	N-term	
+PSM825_3_2018	Ammonia-loss	N-term	
+PSM825_3_2018	Carbamidomethyl	C	1
+PSM825_3_2023	Gln->pyro-Glu	N-term	
+PSM825_3_2024	Carbamidomethyl	C	4
+PSM825_3_2025	Carbamidomethyl	C	4
+PSM825_3_2026	Gln->pyro-Glu	N-term	
+PSM825_3_2027	Gln->pyro-Glu	N-term	
+PSM825_3_2028	Gln->pyro-Glu	N-term	
+PSM825_3_2035	Ammonia-loss	N-term	
+PSM825_3_2035	Carbamidomethyl	C	1
+PSM825_3_204	Carbamidomethyl	C	5
+PSM825_3_2047	Carbamidomethyl	C	9
+PSM825_3_2048	Carbamidomethyl	C	9
+PSM825_3_2049	Carbamidomethyl	C	9
+PSM825_3_205	Carbamidomethyl	C	5
+PSM825_3_2050	Carbamidomethyl	C	9
+PSM825_3_2057	Carbamidomethyl	C	9
+PSM825_3_2057	Carbamidomethyl	C	10
+PSM825_3_2058	Carbamidomethyl	C	9
+PSM825_3_2058	Carbamidomethyl	C	10
+PSM825_3_206	Carbamidomethyl	C	5
+PSM825_3_207	Carbamidomethyl	C	5
+PSM825_3_2077	Carbamidomethyl	C	4
+PSM825_3_2078	Carbamidomethyl	C	4
+PSM825_3_2087	Carbamidomethyl	C	11
+PSM825_3_2099	Oxidation	M	1
+PSM825_3_2100	Oxidation	M	1
+PSM825_3_2102	Carbamidomethyl	C	5
+PSM825_3_2102	Carbamidomethyl	C	11
+PSM825_3_2109	Oxidation	M	6
+PSM825_3_2110	Oxidation	M	6
+PSM825_3_2111	Oxidation	M	6
+PSM825_3_2112	Oxidation	M	6
+PSM825_3_215	Carbamidomethyl	C	23
+PSM825_3_2158	Carbamidomethyl	C	13
+PSM825_3_2159	Carbamidomethyl	C	13
+PSM825_3_216	Carbamidomethyl	C	23
+PSM825_3_2160	Carbamidomethyl	C	4
+PSM825_3_2160	Carbamidomethyl	C	16
+PSM825_3_2161	Carbamidomethyl	C	4
+PSM825_3_2161	Carbamidomethyl	C	16
+PSM825_3_217	Carbamidomethyl	C	23
+PSM825_3_2170	Carbamidomethyl	C	12
+PSM825_3_2171	Carbamidomethyl	C	12
+PSM825_3_218	Carbamidomethyl	C	23
+PSM825_3_2192	Carbamidomethyl	C	3
+PSM825_3_2192	Carbamidomethyl	C	15
+PSM825_3_2195	Carbamidomethyl	C	2
+PSM825_3_2196	Carbamidomethyl	C	2
+PSM825_3_2202	Carbamidomethyl	C	7
+PSM825_3_2203	Carbamidomethyl	C	7
+PSM825_3_2212	Carbamidomethyl	C	12
+PSM825_3_2213	Carbamidomethyl	C	12
+PSM825_3_2214	Carbamidomethyl	C	12
+PSM825_3_2245	Carbamidomethyl	C	14
+PSM825_3_2246	Carbamidomethyl	C	14
+PSM825_3_2253	Carbamidomethyl	C	19
+PSM825_3_2273	Carbamidomethyl	C	2
+PSM825_3_2275	Carbamidomethyl	C	11
+PSM825_3_2283	Carbamidomethyl	C	1
+PSM825_3_2284	Carbamidomethyl	C	15
+PSM825_3_2285	Carbamidomethyl	C	15
+PSM825_3_2289	Ammonia-loss	N-term	
+PSM825_3_2289	Carbamidomethyl	C	1
+PSM825_3_2289	Carbamidomethyl	C	11
+PSM825_3_2290	Ammonia-loss	N-term	
+PSM825_3_2290	Carbamidomethyl	C	1
+PSM825_3_2290	Carbamidomethyl	C	11
+PSM825_3_2291	Ammonia-loss	N-term	
+PSM825_3_2291	Carbamidomethyl	C	1
+PSM825_3_2291	Carbamidomethyl	C	2
+PSM825_3_2291	Carbamidomethyl	C	12
+PSM825_3_2292	Ammonia-loss	N-term	
+PSM825_3_2292	Carbamidomethyl	C	1
+PSM825_3_2293	Gln->pyro-Glu	N-term	
+PSM825_3_2294	Gln->pyro-Glu	N-term	
+PSM825_3_2295	Gln->pyro-Glu	N-term	
+PSM825_3_2296	Glu->pyro-Glu	N-term	
+PSM825_3_2300	Acetyl	N-term	
+PSM825_3_2301	Acetyl	N-term	
+PSM825_3_2302	Carbamidomethyl	C	16
+PSM825_3_2303	Acetyl	N-term	
+PSM825_3_2311	Carbamidomethyl	C	3
+PSM825_3_2312	Carbamidomethyl	C	3
+PSM825_3_2315	Carbamidomethyl	C	6
+PSM825_3_2316	Carbamidomethyl	C	6
+PSM825_3_2351	Carbamidomethyl	C	7
+PSM825_3_2369	Oxidation	M	1
+PSM825_3_2369	Carbamidomethyl	C	2
+PSM825_3_2370	Oxidation	M	1
+PSM825_3_2370	Carbamidomethyl	C	2
+PSM825_3_2371	Oxidation	M	1
+PSM825_3_2371	Carbamidomethyl	C	2
+PSM825_3_2379	Carbamidomethyl	C	5
+PSM825_3_2379	Carbamidomethyl	C	10
+PSM825_3_238	Carbamidomethyl	C	7
+PSM825_3_2380	Carbamidomethyl	C	5
+PSM825_3_2380	Carbamidomethyl	C	10
+PSM825_3_2381	Carbamidomethyl	C	13
+PSM825_3_2390	Carbamidomethyl	C	9
+PSM825_3_2391	Carbamidomethyl	C	9
+PSM825_3_2392	Carbamidomethyl	C	7
+PSM825_3_2393	Carbamidomethyl	C	7
+PSM825_3_2404	Carbamidomethyl	C	4
+PSM825_3_2404	Carbamidomethyl	C	9
+PSM825_3_2407	Carbamidomethyl	C	11
+PSM825_3_2408	Carbamidomethyl	C	11
+PSM825_3_2409	Carbamidomethyl	C	11
+PSM825_3_2410	Carbamidomethyl	C	11
+PSM825_3_2429	Carbamidomethyl	C	5
+PSM825_3_2451	Carbamidomethyl	C	9
+PSM825_3_2452	Carbamidomethyl	C	9
+PSM825_3_2457	Carbamidomethyl	C	9
+PSM825_3_2458	Carbamidomethyl	C	9
+PSM825_3_2459	Carbamidomethyl	C	9
+PSM825_3_2460	Carbamidomethyl	C	4
+PSM825_3_2461	Carbamidomethyl	C	4
+PSM825_3_2468	Carbamidomethyl	C	11
+PSM825_3_2469	Carbamidomethyl	C	11
+PSM825_3_2476	Carbamidomethyl	C	4
+PSM825_3_2477	Carbamidomethyl	C	4
+PSM825_3_2488	Carbamidomethyl	C	2
+PSM825_3_2489	Carbamidomethyl	C	2
+PSM825_3_2490	Carbamidomethyl	C	9
+PSM825_3_2491	Carbamidomethyl	C	4
+PSM825_3_2492	Carbamidomethyl	C	4
+PSM825_3_2494	Carbamidomethyl	C	3
+PSM825_3_2508	Carbamidomethyl	C	1
+PSM825_3_2519	Carbamidomethyl	C	7
+PSM825_3_2520	Carbamidomethyl	C	7
+PSM825_3_2524	Carbamidomethyl	C	6
+PSM825_3_2525	Carbamidomethyl	C	5
+PSM825_3_2528	Carbamidomethyl	C	10
+PSM825_3_2529	Carbamidomethyl	C	10
+PSM825_3_2533	Carbamidomethyl	C	13
+PSM825_3_2533	Carbamidomethyl	C	16
+PSM825_3_2534	Carbamidomethyl	C	3
+PSM825_3_2535	Carbamidomethyl	C	3
+PSM825_3_2537	Carbamidomethyl	C	14
+PSM825_3_2538	Carbamidomethyl	C	14
+PSM825_3_254	Carbamidomethyl	C	9
+PSM825_3_255	Carbamidomethyl	C	9
+PSM825_3_2557	Carbamidomethyl	C	5
+PSM825_3_2558	Carbamidomethyl	C	5
+PSM825_3_256	Carbamidomethyl	C	9
+PSM825_3_257	Carbamidomethyl	C	7
+PSM825_3_257	Carbamidomethyl	C	11
+PSM825_3_2575	Carbamidomethyl	C	11
+PSM825_3_2575	Carbamidomethyl	C	14
+PSM825_3_2576	Carbamidomethyl	C	11
+PSM825_3_2576	Carbamidomethyl	C	14
+PSM825_3_2577	Carbamidomethyl	C	11
+PSM825_3_2577	Carbamidomethyl	C	14
+PSM825_3_2578	Carbamidomethyl	C	11
+PSM825_3_2578	Carbamidomethyl	C	14
+PSM825_3_258	Carbamidomethyl	C	7
+PSM825_3_258	Carbamidomethyl	C	11
+PSM825_3_2580	Carbamidomethyl	C	4
+PSM825_3_2580	Carbamidomethyl	C	31
+PSM825_3_2581	Carbamidomethyl	C	4
+PSM825_3_2581	Carbamidomethyl	C	31
+PSM825_3_259	Carbamidomethyl	C	7
+PSM825_3_259	Carbamidomethyl	C	11
+PSM825_3_2597	Carbamidomethyl	C	3
+PSM825_3_2597	Carbamidomethyl	C	4
+PSM825_3_2598	Carbamidomethyl	C	3
+PSM825_3_2598	Carbamidomethyl	C	4
+PSM825_3_260	Carbamidomethyl	C	7
+PSM825_3_260	Carbamidomethyl	C	11
+PSM825_3_261	Carbamidomethyl	C	7
+PSM825_3_261	Carbamidomethyl	C	11
+PSM825_3_2610	Carbamidomethyl	C	13
+PSM825_3_2611	Carbamidomethyl	C	6
+PSM825_3_2612	Carbamidomethyl	C	6
+PSM825_3_2619	Carbamidomethyl	C	12
+PSM825_3_2619	Carbamidomethyl	C	25
+PSM825_3_262	Carbamidomethyl	C	7
+PSM825_3_262	Carbamidomethyl	C	11
+PSM825_3_263	Carbamidomethyl	C	7
+PSM825_3_263	Carbamidomethyl	C	11
+PSM825_3_2630	Carbamidomethyl	C	13
+PSM825_3_2638	Carbamidomethyl	C	21
+PSM825_3_264	Carbamidomethyl	C	7
+PSM825_3_264	Carbamidomethyl	C	11
+PSM825_3_2641	Ammonia-loss	N-term	
+PSM825_3_2641	Carbamidomethyl	C	1
+PSM825_3_2641	Carbamidomethyl	C	2
+PSM825_3_2641	Carbamidomethyl	C	10
+PSM825_3_2644	Gln->pyro-Glu	N-term	
+PSM825_3_2645	Ammonia-loss	N-term	
+PSM825_3_2645	Carbamidomethyl	C	1
+PSM825_3_2645	Carbamidomethyl	C	8
+PSM825_3_2646	Acetyl	N-term	
+PSM825_3_2647	Acetyl	N-term	
+PSM825_3_2648	Carbamidomethyl	C	17
+PSM825_3_2649	Ammonia-loss	N-term	
+PSM825_3_2649	Carbamidomethyl	C	1
+PSM825_3_265	Carbamidomethyl	C	7
+PSM825_3_265	Carbamidomethyl	C	11
+PSM825_3_2650	Ammonia-loss	N-term	
+PSM825_3_2650	Carbamidomethyl	C	1
+PSM825_3_2652	Acetyl	N-term	
+PSM825_3_2653	Acetyl	N-term	
+PSM825_3_2654	Carbamidomethyl	C	9
+PSM825_3_2655	Acetyl	N-term	
+PSM825_3_2659	Carbamidomethyl	C	2
+PSM825_3_2659	Carbamidomethyl	C	3
+PSM825_3_2659	Carbamidomethyl	C	5
+PSM825_3_2659	Carbamidomethyl	C	6
+PSM825_3_2659	Carbamidomethyl	C	10
+PSM825_3_2660	Carbamidomethyl	C	5
+PSM825_3_2666	Carbamidomethyl	C	7
+PSM825_3_2667	Carbamidomethyl	C	7
+PSM825_3_2683	Carbamidomethyl	C	4
+PSM825_3_2683	Carbamidomethyl	C	5
+PSM825_3_2684	Carbamidomethyl	C	4
+PSM825_3_2684	Carbamidomethyl	C	5
+PSM825_3_2685	Carbamidomethyl	C	4
+PSM825_3_2685	Carbamidomethyl	C	5
+PSM825_3_2686	Carbamidomethyl	C	8
+PSM825_3_2687	Carbamidomethyl	C	8
+PSM825_3_2695	Oxidation	M	2
+PSM825_3_2696	Carbamidomethyl	C	7
+PSM825_3_2697	Carbamidomethyl	C	7
+PSM825_3_2702	Carbamidomethyl	C	5
+PSM825_3_2702	Carbamidomethyl	C	9
+PSM825_3_2703	Carbamidomethyl	C	5
+PSM825_3_2703	Carbamidomethyl	C	9
+PSM825_3_2704	Carbamidomethyl	C	7
+PSM825_3_2705	Carbamidomethyl	C	7
+PSM825_3_2706	Carbamidomethyl	C	14
+PSM825_3_2708	Carbamidomethyl	C	8
+PSM825_3_2709	Carbamidomethyl	C	8
+PSM825_3_2710	Carbamidomethyl	C	8
+PSM825_3_272	Carbamidomethyl	C	10
+PSM825_3_2723	Carbamidomethyl	C	2
+PSM825_3_2723	Carbamidomethyl	C	3
+PSM825_3_2723	Carbamidomethyl	C	10
+PSM825_3_2724	Carbamidomethyl	C	2
+PSM825_3_2724	Carbamidomethyl	C	3
+PSM825_3_2724	Carbamidomethyl	C	10
+PSM825_3_273	Carbamidomethyl	C	10
+PSM825_3_274	Carbamidomethyl	C	10
+PSM825_3_2744	Carbamidomethyl	C	5
+PSM825_3_2745	Carbamidomethyl	C	5
+PSM825_3_2749	Carbamidomethyl	C	5
+PSM825_3_2749	Carbamidomethyl	C	12
+PSM825_3_275	Carbamidomethyl	C	10
+PSM825_3_2750	Carbamidomethyl	C	5
+PSM825_3_2750	Carbamidomethyl	C	12
+PSM825_3_2758	Carbamidomethyl	C	8
+PSM825_3_2759	Carbamidomethyl	C	8
+PSM825_3_2760	Carbamidomethyl	C	8
+PSM825_3_2761	Carbamidomethyl	C	8
+PSM825_3_2762	Carbamidomethyl	C	15
+PSM825_3_2763	Carbamidomethyl	C	15
+PSM825_3_2764	Carbamidomethyl	C	15
+PSM825_3_2765	Carbamidomethyl	C	15
+PSM825_3_2776	Carbamidomethyl	C	8
+PSM825_3_2777	Carbamidomethyl	C	6
+PSM825_3_2782	Carbamidomethyl	C	6
+PSM825_3_281	Carbamidomethyl	C	13
+PSM825_3_2816	Carbamidomethyl	C	8
+PSM825_3_2817	Carbamidomethyl	C	8
+PSM825_3_2818	Carbamidomethyl	C	9
+PSM825_3_2819	Carbamidomethyl	C	9
+PSM825_3_282	Carbamidomethyl	C	13
+PSM825_3_2820	Carbamidomethyl	C	1
+PSM825_3_283	Carbamidomethyl	C	13
+PSM825_3_2832	Carbamidomethyl	C	10
+PSM825_3_2833	Carbamidomethyl	C	7
+PSM825_3_2836	Oxidation	M	10
+PSM825_3_2837	Oxidation	M	10
+PSM825_3_2853	Carbamidomethyl	C	12
+PSM825_3_2861	Carbamidomethyl	C	10
+PSM825_3_2862	Carbamidomethyl	C	10
+PSM825_3_2863	Carbamidomethyl	C	10
+PSM825_3_2866	Carbamidomethyl	C	5
+PSM825_3_2867	Carbamidomethyl	C	5
+PSM825_3_2868	Carbamidomethyl	C	10
+PSM825_3_2869	Carbamidomethyl	C	11
+PSM825_3_2885	Carbamidomethyl	C	11
+PSM825_3_2886	Carbamidomethyl	C	11
+PSM825_3_2923	Carbamidomethyl	C	5
+PSM825_3_2924	Carbamidomethyl	C	5
+PSM825_3_2929	Carbamidomethyl	C	5
+PSM825_3_2930	Carbamidomethyl	C	4
+PSM825_3_2931	Carbamidomethyl	C	4
+PSM825_3_2934	Carbamidomethyl	C	18
+PSM825_3_2935	Carbamidomethyl	C	18
+PSM825_3_2936	Carbamidomethyl	C	18
+PSM825_3_2941	Carbamidomethyl	C	6
+PSM825_3_2944	Carbamidomethyl	C	2
+PSM825_3_2945	Carbamidomethyl	C	2
+PSM825_3_2946	Carbamidomethyl	C	15
+PSM825_3_2947	Carbamidomethyl	C	15
+PSM825_3_2950	Carbamidomethyl	C	3
+PSM825_3_2951	Carbamidomethyl	C	3
+PSM825_3_2954	Carbamidomethyl	C	22
+PSM825_3_2955	Oxidation	M	8
+PSM825_3_2956	Oxidation	M	8
+PSM825_3_2963	Carbamidomethyl	C	9
+PSM825_3_2980	Gln->pyro-Glu	N-term	
+PSM825_3_2981	Gln->pyro-Glu	N-term	
+PSM825_3_2982	Gln->pyro-Glu	N-term	
+PSM825_3_2983	Carbamidomethyl	C	9
+PSM825_3_2984	Gln->pyro-Glu	N-term	
+PSM825_3_2984	Carbamidomethyl	C	5
+PSM825_3_2992	Gln->pyro-Glu	N-term	
+PSM825_3_2993	Gln->pyro-Glu	N-term	
+PSM825_3_2994	Ammonia-loss	N-term	
+PSM825_3_2994	Carbamidomethyl	C	1
+PSM825_3_2995	Ammonia-loss	N-term	
+PSM825_3_2995	Carbamidomethyl	C	1
+PSM825_3_2996	Ammonia-loss	N-term	
+PSM825_3_2996	Carbamidomethyl	C	1
+PSM825_3_2998	Acetyl	N-term	
+PSM825_3_2999	Acetyl	N-term	
+PSM825_3_3000	Acetyl	N-term	
+PSM825_3_3005	Carbamidomethyl	C	4
+PSM825_3_3009	Carbamidomethyl	C	6
+PSM825_3_3010	Carbamidomethyl	C	6
+PSM825_3_3011	Carbamidomethyl	C	6
+PSM825_3_3012	Carbamidomethyl	C	6
+PSM825_3_3020	Carbamidomethyl	C	10
+PSM825_3_3024	Carbamidomethyl	C	7
+PSM825_3_3025	Carbamidomethyl	C	7
+PSM825_3_3026	Carbamidomethyl	C	7
+PSM825_3_3039	Carbamidomethyl	C	9
+PSM825_3_3040	Carbamidomethyl	C	9
+PSM825_3_3054	Carbamidomethyl	C	7
+PSM825_3_3057	Carbamidomethyl	C	2
+PSM825_3_3057	Carbamidomethyl	C	8
+PSM825_3_3058	Carbamidomethyl	C	2
+PSM825_3_3058	Carbamidomethyl	C	8
+PSM825_3_3059	Carbamidomethyl	C	4
+PSM825_3_3061	Oxidation	M	9
+PSM825_3_3062	Oxidation	M	9
+PSM825_3_3064	Carbamidomethyl	C	3
+PSM825_3_3065	Carbamidomethyl	C	3
+PSM825_3_3108	Oxidation	M	7
+PSM825_3_3109	Oxidation	M	7
+PSM825_3_3123	Carbamidomethyl	C	9
+PSM825_3_3124	Carbamidomethyl	C	9
+PSM825_3_3130	Carbamidomethyl	C	7
+PSM825_3_3131	Carbamidomethyl	C	7
+PSM825_3_3139	Carbamidomethyl	C	10
+PSM825_3_3140	Carbamidomethyl	C	10
+PSM825_3_3141	Carbamidomethyl	C	7
+PSM825_3_3141	Carbamidomethyl	C	10
+PSM825_3_3142	Carbamidomethyl	C	7
+PSM825_3_3142	Carbamidomethyl	C	10
+PSM825_3_3150	Oxidation	M	1
+PSM825_3_3151	Oxidation	M	1
+PSM825_3_3153	Carbamidomethyl	C	3
+PSM825_3_3153	Carbamidomethyl	C	6
+PSM825_3_3154	Carbamidomethyl	C	7
+PSM825_3_3155	Carbamidomethyl	C	3
+PSM825_3_3156	Carbamidomethyl	C	3
+PSM825_3_3157	Carbamidomethyl	C	3
+PSM825_3_3158	Carbamidomethyl	C	34
+PSM825_3_3159	Carbamidomethyl	C	34
+PSM825_3_3160	Carbamidomethyl	C	34
+PSM825_3_3161	Carbamidomethyl	C	34
+PSM825_3_3163	Carbamidomethyl	C	3
+PSM825_3_3164	Carbamidomethyl	C	3
+PSM825_3_3165	Carbamidomethyl	C	3
+PSM825_3_3175	Carbamidomethyl	C	2
+PSM825_3_3178	Carbamidomethyl	C	10
+PSM825_3_3179	Carbamidomethyl	C	10
+PSM825_3_318	Carbamidomethyl	C	4
+PSM825_3_3180	Carbamidomethyl	C	5
+PSM825_3_3181	Carbamidomethyl	C	8
+PSM825_3_3182	Carbamidomethyl	C	8
+PSM825_3_3183	Carbamidomethyl	C	8
+PSM825_3_3184	Carbamidomethyl	C	8
+PSM825_3_3185	Carbamidomethyl	C	8
+PSM825_3_3188	Carbamidomethyl	C	2
+PSM825_3_3188	Carbamidomethyl	C	10
+PSM825_3_3189	Carbamidomethyl	C	2
+PSM825_3_3189	Carbamidomethyl	C	10
+PSM825_3_319	Carbamidomethyl	C	4
+PSM825_3_3192	Carbamidomethyl	C	4
+PSM825_3_3199	Carbamidomethyl	C	14
+PSM825_3_320	Carbamidomethyl	C	4
+PSM825_3_3201	Carbamidomethyl	C	1
+PSM825_3_321	Carbamidomethyl	C	4
+PSM825_3_3215	Carbamidomethyl	C	20
+PSM825_3_3216	Carbamidomethyl	C	2
+PSM825_3_3216	Carbamidomethyl	C	6
+PSM825_3_322	Carbamidomethyl	C	4
+PSM825_3_3234	Carbamidomethyl	C	12
+PSM825_3_3235	Carbamidomethyl	C	8
+PSM825_3_3236	Carbamidomethyl	C	8
+PSM825_3_3237	Carbamidomethyl	C	15
+PSM825_3_3247	Carbamidomethyl	C	8
+PSM825_3_3261	Carbamidomethyl	C	6
+PSM825_3_3261	Carbamidomethyl	C	7
+PSM825_3_3262	Carbamidomethyl	C	16
+PSM825_3_3263	Carbamidomethyl	C	20
+PSM825_3_3264	Carbamidomethyl	C	20
+PSM825_3_3265	Carbamidomethyl	C	20
+PSM825_3_3283	Carbamidomethyl	C	3
+PSM825_3_329	Carbamidomethyl	C	25
+PSM825_3_330	Carbamidomethyl	C	25
+PSM825_3_3305	Carbamidomethyl	C	20
+PSM825_3_3306	Carbamidomethyl	C	20
+PSM825_3_331	Carbamidomethyl	C	25
+PSM825_3_3317	Carbamidomethyl	C	6
+PSM825_3_3317	Carbamidomethyl	C	10
+PSM825_3_3319	Carbamidomethyl	C	18
+PSM825_3_332	Carbamidomethyl	C	25
+PSM825_3_3321	Ammonia-loss	N-term	
+PSM825_3_3321	Carbamidomethyl	C	1
+PSM825_3_3322	Ammonia-loss	N-term	
+PSM825_3_3322	Carbamidomethyl	C	1
+PSM825_3_3326	Carbamidomethyl	C	4
+PSM825_3_3326	Oxidation	M	8
+PSM825_3_3332	Acetyl	N-term	
+PSM825_3_3332	Carbamidomethyl	C	16
+PSM825_3_3334	Gln->pyro-Glu	N-term	
+PSM825_3_3335	Ammonia-loss	N-term	
+PSM825_3_3335	Carbamidomethyl	C	1
+PSM825_3_3340	Carbamidomethyl	C	19
+PSM825_3_3341	Carbamidomethyl	C	19
+PSM825_3_3342	Acetyl	N-term	
+PSM825_3_3343	Acetyl	N-term	
+PSM825_3_3344	Acetyl	N-term	
+PSM825_3_3344	Carbamidomethyl	C	12
+PSM825_3_3345	Acetyl	N-term	
+PSM825_3_3345	Carbamidomethyl	C	12
+PSM825_3_3348	Acetyl	N-term	
+PSM825_3_3348	Carbamidomethyl	C	3
+PSM825_3_3349	Gln->pyro-Glu	N-term	
+PSM825_3_3350	Gln->pyro-Glu	N-term	
+PSM825_3_3352	Ammonia-loss	N-term	
+PSM825_3_3352	Carbamidomethyl	C	1
+PSM825_3_3354	Acetyl	N-term	
+PSM825_3_3355	Acetyl	N-term	
+PSM825_3_3362	Carbamidomethyl	C	2
+PSM825_3_3365	Carbamidomethyl	C	1
+PSM825_3_3365	Carbamidomethyl	C	2
+PSM825_3_3366	Carbamidomethyl	C	1
+PSM825_3_3366	Carbamidomethyl	C	2
+PSM825_3_3372	Oxidation	M	13
+PSM825_3_3398	Carbamidomethyl	C	2
+PSM825_3_3399	Carbamidomethyl	C	2
+PSM825_3_340	Carbamidomethyl	C	4
+PSM825_3_3400	Carbamidomethyl	C	2
+PSM825_3_3403	Carbamidomethyl	C	5
+PSM825_3_341	Carbamidomethyl	C	4
+PSM825_3_3424	Carbamidomethyl	C	9
+PSM825_3_343	Carbamidomethyl	C	2
+PSM825_3_343	Carbamidomethyl	C	13
+PSM825_3_343	Carbamidomethyl	C	17
+PSM825_3_3435	Carbamidomethyl	C	4
+PSM825_3_3436	Carbamidomethyl	C	4
+PSM825_3_3437	Carbamidomethyl	C	6
+PSM825_3_3437	Carbamidomethyl	C	7
+PSM825_3_3438	Carbamidomethyl	C	4
+PSM825_3_3439	Carbamidomethyl	C	4
+PSM825_3_344	Carbamidomethyl	C	2
+PSM825_3_344	Carbamidomethyl	C	13
+PSM825_3_344	Carbamidomethyl	C	17
+PSM825_3_3445	Carbamidomethyl	C	3
+PSM825_3_3446	Carbamidomethyl	C	3
+PSM825_3_3447	Carbamidomethyl	C	3
+PSM825_3_3448	Carbamidomethyl	C	3
+PSM825_3_3449	Carbamidomethyl	C	8
+PSM825_3_3461	Carbamidomethyl	C	6
+PSM825_3_3462	Carbamidomethyl	C	6
+PSM825_3_3471	Carbamidomethyl	C	8
+PSM825_3_3483	Carbamidomethyl	C	5
+PSM825_3_3484	Carbamidomethyl	C	3
+PSM825_3_3484	Carbamidomethyl	C	11
+PSM825_3_3485	Carbamidomethyl	C	3
+PSM825_3_3485	Carbamidomethyl	C	11
+PSM825_3_3486	Carbamidomethyl	C	12
+PSM825_3_3488	Oxidation	M	5
+PSM825_3_3505	Carbamidomethyl	C	1
+PSM825_3_3509	Carbamidomethyl	C	10
+PSM825_3_3510	Carbamidomethyl	C	10
+PSM825_3_3512	Oxidation	M	10
+PSM825_3_3513	Oxidation	M	10
+PSM825_3_3514	Oxidation	M	10
+PSM825_3_3515	Oxidation	M	10
+PSM825_3_3516	Oxidation	M	10
+PSM825_3_352	Carbamidomethyl	C	16
+PSM825_3_3528	Carbamidomethyl	C	1
+PSM825_3_3528	Carbamidomethyl	C	2
+PSM825_3_3529	Carbamidomethyl	C	1
+PSM825_3_3529	Carbamidomethyl	C	2
+PSM825_3_353	Carbamidomethyl	C	16
+PSM825_3_3535	Carbamidomethyl	C	9
+PSM825_3_354	Acetyl	N-term	
+PSM825_3_354	Carbamidomethyl	C	16
+PSM825_3_3545	Carbamidomethyl	C	8
+PSM825_3_3546	Carbamidomethyl	C	8
+PSM825_3_3547	Carbamidomethyl	C	8
+PSM825_3_355	Acetyl	N-term	
+PSM825_3_355	Carbamidomethyl	C	16
+PSM825_3_3552	Carbamidomethyl	C	4
+PSM825_3_3555	Carbamidomethyl	C	6
+PSM825_3_3556	Carbamidomethyl	C	6
+PSM825_3_3566	Carbamidomethyl	C	4
+PSM825_3_3567	Carbamidomethyl	C	4
+PSM825_3_3569	Carbamidomethyl	C	5
+PSM825_3_3570	Carbamidomethyl	C	5
+PSM825_3_3571	Carbamidomethyl	C	4
+PSM825_3_3571	Oxidation	M	12
+PSM825_3_3572	Carbamidomethyl	C	4
+PSM825_3_3572	Oxidation	M	12
+PSM825_3_3575	Carbamidomethyl	C	16
+PSM825_3_3576	Carbamidomethyl	C	16
+PSM825_3_3577	Carbamidomethyl	C	16
+PSM825_3_3587	Carbamidomethyl	C	21
+PSM825_3_3605	Carbamidomethyl	C	10
+PSM825_3_3621	Carbamidomethyl	C	5
+PSM825_3_3621	Carbamidomethyl	C	12
+PSM825_3_3626	Carbamidomethyl	C	2
+PSM825_3_3635	Carbamidomethyl	C	8
+PSM825_3_3636	Carbamidomethyl	C	8
+PSM825_3_3637	Carbamidomethyl	C	19
+PSM825_3_3639	Carbamidomethyl	C	11
+PSM825_3_3640	Carbamidomethyl	C	11
+PSM825_3_3641	Carbamidomethyl	C	10
+PSM825_3_3642	Carbamidomethyl	C	10
+PSM825_3_3644	Carbamidomethyl	C	14
+PSM825_3_3654	Carbamidomethyl	C	5
+PSM825_3_366	Carbamidomethyl	C	7
+PSM825_3_3662	Carbamidomethyl	C	14
+PSM825_3_3666	Carbamidomethyl	C	14
+PSM825_3_367	Carbamidomethyl	C	7
+PSM825_3_3678	Carbamidomethyl	C	8
+PSM825_3_3678	Carbamidomethyl	C	22
+PSM825_3_368	Carbamidomethyl	C	7
+PSM825_3_3686	Carbamidomethyl	C	9
+PSM825_3_3687	Carbamidomethyl	C	9
+PSM825_3_369	Carbamidomethyl	C	6
+PSM825_3_369	Carbamidomethyl	C	15
+PSM825_3_3698	Carbamidomethyl	C	6
+PSM825_3_3699	Oxidation	M	2
+PSM825_3_370	Carbamidomethyl	C	6
+PSM825_3_370	Carbamidomethyl	C	15
+PSM825_3_3700	Carbamidomethyl	C	17
+PSM825_3_3701	Carbamidomethyl	C	17
+PSM825_3_3702	Carbamidomethyl	C	7
+PSM825_3_3706	Ammonia-loss	N-term	
+PSM825_3_3706	Carbamidomethyl	C	1
+PSM825_3_3707	Ammonia-loss	N-term	
+PSM825_3_3707	Carbamidomethyl	C	1
+PSM825_3_371	Carbamidomethyl	C	7
+PSM825_3_3710	Carbamidomethyl	C	3
+PSM825_3_3711	Carbamidomethyl	C	3
+PSM825_3_3712	Gln->pyro-Glu	N-term	
+PSM825_3_3717	Carbamidomethyl	C	7
+PSM825_3_3718	Carbamidomethyl	C	7
+PSM825_3_372	Carbamidomethyl	C	7
+PSM825_3_3721	Gln->pyro-Glu	N-term	
+PSM825_3_3722	Gln->pyro-Glu	N-term	
+PSM825_3_3723	Acetyl	N-term	
+PSM825_3_3724	Gln->pyro-Glu	N-term	
+PSM825_3_3727	Ammonia-loss	N-term	
+PSM825_3_3727	Carbamidomethyl	C	1
+PSM825_3_3727	Carbamidomethyl	C	8
+PSM825_3_3728	Gln->pyro-Glu	N-term	
+PSM825_3_3729	Acetyl	N-term	
+PSM825_3_3729	Carbamidomethyl	C	8
+PSM825_3_373	Carbamidomethyl	C	7
+PSM825_3_3731	Acetyl	N-term	
+PSM825_3_3732	Acetyl	N-term	
+PSM825_3_3733	Acetyl	N-term	
+PSM825_3_3734	Carbamidomethyl	C	13
+PSM825_3_3735	Acetyl	N-term	
+PSM825_3_3737	Carbamidomethyl	C	14
+PSM825_3_3744	Carbamidomethyl	C	10
+PSM825_3_3745	Carbamidomethyl	C	10
+PSM825_3_3758	Oxidation	M	4
+PSM825_3_3758	Carbamidomethyl	C	11
+PSM825_3_3759	Oxidation	M	1
+PSM825_3_3773	Carbamidomethyl	C	8
+PSM825_3_3774	Carbamidomethyl	C	8
+PSM825_3_3783	Carbamidomethyl	C	10
+PSM825_3_3784	Carbamidomethyl	C	10
+PSM825_3_3788	Carbamidomethyl	C	8
+PSM825_3_3789	Carbamidomethyl	C	8
+PSM825_3_3793	Carbamidomethyl	C	4
+PSM825_3_3793	Carbamidomethyl	C	11
+PSM825_3_3794	Carbamidomethyl	C	2
+PSM825_3_3796	Carbamidomethyl	C	2
+PSM825_3_3818	Oxidation	M	2
+PSM825_3_3819	Oxidation	M	2
+PSM825_3_3820	Oxidation	M	2
+PSM825_3_3840	Carbamidomethyl	C	2
+PSM825_3_3840	Carbamidomethyl	C	4
+PSM825_3_3841	Carbamidomethyl	C	2
+PSM825_3_3841	Carbamidomethyl	C	4
+PSM825_3_3844	Carbamidomethyl	C	10
+PSM825_3_3845	Carbamidomethyl	C	10
+PSM825_3_3852	Carbamidomethyl	C	2
+PSM825_3_3852	Carbamidomethyl	C	18
+PSM825_3_3853	Carbamidomethyl	C	3
+PSM825_3_3854	Carbamidomethyl	C	3
+PSM825_3_3855	Carbamidomethyl	C	3
+PSM825_3_3856	Carbamidomethyl	C	6
+PSM825_3_3858	Carbamidomethyl	C	5
+PSM825_3_3859	Carbamidomethyl	C	5
+PSM825_3_3866	Carbamidomethyl	C	6
+PSM825_3_3867	Carbamidomethyl	C	6
+PSM825_3_3873	Carbamidomethyl	C	11
+PSM825_3_3874	Carbamidomethyl	C	11
+PSM825_3_3892	Carbamidomethyl	C	6
+PSM825_3_3897	Carbamidomethyl	C	7
+PSM825_3_3898	Carbamidomethyl	C	7
+PSM825_3_3899	Oxidation	M	8
+PSM825_3_39	Carbamidomethyl	C	19
+PSM825_3_3905	Carbamidomethyl	C	3
+PSM825_3_3918	Carbamidomethyl	C	1
+PSM825_3_3919	Carbamidomethyl	C	1
+PSM825_3_3920	Carbamidomethyl	C	3
+PSM825_3_3921	Carbamidomethyl	C	3
+PSM825_3_3937	Carbamidomethyl	C	2
+PSM825_3_394	Oxidation	M	11
+PSM825_3_394	Carbamidomethyl	C	19
+PSM825_3_3945	Carbamidomethyl	C	2
+PSM825_3_3946	Carbamidomethyl	C	2
+PSM825_3_395	Oxidation	M	11
+PSM825_3_395	Carbamidomethyl	C	19
+PSM825_3_3950	Carbamidomethyl	C	2
+PSM825_3_3950	Carbamidomethyl	C	5
+PSM825_3_3956	Carbamidomethyl	C	9
+PSM825_3_3957	Carbamidomethyl	C	9
+PSM825_3_3958	Carbamidomethyl	C	5
+PSM825_3_3959	Carbamidomethyl	C	2
+PSM825_3_396	Carbamidomethyl	C	24
+PSM825_3_396	Carbamidomethyl	C	27
+PSM825_3_397	Carbamidomethyl	C	4
+PSM825_3_398	Carbamidomethyl	C	4
+PSM825_3_3983	Carbamidomethyl	C	6
+PSM825_3_3984	Carbamidomethyl	C	6
+PSM825_3_3986	Carbamidomethyl	C	14
+PSM825_3_3987	Carbamidomethyl	C	14
+PSM825_3_399	Carbamidomethyl	C	2
+PSM825_3_399	Carbamidomethyl	C	13
+PSM825_3_3997	Carbamidomethyl	C	12
+PSM825_3_40	Carbamidomethyl	C	19
+PSM825_3_400	Carbamidomethyl	C	2
+PSM825_3_400	Carbamidomethyl	C	13
+PSM825_3_4007	Oxidation	M	1
+PSM825_3_4007	Carbamidomethyl	C	7
+PSM825_3_4016	Carbamidomethyl	C	10
+PSM825_3_4022	Carbamidomethyl	C	13
+PSM825_3_4035	Carbamidomethyl	C	9
+PSM825_3_4036	Carbamidomethyl	C	9
+PSM825_3_4037	Carbamidomethyl	C	9
+PSM825_3_4038	Carbamidomethyl	C	4
+PSM825_3_4040	Carbamidomethyl	C	12
+PSM825_3_4041	Carbamidomethyl	C	7
+PSM825_3_4042	Carbamidomethyl	C	7
+PSM825_3_4043	Carbamidomethyl	C	6
+PSM825_3_4044	Carbamidomethyl	C	10
+PSM825_3_4045	Carbamidomethyl	C	10
+PSM825_3_4046	Carbamidomethyl	C	15
+PSM825_3_4046	Carbamidomethyl	C	20
+PSM825_3_4047	Carbamidomethyl	C	26
+PSM825_3_4054	Carbamidomethyl	C	13
+PSM825_3_4064	Carbamidomethyl	C	13
+PSM825_3_4067	Carbamidomethyl	C	10
+PSM825_3_4070	Carbamidomethyl	C	23
+PSM825_3_4071	Carbamidomethyl	C	23
+PSM825_3_4072	Carbamidomethyl	C	2
+PSM825_3_4074	Gln->pyro-Glu	N-term	
+PSM825_3_4075	Gln->pyro-Glu	N-term	
+PSM825_3_4076	Gln->pyro-Glu	N-term	
+PSM825_3_4077	Gln->pyro-Glu	N-term	
+PSM825_3_4078	Gln->pyro-Glu	N-term	
+PSM825_3_4089	Carbamidomethyl	C	4
+PSM825_3_4089	Carbamidomethyl	C	17
+PSM825_3_4092	Ammonia-loss	N-term	
+PSM825_3_4092	Carbamidomethyl	C	1
+PSM825_3_4097	Oxidation	M	5
+PSM825_3_4097	Carbamidomethyl	C	7
+PSM825_3_41	Carbamidomethyl	C	19
+PSM825_3_4100	Gln->pyro-Glu	N-term	
+PSM825_3_4101	Acetyl	N-term	
+PSM825_3_4101	Carbamidomethyl	C	11
+PSM825_3_4102	Acetyl	N-term	
+PSM825_3_4102	Carbamidomethyl	C	11
+PSM825_3_4103	Ammonia-loss	N-term	
+PSM825_3_4103	Carbamidomethyl	C	1
+PSM825_3_4107	Ammonia-loss	N-term	
+PSM825_3_4107	Carbamidomethyl	C	1
+PSM825_3_411	Gln->pyro-Glu	N-term	
+PSM825_3_411	Carbamidomethyl	C	23
+PSM825_3_4115	Carbamidomethyl	C	8
+PSM825_3_412	Gln->pyro-Glu	N-term	
+PSM825_3_412	Carbamidomethyl	C	23
+PSM825_3_4126	Carbamidomethyl	C	7
+PSM825_3_4128	Carbamidomethyl	C	3
+PSM825_3_4128	Carbamidomethyl	C	10
+PSM825_3_413	Carbamidomethyl	C	11
+PSM825_3_413	Carbamidomethyl	C	14
+PSM825_3_414	Carbamidomethyl	C	11
+PSM825_3_414	Carbamidomethyl	C	14
+PSM825_3_4144	Carbamidomethyl	C	3
+PSM825_3_4145	Carbamidomethyl	C	3
+PSM825_3_4146	Carbamidomethyl	C	3
+PSM825_3_415	Carbamidomethyl	C	11
+PSM825_3_415	Carbamidomethyl	C	14
+PSM825_3_4155	Carbamidomethyl	C	1
+PSM825_3_4155	Carbamidomethyl	C	2
+PSM825_3_4156	Carbamidomethyl	C	1
+PSM825_3_4156	Carbamidomethyl	C	2
+PSM825_3_4174	Carbamidomethyl	C	7
+PSM825_3_4175	Carbamidomethyl	C	7
+PSM825_3_4176	Carbamidomethyl	C	7
+PSM825_3_4178	Oxidation	M	6
+PSM825_3_4179	Oxidation	M	6
+PSM825_3_4184	Carbamidomethyl	C	2
+PSM825_3_4184	Carbamidomethyl	C	8
+PSM825_3_4185	Carbamidomethyl	C	2
+PSM825_3_4185	Carbamidomethyl	C	8
+PSM825_3_4195	Carbamidomethyl	C	3
+PSM825_3_42	Carbamidomethyl	C	19
+PSM825_3_420	Carbamidomethyl	C	11
+PSM825_3_420	Carbamidomethyl	C	26
+PSM825_3_421	Carbamidomethyl	C	11
+PSM825_3_421	Carbamidomethyl	C	26
+PSM825_3_4216	Carbamidomethyl	C	2
+PSM825_3_4216	Carbamidomethyl	C	4
+PSM825_3_422	Carbamidomethyl	C	11
+PSM825_3_422	Carbamidomethyl	C	26
+PSM825_3_423	Carbamidomethyl	C	11
+PSM825_3_423	Carbamidomethyl	C	26
+PSM825_3_424	Carbamidomethyl	C	11
+PSM825_3_424	Carbamidomethyl	C	26
+PSM825_3_4240	Carbamidomethyl	C	14
+PSM825_3_425	Carbamidomethyl	C	11
+PSM825_3_425	Carbamidomethyl	C	26
+PSM825_3_4259	Carbamidomethyl	C	4
+PSM825_3_426	Carbamidomethyl	C	11
+PSM825_3_426	Carbamidomethyl	C	26
+PSM825_3_4260	Carbamidomethyl	C	4
+PSM825_3_4264	Oxidation	M	1
+PSM825_3_4265	Oxidation	M	1
+PSM825_3_4266	Oxidation	M	1
+PSM825_3_4267	Oxidation	M	1
+PSM825_3_4268	Oxidation	M	1
+PSM825_3_4269	Oxidation	M	1
+PSM825_3_427	Carbamidomethyl	C	11
+PSM825_3_427	Carbamidomethyl	C	26
+PSM825_3_4270	Oxidation	M	1
+PSM825_3_4271	Carbamidomethyl	C	4
+PSM825_3_428	Carbamidomethyl	C	11
+PSM825_3_428	Carbamidomethyl	C	26
+PSM825_3_43	Carbamidomethyl	C	19
+PSM825_3_4301	Carbamidomethyl	C	4
+PSM825_3_4301	Carbamidomethyl	C	8
+PSM825_3_431	Carbamidomethyl	C	13
+PSM825_3_432	Carbamidomethyl	C	13
+PSM825_3_433	Carbamidomethyl	C	13
+PSM825_3_4335	Carbamidomethyl	C	4
+PSM825_3_4342	Carbamidomethyl	C	16
+PSM825_3_4342	Carbamidomethyl	C	20
+PSM825_3_4345	Carbamidomethyl	C	12
+PSM825_3_4346	Carbamidomethyl	C	12
+PSM825_3_4352	Carbamidomethyl	C	6
+PSM825_3_4352	Carbamidomethyl	C	14
+PSM825_3_4356	Carbamidomethyl	C	16
+PSM825_3_4357	Carbamidomethyl	C	16
+PSM825_3_4359	Carbamidomethyl	C	11
+PSM825_3_4362	Carbamidomethyl	C	12
+PSM825_3_4362	Carbamidomethyl	C	13
+PSM825_3_439	Carbamidomethyl	C	3
+PSM825_3_4392	Carbamidomethyl	C	3
+PSM825_3_4393	Carbamidomethyl	C	10
+PSM825_3_4394	Carbamidomethyl	C	10
+PSM825_3_4395	Carbamidomethyl	C	4
+PSM825_3_4395	Carbamidomethyl	C	11
+PSM825_3_4396	Oxidation	M	4
+PSM825_3_44	Carbamidomethyl	C	19
+PSM825_3_440	Carbamidomethyl	C	3
+PSM825_3_4402	Carbamidomethyl	C	6
+PSM825_3_441	Carbamidomethyl	C	3
+PSM825_3_4412	Carbamidomethyl	C	9
+PSM825_3_4412	Oxidation	M	14
+PSM825_3_4413	Carbamidomethyl	C	9
+PSM825_3_4413	Oxidation	M	14
+PSM825_3_442	Carbamidomethyl	C	3
+PSM825_3_4428	Carbamidomethyl	C	9
+PSM825_3_4432	Carbamidomethyl	C	4
+PSM825_3_4445	Carbamidomethyl	C	1
+PSM825_3_4452	Carbamidomethyl	C	1
+PSM825_3_4454	Carbamidomethyl	C	9
+PSM825_3_4455	Carbamidomethyl	C	19
+PSM825_3_4456	Carbamidomethyl	C	2
+PSM825_3_4456	Carbamidomethyl	C	6
+PSM825_3_4457	Carbamidomethyl	C	2
+PSM825_3_4457	Carbamidomethyl	C	6
+PSM825_3_4458	Carbamidomethyl	C	6
+PSM825_3_4459	Carbamidomethyl	C	1
+PSM825_3_4459	Oxidation	M	3
+PSM825_3_4459	Carbamidomethyl	C	11
+PSM825_3_446	Carbamidomethyl	C	6
+PSM825_3_446	Carbamidomethyl	C	18
+PSM825_3_4460	Carbamidomethyl	C	11
+PSM825_3_4460	Carbamidomethyl	C	13
+PSM825_3_4464	Carbamidomethyl	C	11
+PSM825_3_4465	Carbamidomethyl	C	11
+PSM825_3_4466	Carbamidomethyl	C	11
+PSM825_3_447	Carbamidomethyl	C	6
+PSM825_3_447	Carbamidomethyl	C	18
+PSM825_3_4478	Carbamidomethyl	C	11
+PSM825_3_4479	Carbamidomethyl	C	11
+PSM825_3_448	Carbamidomethyl	C	6
+PSM825_3_448	Carbamidomethyl	C	18
+PSM825_3_4480	Carbamidomethyl	C	12
+PSM825_3_449	Carbamidomethyl	C	6
+PSM825_3_449	Carbamidomethyl	C	18
+PSM825_3_45	Carbamidomethyl	C	35
+PSM825_3_450	Carbamidomethyl	C	6
+PSM825_3_450	Carbamidomethyl	C	18
+PSM825_3_4507	Carbamidomethyl	C	1
+PSM825_3_4517	Carbamidomethyl	C	9
+PSM825_3_4518	Carbamidomethyl	C	5
+PSM825_3_4526	Carbamidomethyl	C	3
+PSM825_3_4527	Carbamidomethyl	C	3
+PSM825_3_4528	Carbamidomethyl	C	13
+PSM825_3_454	Carbamidomethyl	C	4
+PSM825_3_455	Carbamidomethyl	C	4
+PSM825_3_456	Carbamidomethyl	C	4
+PSM825_3_4561	Carbamidomethyl	C	21
+PSM825_3_4562	Carbamidomethyl	C	21
+PSM825_3_4563	Carbamidomethyl	C	23
+PSM825_3_4564	Carbamidomethyl	C	23
+PSM825_3_4568	Ammonia-loss	N-term	
+PSM825_3_4568	Carbamidomethyl	C	1
+PSM825_3_4568	Carbamidomethyl	C	2
+PSM825_3_4569	Ammonia-loss	N-term	
+PSM825_3_4569	Carbamidomethyl	C	1
+PSM825_3_4569	Carbamidomethyl	C	2
+PSM825_3_457	Carbamidomethyl	C	4
+PSM825_3_4570	Carbamidomethyl	C	6
+PSM825_3_4570	Carbamidomethyl	C	10
+PSM825_3_4571	Carbamidomethyl	C	6
+PSM825_3_4571	Carbamidomethyl	C	10
+PSM825_3_4576	Carbamidomethyl	C	3
+PSM825_3_4577	Carbamidomethyl	C	3
+PSM825_3_4578	Gln->pyro-Glu	N-term	
+PSM825_3_4578	Carbamidomethyl	C	8
+PSM825_3_4579	Gln->pyro-Glu	N-term	
+PSM825_3_4579	Carbamidomethyl	C	8
+PSM825_3_4580	Gln->pyro-Glu	N-term	
+PSM825_3_4581	Gln->pyro-Glu	N-term	
+PSM825_3_4588	Carbamidomethyl	C	22
+PSM825_3_4591	Carbamidomethyl	C	15
+PSM825_3_4594	Acetyl	N-term	
+PSM825_3_4594	Carbamidomethyl	C	4
+PSM825_3_4595	Acetyl	N-term	
+PSM825_3_4595	Carbamidomethyl	C	4
+PSM825_3_4596	Gln->pyro-Glu	N-term	
+PSM825_3_4599	Acetyl	N-term	
+PSM825_3_46	Carbamidomethyl	C	35
+PSM825_3_4600	Carbamidomethyl	C	21
+PSM825_3_4604	Gln->pyro-Glu	N-term	
+PSM825_3_4607	Ammonia-loss	N-term	
+PSM825_3_4607	Carbamidomethyl	C	1
+PSM825_3_4623	Carbamidomethyl	C	4
+PSM825_3_4624	Carbamidomethyl	C	4
+PSM825_3_4626	Carbamidomethyl	C	3
+PSM825_3_4626	Carbamidomethyl	C	7
+PSM825_3_4627	Carbamidomethyl	C	1
+PSM825_3_4631	Carbamidomethyl	C	6
+PSM825_3_4633	Carbamidomethyl	C	7
+PSM825_3_4634	Carbamidomethyl	C	7
+PSM825_3_4636	Carbamidomethyl	C	6
+PSM825_3_4637	Carbamidomethyl	C	6
+PSM825_3_4640	Carbamidomethyl	C	2
+PSM825_3_4641	Carbamidomethyl	C	2
+PSM825_3_4647	Carbamidomethyl	C	6
+PSM825_3_4648	Carbamidomethyl	C	6
+PSM825_3_4651	Carbamidomethyl	C	2
+PSM825_3_4651	Carbamidomethyl	C	3
+PSM825_3_4651	Carbamidomethyl	C	5
+PSM825_3_4651	Carbamidomethyl	C	6
+PSM825_3_4651	Carbamidomethyl	C	10
+PSM825_3_4666	Oxidation	M	5
+PSM825_3_467	Carbamidomethyl	C	15
+PSM825_3_468	Carbamidomethyl	C	15
+PSM825_3_4687	Carbamidomethyl	C	4
+PSM825_3_469	Carbamidomethyl	C	15
+PSM825_3_47	Carbamidomethyl	C	35
+PSM825_3_4717	Carbamidomethyl	C	6
+PSM825_3_4724	Carbamidomethyl	C	2
+PSM825_3_4724	Carbamidomethyl	C	3
+PSM825_3_4724	Carbamidomethyl	C	10
+PSM825_3_4739	Carbamidomethyl	C	10
+PSM825_3_474	Carbamidomethyl	C	13
+PSM825_3_4740	Carbamidomethyl	C	3
+PSM825_3_4741	Carbamidomethyl	C	3
+PSM825_3_475	Carbamidomethyl	C	13
+PSM825_3_4750	Oxidation	M	12
+PSM825_3_4752	Carbamidomethyl	C	3
+PSM825_3_4752	Carbamidomethyl	C	12
+PSM825_3_476	Carbamidomethyl	C	13
+PSM825_3_4783	Carbamidomethyl	C	7
+PSM825_3_4784	Carbamidomethyl	C	7
+PSM825_3_4794	Carbamidomethyl	C	6
+PSM825_3_4795	Carbamidomethyl	C	6
+PSM825_3_4796	Carbamidomethyl	C	8
+PSM825_3_4797	Carbamidomethyl	C	8
+PSM825_3_48	Carbamidomethyl	C	35
+PSM825_3_4814	Carbamidomethyl	C	14
+PSM825_3_4815	Carbamidomethyl	C	9
+PSM825_3_4816	Carbamidomethyl	C	9
+PSM825_3_482	Carbamidomethyl	C	13
+PSM825_3_482	Carbamidomethyl	C	24
+PSM825_3_483	Carbamidomethyl	C	13
+PSM825_3_483	Carbamidomethyl	C	24
+PSM825_3_4837	Carbamidomethyl	C	3
+PSM825_3_4838	Carbamidomethyl	C	3
+PSM825_3_4839	Carbamidomethyl	C	2
+PSM825_3_4839	Carbamidomethyl	C	3
+PSM825_3_484	Carbamidomethyl	C	13
+PSM825_3_484	Carbamidomethyl	C	24
+PSM825_3_4843	Oxidation	M	13
+PSM825_3_4844	Carbamidomethyl	C	7
+PSM825_3_4845	Carbamidomethyl	C	7
+PSM825_3_4846	Carbamidomethyl	C	8
+PSM825_3_485	Carbamidomethyl	C	13
+PSM825_3_485	Carbamidomethyl	C	24
+PSM825_3_4855	Carbamidomethyl	C	7
+PSM825_3_4855	Carbamidomethyl	C	14
+PSM825_3_4856	Carbamidomethyl	C	7
+PSM825_3_4856	Carbamidomethyl	C	14
+PSM825_3_4857	Carbamidomethyl	C	19
+PSM825_3_4873	Carbamidomethyl	C	5
+PSM825_3_4884	Carbamidomethyl	C	6
+PSM825_3_4884	Carbamidomethyl	C	10
+PSM825_3_4886	Carbamidomethyl	C	1
+PSM825_3_4895	Oxidation	M	13
+PSM825_3_4896	Oxidation	M	13
+PSM825_3_4899	Carbamidomethyl	C	3
+PSM825_3_4908	Carbamidomethyl	C	12
+PSM825_3_4933	Carbamidomethyl	C	11
+PSM825_3_4933	Carbamidomethyl	C	14
+PSM825_3_4936	Carbamidomethyl	C	17
+PSM825_3_4938	Carbamidomethyl	C	8
+PSM825_3_494	Carbamidomethyl	C	13
+PSM825_3_494	Carbamidomethyl	C	24
+PSM825_3_495	Carbamidomethyl	C	13
+PSM825_3_495	Carbamidomethyl	C	24
+PSM825_3_4955	Carbamidomethyl	C	7
+PSM825_3_4956	Carbamidomethyl	C	7
+PSM825_3_4957	Carbamidomethyl	C	7
+PSM825_3_496	Carbamidomethyl	C	13
+PSM825_3_496	Carbamidomethyl	C	24
+PSM825_3_4965	Carbamidomethyl	C	2
+PSM825_3_4966	Carbamidomethyl	C	2
+PSM825_3_4967	Carbamidomethyl	C	9
+PSM825_3_4968	Carbamidomethyl	C	8
+PSM825_3_4969	Carbamidomethyl	C	8
+PSM825_3_497	Gln->pyro-Glu	N-term	
+PSM825_3_4970	Carbamidomethyl	C	8
+PSM825_3_4971	Oxidation	M	1
+PSM825_3_4971	Carbamidomethyl	C	7
+PSM825_3_4972	Oxidation	M	1
+PSM825_3_4972	Carbamidomethyl	C	7
+PSM825_3_498	Gln->pyro-Glu	N-term	
+PSM825_3_499	Gln->pyro-Glu	N-term	
+PSM825_3_4995	Carbamidomethyl	C	16
+PSM825_3_4996	Carbamidomethyl	C	16
+PSM825_3_4997	Carbamidomethyl	C	20
+PSM825_3_500	Carbamidomethyl	C	2
+PSM825_3_500	Oxidation	M	12
+PSM825_3_5010	Carbamidomethyl	C	5
+PSM825_3_5015	Carbamidomethyl	C	9
+PSM825_3_5019	Oxidation	M	6
+PSM825_3_5020	Oxidation	M	6
+PSM825_3_5021	Carbamidomethyl	C	4
+PSM825_3_5021	Carbamidomethyl	C	14
+PSM825_3_5026	Carbamidomethyl	C	1
+PSM825_3_5026	Carbamidomethyl	C	2
+PSM825_3_5026	Carbamidomethyl	C	12
+PSM825_3_5028	Gln->pyro-Glu	N-term	
+PSM825_3_5029	Gln->pyro-Glu	N-term	
+PSM825_3_5030	Gln->pyro-Glu	N-term	
+PSM825_3_5031	Gln->pyro-Glu	N-term	
+PSM825_3_5032	Acetyl	N-term	
+PSM825_3_5033	Acetyl	N-term	
+PSM825_3_5034	Gln->pyro-Glu	N-term	
+PSM825_3_5036	Acetyl	N-term	
+PSM825_3_5036	Oxidation	M	15
+PSM825_3_5036	Carbamidomethyl	C	16
+PSM825_3_5039	Gln->pyro-Glu	N-term	
+PSM825_3_5041	Gln->pyro-Glu	N-term	
+PSM825_3_5042	Gln->pyro-Glu	N-term	
+PSM825_3_5042	Carbamidomethyl	C	2
+PSM825_3_5049	Gln->pyro-Glu	N-term	
+PSM825_3_5053	Carbamidomethyl	C	4
+PSM825_3_5057	Acetyl	N-term	
+PSM825_3_5058	Carbamidomethyl	C	3
+PSM825_3_5060	Carbamidomethyl	C	7
+PSM825_3_5061	Gln->pyro-Glu	N-term	
+PSM825_3_5062	Gln->pyro-Glu	N-term	
+PSM825_3_5063	Acetyl	N-term	
+PSM825_3_5064	Carbamidomethyl	C	11
+PSM825_3_5065	Carbamidomethyl	C	11
+PSM825_3_5069	Oxidation	M	3
+PSM825_3_5071	Carbamidomethyl	C	5
+PSM825_3_5076	Carbamidomethyl	C	1
+PSM825_3_5076	Carbamidomethyl	C	5
+PSM825_3_5079	Carbamidomethyl	C	4
+PSM825_3_5079	Carbamidomethyl	C	5
+PSM825_3_5080	Carbamidomethyl	C	4
+PSM825_3_5080	Carbamidomethyl	C	5
+PSM825_3_5084	Oxidation	M	8
+PSM825_3_5087	Carbamidomethyl	C	8
+PSM825_3_5088	Carbamidomethyl	C	8
+PSM825_3_51	Carbamidomethyl	C	19
+PSM825_3_5101	Carbamidomethyl	C	6
+PSM825_3_5108	Carbamidomethyl	C	8
+PSM825_3_5114	Carbamidomethyl	C	4
+PSM825_3_5114	Carbamidomethyl	C	8
+PSM825_3_5130	Carbamidomethyl	C	2
+PSM825_3_5140	Carbamidomethyl	C	4
+PSM825_3_5170	Carbamidomethyl	C	4
+PSM825_3_5171	Carbamidomethyl	C	7
+PSM825_3_5172	Carbamidomethyl	C	7
+PSM825_3_5179	Carbamidomethyl	C	9
+PSM825_3_5186	Carbamidomethyl	C	7
+PSM825_3_52	Carbamidomethyl	C	19
+PSM825_3_5233	Carbamidomethyl	C	11
+PSM825_3_5242	Carbamidomethyl	C	6
+PSM825_3_5255	Oxidation	M	9
+PSM825_3_5258	Carbamidomethyl	C	8
+PSM825_3_5262	Carbamidomethyl	C	7
+PSM825_3_5265	Carbamidomethyl	C	8
+PSM825_3_5268	Oxidation	M	3
+PSM825_3_5271	Carbamidomethyl	C	17
+PSM825_3_5272	Carbamidomethyl	C	11
+PSM825_3_5277	Carbamidomethyl	C	7
+PSM825_3_5278	Carbamidomethyl	C	7
+PSM825_3_53	Carbamidomethyl	C	19
+PSM825_3_530	Carbamidomethyl	C	7
+PSM825_3_530	Carbamidomethyl	C	19
+PSM825_3_5308	Carbamidomethyl	C	1
+PSM825_3_5309	Carbamidomethyl	C	1
+PSM825_3_531	Carbamidomethyl	C	21
+PSM825_3_531	Carbamidomethyl	C	24
+PSM825_3_5311	Carbamidomethyl	C	12
+PSM825_3_5314	Carbamidomethyl	C	4
+PSM825_3_5314	Carbamidomethyl	C	5
+PSM825_3_5315	Carbamidomethyl	C	4
+PSM825_3_5315	Carbamidomethyl	C	8
+PSM825_3_5316	Carbamidomethyl	C	4
+PSM825_3_5316	Carbamidomethyl	C	8
+PSM825_3_532	Carbamidomethyl	C	21
+PSM825_3_532	Carbamidomethyl	C	24
+PSM825_3_5325	Carbamidomethyl	C	6
+PSM825_3_5329	Carbamidomethyl	C	12
+PSM825_3_5331	Carbamidomethyl	C	6
+PSM825_3_5347	Carbamidomethyl	C	11
+PSM825_3_5348	Carbamidomethyl	C	11
+PSM825_3_5356	Carbamidomethyl	C	4
+PSM825_3_5357	Carbamidomethyl	C	4
+PSM825_3_5358	Carbamidomethyl	C	4
+PSM825_3_5362	Carbamidomethyl	C	9
+PSM825_3_5363	Carbamidomethyl	C	9
+PSM825_3_537	Carbamidomethyl	C	10
+PSM825_3_5377	Carbamidomethyl	C	10
+PSM825_3_5378	Carbamidomethyl	C	10
+PSM825_3_538	Carbamidomethyl	C	10
+PSM825_3_5380	Carbamidomethyl	C	2
+PSM825_3_5381	Carbamidomethyl	C	2
+PSM825_3_5386	Carbamidomethyl	C	11
+PSM825_3_5388	Carbamidomethyl	C	1
+PSM825_3_5388	Carbamidomethyl	C	20
+PSM825_3_539	Carbamidomethyl	C	10
+PSM825_3_5397	Carbamidomethyl	C	12
+PSM825_3_5398	Carbamidomethyl	C	12
+PSM825_3_540	Carbamidomethyl	C	10
+PSM825_3_5400	Carbamidomethyl	C	24
+PSM825_3_5401	Carbamidomethyl	C	24
+PSM825_3_541	Carbamidomethyl	C	10
+PSM825_3_542	Carbamidomethyl	C	6
+PSM825_3_5425	Carbamidomethyl	C	2
+PSM825_3_543	Carbamidomethyl	C	6
+PSM825_3_5431	Carbamidomethyl	C	12
+PSM825_3_5431	Carbamidomethyl	C	13
+PSM825_3_5433	Carbamidomethyl	C	8
+PSM825_3_5435	Carbamidomethyl	C	6
+PSM825_3_5435	Carbamidomethyl	C	8
+PSM825_3_5436	Carbamidomethyl	C	6
+PSM825_3_5436	Carbamidomethyl	C	8
+PSM825_3_5437	Carbamidomethyl	C	13
+PSM825_3_544	Carbamidomethyl	C	6
+PSM825_3_5440	Carbamidomethyl	C	14
+PSM825_3_5441	Carbamidomethyl	C	14
+PSM825_3_5442	Carbamidomethyl	C	12
+PSM825_3_5443	Carbamidomethyl	C	26
+PSM825_3_5444	Carbamidomethyl	C	26
+PSM825_3_5448	Carbamidomethyl	C	2
+PSM825_3_5449	Carbamidomethyl	C	2
+PSM825_3_5458	Carbamidomethyl	C	3
+PSM825_3_5467	Carbamidomethyl	C	8
+PSM825_3_5468	Carbamidomethyl	C	8
+PSM825_3_5469	Carbamidomethyl	C	1
+PSM825_3_5470	Carbamidomethyl	C	1
+PSM825_3_5474	Carbamidomethyl	C	7
+PSM825_3_5474	Carbamidomethyl	C	8
+PSM825_3_5478	Carbamidomethyl	C	7
+PSM825_3_5479	Carbamidomethyl	C	7
+PSM825_3_5489	Carbamidomethyl	C	9
+PSM825_3_5490	Carbamidomethyl	C	9
+PSM825_3_5490	Carbamidomethyl	C	14
+PSM825_3_5492	Carbamidomethyl	C	7
+PSM825_3_5492	Carbamidomethyl	C	22
+PSM825_3_5494	Carbamidomethyl	C	21
+PSM825_3_5498	Carbamidomethyl	C	3
+PSM825_3_5499	Carbamidomethyl	C	12
+PSM825_3_5500	Carbamidomethyl	C	3
+PSM825_3_5509	Carbamidomethyl	C	18
+PSM825_3_5510	Carbamidomethyl	C	18
+PSM825_3_5513	Carbamidomethyl	C	8
+PSM825_3_5524	Carbamidomethyl	C	10
+PSM825_3_5527	Gln->pyro-Glu	N-term	
+PSM825_3_5527	Carbamidomethyl	C	8
+PSM825_3_5528	Gln->pyro-Glu	N-term	
+PSM825_3_5528	Carbamidomethyl	C	8
+PSM825_3_5529	Gln->pyro-Glu	N-term	
+PSM825_3_5530	Acetyl	N-term	
+PSM825_3_5531	Acetyl	N-term	
+PSM825_3_5532	Ammonia-loss	N-term	
+PSM825_3_5532	Carbamidomethyl	C	1
+PSM825_3_5533	Ammonia-loss	N-term	
+PSM825_3_5533	Carbamidomethyl	C	1
+PSM825_3_5540	Acetyl	N-term	
+PSM825_3_5541	Acetyl	N-term	
+PSM825_3_5542	Gln->pyro-Glu	N-term	
+PSM825_3_5543	Gln->pyro-Glu	N-term	
+PSM825_3_5544	Gln->pyro-Glu	N-term	
+PSM825_3_5545	Gln->pyro-Glu	N-term	
+PSM825_3_5549	Carbamidomethyl	C	17
+PSM825_3_5552	Gln->pyro-Glu	N-term	
+PSM825_3_5552	Carbamidomethyl	C	9
+PSM825_3_5554	Ammonia-loss	N-term	
+PSM825_3_5554	Carbamidomethyl	C	1
+PSM825_3_5556	Acetyl	N-term	
+PSM825_3_5558	Acetyl	N-term	
+PSM825_3_5558	Carbamidomethyl	C	18
+PSM825_3_5558	Carbamidomethyl	C	19
+PSM825_3_556	Carbamidomethyl	C	2
+PSM825_3_5560	Carbamidomethyl	C	12
+PSM825_3_5561	Ammonia-loss	N-term	
+PSM825_3_5561	Carbamidomethyl	C	1
+PSM825_3_5563	Acetyl	N-term	
+PSM825_3_5563	Carbamidomethyl	C	11
+PSM825_3_5564	Acetyl	N-term	
+PSM825_3_5564	Carbamidomethyl	C	11
+PSM825_3_5565	Acetyl	N-term	
+PSM825_3_5566	Acetyl	N-term	
+PSM825_3_5567	Acetyl	N-term	
+PSM825_3_5569	Acetyl	N-term	
+PSM825_3_5570	Acetyl	N-term	
+PSM825_3_5571	Acetyl	N-term	
+PSM825_3_5572	Ammonia-loss	N-term	
+PSM825_3_5572	Carbamidomethyl	C	1
+PSM825_3_5573	Acetyl	N-term	
+PSM825_3_5576	Carbamidomethyl	C	1
+PSM825_3_5586	Carbamidomethyl	C	10
+PSM825_3_5587	Carbamidomethyl	C	10
+PSM825_3_559	Carbamidomethyl	C	2
+PSM825_3_560	Carbamidomethyl	C	2
+PSM825_3_561	Carbamidomethyl	C	2
+PSM825_3_5611	Carbamidomethyl	C	7
+PSM825_3_5616	Carbamidomethyl	C	3
+PSM825_3_5620	Carbamidomethyl	C	7
+PSM825_3_5621	Carbamidomethyl	C	2
+PSM825_3_5626	Carbamidomethyl	C	2
+PSM825_3_5636	Carbamidomethyl	C	1
+PSM825_3_5637	Carbamidomethyl	C	1
+PSM825_3_5645	Carbamidomethyl	C	5
+PSM825_3_5645	Carbamidomethyl	C	6
+PSM825_3_5653	Carbamidomethyl	C	1
+PSM825_3_5667	Oxidation	M	2
+PSM825_3_5668	Oxidation	M	2
+PSM825_3_5679	Carbamidomethyl	C	2
+PSM825_3_5680	Carbamidomethyl	C	2
+PSM825_3_5683	Carbamidomethyl	C	2
+PSM825_3_5684	Carbamidomethyl	C	9
+PSM825_3_5689	Carbamidomethyl	C	2
+PSM825_3_5690	Carbamidomethyl	C	2
+PSM825_3_5699	Carbamidomethyl	C	2
+PSM825_3_5700	Carbamidomethyl	C	2
+PSM825_3_5704	Carbamidomethyl	C	2
+PSM825_3_5705	Carbamidomethyl	C	4
+PSM825_3_5709	Carbamidomethyl	C	8
+PSM825_3_5709	Carbamidomethyl	C	12
+PSM825_3_5713	Carbamidomethyl	C	3
+PSM825_3_5739	Carbamidomethyl	C	2
+PSM825_3_5749	Carbamidomethyl	C	3
+PSM825_3_5749	Carbamidomethyl	C	6
+PSM825_3_5750	Carbamidomethyl	C	14
+PSM825_3_5754	Carbamidomethyl	C	8
+PSM825_3_576	Carbamidomethyl	C	12
+PSM825_3_576	Carbamidomethyl	C	16
+PSM825_3_5769	Carbamidomethyl	C	7
+PSM825_3_577	Carbamidomethyl	C	12
+PSM825_3_577	Carbamidomethyl	C	16
+PSM825_3_5770	Carbamidomethyl	C	7
+PSM825_3_5771	Carbamidomethyl	C	9
+PSM825_3_5777	Carbamidomethyl	C	6
+PSM825_3_5778	Carbamidomethyl	C	1
+PSM825_3_578	Carbamidomethyl	C	12
+PSM825_3_578	Carbamidomethyl	C	16
+PSM825_3_579	Carbamidomethyl	C	10
+PSM825_3_579	Carbamidomethyl	C	14
+PSM825_3_5794	Carbamidomethyl	C	2
+PSM825_3_580	Carbamidomethyl	C	10
+PSM825_3_580	Carbamidomethyl	C	14
+PSM825_3_5800	Carbamidomethyl	C	5
+PSM825_3_5804	Carbamidomethyl	C	6
+PSM825_3_5805	Carbamidomethyl	C	6
+PSM825_3_581	Carbamidomethyl	C	10
+PSM825_3_581	Carbamidomethyl	C	14
+PSM825_3_5810	Carbamidomethyl	C	9
+PSM825_3_5816	Carbamidomethyl	C	1
+PSM825_3_5817	Carbamidomethyl	C	5
+PSM825_3_5819	Carbamidomethyl	C	9
+PSM825_3_582	Carbamidomethyl	C	5
+PSM825_3_5820	Carbamidomethyl	C	1
+PSM825_3_583	Carbamidomethyl	C	5
+PSM825_3_584	Carbamidomethyl	C	5
+PSM825_3_585	Carbamidomethyl	C	5
+PSM825_3_586	Carbamidomethyl	C	5
+PSM825_3_5861	Carbamidomethyl	C	10
+PSM825_3_5862	Carbamidomethyl	C	10
+PSM825_3_5864	Oxidation	M	2
+PSM825_3_5864	Carbamidomethyl	C	5
+PSM825_3_5866	Oxidation	M	9
+PSM825_3_587	Carbamidomethyl	C	5
+PSM825_3_588	Carbamidomethyl	C	5
+PSM825_3_5883	Carbamidomethyl	C	3
+PSM825_3_5884	Carbamidomethyl	C	8
+PSM825_3_5885	Carbamidomethyl	C	8
+PSM825_3_5886	Carbamidomethyl	C	7
+PSM825_3_589	Carbamidomethyl	C	7
+PSM825_3_5895	Carbamidomethyl	C	5
+PSM825_3_590	Carbamidomethyl	C	7
+PSM825_3_5900	Carbamidomethyl	C	6
+PSM825_3_5901	Carbamidomethyl	C	6
+PSM825_3_5904	Carbamidomethyl	C	9
+PSM825_3_5923	Carbamidomethyl	C	9
+PSM825_3_5931	Carbamidomethyl	C	1
+PSM825_3_5932	Carbamidomethyl	C	10
+PSM825_3_5933	Carbamidomethyl	C	6
+PSM825_3_5934	Carbamidomethyl	C	6
+PSM825_3_5948	Carbamidomethyl	C	5
+PSM825_3_5953	Carbamidomethyl	C	1
+PSM825_3_5953	Carbamidomethyl	C	2
+PSM825_3_5953	Carbamidomethyl	C	11
+PSM825_3_5967	Carbamidomethyl	C	8
+PSM825_3_5968	Carbamidomethyl	C	8
+PSM825_3_5976	Carbamidomethyl	C	3
+PSM825_3_5977	Carbamidomethyl	C	3
+PSM825_3_5981	Carbamidomethyl	C	11
+PSM825_3_5988	Carbamidomethyl	C	7
+PSM825_3_5988	Carbamidomethyl	C	8
+PSM825_3_5989	Carbamidomethyl	C	11
+PSM825_3_5998	Carbamidomethyl	C	18
+PSM825_3_5999	Oxidation	M	14
+PSM825_3_6001	Carbamidomethyl	C	5
+PSM825_3_6008	Carbamidomethyl	C	2
+PSM825_3_6023	Carbamidomethyl	C	14
+PSM825_3_6028	Carbamidomethyl	C	11
+PSM825_3_6031	Carbamidomethyl	C	3
+PSM825_3_604	Carbamidomethyl	C	16
+PSM825_3_6040	Carbamidomethyl	C	5
+PSM825_3_605	Carbamidomethyl	C	16
+PSM825_3_6054	Carbamidomethyl	C	9
+PSM825_3_606	Carbamidomethyl	C	6
+PSM825_3_6061	Ammonia-loss	N-term	
+PSM825_3_6061	Carbamidomethyl	C	1
+PSM825_3_6064	Gln->pyro-Glu	N-term	
+PSM825_3_6065	Acetyl	N-term	
+PSM825_3_6066	Acetyl	N-term	
+PSM825_3_6067	Oxidation	M	5
+PSM825_3_6068	Carbamidomethyl	C	11
+PSM825_3_6069	Carbamidomethyl	C	11
+PSM825_3_607	Carbamidomethyl	C	6
+PSM825_3_6070	Carbamidomethyl	C	11
+PSM825_3_6071	Acetyl	N-term	
+PSM825_3_6074	Ammonia-loss	N-term	
+PSM825_3_6074	Carbamidomethyl	C	1
+PSM825_3_6075	Carbamidomethyl	C	5
+PSM825_3_6076	Carbamidomethyl	C	5
+PSM825_3_6077	Carbamidomethyl	C	4
+PSM825_3_6078	Carbamidomethyl	C	4
+PSM825_3_6079	Carbamidomethyl	C	4
+PSM825_3_608	Carbamidomethyl	C	6
+PSM825_3_6080	Carbamidomethyl	C	4
+PSM825_3_6081	Carbamidomethyl	C	4
+PSM825_3_6082	Carbamidomethyl	C	4
+PSM825_3_6083	Carbamidomethyl	C	4
+PSM825_3_6084	Carbamidomethyl	C	4
+PSM825_3_6090	Ammonia-loss	N-term	
+PSM825_3_6090	Carbamidomethyl	C	1
+PSM825_3_6093	Gln->pyro-Glu	N-term	
+PSM825_3_6094	Gln->pyro-Glu	N-term	
+PSM825_3_6095	Gln->pyro-Glu	N-term	
+PSM825_3_6098	Acetyl	N-term	
+PSM825_3_6098	Carbamidomethyl	C	8
+PSM825_3_6098	Carbamidomethyl	C	11
+PSM825_3_6099	Carbamidomethyl	C	9
+PSM825_3_6100	Carbamidomethyl	C	9
+PSM825_3_6104	Acetyl	N-term	
+PSM825_3_6105	Carbamidomethyl	C	10
+PSM825_3_6108	Acetyl	N-term	
+PSM825_3_6109	Ammonia-loss	N-term	
+PSM825_3_6109	Carbamidomethyl	C	1
+PSM825_3_6111	Carbamidomethyl	C	10
+PSM825_3_6112	Carbamidomethyl	C	10
+PSM825_3_6113	Carbamidomethyl	C	4
+PSM825_3_6114	Carbamidomethyl	C	9
+PSM825_3_6115	Carbamidomethyl	C	9
+PSM825_3_6115	Carbamidomethyl	C	12
+PSM825_3_6116	Carbamidomethyl	C	12
+PSM825_3_6117	Gln->pyro-Glu	N-term	
+PSM825_3_6118	Oxidation	M	5
+PSM825_3_6121	Carbamidomethyl	C	2
+PSM825_3_6128	Carbamidomethyl	C	5
+PSM825_3_6132	Oxidation	M	2
+PSM825_3_6140	Carbamidomethyl	C	2
+PSM825_3_6142	Carbamidomethyl	C	1
+PSM825_3_6147	Carbamidomethyl	C	1
+PSM825_3_6147	Carbamidomethyl	C	5
+PSM825_3_6147	Carbamidomethyl	C	7
+PSM825_3_6154	Carbamidomethyl	C	9
+PSM825_3_6192	Carbamidomethyl	C	7
+PSM825_3_6203	Carbamidomethyl	C	7
+PSM825_3_6204	Carbamidomethyl	C	7
+PSM825_3_6231	Carbamidomethyl	C	5
+PSM825_3_624	Acetyl	N-term	
+PSM825_3_6245	Carbamidomethyl	C	3
+PSM825_3_6249	Carbamidomethyl	C	1
+PSM825_3_6250	Carbamidomethyl	C	1
+PSM825_3_6251	Carbamidomethyl	C	1
+PSM825_3_6255	Carbamidomethyl	C	10
+PSM825_3_6261	Carbamidomethyl	C	10
+PSM825_3_6264	Carbamidomethyl	C	9
+PSM825_3_6300	Carbamidomethyl	C	5
+PSM825_3_6301	Carbamidomethyl	C	5
+PSM825_3_6307	Carbamidomethyl	C	1
+PSM825_3_6311	Carbamidomethyl	C	6
+PSM825_3_6313	Carbamidomethyl	C	4
+PSM825_3_6314	Oxidation	M	11
+PSM825_3_6320	Oxidation	M	10
+PSM825_3_6329	Carbamidomethyl	C	1
+PSM825_3_6329	Carbamidomethyl	C	7
+PSM825_3_6335	Oxidation	M	10
+PSM825_3_634	Carbamidomethyl	C	7
+PSM825_3_6344	Carbamidomethyl	C	6
+PSM825_3_635	Carbamidomethyl	C	7
+PSM825_3_636	Carbamidomethyl	C	7
+PSM825_3_6379	Carbamidomethyl	C	1
+PSM825_3_6381	Carbamidomethyl	C	12
+PSM825_3_6384	Carbamidomethyl	C	9
+PSM825_3_6385	Carbamidomethyl	C	9
+PSM825_3_6390	Carbamidomethyl	C	12
+PSM825_3_6391	Carbamidomethyl	C	3
+PSM825_3_6392	Carbamidomethyl	C	6
+PSM825_3_6399	Carbamidomethyl	C	4
+PSM825_3_64	Carbamidomethyl	C	2
+PSM825_3_6415	Carbamidomethyl	C	6
+PSM825_3_6416	Carbamidomethyl	C	2
+PSM825_3_6445	Carbamidomethyl	C	3
+PSM825_3_6451	Carbamidomethyl	C	8
+PSM825_3_6454	Carbamidomethyl	C	11
+PSM825_3_6474	Carbamidomethyl	C	5
+PSM825_3_6477	Carbamidomethyl	C	6
+PSM825_3_6478	Carbamidomethyl	C	4
+PSM825_3_6479	Carbamidomethyl	C	4
+PSM825_3_6487	Carbamidomethyl	C	1
+PSM825_3_6488	Carbamidomethyl	C	1
+PSM825_3_6493	Carbamidomethyl	C	5
+PSM825_3_65	Carbamidomethyl	C	2
+PSM825_3_651	Carbamidomethyl	C	3
+PSM825_3_6512	Carbamidomethyl	C	1
+PSM825_3_652	Carbamidomethyl	C	3
+PSM825_3_6524	Carbamidomethyl	C	2
+PSM825_3_6525	Carbamidomethyl	C	7
+PSM825_3_6526	Carbamidomethyl	C	2
+PSM825_3_6529	Carbamidomethyl	C	2
+PSM825_3_6530	Carbamidomethyl	C	7
+PSM825_3_6543	Carbamidomethyl	C	7
+PSM825_3_6566	Carbamidomethyl	C	11
+PSM825_3_6571	Carbamidomethyl	C	16
+PSM825_3_6576	Carbamidomethyl	C	6
+PSM825_3_6582	Carbamidomethyl	C	10
+PSM825_3_6583	Carbamidomethyl	C	2
+PSM825_3_6584	Carbamidomethyl	C	2
+PSM825_3_6586	Oxidation	M	11
+PSM825_3_6587	Oxidation	M	11
+PSM825_3_6597	Carbamidomethyl	C	7
+PSM825_3_66	Carbamidomethyl	C	2
+PSM825_3_660	Carbamidomethyl	C	7
+PSM825_3_660	Carbamidomethyl	C	12
+PSM825_3_6600	Carbamidomethyl	C	2
+PSM825_3_6600	Carbamidomethyl	C	18
+PSM825_3_6601	Carbamidomethyl	C	5
+PSM825_3_661	Carbamidomethyl	C	7
+PSM825_3_661	Carbamidomethyl	C	12
+PSM825_3_6617	Carbamidomethyl	C	9
+PSM825_3_6617	Carbamidomethyl	C	19
+PSM825_3_6617	Carbamidomethyl	C	27
+PSM825_3_6619	Oxidation	M	10
+PSM825_3_6622	Carbamidomethyl	C	11
+PSM825_3_6622	Carbamidomethyl	C	14
+PSM825_3_6623	Carbamidomethyl	C	16
+PSM825_3_6631	Carbamidomethyl	C	5
+PSM825_3_6646	Carbamidomethyl	C	13
+PSM825_3_6647	Carbamidomethyl	C	12
+PSM825_3_6647	Carbamidomethyl	C	15
+PSM825_3_6649	Carbamidomethyl	C	2
+PSM825_3_6650	Carbamidomethyl	C	20
+PSM825_3_6650	Carbamidomethyl	C	31
+PSM825_3_6651	Ammonia-loss	N-term	
+PSM825_3_6651	Carbamidomethyl	C	1
+PSM825_3_6651	Carbamidomethyl	C	2
+PSM825_3_6652	Gln->pyro-Glu	N-term	
+PSM825_3_6657	Ammonia-loss	N-term	
+PSM825_3_6657	Carbamidomethyl	C	1
+PSM825_3_6664	Gln->pyro-Glu	N-term	
+PSM825_3_6665	Ammonia-loss	N-term	
+PSM825_3_6665	Carbamidomethyl	C	1
+PSM825_3_6666	Ammonia-loss	N-term	
+PSM825_3_6666	Carbamidomethyl	C	1
+PSM825_3_6668	Gln->pyro-Glu	N-term	
+PSM825_3_6669	Carbamidomethyl	C	10
+PSM825_3_6671	Carbamidomethyl	C	6
+PSM825_3_6672	Carbamidomethyl	C	6
+PSM825_3_6673	Oxidation	M	13
+PSM825_3_6674	Gln->pyro-Glu	N-term	
+PSM825_3_6675	Gln->pyro-Glu	N-term	
+PSM825_3_6676	Gln->pyro-Glu	N-term	
+PSM825_3_6680	Acetyl	N-term	
+PSM825_3_6681	Acetyl	N-term	
+PSM825_3_6682	Gln->pyro-Glu	N-term	
+PSM825_3_6684	Acetyl	N-term	
+PSM825_3_6684	Carbamidomethyl	C	2
+PSM825_3_6685	Ammonia-loss	N-term	
+PSM825_3_6685	Carbamidomethyl	C	1
+PSM825_3_6690	Ammonia-loss	N-term	
+PSM825_3_6690	Carbamidomethyl	C	1
+PSM825_3_6691	Carbamidomethyl	C	6
+PSM825_3_6695	Carbamidomethyl	C	5
+PSM825_3_6696	Acetyl	N-term	
+PSM825_3_6698	Acetyl	N-term	
+PSM825_3_6699	Acetyl	N-term	
+PSM825_3_6703	Acetyl	N-term	
+PSM825_3_6704	Acetyl	N-term	
+PSM825_3_6705	Acetyl	N-term	
+PSM825_3_6707	Carbamidomethyl	C	13
+PSM825_3_6712	Gln->pyro-Glu	N-term	
+PSM825_3_6713	Acetyl	N-term	
+PSM825_3_6714	Carbamidomethyl	C	16
+PSM825_3_6715	Carbamidomethyl	C	7
+PSM825_3_6720	Oxidation	M	4
+PSM825_3_6758	Carbamidomethyl	C	3
+PSM825_3_6760	Oxidation	M	4
+PSM825_3_6761	Oxidation	M	4
+PSM825_3_6770	Carbamidomethyl	C	6
+PSM825_3_6770	Carbamidomethyl	C	8
+PSM825_3_6780	Oxidation	M	6
+PSM825_3_6781	Oxidation	M	6
+PSM825_3_6782	Oxidation	M	3
+PSM825_3_6793	Oxidation	M	2
+PSM825_3_6816	Oxidation	M	10
+PSM825_3_6831	Oxidation	M	5
+PSM825_3_6847	Carbamidomethyl	C	5
+PSM825_3_6857	Carbamidomethyl	C	7
+PSM825_3_6863	Carbamidomethyl	C	9
+PSM825_3_6864	Carbamidomethyl	C	5
+PSM825_3_6866	Carbamidomethyl	C	2
+PSM825_3_6869	Carbamidomethyl	C	7
+PSM825_3_6870	Carbamidomethyl	C	10
+PSM825_3_6871	Carbamidomethyl	C	4
+PSM825_3_6872	Carbamidomethyl	C	4
+PSM825_3_6873	Carbamidomethyl	C	17
+PSM825_3_6889	Oxidation	M	6
+PSM825_3_6892	Carbamidomethyl	C	2
+PSM825_3_6893	Carbamidomethyl	C	2
+PSM825_3_6895	Oxidation	M	1
+PSM825_3_6895	Carbamidomethyl	C	7
+PSM825_3_6908	Carbamidomethyl	C	7
+PSM825_3_6916	Oxidation	M	5
+PSM825_3_6916	Carbamidomethyl	C	9
+PSM825_3_6942	Carbamidomethyl	C	2
+PSM825_3_696	Carbamidomethyl	C	9
+PSM825_3_6962	Carbamidomethyl	C	3
+PSM825_3_6962	Carbamidomethyl	C	6
+PSM825_3_6964	Oxidation	M	5
+PSM825_3_6966	Oxidation	M	1
+PSM825_3_6969	Oxidation	M	5
+PSM825_3_697	Carbamidomethyl	C	9
+PSM825_3_6974	Carbamidomethyl	C	9
+PSM825_3_698	Carbamidomethyl	C	9
+PSM825_3_6987	Carbamidomethyl	C	6
+PSM825_3_6995	Carbamidomethyl	C	3
+PSM825_3_7008	Carbamidomethyl	C	13
+PSM825_3_7009	Carbamidomethyl	C	8
+PSM825_3_7015	Carbamidomethyl	C	11
+PSM825_3_7036	Carbamidomethyl	C	5
+PSM825_3_7047	Oxidation	M	4
+PSM825_3_7048	Carbamidomethyl	C	2
+PSM825_3_7049	Carbamidomethyl	C	2
+PSM825_3_7050	Carbamidomethyl	C	1
+PSM825_3_7059	Carbamidomethyl	C	6
+PSM825_3_7059	Carbamidomethyl	C	7
+PSM825_3_7062	Carbamidomethyl	C	8
+PSM825_3_7062	Carbamidomethyl	C	9
+PSM825_3_7072	Carbamidomethyl	C	3
+PSM825_3_7073	Carbamidomethyl	C	17
+PSM825_3_7074	Oxidation	M	6
+PSM825_3_7087	Carbamidomethyl	C	13
+PSM825_3_7093	Carbamidomethyl	C	9
+PSM825_3_7098	Carbamidomethyl	C	9
+PSM825_3_7103	Carbamidomethyl	C	2
+PSM825_3_7104	Carbamidomethyl	C	2
+PSM825_3_7105	Carbamidomethyl	C	11
+PSM825_3_7108	Carbamidomethyl	C	13
+PSM825_3_711	Carbamidomethyl	C	5
+PSM825_3_712	Carbamidomethyl	C	5
+PSM825_3_7121	Carbamidomethyl	C	2
+PSM825_3_713	Carbamidomethyl	C	5
+PSM825_3_7135	Carbamidomethyl	C	7
+PSM825_3_714	Carbamidomethyl	C	13
+PSM825_3_7143	Carbamidomethyl	C	4
+PSM825_3_7146	Carbamidomethyl	C	6
+PSM825_3_7147	Carbamidomethyl	C	6
+PSM825_3_715	Carbamidomethyl	C	13
+PSM825_3_7151	Carbamidomethyl	C	8
+PSM825_3_7158	Carbamidomethyl	C	3
+PSM825_3_7159	Carbamidomethyl	C	4
+PSM825_3_716	Carbamidomethyl	C	13
+PSM825_3_7165	Carbamidomethyl	C	3
+PSM825_3_717	Carbamidomethyl	C	13
+PSM825_3_7172	Carbamidomethyl	C	12
+PSM825_3_7174	Carbamidomethyl	C	15
+PSM825_3_7175	Carbamidomethyl	C	11
+PSM825_3_7179	Carbamidomethyl	C	11
+PSM825_3_7181	Carbamidomethyl	C	16
+PSM825_3_7182	Carbamidomethyl	C	12
+PSM825_3_7190	Carbamidomethyl	C	3
+PSM825_3_7192	Carbamidomethyl	C	4
+PSM825_3_7196	Carbamidomethyl	C	11
+PSM825_3_7196	Carbamidomethyl	C	19
+PSM825_3_7198	Carbamidomethyl	C	16
+PSM825_3_7198	Carbamidomethyl	C	20
+PSM825_3_7200	Oxidation	M	6
+PSM825_3_7201	Ammonia-loss	N-term	
+PSM825_3_7201	Carbamidomethyl	C	1
+PSM825_3_7202	Ammonia-loss	N-term	
+PSM825_3_7202	Carbamidomethyl	C	1
+PSM825_3_7203	Gln->pyro-Glu	N-term	
+PSM825_3_7207	Gln->pyro-Glu	N-term	
+PSM825_3_7208	Acetyl	N-term	
+PSM825_3_7208	Carbamidomethyl	C	7
+PSM825_3_7209	Carbamidomethyl	C	2
+PSM825_3_7209	Carbamidomethyl	C	5
+PSM825_3_7209	Carbamidomethyl	C	8
+PSM825_3_7209	Carbamidomethyl	C	10
+PSM825_3_7211	Gln->pyro-Glu	N-term	
+PSM825_3_7216	Gln->pyro-Glu	N-term	
+PSM825_3_7217	Oxidation	M	1
+PSM825_3_7218	Oxidation	M	5
+PSM825_3_7219	Gln->pyro-Glu	N-term	
+PSM825_3_7220	Gln->pyro-Glu	N-term	
+PSM825_3_7221	Gln->pyro-Glu	N-term	
+PSM825_3_7223	Carbamidomethyl	C	8
+PSM825_3_7226	Acetyl	N-term	
+PSM825_3_7227	Ammonia-loss	N-term	
+PSM825_3_7227	Carbamidomethyl	C	1
+PSM825_3_7228	Gln->pyro-Glu	N-term	
+PSM825_3_7231	Oxidation	M	14
+PSM825_3_7233	Ammonia-loss	N-term	
+PSM825_3_7233	Carbamidomethyl	C	1
+PSM825_3_7235	Ammonia-loss	N-term	
+PSM825_3_7235	Carbamidomethyl	C	1
+PSM825_3_7235	Carbamidomethyl	C	20
+PSM825_3_7236	Carbamidomethyl	C	6
+PSM825_3_7237	Acetyl	N-term	
+PSM825_3_7239	Carbamidomethyl	C	7
+PSM825_3_7243	Carbamidomethyl	C	2
+PSM825_3_7246	Carbamidomethyl	C	8
+PSM825_3_7247	Gln->pyro-Glu	N-term	
+PSM825_3_7250	Carbamidomethyl	C	6
+PSM825_3_7250	Carbamidomethyl	C	7
+PSM825_3_7251	Ammonia-loss	N-term	
+PSM825_3_7251	Carbamidomethyl	C	1
+PSM825_3_7252	Ammonia-loss	N-term	
+PSM825_3_7252	Carbamidomethyl	C	1
+PSM825_3_7254	Gln->pyro-Glu	N-term	
+PSM825_3_7256	Carbamidomethyl	C	14
+PSM825_3_7258	Acetyl	N-term	
+PSM825_3_7259	Acetyl	N-term	
+PSM825_3_726	Carbamidomethyl	C	3
+PSM825_3_7265	Carbamidomethyl	C	15
+PSM825_3_7267	Acetyl	N-term	
+PSM825_3_7267	Carbamidomethyl	C	4
+PSM825_3_7271	Ammonia-loss	N-term	
+PSM825_3_7271	Carbamidomethyl	C	1
+PSM825_3_7272	Ammonia-loss	N-term	
+PSM825_3_7272	Carbamidomethyl	C	1
+PSM825_3_7273	Carbamidomethyl	C	1
+PSM825_3_7274	Ammonia-loss	N-term	
+PSM825_3_7274	Carbamidomethyl	C	1
+PSM825_3_7279	Carbamidomethyl	C	5
+PSM825_3_7281	Carbamidomethyl	C	1
+PSM825_3_7286	Carbamidomethyl	C	9
+PSM825_3_73	Carbamidomethyl	C	14
+PSM825_3_731	Carbamidomethyl	C	24
+PSM825_3_7314	Carbamidomethyl	C	1
+PSM825_3_7314	Carbamidomethyl	C	2
+PSM825_3_7317	Carbamidomethyl	C	6
+PSM825_3_7319	Oxidation	M	6
+PSM825_3_732	Carbamidomethyl	C	24
+PSM825_3_733	Carbamidomethyl	C	24
+PSM825_3_7331	Oxidation	M	7
+PSM825_3_7333	Carbamidomethyl	C	9
+PSM825_3_7339	Carbamidomethyl	C	6
+PSM825_3_734	Carbamidomethyl	C	24
+PSM825_3_735	Carbamidomethyl	C	4
+PSM825_3_7354	Carbamidomethyl	C	5
+PSM825_3_736	Acetyl	N-term	
+PSM825_3_736	Carbamidomethyl	C	16
+PSM825_3_737	Acetyl	N-term	
+PSM825_3_7370	Carbamidomethyl	C	5
+PSM825_3_7371	Carbamidomethyl	C	3
+PSM825_3_7378	Carbamidomethyl	C	6
+PSM825_3_7379	Carbamidomethyl	C	9
+PSM825_3_738	Acetyl	N-term	
+PSM825_3_739	Acetyl	N-term	
+PSM825_3_74	Carbamidomethyl	C	14
+PSM825_3_740	Gln->pyro-Glu	N-term	
+PSM825_3_7404	Carbamidomethyl	C	4
+PSM825_3_741	Gln->pyro-Glu	N-term	
+PSM825_3_7413	Oxidation	M	1
+PSM825_3_7422	Carbamidomethyl	C	6
+PSM825_3_7431	Oxidation	M	5
+PSM825_3_7434	Carbamidomethyl	C	6
+PSM825_3_7435	Carbamidomethyl	C	7
+PSM825_3_7440	Carbamidomethyl	C	7
+PSM825_3_7456	Carbamidomethyl	C	5
+PSM825_3_7463	Carbamidomethyl	C	5
+PSM825_3_7468	Carbamidomethyl	C	6
+PSM825_3_7469	Carbamidomethyl	C	3
+PSM825_3_747	Carbamidomethyl	C	9
+PSM825_3_7474	Carbamidomethyl	C	7
+PSM825_3_748	Carbamidomethyl	C	9
+PSM825_3_7483	Carbamidomethyl	C	9
+PSM825_3_749	Carbamidomethyl	C	4
+PSM825_3_749	Carbamidomethyl	C	5
+PSM825_3_749	Carbamidomethyl	C	14
+PSM825_3_7492	Carbamidomethyl	C	4
+PSM825_3_7499	Carbamidomethyl	C	9
+PSM825_3_75	Carbamidomethyl	C	14
+PSM825_3_750	Carbamidomethyl	C	4
+PSM825_3_750	Carbamidomethyl	C	5
+PSM825_3_750	Carbamidomethyl	C	14
+PSM825_3_7500	Carbamidomethyl	C	1
+PSM825_3_7504	Carbamidomethyl	C	3
+PSM825_3_7504	Carbamidomethyl	C	5
+PSM825_3_7505	Carbamidomethyl	C	10
+PSM825_3_7508	Carbamidomethyl	C	7
+PSM825_3_7509	Carbamidomethyl	C	4
+PSM825_3_751	Carbamidomethyl	C	8
+PSM825_3_752	Carbamidomethyl	C	8
+PSM825_3_753	Oxidation	M	12
+PSM825_3_7536	Carbamidomethyl	C	14
+PSM825_3_7539	Carbamidomethyl	C	5
+PSM825_3_754	Oxidation	M	12
+PSM825_3_7542	Carbamidomethyl	C	5
+PSM825_3_7542	Carbamidomethyl	C	11
+PSM825_3_7548	Carbamidomethyl	C	4
+PSM825_3_7548	Carbamidomethyl	C	12
+PSM825_3_7549	Carbamidomethyl	C	9
+PSM825_3_7576	Carbamidomethyl	C	9
+PSM825_3_7578	Carbamidomethyl	C	5
+PSM825_3_7585	Carbamidomethyl	C	4
+PSM825_3_7585	Carbamidomethyl	C	12
+PSM825_3_7587	Carbamidomethyl	C	11
+PSM825_3_759	Carbamidomethyl	C	15
+PSM825_3_760	Carbamidomethyl	C	15
+PSM825_3_7609	Oxidation	M	8
+PSM825_3_761	Carbamidomethyl	C	15
+PSM825_3_7616	Carbamidomethyl	C	2
+PSM825_3_7616	Carbamidomethyl	C	6
+PSM825_3_7617	Carbamidomethyl	C	11
+PSM825_3_7622	Carbamidomethyl	C	9
+PSM825_3_7626	Carbamidomethyl	C	12
+PSM825_3_7644	Carbamidomethyl	C	9
+PSM825_3_7651	Carbamidomethyl	C	17
+PSM825_3_7652	Carbamidomethyl	C	10
+PSM825_3_7653	Carbamidomethyl	C	9
+PSM825_3_7661	Carbamidomethyl	C	2
+PSM825_3_7661	Carbamidomethyl	C	8
+PSM825_3_7667	Carbamidomethyl	C	2
+PSM825_3_7669	Carbamidomethyl	C	9
+PSM825_3_7670	Carbamidomethyl	C	11
+PSM825_3_7677	Carbamidomethyl	C	5
+PSM825_3_7679	Carbamidomethyl	C	2
+PSM825_3_7679	Carbamidomethyl	C	8
+PSM825_3_768	Carbamidomethyl	C	10
+PSM825_3_769	Carbamidomethyl	C	10
+PSM825_3_7690	Carbamidomethyl	C	3
+PSM825_3_7693	Carbamidomethyl	C	13
+PSM825_3_7694	Oxidation	M	16
+PSM825_3_7696	Carbamidomethyl	C	6
+PSM825_3_7696	Carbamidomethyl	C	13
+PSM825_3_7696	Carbamidomethyl	C	22
+PSM825_3_7698	Carbamidomethyl	C	8
+PSM825_3_7705	Carbamidomethyl	C	10
+PSM825_3_7706	Carbamidomethyl	C	10
+PSM825_3_7708	Carbamidomethyl	C	4
+PSM825_3_7715	Carbamidomethyl	C	9
+PSM825_3_7716	Carbamidomethyl	C	9
+PSM825_3_7718	Carbamidomethyl	C	19
+PSM825_3_773	Carbamidomethyl	C	1
+PSM825_3_7735	Carbamidomethyl	C	5
+PSM825_3_7736	Carbamidomethyl	C	1
+PSM825_3_7736	Carbamidomethyl	C	7
+PSM825_3_7736	Carbamidomethyl	C	22
+PSM825_3_7739	Carbamidomethyl	C	11
+PSM825_3_7743	Oxidation	M	1
+PSM825_3_7750	Carbamidomethyl	C	8
+PSM825_3_7751	Ammonia-loss	N-term	
+PSM825_3_7751	Carbamidomethyl	C	1
+PSM825_3_7752	Gln->pyro-Glu	N-term	
+PSM825_3_7753	Carbamidomethyl	C	5
+PSM825_3_7755	Gln->pyro-Glu	N-term	
+PSM825_3_7757	Ammonia-loss	N-term	
+PSM825_3_7757	Carbamidomethyl	C	1
+PSM825_3_7758	Gln->pyro-Glu	N-term	
+PSM825_3_7758	Carbamidomethyl	C	5
+PSM825_3_7760	Gln->pyro-Glu	N-term	
+PSM825_3_7760	Carbamidomethyl	C	23
+PSM825_3_7761	Gln->pyro-Glu	N-term	
+PSM825_3_7762	Gln->pyro-Glu	N-term	
+PSM825_3_7763	Ammonia-loss	N-term	
+PSM825_3_7763	Carbamidomethyl	C	1
+PSM825_3_7764	Ammonia-loss	N-term	
+PSM825_3_7764	Carbamidomethyl	C	1
+PSM825_3_7765	Gln->pyro-Glu	N-term	
+PSM825_3_7780	Gln->pyro-Glu	N-term	
+PSM825_3_7781	Gln->pyro-Glu	N-term	
+PSM825_3_7784	Carbamidomethyl	C	5
+PSM825_3_7785	Ammonia-loss	N-term	
+PSM825_3_7785	Carbamidomethyl	C	1
+PSM825_3_7788	Acetyl	N-term	
+PSM825_3_7790	Carbamidomethyl	C	5
+PSM825_3_7791	Carbamidomethyl	C	5
+PSM825_3_7793	Ammonia-loss	N-term	
+PSM825_3_7793	Carbamidomethyl	C	1
+PSM825_3_7793	Carbamidomethyl	C	12
+PSM825_3_7796	Gln->pyro-Glu	N-term	
+PSM825_3_7800	Ammonia-loss	N-term	
+PSM825_3_7800	Carbamidomethyl	C	1
+PSM825_3_7801	Acetyl	N-term	
+PSM825_3_7803	Carbamidomethyl	C	5
+PSM825_3_7803	Carbamidomethyl	C	12
+PSM825_3_7804	Acetyl	N-term	
+PSM825_3_7810	Acetyl	N-term	
+PSM825_3_7810	Carbamidomethyl	C	15
+PSM825_3_7812	Acetyl	N-term	
+PSM825_3_7813	Carbamidomethyl	C	11
+PSM825_3_7815	Acetyl	N-term	
+PSM825_3_7818	Acetyl	N-term	
+PSM825_3_7818	Carbamidomethyl	C	12
+PSM825_3_7823	Ammonia-loss	N-term	
+PSM825_3_7823	Carbamidomethyl	C	1
+PSM825_3_7829	Oxidation	M	4
+PSM825_3_7831	Oxidation	M	5
+PSM825_3_7834	Oxidation	M	1
+PSM825_3_7837	Carbamidomethyl	C	2
+PSM825_3_784	Carbamidomethyl	C	2
+PSM825_3_7840	Carbamidomethyl	C	3
+PSM825_3_7841	Oxidation	M	5
+PSM825_3_785	Carbamidomethyl	C	2
+PSM825_3_794	Carbamidomethyl	C	16
+PSM825_3_795	Carbamidomethyl	C	16
+PSM825_3_796	Carbamidomethyl	C	16
+PSM825_3_797	Carbamidomethyl	C	16
+PSM825_3_798	Carbamidomethyl	C	22
+PSM825_3_799	Carbamidomethyl	C	22
+PSM825_3_80	Carbamidomethyl	C	7
+PSM825_3_80	Carbamidomethyl	C	23
+PSM825_3_800	Carbamidomethyl	C	8
+PSM825_3_809	Carbamidomethyl	C	12
+PSM825_3_810	Carbamidomethyl	C	12
+PSM825_3_811	Carbamidomethyl	C	12
+PSM825_3_814	Carbamidomethyl	C	14
+PSM825_3_815	Carbamidomethyl	C	14
+PSM825_3_816	Carbamidomethyl	C	14
+PSM825_3_817	Carbamidomethyl	C	14
+PSM825_3_818	Carbamidomethyl	C	14
+PSM825_3_819	Carbamidomethyl	C	14
+PSM825_3_820	Carbamidomethyl	C	14
+PSM825_3_837	Carbamidomethyl	C	7
+PSM825_3_838	Carbamidomethyl	C	7
+PSM825_3_84	Carbamidomethyl	C	2
+PSM825_3_84	Carbamidomethyl	C	6
+PSM825_3_844	Carbamidomethyl	C	2
+PSM825_3_845	Carbamidomethyl	C	2
+PSM825_3_846	Carbamidomethyl	C	2
+PSM825_3_847	Carbamidomethyl	C	2
+PSM825_3_848	Carbamidomethyl	C	2
+PSM825_3_85	Carbamidomethyl	C	2
+PSM825_3_85	Carbamidomethyl	C	6
+PSM825_3_851	Carbamidomethyl	C	7
+PSM825_3_852	Carbamidomethyl	C	7
+PSM825_3_853	Carbamidomethyl	C	7
+PSM825_3_859	Carbamidomethyl	C	15
+PSM825_3_86	Carbamidomethyl	C	2
+PSM825_3_86	Carbamidomethyl	C	6
+PSM825_3_87	Carbamidomethyl	C	2
+PSM825_3_87	Carbamidomethyl	C	6
+PSM825_3_876	Carbamidomethyl	C	13
+PSM825_3_877	Carbamidomethyl	C	1
+PSM825_3_877	Carbamidomethyl	C	2
+PSM825_3_877	Carbamidomethyl	C	10
+PSM825_3_878	Carbamidomethyl	C	1
+PSM825_3_878	Carbamidomethyl	C	2
+PSM825_3_878	Carbamidomethyl	C	10
+PSM825_3_879	Carbamidomethyl	C	1
+PSM825_3_879	Carbamidomethyl	C	2
+PSM825_3_879	Carbamidomethyl	C	10
+PSM825_3_88	Carbamidomethyl	C	1
+PSM825_3_88	Carbamidomethyl	C	11
+PSM825_3_880	Carbamidomethyl	C	14
+PSM825_3_881	Carbamidomethyl	C	14
+PSM825_3_882	Carbamidomethyl	C	14
+PSM825_3_883	Carbamidomethyl	C	19
+PSM825_3_884	Carbamidomethyl	C	19
+PSM825_3_885	Acetyl	N-term	
+PSM825_3_89	Carbamidomethyl	C	1
+PSM825_3_89	Carbamidomethyl	C	11
+PSM825_3_891	Carbamidomethyl	C	7
+PSM825_3_892	Carbamidomethyl	C	7
+PSM825_3_893	Carbamidomethyl	C	6
+PSM825_3_894	Carbamidomethyl	C	6
+PSM825_3_895	Carbamidomethyl	C	6
+PSM825_3_90	Carbamidomethyl	C	1
+PSM825_3_90	Carbamidomethyl	C	11
+PSM825_3_91	Carbamidomethyl	C	1
+PSM825_3_91	Carbamidomethyl	C	11
+PSM825_3_911	Oxidation	M	4
+PSM825_3_912	Oxidation	M	4
+PSM825_3_913	Oxidation	M	4
+PSM825_3_914	Oxidation	M	4
+PSM825_3_915	Carbamidomethyl	C	6
+PSM825_3_916	Carbamidomethyl	C	6
+PSM825_3_917	Oxidation	M	10
+PSM825_3_918	Oxidation	M	10
+PSM825_3_919	Oxidation	M	10
+PSM825_3_92	Carbamidomethyl	C	5
+PSM825_3_920	Carbamidomethyl	C	5
+PSM825_3_920	Carbamidomethyl	C	6
+PSM825_3_921	Carbamidomethyl	C	5
+PSM825_3_921	Carbamidomethyl	C	6
+PSM825_3_922	Carbamidomethyl	C	5
+PSM825_3_922	Carbamidomethyl	C	6
+PSM825_3_93	Carbamidomethyl	C	5
+PSM825_3_94	Carbamidomethyl	C	5
+PSM825_3_95	Carbamidomethyl	C	5
+PSM825_3_954	Oxidation	M	4
+PSM825_3_955	Oxidation	M	4
+PSM825_3_956	Oxidation	M	4
+PSM825_3_96	Carbamidomethyl	C	14
+PSM825_3_960	Carbamidomethyl	C	6
+PSM825_3_961	Carbamidomethyl	C	6
+PSM825_3_962	Carbamidomethyl	C	4
+PSM825_3_962	Carbamidomethyl	C	13
+PSM825_3_97	Carbamidomethyl	C	14
+PSM825_3_98	Carbamidomethyl	C	14
+PSM825_3_982	Carbamidomethyl	C	4
+PSM825_3_997	Carbamidomethyl	C	9
+PSM825_3_998	Carbamidomethyl	C	9
+PSM825_3_999	Carbamidomethyl	C	9

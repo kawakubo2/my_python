@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+weekdays = ['日曜日', '月曜日', '火曜日', '水曜日',
+            '木曜日', '金曜日', '土曜日']
+
+with open('days.txt', 'w', encoding='utf_8') as f:
+    f.writelines([d + "\n" for d in weekdays])

@@ -1,0 +1,8 @@
+こんにちは
+Python
+こんにちは
+Java
+おはよう
+Rust
+Hello
+Julia

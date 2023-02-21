@@ -1,0 +1,6 @@
+f = open('rand_gen1.py', 'r', encoding='utf_8')
+lines = f.read(10)
+print(lines)
+lines = f.read(10)
+print(lines)
+f.close()

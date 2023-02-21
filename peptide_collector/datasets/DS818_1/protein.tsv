@@ -1,0 +1,1029 @@
+protein_id	accession	symbol	name	protein_type	pep_count	psm_count	uniq_pep_count
+PRT818_1_P63284	P63284	CLPB_ECOLI	Chaperone protein ClpB	Representative isoform	29	236	29
+PRT818_1_P0A705	P0A705	IF2_ECOLI	Translation initiation factor IF-2	Representative isoform	17	54	17
+PRT818_1_P00452	P00452	RIR1_ECOLI	Ribonucleoside-diphosphate reductase 1 subunit alpha	Representative isoform	7	135	7
+PRT818_1_Q59385	Q59385	COPA_ECOLI	Copper-exporting P-type ATPase	Representative isoform	2	19	2
+PRT818_1_P02919	P02919	PBPB_ECOLI	Penicillin-binding protein 1B	Representative isoform	1	17	1
+PRT818_1_P0A6Y8	P0A6Y8	DNAK_ECOLI	Chaperone protein DnaK	leading protein	43	1464	43
+PRT818_1_P0A853	P0A853	TNAA_ECOLI	Tryptophanase	leading protein	34	2100	34
+PRT818_1_P09373	P09373	PFLB_ECOLI	Formate acetyltransferase 1	leading protein	33	506	30
+PRT818_1_P0A6F5	P0A6F5	CH60_ECOLI	60 kDa chaperonin	leading protein	31	964	31
+PRT818_1_P0CE47	P0CE47	EFTU1_ECOLI	Elongation factor Tu 1	leading protein	30	3691	0
+PRT818_1_P63284	P63284	CLPB_ECOLI	Chaperone protein ClpB	leading protein	29	236	29
+PRT818_1_P0AFG8	P0AFG8	ODP1_ECOLI	Pyruvate dehydrogenase E1 component	leading protein	29	373	29
+PRT818_1_P69910	P69910	DCEB_ECOLI	Glutamate decarboxylase beta	leading protein	28	984	2
+PRT818_1_P0AG67	P0AG67	RS1_ECOLI	30S ribosomal protein S1	leading protein	27	558	27
+PRT818_1_P0A9Q7	P0A9Q7	ADHE_ECOLI	Aldehyde-alcohol dehydrogenase	leading protein	27	319	27
+PRT818_1_P0A6M8	P0A6M8	EFG_ECOLI	Elongation factor G	leading protein	26	519	26
+PRT818_1_P23843	P23843	OPPA_ECOLI	Periplasmic oligopeptide-binding protein	leading protein	25	586	25
+PRT818_1_P0A850	P0A850	TIG_ECOLI	Trigger factor	leading protein	25	367	25
+PRT818_1_P0A9G6	P0A9G6	ACEA_ECOLI	Isocitrate lyase	leading protein	24	1060	24
+PRT818_1_P0A8V2	P0A8V2	RPOB_ECOLI	DNA-directed RNA polymerase subunit beta	leading protein	23	158	23
+PRT818_1_P0A799	P0A799	PGK_ECOLI	Phosphoglycerate kinase	leading protein	23	1215	23
+PRT818_1_P39180	P39180	AG43_ECOLI	Antigen 43	leading protein	23	257	23
+PRT818_1_P0A6Z3	P0A6Z3	HTPG_ECOLI	Chaperone protein HtpG	leading protein	22	366	22
+PRT818_1_P08997	P08997	MASY_ECOLI	Malate synthase A	leading protein	21	417	21
+PRT818_1_P22259	P22259	PCKA_ECOLI	Phosphoenolpyruvate carboxykinase (ATP)	leading protein	21	316	21
+PRT818_1_P0ABB4	P0ABB4	ATPB_ECOLI	ATP synthase subunit beta	leading protein	21	228	21
+PRT818_1_P06959	P06959	ODP2_ECOLI	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	leading protein	21	338	21
+PRT818_1_P0A8T7	P0A8T7	RPOC_ECOLI	DNA-directed RNA polymerase subunit beta'	leading protein	20	254	20
+PRT818_1_P0A870	P0A870	TALB_ECOLI	Transaldolase B	leading protein	20	395	18
+PRT818_1_P0ABB0	P0ABB0	ATPA_ECOLI	ATP synthase subunit alpha	leading protein	19	334	19
+PRT818_1_P0A6P9	P0A6P9	ENO_ECOLI	Enolase	leading protein	19	593	19
+PRT818_1_P61889	P61889	MDH_ECOLI	Malate dehydrogenase	leading protein	19	413	19
+PRT818_1_P0A6K6	P0A6K6	DEOB_ECOLI	Phosphopentomutase	leading protein	19	287	19
+PRT818_1_P0C8J8	P0C8J8	GATZ_ECOLI	D-tagatose-1,6-bisphosphate aldolase subunit GatZ	leading protein	19	417	18
+PRT818_1_P0ABT2	P0ABT2	DPS_ECOLI	DNA protection during starvation protein	leading protein	19	934	19
+PRT818_1_P25516	P25516	ACNA_ECOLI	Aconitate hydratase A	leading protein	19	134	19
+PRT818_1_P0A8N5	P0A8N5	SYK2_ECOLI	Lysine--tRNA ligase, heat inducible	leading protein	19	275	15
+PRT818_1_P0AB71	P0AB71	ALF_ECOLI	Fructose-bisphosphate aldolase class 2	leading protein	18	650	18
+PRT818_1_P08839	P08839	PT1_ECOLI	Phosphoenolpyruvate-protein phosphotransferase	leading protein	18	167	18
+PRT818_1_P0A6P1	P0A6P1	EFTS_ECOLI	Elongation factor Ts	leading protein	18	413	18
+PRT818_1_P00350	P00350	6PGD_ECOLI	6-phosphogluconate dehydrogenase, decarboxylating	leading protein	18	164	18
+PRT818_1_P0A9B2	P0A9B2	G3P1_ECOLI	Glyceraldehyde-3-phosphate dehydrogenase A	leading protein	17	1024	17
+PRT818_1_P0A705	P0A705	IF2_ECOLI	Translation initiation factor IF-2	leading protein	17	54	17
+PRT818_1_P0C8J6	P0C8J6	GATY_ECOLI	D-tagatose-1,6-bisphosphate aldolase subunit GatY	leading protein	17	313	17
+PRT818_1_P36683	P36683	ACNB_ECOLI	Aconitate hydratase B	leading protein	17	127	17
+PRT818_1_P0A9P0	P0A9P0	DLDH_ECOLI	Dihydrolipoyl dehydrogenase	leading protein	15	123	15
+PRT818_1_P13029	P13029	KATG_ECOLI	Catalase-peroxidase	leading protein	15	91	15
+PRT818_1_P00805	P00805	ASPG2_ECOLI	L-asparaginase 2	leading protein	15	200	15
+PRT818_1_P0AEX9	P0AEX9	MALE_ECOLI	Maltose/maltodextrin-binding periplasmic protein	leading protein	15	287	15
+PRT818_1_P0AE08	P0AE08	AHPC_ECOLI	Alkyl hydroperoxide reductase C	leading protein	15	409	15
+PRT818_1_P0AC38	P0AC38	ASPA_ECOLI	Aspartate ammonia-lyase	leading protein	15	107	15
+PRT818_1_P0AEE5	P0AEE5	DGAL_ECOLI	D-galactose-binding periplasmic protein	leading protein	14	321	14
+PRT818_1_P0A953	P0A953	FABB_ECOLI	3-oxoacyl-[acyl-carrier-protein] synthase 1	leading protein	14	247	14
+PRT818_1_P21599	P21599	KPYK2_ECOLI	Pyruvate kinase II	leading protein	14	194	14
+PRT818_1_P06996	P06996	OMPC_ECOLI	Outer membrane porin C	leading protein	14	133	14
+PRT818_1_P0A991	P0A991	ALF1_ECOLI	Fructose-bisphosphate aldolase class 1	leading protein	14	168	14
+PRT818_1_P0A7Z4	P0A7Z4	RPOA_ECOLI	DNA-directed RNA polymerase subunit alpha	leading protein	14	87	14
+PRT818_1_P42632	P42632	TDCE_ECOLI	PFL-like enzyme TdcE	leading protein	13	86	11
+PRT818_1_P0AFF6	P0AFF6	NUSA_ECOLI	Transcription termination/antitermination protein NusA	leading protein	13	110	13
+PRT818_1_P0AD61	P0AD61	KPYK1_ECOLI	Pyruvate kinase I	leading protein	13	192	13
+PRT818_1_P0A910	P0A910	OMPA_ECOLI	Outer membrane protein A	leading protein	13	409	13
+PRT818_1_P0A8N3	P0A8N3	SYK1_ECOLI	Lysine--tRNA ligase	leading protein	13	135	9
+PRT818_1_P0A6A3	P0A6A3	ACKA_ECOLI	Acetate kinase	leading protein	12	168	12
+PRT818_1_P05055	P05055	PNP_ECOLI	Polyribonucleotide nucleotidyltransferase	leading protein	12	118	12
+PRT818_1_P09152	P09152	NARG_ECOLI	Respiratory nitrate reductase 1 alpha chain	leading protein	12	98	12
+PRT818_1_P0AGD3	P0AGD3	SODF_ECOLI	Superoxide dismutase [Fe]	leading protein	12	621	12
+PRT818_1_P0A7L0	P0A7L0	RL1_ECOLI	50S ribosomal protein L1	leading protein	12	142	12
+PRT818_1_P0A6T1	P0A6T1	G6PI_ECOLI	Glucose-6-phosphate isomerase	leading protein	12	80	12
+PRT818_1_P27302	P27302	TKT1_ECOLI	Transketolase 1	leading protein	12	79	12
+PRT818_1_P02925	P02925	RBSB_ECOLI	Ribose import binding protein RbsB	leading protein	12	229	12
+PRT818_1_P23538	P23538	PPSA_ECOLI	Phosphoenolpyruvate synthase	leading protein	12	94	12
+PRT818_1_P0A9S3	P0A9S3	GATD_ECOLI	Galactitol 1-phosphate 5-dehydrogenase	leading protein	12	204	12
+PRT818_1_P0ABP8	P0ABP8	DEOD_ECOLI	Purine nucleoside phosphorylase DeoD-type	leading protein	11	149	11
+PRT818_1_P0A9M0	P0A9M0	LON_ECOLI	Lon protease	leading protein	11	48	11
+PRT818_1_P00961	P00961	SYGB_ECOLI	Glycine--tRNA ligase beta subunit	leading protein	11	59	11
+PRT818_1_P21513	P21513	RNE_ECOLI	Ribonuclease E	leading protein	11	121	11
+PRT818_1_P0A9M8	P0A9M8	PTA_ECOLI	Phosphate acetyltransferase	leading protein	11	80	11
+PRT818_1_P0A7R1	P0A7R1	RL9_ECOLI	50S ribosomal protein L9	leading protein	11	256	11
+PRT818_1_P76440	P76440	PRET_ECOLI	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT	leading protein	11	88	11
+PRT818_1_P0ACF8	P0ACF8	HNS_ECOLI	DNA-binding protein H-NS	leading protein	11	422	11
+PRT818_1_P0A7V0	P0A7V0	RS2_ECOLI	30S ribosomal protein S2	leading protein	10	363	10
+PRT818_1_P0A8G6	P0A8G6	NQOR_ECOLI	NAD(P)H dehydrogenase (quinone)	leading protein	10	291	10
+PRT818_1_P0C0V0	P0C0V0	DEGP_ECOLI	Periplasmic serine endoprotease DegP	leading protein	10	316	10
+PRT818_1_P36938	P36938	PGM_ECOLI	Phosphoglucomutase	leading protein	10	1586	10
+PRT818_1_P68066	P68066	GRCA_ECOLI	Autonomous glycyl radical cofactor	leading protein	10	255	9
+PRT818_1_P08200	P08200	IDH_ECOLI	Isocitrate dehydrogenase [NADP]	leading protein	10	407	10
+PRT818_1_P0AG55	P0AG55	RL6_ECOLI	50S ribosomal protein L6	leading protein	10	125	10
+PRT818_1_P0A862	P0A862	TPX_ECOLI	Thiol peroxidase	leading protein	10	469	10
+PRT818_1_P0AC33	P0AC33	FUMA_ECOLI	Fumarate hydratase class I, aerobic	leading protein	10	64	6
+PRT818_1_P0AC59	P0AC59	GLRX2_ECOLI	Glutaredoxin 2	leading protein	10	114	10
+PRT818_1_P15288	P15288	PEPD_ECOLI	Cytosol non-specific dipeptidase	leading protein	10	64	10
+PRT818_1_P0AGE9	P0AGE9	SUCD_ECOLI	Succinate--CoA ligase [ADP-forming] subunit alpha	leading protein	10	152	10
+PRT818_1_P37689	P37689	GPMI_ECOLI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	leading protein	10	555	10
+PRT818_1_P00509	P00509	AAT_ECOLI	Aspartate aminotransferase	leading protein	10	86	10
+PRT818_1_P0AFH8	P0AFH8	OSMY_ECOLI	Osmotically-inducible protein Y	leading protein	10	287	10
+PRT818_1_P02359	P02359	RS7_ECOLI	30S ribosomal protein S7	leading protein	10	128	10
+PRT818_1_P60422	P60422	RL2_ECOLI	50S ribosomal protein L2	leading protein	10	62	10
+PRT818_1_P0A836	P0A836	SUCC_ECOLI	Succinate--CoA ligase [ADP-forming] subunit beta	leading protein	10	68	10
+PRT818_1_P0A6F3	P0A6F3	GLPK_ECOLI	Glycerol kinase	leading protein	10	48	10
+PRT818_1_P00363	P00363	FRDA_ECOLI	Fumarate reductase flavoprotein subunit	leading protein	10	74	10
+PRT818_1_P19926	P19926	AGP_ECOLI	Glucose-1-phosphatase	leading protein	10	137	10
+PRT818_1_P0A9A6	P0A9A6	FTSZ_ECOLI	Cell division protein FtsZ	leading protein	10	62	10
+PRT818_1_P07650	P07650	TYPH_ECOLI	Thymidine phosphorylase	leading protein	10	69	10
+PRT818_1_P0A7D4	P0A7D4	PURA_ECOLI	Adenylosuccinate synthetase	leading protein	10	59	10
+PRT818_1_P0ACD8	P0ACD8	MBHL_ECOLI	Hydrogenase-1 large chain	leading protein	10	92	10
+PRT818_1_P0ADE6	P0ADE6	KBP_ECOLI	Potassium binding protein Kbp	leading protein	9	125	9
+PRT818_1_P0ABH9	P0ABH9	CLPA_ECOLI	ATP-dependent Clp protease ATP-binding subunit ClpA	leading protein	9	43	9
+PRT818_1_P0DTT0	P0DTT0	BIPA_ECOLI	50S ribosomal subunit assembly factor BipA	leading protein	9	61	9
+PRT818_1_P0AG30	P0AG30	RHO_ECOLI	Transcription termination factor Rho	leading protein	9	97	9
+PRT818_1_P52697	P52697	6PGL_ECOLI	6-phosphogluconolactonase	leading protein	9	189	9
+PRT818_1_P0AAI5	P0AAI5	FABF_ECOLI	3-oxoacyl-[acyl-carrier-protein] synthase 2	leading protein	9	130	9
+PRT818_1_P12758	P12758	UDP_ECOLI	Uridine phosphorylase	leading protein	9	83	9
+PRT818_1_P61175	P61175	RL22_ECOLI	50S ribosomal protein L22	leading protein	9	155	9
+PRT818_1_P0A858	P0A858	TPIS_ECOLI	Triosephosphate isomerase	leading protein	9	145	9
+PRT818_1_P28904	P28904	TREC_ECOLI	Trehalose-6-phosphate hydrolase	leading protein	9	126	9
+PRT818_1_P0ABZ6	P0ABZ6	SURA_ECOLI	Chaperone SurA	leading protein	9	98	9
+PRT818_1_P00956	P00956	SYI_ECOLI	Isoleucine--tRNA ligase	leading protein	9	44	9
+PRT818_1_P62707	P62707	GPMA_ECOLI	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	leading protein	9	113	9
+PRT818_1_P0A955	P0A955	ALKH_ECOLI	KHG/KDPG aldolase	leading protein	9	26	9
+PRT818_1_P77804	P77804	YDGA_ECOLI	Protein YdgA	leading protein	8	68	8
+PRT818_1_P0C0L2	P0C0L2	OSMC_ECOLI	Peroxiredoxin OsmC	leading protein	8	190	8
+PRT818_1_P25553	P25553	ALDA_ECOLI	Lactaldehyde dehydrogenase	leading protein	8	37	8
+PRT818_1_P69811	P69811	PTFAH_ECOLI	Multiphosphoryl transfer protein	leading protein	8	161	8
+PRT818_1_P0A817	P0A817	METK_ECOLI	S-adenosylmethionine synthase	leading protein	8	78	8
+PRT818_1_P37188	P37188	PTKB_ECOLI	PTS system galactitol-specific EIIB component	leading protein	8	1260	7
+PRT818_1_P17169	P17169	GLMS_ECOLI	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	leading protein	8	34	8
+PRT818_1_P0AEH5	P0AEH5	ELAB_ECOLI	Protein ElaB	leading protein	8	58	8
+PRT818_1_P0ABH7	P0ABH7	CISY_ECOLI	Citrate synthase	leading protein	8	49	8
+PRT818_1_P0AA10	P0AA10	RL13_ECOLI	50S ribosomal protein L13	leading protein	8	157	8
+PRT818_1_P60723	P60723	RL4_ECOLI	50S ribosomal protein L4	leading protein	8	259	8
+PRT818_1_P69441	P69441	KAD_ECOLI	Adenylate kinase	leading protein	8	88	8
+PRT818_1_P0A8M3	P0A8M3	SYT_ECOLI	Threonine--tRNA ligase	leading protein	8	122	8
+PRT818_1_P0AC41	P0AC41	SDHA_ECOLI	Succinate dehydrogenase flavoprotein subunit	leading protein	8	96	8
+PRT818_1_P69828	P69828	PTKA_ECOLI	PTS system galactitol-specific EIIA component	leading protein	8	193	8
+PRT818_1_P02358	P02358	RS6_ECOLI	30S ribosomal protein S6	leading protein	8	123	8
+PRT818_1_P33195	P33195	GCSP_ECOLI	Glycine dehydrogenase (decarboxylating)	leading protein	8	32	8
+PRT818_1_P10408	P10408	SECA_ECOLI	Protein translocase subunit SecA	leading protein	8	53	8
+PRT818_1_P0A717	P0A717	KPRS_ECOLI	Ribose-phosphate pyrophosphokinase	leading protein	8	29	8
+PRT818_1_P0A8F0	P0A8F0	UPP_ECOLI	Uracil phosphoribosyltransferase	leading protein	8	101	8
+PRT818_1_P0AAT9	P0AAT9	YBEL_ECOLI	Uncharacterized protein YbeL	leading protein	8	87	8
+PRT818_1_P04825	P04825	AMPN_ECOLI	Aminopeptidase N	leading protein	8	69	8
+PRT818_1_P14407	P14407	FUMB_ECOLI	Fumarate hydratase class I, anaerobic	leading protein	8	57	4
+PRT818_1_P07395	P07395	SYFB_ECOLI	Phenylalanine--tRNA ligase beta subunit	leading protein	8	26	8
+PRT818_1_P0A7W1	P0A7W1	RS5_ECOLI	30S ribosomal protein S5	leading protein	8	95	8
+PRT818_1_P0A7J3	P0A7J3	RL10_ECOLI	50S ribosomal protein L10	leading protein	8	213	8
+PRT818_1_P39177	P39177	USPG_ECOLI	Universal stress protein UP12	leading protein	8	312	8
+PRT818_1_P35340	P35340	AHPF_ECOLI	Alkyl hydroperoxide reductase subunit F	leading protein	8	65	8
+PRT818_1_P63224	P63224	GMHA_ECOLI	Phosphoheptose isomerase	leading protein	8	42	8
+PRT818_1_P0A6H1	P0A6H1	CLPX_ECOLI	ATP-dependent Clp protease ATP-binding subunit ClpX	leading protein	8	43	8
+PRT818_1_P75818	P75818	YBJP_ECOLI	Uncharacterized lipoprotein YbjP	leading protein	7	91	7
+PRT818_1_P0A6L0	P0A6L0	DEOC_ECOLI	Deoxyribose-phosphate aldolase	leading protein	7	124	7
+PRT818_1_P0ADU5	P0ADU5	YGIW_ECOLI	Protein YgiW	leading protein	7	323	7
+PRT818_1_P30859	P30859	ARTI_ECOLI	Putative ABC transporter arginine-binding protein 2	leading protein	7	91	7
+PRT818_1_P31658	P31658	HCHA_ECOLI	Protein/nucleic acid deglycase 1	leading protein	7	242	7
+PRT818_1_P69739	P69739	MBHS_ECOLI	Hydrogenase-1 small chain	leading protein	7	48	7
+PRT818_1_P0ABK5	P0ABK5	CYSK_ECOLI	Cysteine synthase A	leading protein	7	57	7
+PRT818_1_P0AD49	P0AD49	YFIA_ECOLI	Ribosome-associated inhibitor A	leading protein	7	1219	7
+PRT818_1_P0AF93	P0AF93	RIDA_ECOLI	2-iminobutanoate/2-iminopropanoate deaminase	leading protein	7	137	6
+PRT818_1_P77318	P77318	YDEN_ECOLI	Uncharacterized sulfatase YdeN	leading protein	7	100	7
+PRT818_1_P0A7V3	P0A7V3	RS3_ECOLI	30S ribosomal protein S3	leading protein	7	119	7
+PRT818_1_P23847	P23847	DPPA_ECOLI	Periplasmic dipeptide transport protein	leading protein	7	91	7
+PRT818_1_P0A867	P0A867	TALA_ECOLI	Transaldolase A	leading protein	7	36	5
+PRT818_1_P0AFK9	P0AFK9	POTD_ECOLI	Spermidine/putrescine-binding periplasmic protein	leading protein	7	154	7
+PRT818_1_P0A805	P0A805	RRF_ECOLI	Ribosome-recycling factor	leading protein	7	116	7
+PRT818_1_P0A9L3	P0A9L3	FKBB_ECOLI	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase	leading protein	7	43	7
+PRT818_1_P62399	P62399	RL5_ECOLI	50S ribosomal protein L5	leading protein	7	99	7
+PRT818_1_P37330	P37330	MASZ_ECOLI	Malate synthase G	leading protein	7	42	7
+PRT818_1_P04079	P04079	GUAA_ECOLI	GMP synthase [glutamine-hydrolyzing]	leading protein	7	46	7
+PRT818_1_P45523	P45523	FKBA_ECOLI	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA	leading protein	7	164	7
+PRT818_1_P69797	P69797	PTNAB_ECOLI	PTS system mannose-specific EIIAB component	leading protein	7	62	7
+PRT818_1_P0AG86	P0AG86	SECB_ECOLI	Protein-export protein SecB	leading protein	7	94	7
+PRT818_1_P0A6Q3	P0A6Q3	FABA_ECOLI	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	leading protein	7	51	7
+PRT818_1_P0A707	P0A707	IF3_ECOLI	Translation initiation factor IF-3	leading protein	7	50	7
+PRT818_1_P09394	P09394	GLPQ_ECOLI	Glycerophosphodiester phosphodiesterase, periplasmic	leading protein	7	63	7
+PRT818_1_P00452	P00452	RIR1_ECOLI	Ribonucleoside-diphosphate reductase 1 subunit alpha	leading protein	7	135	7
+PRT818_1_P0ACA3	P0ACA3	SSPA_ECOLI	Stringent starvation protein A	leading protein	7	265	7
+PRT818_1_P0A7K2	P0A7K2	RL7_ECOLI	50S ribosomal protein L7/L12	leading protein	7	280	7
+PRT818_1_P69783	P69783	PTGA_ECOLI	PTS system glucose-specific EIIA component	leading protein	7	225	7
+PRT818_1_P04805	P04805	SYE_ECOLI	Glutamate--tRNA ligase	leading protein	7	37	7
+PRT818_1_P0AFG3	P0AFG3	ODO1_ECOLI	2-oxoglutarate dehydrogenase E1 component	leading protein	7	51	7
+PRT818_1_P0A6H5	P0A6H5	HSLU_ECOLI	ATP-dependent protease ATPase subunit HslU	leading protein	7	117	7
+PRT818_1_P0A6F9	P0A6F9	CH10_ECOLI	10 kDa chaperonin	leading protein	7	360	7
+PRT818_1_P07813	P07813	SYL_ECOLI	Leucine--tRNA ligase	leading protein	7	45	7
+PRT818_1_P0A825	P0A825	GLYA_ECOLI	Serine hydroxymethyltransferase	leading protein	7	95	7
+PRT818_1_P0ADE8	P0ADE8	YGFZ_ECOLI	tRNA-modifying protein YgfZ	leading protein	7	54	7
+PRT818_1_P21889	P21889	SYD_ECOLI	Aspartate--tRNA ligase	leading protein	6	91	6
+PRT818_1_P33570	P33570	TKT2_ECOLI	Transketolase 2	leading protein	6	26	6
+PRT818_1_P0ACY3	P0ACY3	YEAG_ECOLI	Uncharacterized protein YeaG	leading protein	6	44	6
+PRT818_1_P0A715	P0A715	KDSA_ECOLI	2-dehydro-3-deoxyphosphooctonate aldolase	leading protein	6	38	6
+PRT818_1_P0AAI9	P0AAI9	FABD_ECOLI	Malonyl CoA-acyl carrier protein transacylase	leading protein	6	143	6
+PRT818_1_P0AEK2	P0AEK2	FABG_ECOLI	3-oxoacyl-[acyl-carrier-protein] reductase FabG	leading protein	6	66	6
+PRT818_1_P37744	P37744	RMLA1_ECOLI	Glucose-1-phosphate thymidylyltransferase 1	leading protein	6	58	6
+PRT818_1_P09424	P09424	MTLD_ECOLI	Mannitol-1-phosphate 5-dehydrogenase	leading protein	6	76	6
+PRT818_1_P02413	P02413	RL15_ECOLI	50S ribosomal protein L15	leading protein	6	38	6
+PRT818_1_P0A7Z0	P0A7Z0	RPIA_ECOLI	Ribose-5-phosphate isomerase A	leading protein	6	42	6
+PRT818_1_P21165	P21165	PEPQ_ECOLI	Xaa-Pro dipeptidase	leading protein	6	30	6
+PRT818_1_P37903	P37903	USPF_ECOLI	Universal stress protein F	leading protein	6	80	6
+PRT818_1_P37194	P37194	SLP_ECOLI	Outer membrane protein Slp	leading protein	6	164	6
+PRT818_1_P68919	P68919	RL25_ECOLI	50S ribosomal protein L25	leading protein	6	224	6
+PRT818_1_P23721	P23721	SERC_ECOLI	Phosphoserine aminotransferase	leading protein	6	34	6
+PRT818_1_P0A7M9	P0A7M9	RL31_ECOLI	50S ribosomal protein L31	leading protein	6	72	6
+PRT818_1_P0A998	P0A998	FTNA_ECOLI	Bacterial non-heme ferritin	leading protein	6	45	6
+PRT818_1_P0A7W7	P0A7W7	RS8_ECOLI	30S ribosomal protein S8	leading protein	6	110	6
+PRT818_1_P0ABU5	P0ABU5	ELBB_ECOLI	Glyoxalase ElbB	leading protein	6	56	6
+PRT818_1_P0A7J7	P0A7J7	RL11_ECOLI	50S ribosomal protein L11	leading protein	6	69	6
+PRT818_1_P0AB14	P0AB14	YCCJ_ECOLI	Uncharacterized protein YccJ	leading protein	6	118	6
+PRT818_1_P07014	P07014	SDHB_ECOLI	Succinate dehydrogenase iron-sulfur subunit	leading protein	6	45	6
+PRT818_1_P0A7R5	P0A7R5	RS10_ECOLI	30S ribosomal protein S10	leading protein	6	92	6
+PRT818_1_P10121	P10121	FTSY_ECOLI	Signal recognition particle receptor FtsY	leading protein	6	29	6
+PRT818_1_P26616	P26616	MAO1_ECOLI	NAD-dependent malic enzyme	leading protein	6	16	6
+PRT818_1_P0A7V8	P0A7V8	RS4_ECOLI	30S ribosomal protein S4	leading protein	6	85	6
+PRT818_1_P39831	P39831	YDFG_ECOLI	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	leading protein	6	66	6
+PRT818_1_P76536	P76536	YFEX_ECOLI	Dye-decolorizing peroxidase YfeX	leading protein	6	31	6
+PRT818_1_P00490	P00490	PHSM_ECOLI	Maltodextrin phosphorylase	leading protein	6	27	6
+PRT818_1_P0AF96	P0AF96	TABA_ECOLI	Toxin-antitoxin biofilm protein TabA	leading protein	6	146	6
+PRT818_1_P0AF12	P0AF12	MTNN_ECOLI	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	leading protein	6	57	6
+PRT818_1_P75691	P75691	YAHK_ECOLI	Aldehyde reductase YahK	leading protein	6	28	6
+PRT818_1_P0AED0	P0AED0	USPA_ECOLI	Universal stress protein A	leading protein	6	153	6
+PRT818_1_P33602	P33602	NUOG_ECOLI	NADH-quinone oxidoreductase subunit G	leading protein	6	66	6
+PRT818_1_P11349	P11349	NARH_ECOLI	Respiratory nitrate reductase 1 beta chain	leading protein	6	70	3
+PRT818_1_P76558	P76558	MAO2_ECOLI	NADP-dependent malic enzyme	leading protein	6	18	6
+PRT818_1_Q46857	Q46857	DKGA_ECOLI	2,5-diketo-D-gluconic acid reductase A	leading protein	6	52	6
+PRT818_1_P18843	P18843	NADE_ECOLI	NH(3)-dependent NAD(+) synthetase	leading protein	6	36	6
+PRT818_1_P0AEM9	P0AEM9	FLIY_ECOLI	L-cystine-binding protein FliY	leading protein	6	39	6
+PRT818_1_P0A9D8	P0A9D8	DAPD_ECOLI	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	leading protein	6	52	6
+PRT818_1_P0AGD1	P0AGD1	SODC_ECOLI	Superoxide dismutase [Cu-Zn]	leading protein	6	169	6
+PRT818_1_P77774	P77774	BAMB_ECOLI	Outer membrane protein assembly factor BamB	leading protein	6	66	6
+PRT818_1_P0ABU2	P0ABU2	YCHF_ECOLI	Ribosome-binding ATPase YchF	leading protein	6	13	6
+PRT818_1_P0ADB1	P0ADB1	OSME_ECOLI	Osmotically-inducible putative lipoprotein OsmE	leading protein	6	186	6
+PRT818_1_P0A6L4	P0A6L4	NANA_ECOLI	N-acetylneuraminate lyase	leading protein	6	28	6
+PRT818_1_P60438	P60438	RL3_ECOLI	50S ribosomal protein L3	leading protein	5	318	5
+PRT818_1_P36659	P36659	CBPA_ECOLI	Curved DNA-binding protein	leading protein	5	51	5
+PRT818_1_P64581	P64581	YQJD_ECOLI	Uncharacterized protein YqjD	leading protein	5	234	5
+PRT818_1_P0A905	P0A905	SLYB_ECOLI	Outer membrane lipoprotein SlyB	leading protein	5	23	5
+PRT818_1_P33224	P33224	AIDB_ECOLI	Putative acyl-CoA dehydrogenase AidB	leading protein	5	13	5
+PRT818_1_P0A8L1	P0A8L1	SYS_ECOLI	Serine--tRNA ligase	leading protein	5	67	5
+PRT818_1_P45464	P45464	LPOA_ECOLI	Penicillin-binding protein activator LpoA	leading protein	5	27	5
+PRT818_1_P00448	P00448	SODM_ECOLI	Superoxide dismutase [Mn]	leading protein	5	64	5
+PRT818_1_P0A7S9	P0A7S9	RS13_ECOLI	30S ribosomal protein S13	leading protein	5	92	5
+PRT818_1_P0A796	P0A796	PFKA_ECOLI	ATP-dependent 6-phosphofructokinase isozyme 1	leading protein	5	30	5
+PRT818_1_P00959	P00959	SYM_ECOLI	Methionine--tRNA ligase	leading protein	5	15	5
+PRT818_1_P0ADV7	P0ADV7	MLAC_ECOLI	Intermembrane phospholipid transport system binding protein MlaC	leading protein	5	111	5
+PRT818_1_P16659	P16659	SYP_ECOLI	Proline--tRNA ligase	leading protein	5	49	5
+PRT818_1_P61714	P61714	RISB_ECOLI	6,7-dimethyl-8-ribityllumazine synthase	leading protein	5	29	5
+PRT818_1_P0A912	P0A912	PAL_ECOLI	Peptidoglycan-associated lipoprotein	leading protein	5	171	5
+PRT818_1_P77552	P77552	YDHQ_ECOLI	Uncharacterized protein YdhQ	leading protein	5	19	5
+PRT818_1_P0AEK4	P0AEK4	FABI_ECOLI	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	leading protein	5	51	5
+PRT818_1_P0A7X3	P0A7X3	RS9_ECOLI	30S ribosomal protein S9	leading protein	5	67	5
+PRT818_1_P0AET8	P0AET8	HDHA_ECOLI	7-alpha-hydroxysteroid dehydrogenase	leading protein	5	20	5
+PRT818_1_P0A8E7	P0A8E7	YAJQ_ECOLI	UPF0234 protein YajQ	leading protein	5	121	5
+PRT818_1_P0ABA0	P0ABA0	ATPF_ECOLI	ATP synthase subunit b	leading protein	5	45	5
+PRT818_1_P0ABJ9	P0ABJ9	CYDA_ECOLI	Cytochrome bd-I ubiquinol oxidase subunit 1	leading protein	5	31	5
+PRT818_1_P0AG44	P0AG44	RL17_ECOLI	50S ribosomal protein L17	leading protein	5	40	5
+PRT818_1_P0A6N4	P0A6N4	EFP_ECOLI	Elongation factor P	leading protein	5	31	5
+PRT818_1_P0AGL2	P0AGL2	TDCF_ECOLI	Putative reactive intermediate deaminase TdcF	leading protein	5	91	4
+PRT818_1_P0A7A9	P0A7A9	IPYR_ECOLI	Inorganic pyrophosphatase	leading protein	5	67	5
+PRT818_1_P07012	P07012	RF2_ECOLI	Peptide chain release factor RF2	leading protein	5	31	5
+PRT818_1_P60624	P60624	RL24_ECOLI	50S ribosomal protein L24	leading protein	5	94	5
+PRT818_1_P0A9K9	P0A9K9	SLYD_ECOLI	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD	leading protein	5	33	5
+PRT818_1_P21362	P21362	YCIF_ECOLI	Protein YciF	leading protein	5	43	5
+PRT818_1_P0A9A9	P0A9A9	FUR_ECOLI	Ferric uptake regulation protein	leading protein	5	62	5
+PRT818_1_P00954	P00954	SYW_ECOLI	Tryptophan--tRNA ligase	leading protein	5	60	5
+PRT818_1_P0ADY1	P0ADY1	PPID_ECOLI	Peptidyl-prolyl cis-trans isomerase D	leading protein	5	43	5
+PRT818_1_P02930	P02930	TOLC_ECOLI	Outer membrane protein TolC	leading protein	5	27	5
+PRT818_1_P0AEQ1	P0AEQ1	GLCG_ECOLI	Protein GlcG	leading protein	5	26	5
+PRT818_1_P0ABD8	P0ABD8	BCCP_ECOLI	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	leading protein	5	541	5
+PRT818_1_P0ABS1	P0ABS1	DKSA_ECOLI	RNA polymerase-binding transcription factor DksA	leading protein	5	83	5
+PRT818_1_P02943	P02943	LAMB_ECOLI	Maltoporin	leading protein	5	30	5
+PRT818_1_P21179	P21179	CATE_ECOLI	Catalase HPII	leading protein	5	56	5
+PRT818_1_P0AC47	P0AC47	FRDB_ECOLI	Fumarate reductase iron-sulfur subunit	leading protein	5	93	5
+PRT818_1_P0AFG6	P0AFG6	ODO2_ECOLI	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	leading protein	5	102	5
+PRT818_1_P0A8R0	P0A8R0	RRAA_ECOLI	Regulator of ribonuclease activity A	leading protein	5	14	5
+PRT818_1_P25745	P25745	MNMA_ECOLI	tRNA-specific 2-thiouridylase MnmA	leading protein	5	47	5
+PRT818_1_P0AFG0	P0AFG0	NUSG_ECOLI	Transcription termination/antitermination protein NusG	leading protein	5	58	5
+PRT818_1_P00946	P00946	MANA_ECOLI	Mannose-6-phosphate isomerase	leading protein	5	24	5
+PRT818_1_P28635	P28635	METQ_ECOLI	D-methionine-binding lipoprotein MetQ	leading protein	5	27	5
+PRT818_1_P69503	P69503	APT_ECOLI	Adenine phosphoribosyltransferase	leading protein	5	112	5
+PRT818_1_P32176	P32176	FDOG_ECOLI	Formate dehydrogenase-O major subunit	leading protein	5	36	4
+PRT818_1_P06999	P06999	PFKB_ECOLI	ATP-dependent 6-phosphofructokinase isozyme 2	leading protein	5	70	5
+PRT818_1_P07118	P07118	SYV_ECOLI	Valine--tRNA ligase	leading protein	5	27	5
+PRT818_1_P21888	P21888	SYC_ECOLI	Cysteine--tRNA ligase	leading protein	5	30	5
+PRT818_1_P0ABD3	P0ABD3	BFR_ECOLI	Bacterioferritin	leading protein	5	32	5
+PRT818_1_P62768	P62768	YAEH_ECOLI	UPF0325 protein YaeH	leading protein	5	93	5
+PRT818_1_P46130	P46130	YBHC_ECOLI	Putative acyl-CoA thioester hydrolase YbhC	leading protein	5	39	5
+PRT818_1_P0A972	P0A972	CSPE_ECOLI	Cold shock-like protein CspE	leading protein	5	181	5
+PRT818_1_P0A7L8	P0A7L8	RL27_ECOLI	50S ribosomal protein L27	leading protein	5	22	5
+PRT818_1_P25738	P25738	MSYB_ECOLI	Acidic protein MsyB	leading protein	5	97	5
+PRT818_1_P0AB77	P0AB77	KBL_ECOLI	2-amino-3-ketobutyrate coenzyme A ligase	leading protein	5	32	5
+PRT818_1_P37759	P37759	RMLB1_ECOLI	dTDP-glucose 4,6-dehydratase 1	leading protein	5	38	5
+PRT818_1_P0A800	P0A800	RPOZ_ECOLI	DNA-directed RNA polymerase subunit omega	leading protein	5	123	5
+PRT818_1_P0ADA5	P0ADA5	YAJG_ECOLI	Uncharacterized lipoprotein YajG	leading protein	5	52	5
+PRT818_1_P31142	P31142	THTM_ECOLI	3-mercaptopyruvate sulfurtransferase	leading protein	5	17	5
+PRT818_1_P37685	P37685	ALDB_ECOLI	Aldehyde dehydrogenase B	leading protein	5	40	5
+PRT818_1_P0A6W5	P0A6W5	GREA_ECOLI	Transcription elongation factor GreA	leading protein	5	47	5
+PRT818_1_P00962	P00962	SYQ_ECOLI	Glutamine--tRNA ligase	leading protein	5	30	5
+PRT818_1_P0AE18	P0AE18	MAP1_ECOLI	Methionine aminopeptidase	leading protein	5	89	5
+PRT818_1_P27248	P27248	GCST_ECOLI	Aminomethyltransferase	leading protein	5	28	5
+PRT818_1_P0AEQ3	P0AEQ3	GLNH_ECOLI	Glutamine-binding periplasmic protein	leading protein	5	41	5
+PRT818_1_P26646	P26646	ACUI_ECOLI	Probable acrylyl-CoA reductase AcuI	leading protein	5	27	5
+PRT818_1_P0A9M2	P0A9M2	HPRT_ECOLI	Hypoxanthine phosphoribosyltransferase	leading protein	4	95	4
+PRT818_1_P00550	P00550	PTM3C_ECOLI	PTS system mannitol-specific EIICBA component	leading protein	4	42	4
+PRT818_1_P0ADX7	P0ADX7	YHHA_ECOLI	Uncharacterized protein YhhA	leading protein	4	96	4
+PRT818_1_P0AEE1	P0AEE1	DCRB_ECOLI	Protein DcrB	leading protein	4	28	4
+PRT818_1_P08331	P08331	CPDB_ECOLI	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase	leading protein	4	35	4
+PRT818_1_P45470	P45470	YHBO_ECOLI	Protein/nucleic acid deglycase 2	leading protein	4	24	4
+PRT818_1_P0A8A0	P0A8A0	YEBC_ECOLI	Probable transcriptional regulatory protein YebC	leading protein	4	16	4
+PRT818_1_P0ACG1	P0ACG1	STPA_ECOLI	DNA-binding protein StpA	leading protein	4	61	4
+PRT818_1_P76402	P76402	YEGP_ECOLI	UPF0339 protein YegP	leading protein	4	107	4
+PRT818_1_P0A9Y6	P0A9Y6	CSPC_ECOLI	Cold shock-like protein CspC	leading protein	4	217	4
+PRT818_1_P0ACD4	P0ACD4	ISCU_ECOLI	Iron-sulfur cluster assembly scaffold protein IscU	leading protein	4	48	4
+PRT818_1_P0ADG7	P0ADG7	IMDH_ECOLI	Inosine-5'-monophosphate dehydrogenase	leading protein	4	10	4
+PRT818_1_P0A7I4	P0A7I4	RF3_ECOLI	Peptide chain release factor RF3	leading protein	4	21	4
+PRT818_1_P0AEP3	P0AEP3	GALU_ECOLI	UTP--glucose-1-phosphate uridylyltransferase	leading protein	4	9	4
+PRT818_1_P68679	P68679	RS21_ECOLI	30S ribosomal protein S21	leading protein	4	30	4
+PRT818_1_P0AFM6	P0AFM6	PSPA_ECOLI	Phage shock protein A	leading protein	4	96	4
+PRT818_1_P0A7C6	P0A7C6	PEPE_ECOLI	Peptidase E	leading protein	4	91	4
+PRT818_1_P61316	P61316	LOLA_ECOLI	Outer-membrane lipoprotein carrier protein	leading protein	4	63	4
+PRT818_1_P0A6Y5	P0A6Y5	HSLO_ECOLI	33 kDa chaperonin	leading protein	4	9	4
+PRT818_1_P37747	P37747	GLF_ECOLI	UDP-galactopyranose mutase	leading protein	4	22	4
+PRT818_1_P76177	P76177	YDGH_ECOLI	Protein YdgH	leading protein	4	22	4
+PRT818_1_P76270	P76270	MSRC_ECOLI	Free methionine-R-sulfoxide reductase	leading protein	4	13	4
+PRT818_1_P0AEZ3	P0AEZ3	MIND_ECOLI	Septum site-determining protein MinD	leading protein	4	22	4
+PRT818_1_P0A6D7	P0A6D7	AROK_ECOLI	Shikimate kinase 1	leading protein	4	35	4
+PRT818_1_P0A7R9	P0A7R9	RS11_ECOLI	30S ribosomal protein S11	leading protein	4	108	4
+PRT818_1_P45955	P45955	CPOB_ECOLI	Cell division coordinator CpoB	leading protein	4	52	4
+PRT818_1_P37349	P37349	DHAM_ECOLI	PEP-dependent dihydroxyacetone kinase, phosphoryl donor subunit DhaM	leading protein	4	48	4
+PRT818_1_P00957	P00957	SYA_ECOLI	Alanine--tRNA ligase	leading protein	4	21	4
+PRT818_1_P0ABD5	P0ABD5	ACCA_ECOLI	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	leading protein	4	22	4
+PRT818_1_P0AG07	P0AG07	RPE_ECOLI	Ribulose-phosphate 3-epimerase	leading protein	4	14	4
+PRT818_1_P63020	P63020	NFUA_ECOLI	Fe/S biogenesis protein NfuA	leading protein	4	26	4
+PRT818_1_P0AES9	P0AES9	HDEA_ECOLI	Acid stress chaperone HdeA	leading protein	4	973	4
+PRT818_1_P0A7B8	P0A7B8	HSLV_ECOLI	ATP-dependent protease subunit HslV	leading protein	4	10	4
+PRT818_1_P0A6X7	P0A6X7	IHFA_ECOLI	Integration host factor subunit alpha	leading protein	4	94	4
+PRT818_1_P0A927	P0A927	TSX_ECOLI	Nucleoside-specific channel-forming protein Tsx	leading protein	4	27	4
+PRT818_1_P0ACC3	P0ACC3	ERPA_ECOLI	Iron-sulfur cluster insertion protein ErpA	leading protein	4	44	4
+PRT818_1_P33136	P33136	OPGG_ECOLI	Glucans biosynthesis protein G	leading protein	4	21	4
+PRT818_1_P0AAB8	P0AAB8	USPD_ECOLI	Universal stress protein D	leading protein	4	31	4
+PRT818_1_P0A7N4	P0A7N4	RL32_ECOLI	50S ribosomal protein L32	leading protein	4	75	4
+PRT818_1_P28304	P28304	QOR1_ECOLI	Quinone oxidoreductase 1	leading protein	4	70	4
+PRT818_1_P0A7E5	P0A7E5	PYRG_ECOLI	CTP synthase	leading protein	4	15	4
+PRT818_1_P77454	P77454	GLSA1_ECOLI	Glutaminase 1	leading protein	4	46	4
+PRT818_1_P25437	P25437	FRMA_ECOLI	S-(hydroxymethyl)glutathione dehydrogenase	leading protein	4	13	4
+PRT818_1_P78067	P78067	YNJE_ECOLI	Thiosulfate sulfurtransferase YnjE	leading protein	4	20	4
+PRT818_1_P0ACF4	P0ACF4	DBHB_ECOLI	DNA-binding protein HU-beta	leading protein	4	70	4
+PRT818_1_P0A746	P0A746	MSRB_ECOLI	Peptide methionine sulfoxide reductase MsrB	leading protein	4	21	4
+PRT818_1_P07102	P07102	PPA_ECOLI	Periplasmic AppA protein	leading protein	4	34	4
+PRT818_1_P0AF50	P0AF50	YJBR_ECOLI	Uncharacterized protein YjbR	leading protein	4	15	4
+PRT818_1_P37095	P37095	PEPB_ECOLI	Peptidase B	leading protein	4	40	4
+PRT818_1_P00579	P00579	RPOD_ECOLI	RNA polymerase sigma factor RpoD	leading protein	4	51	4
+PRT818_1_P0A8B5	P0A8B5	YBAB_ECOLI	Nucleoid-associated protein YbaB	leading protein	4	83	4
+PRT818_1_P0ACF0	P0ACF0	DBHA_ECOLI	DNA-binding protein HU-alpha	leading protein	4	191	4
+PRT818_1_P0AG84	P0AG84	YGHA_ECOLI	Uncharacterized oxidoreductase YghA	leading protein	4	12	4
+PRT818_1_P21367	P21367	YCAC_ECOLI	Probable hydrolase YcaC	leading protein	4	23	4
+PRT818_1_P0AAC0	P0AAC0	USPE_ECOLI	Universal stress protein E	leading protein	4	123	4
+PRT818_1_P0A9C5	P0A9C5	GLN1B_ECOLI	Glutamine synthetase	leading protein	4	31	4
+PRT818_1_P09551	P09551	ARGT_ECOLI	Lysine/arginine/ornithine-binding periplasmic protein	leading protein	4	16	4
+PRT818_1_P0A9Q9	P0A9Q9	DHAS_ECOLI	Aspartate-semialdehyde dehydrogenase	leading protein	4	29	4
+PRT818_1_P0A855	P0A855	TOLB_ECOLI	Tol-Pal system protein TolB	leading protein	4	21	4
+PRT818_1_P69829	P69829	PTSN_ECOLI	Nitrogen regulatory protein	leading protein	4	35	4
+PRT818_1_P24215	P24215	UXUA_ECOLI	Mannonate dehydratase	leading protein	4	22	4
+PRT818_1_P13024	P13024	FDHE_ECOLI	Protein FdhE	leading protein	4	27	4
+PRT818_1_P0ADS6	P0ADS6	YGGE_ECOLI	Uncharacterized protein YggE	leading protein	4	10	4
+PRT818_1_P23869	P23869	PPIB_ECOLI	Peptidyl-prolyl cis-trans isomerase B	leading protein	4	61	4
+PRT818_1_P0ADA3	P0ADA3	NLPD_ECOLI	Murein hydrolase activator NlpD	leading protein	4	81	4
+PRT818_1_P0ADY3	P0ADY3	RL14_ECOLI	50S ribosomal protein L14	leading protein	4	71	4
+PRT818_1_P25526	P25526	GABD_ECOLI	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD	leading protein	4	23	4
+PRT818_1_P38489	P38489	NFSB_ECOLI	Oxygen-insensitive NAD(P)H nitroreductase	leading protein	4	32	4
+PRT818_1_P0AEU7	P0AEU7	SKP_ECOLI	Chaperone protein Skp	leading protein	4	63	4
+PRT818_1_P0ADN2	P0ADN2	YIFE_ECOLI	UPF0438 protein YifE	leading protein	4	54	4
+PRT818_1_P61949	P61949	FLAV_ECOLI	Flavodoxin 1	leading protein	4	63	4
+PRT818_1_P77499	P77499	SUFC_ECOLI	Probable ATP-dependent transporter SufC	leading protein	4	39	4
+PRT818_1_P0AFX0	P0AFX0	HPF_ECOLI	Ribosome hibernation promoting factor	leading protein	4	11	4
+PRT818_1_P0A993	P0A993	F16PA_ECOLI	Fructose-1,6-bisphosphatase class 1	leading protein	4	20	4
+PRT818_1_P0A6I0	P0A6I0	KCY_ECOLI	Cytidylate kinase	leading protein	4	40	4
+PRT818_1_P0AEZ9	P0AEZ9	MOAB_ECOLI	Molybdenum cofactor biosynthesis protein B	leading protein	4	29	4
+PRT818_1_P0A7K6	P0A7K6	RL19_ECOLI	50S ribosomal protein L19	leading protein	4	58	4
+PRT818_1_P0AC53	P0AC53	G6PD_ECOLI	Glucose-6-phosphate 1-dehydrogenase	leading protein	4	22	4
+PRT818_1_P27298	P27298	OPDA_ECOLI	Oligopeptidase A	leading protein	4	27	4
+PRT818_1_P0A940	P0A940	BAMA_ECOLI	Outer membrane protein assembly factor BamA	leading protein	4	40	4
+PRT818_1_P67910	P67910	HLDD_ECOLI	ADP-L-glycero-D-manno-heptose-6-epimerase	leading protein	4	12	4
+PRT818_1_P0AFL3	P0AFL3	PPIA_ECOLI	Peptidyl-prolyl cis-trans isomerase A	leading protein	3	14	3
+PRT818_1_P66948	P66948	BEPA_ECOLI	Beta-barrel assembly-enhancing protease	leading protein	3	59	3
+PRT818_1_P0AEH3	P0AEH3	ELAA_ECOLI	Protein ElaA	leading protein	3	15	3
+PRT818_1_P76142	P76142	LSRB_ECOLI	Autoinducer 2-binding protein LsrB	leading protein	3	10	3
+PRT818_1_P0A7G6	P0A7G6	RECA_ECOLI	Protein RecA	leading protein	3	11	3
+PRT818_1_P0ACJ8	P0ACJ8	CRP_ECOLI	cAMP-activated global transcriptional regulator CRP	leading protein	3	24	3
+PRT818_1_P06610	P06610	BTUE_ECOLI	Thioredoxin/glutathione peroxidase BtuE	leading protein	3	22	3
+PRT818_1_P24183	P24183	FDNG_ECOLI	Formate dehydrogenase, nitrate-inducible, major subunit	leading protein	3	18	2
+PRT818_1_P23893	P23893	GSA_ECOLI	Glutamate-1-semialdehyde 2,1-aminomutase	leading protein	3	9	3
+PRT818_1_P27306	P27306	STHA_ECOLI	Soluble pyridine nucleotide transhydrogenase	leading protein	3	7	3
+PRT818_1_P0A9C3	P0A9C3	GALM_ECOLI	Aldose 1-epimerase	leading protein	3	9	3
+PRT818_1_P0ABA6	P0ABA6	ATPG_ECOLI	ATP synthase gamma chain	leading protein	3	38	3
+PRT818_1_P30870	P30870	GLNE_ECOLI	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme	leading protein	3	22	3
+PRT818_1_P77735	P77735	YAJO_ECOLI	1-deoxyxylulose-5-phosphate synthase YajO	leading protein	3	27	3
+PRT818_1_P0AA04	P0AA04	PTHP_ECOLI	Phosphocarrier protein HPr	leading protein	3	579	3
+PRT818_1_P0AA53	P0AA53	QMCA_ECOLI	Protein QmcA	leading protein	3	9	3
+PRT818_1_P68206	P68206	YJBJ_ECOLI	UPF0337 protein YjbJ	leading protein	3	107	3
+PRT818_1_P0ABE2	P0ABE2	BOLA_ECOLI	DNA-binding transcriptional regulator BolA	leading protein	3	10	3
+PRT818_1_P09372	P09372	GRPE_ECOLI	Protein GrpE	leading protein	3	46	3
+PRT818_1_P31057	P31057	PANB_ECOLI	3-methyl-2-oxobutanoate hydroxymethyltransferase	leading protein	3	21	3
+PRT818_1_P0AG48	P0AG48	RL21_ECOLI	50S ribosomal protein L21	leading protein	3	259	3
+PRT818_1_P37182	P37182	HYBD_ECOLI	Hydrogenase 2 maturation protease	leading protein	3	33	3
+PRT818_1_P0AC62	P0AC62	GLRX3_ECOLI	Glutaredoxin 3	leading protein	3	33	3
+PRT818_1_P31554	P31554	LPTD_ECOLI	LPS-assembly protein LptD	leading protein	3	16	3
+PRT818_1_P0AAI3	P0AAI3	FTSH_ECOLI	ATP-dependent zinc metalloprotease FtsH	leading protein	3	161	3
+PRT818_1_P0AD24	P0AD24	YEJL_ECOLI	UPF0352 protein YejL	leading protein	3	8	3
+PRT818_1_P0AAJ8	P0AAJ8	HYBA_ECOLI	Hydrogenase-2 operon protein HybA	leading protein	3	18	3
+PRT818_1_P09546	P09546	PUTA_ECOLI	Bifunctional protein PutA	leading protein	3	14	3
+PRT818_1_P0AE06	P0AE06	ACRA_ECOLI	Multidrug efflux pump subunit AcrA	leading protein	3	8	3
+PRT818_1_P0AE52	P0AE52	BCP_ECOLI	Peroxiredoxin Bcp	leading protein	3	48	3
+PRT818_1_P0AEB7	P0AEB7	YOAB_ECOLI	RutC family protein YoaB	leading protein	3	3	3
+PRT818_1_P37636	P37636	MDTE_ECOLI	Multidrug resistance protein MdtE	leading protein	3	15	3
+PRT818_1_P0AG51	P0AG51	RL30_ECOLI	50S ribosomal protein L30	leading protein	3	30	3
+PRT818_1_P0A6E6	P0A6E6	ATPE_ECOLI	ATP synthase epsilon chain	leading protein	3	46	3
+PRT818_1_P0AGG8	P0AGG8	TLDD_ECOLI	Metalloprotease TldD	leading protein	3	30	3
+PRT818_1_P0AG63	P0AG63	RS17_ECOLI	30S ribosomal protein S17	leading protein	3	99	3
+PRT818_1_P0AFK0	P0AFK0	PMBA_ECOLI	Metalloprotease PmbA	leading protein	3	28	3
+PRT818_1_P16456	P16456	SELD_ECOLI	Selenide, water dikinase	leading protein	3	8	3
+PRT818_1_P0A761	P0A761	NANE_ECOLI	Putative N-acetylmannosamine-6-phosphate 2-epimerase	leading protein	3	10	3
+PRT818_1_P08622	P08622	DNAJ_ECOLI	Chaperone protein DnaJ	leading protein	3	5	3
+PRT818_1_P39377	P39377	IADA_ECOLI	Isoaspartyl dipeptidase	leading protein	3	14	3
+PRT818_1_P0A9H7	P0A9H7	CFA_ECOLI	Cyclopropane-fatty-acyl-phospholipid synthase	leading protein	3	13	3
+PRT818_1_P0A763	P0A763	NDK_ECOLI	Nucleoside diphosphate kinase	leading protein	3	97	3
+PRT818_1_P07003	P07003	POXB_ECOLI	Pyruvate dehydrogenase [ubiquinone]	leading protein	3	14	3
+PRT818_1_P77536	P77536	YKGF_ECOLI	Uncharacterized electron transport protein YkgF	leading protein	3	13	3
+PRT818_1_P0ACE0	P0ACE0	MBHM_ECOLI	Hydrogenase-2 large chain	leading protein	3	63	3
+PRT818_1_P77395	P77395	CNOX_ECOLI	Chaperedoxin	leading protein	3	3	3
+PRT818_1_P0AA25	P0AA25	THIO_ECOLI	Thioredoxin 1	leading protein	3	51	3
+PRT818_1_P0A6R0	P0A6R0	FABH_ECOLI	3-oxoacyl-[acyl-carrier-protein] synthase 3	leading protein	3	14	3
+PRT818_1_P0AES4	P0AES4	GYRA_ECOLI	DNA gyrase subunit A	leading protein	3	39	3
+PRT818_1_P39325	P39325	YTFQ_ECOLI	Galactofuranose-binding protein YtfQ	leading protein	3	32	3
+PRT818_1_P76561	P76561	YPFH_ECOLI	Esterase YpfH	leading protein	3	4	3
+PRT818_1_P09169	P09169	OMPT_ECOLI	Protease 7	leading protein	3	15	3
+PRT818_1_P0A8P3	P0A8P3	FETP_ECOLI	Probable Fe(2+)-trafficking protein	leading protein	3	26	3
+PRT818_1_P0A9H3	P0A9H3	LDCI_ECOLI	Inducible lysine decarboxylase	leading protein	3	11	3
+PRT818_1_P0AGE0	P0AGE0	SSB_ECOLI	Single-stranded DNA-binding protein	leading protein	3	20	3
+PRT818_1_P37666	P37666	GHRB_ECOLI	Glyoxylate/hydroxypyruvate reductase B	leading protein	3	20	3
+PRT818_1_P0A9K3	P0A9K3	PHOL_ECOLI	PhoH-like protein	leading protein	3	10	3
+PRT818_1_P0A8M6	P0A8M6	YEEX_ECOLI	UPF0265 protein YeeX	leading protein	3	17	3
+PRT818_1_P0A8A2	P0A8A2	YEEN_ECOLI	Probable transcriptional regulatory protein YeeN	leading protein	3	32	3
+PRT818_1_P0AE88	P0AE88	CPXR_ECOLI	Transcriptional regulatory protein CpxR	leading protein	3	110	3
+PRT818_1_P0ADZ4	P0ADZ4	RS15_ECOLI	30S ribosomal protein S15	leading protein	3	205	3
+PRT818_1_P31120	P31120	GLMM_ECOLI	Phosphoglucosamine mutase	leading protein	3	94	3
+PRT818_1_P0AF28	P0AF28	NARL_ECOLI	Nitrate/nitrite response regulator protein NarL	leading protein	3	26	3
+PRT818_1_P75874	P75874	YCCU_ECOLI	Uncharacterized protein YccU	leading protein	3	64	3
+PRT818_1_P15034	P15034	AMPP_ECOLI	Xaa-Pro aminopeptidase	leading protein	3	30	3
+PRT818_1_P0ABC7	P0ABC7	HFLK_ECOLI	Modulator of FtsH protease HflK	leading protein	3	23	3
+PRT818_1_P22333	P22333	ADD_ECOLI	Adenosine deaminase	leading protein	3	14	3
+PRT818_1_P39176	P39176	ERFK_ECOLI	Probable L,D-transpeptidase ErfK/SrfK	leading protein	3	20	3
+PRT818_1_P0A7T3	P0A7T3	RS16_ECOLI	30S ribosomal protein S16	leading protein	3	97	3
+PRT818_1_Q46845	Q46845	YGHU_ECOLI	Disulfide-bond oxidoreductase YghU	leading protein	3	12	3
+PRT818_1_P0A9X9	P0A9X9	CSPA_ECOLI	Cold shock protein CspA	leading protein	3	56	2
+PRT818_1_P0A9S5	P0A9S5	GLDA_ECOLI	Glycerol dehydrogenase	leading protein	3	22	3
+PRT818_1_P37902	P37902	GLTI_ECOLI	Glutamate/aspartate import solute-binding protein	leading protein	3	16	3
+PRT818_1_P07913	P07913	TDH_ECOLI	L-threonine 3-dehydrogenase	leading protein	3	12	3
+PRT818_1_P0ADQ7	P0ADQ7	YGAM_ECOLI	Uncharacterized protein YgaM	leading protein	3	64	3
+PRT818_1_P0A9M5	P0A9M5	XGPT_ECOLI	Xanthine phosphoribosyltransferase	leading protein	3	95	3
+PRT818_1_P0A7S3	P0A7S3	RS12_ECOLI	30S ribosomal protein S12	leading protein	3	62	3
+PRT818_1_P06715	P06715	GSHR_ECOLI	Glutathione reductase	leading protein	3	11	3
+PRT818_1_P00936	P00936	CYAA_ECOLI	Adenylate cyclase	leading protein	3	87	3
+PRT818_1_P0A6G7	P0A6G7	CLPP_ECOLI	ATP-dependent Clp protease proteolytic subunit	leading protein	3	4	3
+PRT818_1_Q46829	Q46829	BGLA_ECOLI	6-phospho-beta-glucosidase BglA	leading protein	3	17	3
+PRT818_1_P45578	P45578	LUXS_ECOLI	S-ribosylhomocysteine lyase	leading protein	3	32	3
+PRT818_1_P0AEG4	P0AEG4	DSBA_ECOLI	Thiol:disulfide interchange protein DsbA	leading protein	3	9	3
+PRT818_1_P09127	P09127	HEMX_ECOLI	Protein HemX	leading protein	3	21	3
+PRT818_1_P77695	P77695	GNSB_ECOLI	Protein GnsB	leading protein	3	24	2
+PRT818_1_P63235	P63235	GADC_ECOLI	Probable glutamate/gamma-aminobutyrate antiporter	leading protein	3	11	3
+PRT818_1_P00934	P00934	THRC_ECOLI	Threonine synthase	leading protein	3	33	3
+PRT818_1_P0ACN4	P0ACN4	ALLR_ECOLI	HTH-type transcriptional repressor AllR	leading protein	3	7	3
+PRT818_1_P11557	P11557	DAMX_ECOLI	Cell division protein DamX	leading protein	3	26	3
+PRT818_1_P0ACX3	P0ACX3	YDHR_ECOLI	Putative monooxygenase YdhR	leading protein	3	14	3
+PRT818_1_P0AC19	P0AC19	FOLX_ECOLI	Dihydroneopterin triphosphate 2'-epimerase	leading protein	3	11	3
+PRT818_1_P0AB38	P0AB38	LPOB_ECOLI	Penicillin-binding protein activator LpoB	leading protein	3	19	3
+PRT818_1_P0ADS2	P0ADS2	ZAPA_ECOLI	Cell division protein ZapA	leading protein	3	30	3
+PRT818_1_P0A9D2	P0A9D2	GSTA_ECOLI	Glutathione S-transferase GstA	leading protein	3	5	3
+PRT818_1_P17117	P17117	NFSA_ECOLI	Oxygen-insensitive NADPH nitroreductase	leading protein	3	9	3
+PRT818_1_P75694	P75694	YAHO_ECOLI	Uncharacterized protein YahO	leading protein	3	81	3
+PRT818_1_P77173	P77173	ZIPA_ECOLI	Cell division protein ZipA	leading protein	3	88	3
+PRT818_1_P0A7U7	P0A7U7	RS20_ECOLI	30S ribosomal protein S20	leading protein	3	65	3
+PRT818_1_P0A9Q1	P0A9Q1	ARCA_ECOLI	Aerobic respiration control protein ArcA	leading protein	3	21	3
+PRT818_1_P0A6N8	P0A6N8	EFPL_ECOLI	Elongation factor P-like protein	leading protein	3	30	3
+PRT818_1_P0C018	P0C018	RL18_ECOLI	50S ribosomal protein L18	leading protein	3	12	3
+PRT818_1_P0AE22	P0AE22	APHA_ECOLI	Class B acid phosphatase	leading protein	3	15	3
+PRT818_1_P0A780	P0A780	NUSB_ECOLI	Transcription antitermination protein NusB	leading protein	3	16	3
+PRT818_1_P0A9X4	P0A9X4	MREB_ECOLI	Cell shape-determining protein MreB	leading protein	3	9	3
+PRT818_1_P0AFM2	P0AFM2	PROX_ECOLI	Glycine betaine/proline betaine-binding periplasmic protein	leading protein	3	44	3
+PRT818_1_P39173	P39173	YEAD_ECOLI	Putative glucose-6-phosphate 1-epimerase	leading protein	3	66	3
+PRT818_1_P0A9C0	P0A9C0	GLPA_ECOLI	Anaerobic glycerol-3-phosphate dehydrogenase subunit A	leading protein	3	4	3
+PRT818_1_P16681	P16681	YJDN_ECOLI	Protein YjdN	leading protein	3	19	3
+PRT818_1_P0A9Z1	P0A9Z1	GLNB_ECOLI	Nitrogen regulatory protein P-II 1	leading protein	3	8	3
+PRT818_1_P23917	P23917	MAK_ECOLI	Fructokinase	leading protein	3	15	3
+PRT818_1_P25714	P25714	YIDC_ECOLI	Membrane protein insertase YidC	leading protein	3	12	3
+PRT818_1_P0A6A8	P0A6A8	ACP_ECOLI	Acyl carrier protein	leading protein	3	25	3
+PRT818_1_P0A734	P0A734	MINE_ECOLI	Cell division topological specificity factor	leading protein	3	24	3
+PRT818_1_P77783	P77783	YNFF_ECOLI	Probable dimethyl sulfoxide reductase chain YnfF	leading protein	3	19	3
+PRT818_1_P21499	P21499	RNR_ECOLI	Ribonuclease R	leading protein	3	21	3
+PRT818_1_P39099	P39099	DEGQ_ECOLI	Periplasmic pH-dependent serine endoprotease DegQ	leading protein	3	16	3
+PRT818_1_P0A738	P0A738	MOAC_ECOLI	Cyclic pyranopterin monophosphate synthase	leading protein	2	9	2
+PRT818_1_P0DMC7	P0DMC7	RCSB_ECOLI	Transcriptional regulatory protein RcsB	leading protein	2	10	2
+PRT818_1_P0A7J0	P0A7J0	RIBB_ECOLI	3,4-dihydroxy-2-butanone 4-phosphate synthase	leading protein	2	6	2
+PRT818_1_P67826	P67826	CUTC_ECOLI	Copper homeostasis protein CutC	leading protein	2	12	2
+PRT818_1_P04335	P04335	FRSA_ECOLI	Esterase FrsA	leading protein	2	11	2
+PRT818_1_P65292	P65292	YGDI_ECOLI	Uncharacterized lipoprotein YgdI	leading protein	2	30	2
+PRT818_1_P29217	P29217	YCEH_ECOLI	UPF0502 protein YceH	leading protein	2	13	2
+PRT818_1_P06983	P06983	HEM3_ECOLI	Porphobilinogen deaminase	leading protein	2	18	2
+PRT818_1_P45748	P45748	TSAC_ECOLI	Threonylcarbamoyl-AMP synthase	leading protein	2	8	2
+PRT818_1_P0AC02	P0AC02	BAMD_ECOLI	Outer membrane protein assembly factor BamD	leading protein	2	43	2
+PRT818_1_P68187	P68187	MALK_ECOLI	Maltose/maltodextrin import ATP-binding protein MalK	leading protein	2	3	2
+PRT818_1_P0A9P4	P0A9P4	TRXB_ECOLI	Thioredoxin reductase	leading protein	2	13	2
+PRT818_1_P0A8Y5	P0A8Y5	YIDA_ECOLI	Sugar phosphatase YidA	leading protein	2	6	2
+PRT818_1_P76145	P76145	TAM_ECOLI	Trans-aconitate 2-methyltransferase	leading protein	2	6	2
+PRT818_1_P0ABF6	P0ABF6	CDD_ECOLI	Cytidine deaminase	leading protein	2	2	2
+PRT818_1_P65556	P65556	YFCD_ECOLI	Uncharacterized Nudix hydrolase YfcD	leading protein	2	6	2
+PRT818_1_P69801	P69801	PTNC_ECOLI	PTS system mannose-specific EIIC component	leading protein	2	33	2
+PRT818_1_P0ADG4	P0ADG4	SUHB_ECOLI	Inositol-1-monophosphatase	leading protein	2	25	2
+PRT818_1_P0AE78	P0AE78	CORC_ECOLI	Magnesium and cobalt efflux protein CorC	leading protein	2	22	2
+PRT818_1_P77674	P77674	ABDH_ECOLI	Gamma-aminobutyraldehyde dehydrogenase	leading protein	2	5	2
+PRT818_1_P45577	P45577	PROQ_ECOLI	RNA chaperone ProQ	leading protein	2	26	2
+PRT818_1_P77285	P77285	RSXG_ECOLI	Ion-translocating oxidoreductase complex subunit G	leading protein	2	102	2
+PRT818_1_P0A6B7	P0A6B7	ISCS_ECOLI	Cysteine desulfurase IscS	leading protein	2	7	2
+PRT818_1_P29745	P29745	PEPT_ECOLI	Peptidase T	leading protein	2	16	2
+PRT818_1_P0AEU0	P0AEU0	HISJ_ECOLI	Histidine-binding periplasmic protein	leading protein	2	26	2
+PRT818_1_P0AC92	P0AC92	GNSA_ECOLI	Protein GnsA	leading protein	2	14	1
+PRT818_1_P0C037	P0C037	PPNP_ECOLI	Pyrimidine/purine nucleoside phosphorylase	leading protein	2	19	2
+PRT818_1_P69913	P69913	CSRA_ECOLI	Carbon storage regulator	leading protein	2	48	2
+PRT818_1_P33599	P33599	NUOCD_ECOLI	NADH-quinone oxidoreductase subunit C/D	leading protein	2	4	2
+PRT818_1_P76329	P76329	MPGP_ECOLI	Mannosyl-3-phosphoglycerate phosphatase	leading protein	2	16	2
+PRT818_1_P22256	P22256	GABT_ECOLI	4-aminobutyrate aminotransferase GabT	leading protein	2	5	2
+PRT818_1_P76403	P76403	YEGQ_ECOLI	Uncharacterized protease YegQ	leading protein	2	3	2
+PRT818_1_P11880	P11880	MURF_ECOLI	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	leading protein	2	3	2
+PRT818_1_P0A8X0	P0A8X0	YJGA_ECOLI	UPF0307 protein YjgA	leading protein	2	6	2
+PRT818_1_P31663	P31663	PANC_ECOLI	Pantothenate synthetase	leading protein	2	36	2
+PRT818_1_P0AB52	P0AB52	YCHN_ECOLI	Protein YchN	leading protein	2	11	2
+PRT818_1_P63228	P63228	GMHBB_ECOLI	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	leading protein	2	4	2
+PRT818_1_Q59385	Q59385	COPA_ECOLI	Copper-exporting P-type ATPase	leading protein	2	19	2
+PRT818_1_P0A9V1	P0A9V1	LPTB_ECOLI	Lipopolysaccharide export system ATP-binding protein LptB	leading protein	2	17	2
+PRT818_1_P0AFR4	P0AFR4	YCIO_ECOLI	Uncharacterized protein YciO	leading protein	2	22	2
+PRT818_1_P0ADZ0	P0ADZ0	RL23_ECOLI	50S ribosomal protein L23	leading protein	2	95	2
+PRT818_1_P0A8H6	P0A8H6	YIHI_ECOLI	Der GTPase-activating protein YihI	leading protein	2	11	2
+PRT818_1_Q46863	Q46863	YGIS_ECOLI	Probable deoxycholate-binding periplasmic protein YgiS	leading protein	2	11	2
+PRT818_1_P77756	P77756	QUEC_ECOLI	7-cyano-7-deazaguanine synthase	leading protein	2	18	2
+PRT818_1_P0A7M2	P0A7M2	RL28_ECOLI	50S ribosomal protein L28	leading protein	2	30	2
+PRT818_1_P0A759	P0A759	NAGB_ECOLI	Glucosamine-6-phosphate deaminase	leading protein	2	4	2
+PRT818_1_P64451	P64451	YDCL_ECOLI	Uncharacterized lipoprotein YdcL	leading protein	2	20	2
+PRT818_1_P37648	P37648	YHJJ_ECOLI	Protein YhjJ	leading protein	2	5	2
+PRT818_1_P31063	P31063	YEDD_ECOLI	Uncharacterized lipoprotein YedD	leading protein	2	13	2
+PRT818_1_P0A6Y1	P0A6Y1	IHFB_ECOLI	Integration host factor subunit beta	leading protein	2	13	2
+PRT818_1_P69924	P69924	RIR2_ECOLI	Ribonucleoside-diphosphate reductase 1 subunit beta	leading protein	2	4	2
+PRT818_1_P0ADU2	P0ADU2	YGIN_ECOLI	Probable quinol monooxygenase YgiN	leading protein	2	10	2
+PRT818_1_P0AEW6	P0AEW6	INGK_ECOLI	Inosine-guanosine kinase	leading protein	2	3	2
+PRT818_1_P08312	P08312	SYFA_ECOLI	Phenylalanine--tRNA ligase alpha subunit	leading protein	2	31	2
+PRT818_1_P0AD59	P0AD59	IVY_ECOLI	Inhibitor of vertebrate lysozyme	leading protein	2	22	2
+PRT818_1_P64596	P64596	YRAP_ECOLI	Uncharacterized protein YraP	leading protein	2	13	2
+PRT818_1_P0ACE7	P0ACE7	HINT_ECOLI	Purine nucleoside phosphoramidase	leading protein	2	16	2
+PRT818_1_P04036	P04036	DAPB_ECOLI	4-hydroxy-tetrahydrodipicolinate reductase	leading protein	2	28	2
+PRT818_1_P0AF90	P0AF90	RRAB_ECOLI	Regulator of ribonuclease activity B	leading protein	2	19	2
+PRT818_1_P33937	P33937	NAPA_ECOLI	Periplasmic nitrate reductase	leading protein	2	17	2
+PRT818_1_P37749	P37749	WBBI_ECOLI	Beta-1,6-galactofuranosyltransferase WbbI	leading protein	2	7	2
+PRT818_1_P0A6Q6	P0A6Q6	FABZ_ECOLI	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	leading protein	2	2	2
+PRT818_1_P0A7M6	P0A7M6	RL29_ECOLI	50S ribosomal protein L29	leading protein	2	80	2
+PRT818_1_P0A915	P0A915	OMPW_ECOLI	Outer membrane protein W	leading protein	2	21	2
+PRT818_1_P0AEB2	P0AEB2	DACA_ECOLI	D-alanyl-D-alanine carboxypeptidase DacA	leading protein	2	20	2
+PRT818_1_P0A744	P0A744	MSRA_ECOLI	Peptide methionine sulfoxide reductase MsrA	leading protein	2	2	2
+PRT818_1_P0ABC3	P0ABC3	HFLC_ECOLI	Modulator of FtsH protease HflC	leading protein	2	33	2
+PRT818_1_P0A7G2	P0A7G2	RBFA_ECOLI	30S ribosome-binding factor	leading protein	2	16	2
+PRT818_1_P33363	P33363	BGLX_ECOLI	Periplasmic beta-glucosidase	leading protein	2	15	2
+PRT818_1_P0A7A2	P0A7A2	GPMB_ECOLI	Probable phosphoglycerate mutase GpmB	leading protein	2	3	2
+PRT818_1_P0AF70	P0AF70	YJEI_ECOLI	Uncharacterized protein YjeI	leading protein	2	5	2
+PRT818_1_P0AFX7	P0AFX7	RSEA_ECOLI	Anti-sigma-E factor RseA	leading protein	2	18	2
+PRT818_1_P27830	P27830	RMLB2_ECOLI	dTDP-glucose 4,6-dehydratase 2	leading protein	2	9	2
+PRT818_1_P40191	P40191	PDXK_ECOLI	Pyridoxine/pyridoxal/pyridoxamine kinase	leading protein	2	46	2
+PRT818_1_P77522	P77522	SUFB_ECOLI	FeS cluster assembly protein SufB	leading protein	2	24	2
+PRT818_1_P46852	P46852	YHHW_ECOLI	Quercetin 2,3-dioxygenase	leading protein	2	4	2
+PRT818_1_P0A908	P0A908	MIPA_ECOLI	MltA-interacting protein	leading protein	2	4	2
+PRT818_1_P0ABU0	P0ABU0	MENB_ECOLI	1,4-dihydroxy-2-naphthoyl-CoA synthase	leading protein	2	22	2
+PRT818_1_P0A731	P0A731	MGSA_ECOLI	Methylglyoxal synthase	leading protein	2	7	2
+PRT818_1_P0ABH0	P0ABH0	FTSA_ECOLI	Cell division protein FtsA	leading protein	2	15	2
+PRT818_1_P41407	P41407	AZOR_ECOLI	FMN-dependent NADH-azoreductase	leading protein	2	11	2
+PRT818_1_P23827	P23827	ECOT_ECOLI	Ecotin	leading protein	2	14	2
+PRT818_1_P24178	P24178	YFFB_ECOLI	Protein YffB	leading protein	2	3	2
+PRT818_1_P0A8V6	P0A8V6	FADR_ECOLI	Fatty acid metabolism regulator protein	leading protein	2	15	2
+PRT818_1_P0ABA4	P0ABA4	ATPD_ECOLI	ATP synthase subunit delta	leading protein	2	38	2
+PRT818_1_P0A742	P0A742	MSCL_ECOLI	Large-conductance mechanosensitive channel	leading protein	2	9	2
+PRT818_1_Q2M7R5	Q2M7R5	YIBT_ECOLI	Uncharacterized protein YibT	leading protein	2	35	2
+PRT818_1_P69222	P69222	IF1_ECOLI	Translation initiation factor IF-1	leading protein	2	39	2
+PRT818_1_P0ABQ0	P0ABQ0	COABC_ECOLI	Coenzyme A biosynthesis bifunctional protein CoaBC	leading protein	2	7	2
+PRT818_1_P11875	P11875	SYR_ECOLI	Arginine--tRNA ligase	leading protein	2	4	2
+PRT818_1_P31979	P31979	NUOF_ECOLI	NADH-quinone oxidoreductase subunit F	leading protein	2	36	2
+PRT818_1_P60546	P60546	KGUA_ECOLI	Guanylate kinase	leading protein	2	36	2
+PRT818_1_P0AFC7	P0AFC7	NUOB_ECOLI	NADH-quinone oxidoreductase subunit B	leading protein	2	24	2
+PRT818_1_P0A8W8	P0A8W8	YFBU_ECOLI	UPF0304 protein YfbU	leading protein	2	22	2
+PRT818_1_P0A6E4	P0A6E4	ASSY_ECOLI	Argininosuccinate synthase	leading protein	2	5	2
+PRT818_1_P64463	P64463	YDFZ_ECOLI	Putative selenoprotein YdfZ	leading protein	2	19	2
+PRT818_1_Q46868	Q46868	UBIK_ECOLI	Ubiquinone biosynthesis accessory factor UbiK	leading protein	2	8	2
+PRT818_1_P0ADZ7	P0ADZ7	YAJC_ECOLI	Sec translocon accessory complex subunit YajC	leading protein	2	8	2
+PRT818_1_P69776	P69776	LPP_ECOLI	Major outer membrane lipoprotein Lpp	leading protein	2	10	2
+PRT818_1_P0AF24	P0AF24	NAGD_ECOLI	Ribonucleotide monophosphatase NagD	leading protein	2	5	2
+PRT818_1_P24202	P24202	MRR_ECOLI	Mrr restriction system protein	leading protein	2	17	2
+PRT818_1_P0A8C4	P0A8C4	YGFB_ECOLI	UPF0149 protein YgfB	leading protein	2	8	2
+PRT818_1_P0AES6	P0AES6	GYRB_ECOLI	DNA gyrase subunit B	leading protein	2	5	2
+PRT818_1_P0AEI1	P0AEI1	MIAB_ECOLI	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	leading protein	2	9	2
+PRT818_1_P69805	P69805	PTND_ECOLI	PTS system mannose-specific EIID component	leading protein	2	3	2
+PRT818_1_P05793	P05793	ILVC_ECOLI	Ketol-acid reductoisomerase (NADP(+))	leading protein	2	5	2
+PRT818_1_P60651	P60651	SPEB_ECOLI	Agmatinase	leading protein	2	60	2
+PRT818_1_P76193	P76193	YNHG_ECOLI	Probable L,D-transpeptidase YnhG	leading protein	2	32	2
+PRT818_1_P21177	P21177	FADB_ECOLI	Fatty acid oxidation complex subunit alpha	leading protein	2	3	2
+PRT818_1_P04128	P04128	FIMA1_ECOLI	Type-1 fimbrial protein, A chain	leading protein	2	3	2
+PRT818_1_P0A794	P0A794	PDXJ_ECOLI	Pyridoxine 5'-phosphate synthase	leading protein	2	12	2
+PRT818_1_P31677	P31677	OTSA_ECOLI	Trehalose-6-phosphate synthase	leading protein	2	6	2
+PRT818_1_P0AGJ9	P0AGJ9	SYY_ECOLI	Tyrosine--tRNA ligase	leading protein	2	5	2
+PRT818_1_P0AET2	P0AET2	HDEB_ECOLI	Acid stress chaperone HdeB	leading protein	2	87	2
+PRT818_1_P64461	P64461	LSRG_ECOLI	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase	leading protein	2	18	2
+PRT818_1_P0A8J4	P0A8J4	YBED_ECOLI	UPF0250 protein YbeD	leading protein	2	20	2
+PRT818_1_P0A7L3	P0A7L3	RL20_ECOLI	50S ribosomal protein L20	leading protein	2	8	2
+PRT818_1_P07639	P07639	AROB_ECOLI	3-dehydroquinate synthase	leading protein	2	5	2
+PRT818_1_P76268	P76268	KDGR_ECOLI	Transcriptional regulator KdgR	leading protein	2	20	2
+PRT818_1_P0A8A8	P0A8A8	RIMP_ECOLI	Ribosome maturation factor RimP	leading protein	2	19	2
+PRT818_1_P77717	P77717	YBAY_ECOLI	Uncharacterized lipoprotein YbaY	leading protein	2	19	2
+PRT818_1_P0AFP6	P0AFP6	GCH1L_ECOLI	GTP cyclohydrolase 1 type 2 homolog	leading protein	2	12	2
+PRT818_1_P0A7F6	P0A7F6	SPED_ECOLI	S-adenosylmethionine decarboxylase proenzyme	leading protein	2	16	2
+PRT818_1_P0A903	P0A903	BAMC_ECOLI	Outer membrane protein assembly factor BamC	leading protein	2	26	2
+PRT818_1_P0AAN3	P0AAN3	HYPB_ECOLI	Hydrogenase maturation factor HypB	leading protein	2	23	2
+PRT818_1_P60240	P60240	RAPA_ECOLI	RNA polymerase-associated protein RapA	leading protein	2	2	2
+PRT818_1_P0A7T7	P0A7T7	RS18_ECOLI	30S ribosomal protein S18	leading protein	2	42	2
+PRT818_1_P52643	P52643	LDHD_ECOLI	D-lactate dehydrogenase	leading protein	2	6	2
+PRT818_1_P0A784	P0A784	ORN_ECOLI	Oligoribonuclease	leading protein	2	7	2
+PRT818_1_P00582	P00582	DPO1_ECOLI	DNA polymerase I	leading protein	2	8	2
+PRT818_1_P77667	P77667	SUFA_ECOLI	Protein SufA	leading protein	2	3	2
+PRT818_1_P30177	P30177	YBIB_ECOLI	Uncharacterized protein YbiB	leading protein	2	34	2
+PRT818_1_P0AE91	P0AE91	CREA_ECOLI	Protein CreA	leading protein	2	2	2
+PRT818_1_P0A877	P0A877	TRPA_ECOLI	Tryptophan synthase alpha chain	leading protein	2	5	2
+PRT818_1_P0ADW3	P0ADW3	YHCB_ECOLI	Inner membrane protein YhcB	leading protein	2	47	2
+PRT818_1_P0AC86	P0AC86	PHSG_ECOLI	Glycogen phosphorylase	leading protein	2	8	2
+PRT818_1_P0A6J5	P0A6J5	DADA_ECOLI	D-amino acid dehydrogenase	leading protein	2	14	2
+PRT818_1_P0ADY7	P0ADY7	RL16_ECOLI	50S ribosomal protein L16	leading protein	2	29	2
+PRT818_1_P0A6P7	P0A6P7	ENGB_ECOLI	Probable GTP-binding protein EngB	leading protein	2	2	2
+PRT818_1_P33590	P33590	NIKA_ECOLI	Nickel-binding periplasmic protein	leading protein	2	4	2
+PRT818_1_P0ACC7	P0ACC7	GLMU_ECOLI	Bifunctional protein GlmU	leading protein	2	3	2
+PRT818_1_P05459	P05459	PDXB_ECOLI	Erythronate-4-phosphate dehydrogenase	leading protein	2	18	2
+PRT818_1_P76372	P76372	WZZB_ECOLI	Chain length determinant protein	leading protein	2	9	2
+PRT818_1_P38521	P38521	YGGL_ECOLI	Uncharacterized protein YggL	leading protein	2	19	2
+PRT818_1_P0ADV1	P0ADV1	LPTA_ECOLI	Lipopolysaccharide export system protein LptA	leading protein	2	16	2
+PRT818_1_P0AB61	P0AB61	YCIN_ECOLI	Protein YciN	leading protein	2	17	2
+PRT818_1_P05707	P05707	SRLD_ECOLI	Sorbitol-6-phosphate 2-dehydrogenase	leading protein	2	8	2
+PRT818_1_P0AG59	P0AG59	RS14_ECOLI	30S ribosomal protein S14	leading protein	2	23	2
+PRT818_1_P0A9W3	P0A9W3	ETTA_ECOLI	Energy-dependent translational throttle protein EttA	leading protein	2	12	2
+PRT818_1_P64519	P64519	YODD_ECOLI	Uncharacterized protein YodD	leading protein	2	12	2
+PRT818_1_P0A7U3	P0A7U3	RS19_ECOLI	30S ribosomal protein S19	leading protein	2	11	2
+PRT818_1_P0AFY8	P0AFY8	SEQA_ECOLI	Negative modulator of initiation of replication	leading protein	2	3	2
+PRT818_1_P0ADK0	P0ADK0	YIAF_ECOLI	Uncharacterized protein YiaF	leading protein	2	5	2
+PRT818_1_P10908	P10908	UGPQ_ECOLI	Glycerophosphodiester phosphodiesterase, cytoplasmic	leading protein	2	11	2
+PRT818_1_P68767	P68767	AMPA_ECOLI	Cytosol aminopeptidase	leading protein	2	4	2
+PRT818_1_P40874	P40874	MTOX_ECOLI	N-methyl-L-tryptophan oxidase	leading protein	2	24	2
+PRT818_1_P30749	P30749	MOAE_ECOLI	Molybdopterin synthase catalytic subunit	leading protein	2	7	2
+PRT818_1_P07024	P07024	USHA_ECOLI	Protein UshA	leading protein	2	13	2
+PRT818_1_P0A917	P0A917	OMPX_ECOLI	Outer membrane protein X	leading protein	2	2	2
+PRT818_1_P0AD33	P0AD33	YFCZ_ECOLI	UPF0381 protein YfcZ	leading protein	2	35	2
+PRT818_1_P0A9N4	P0A9N4	PFLA_ECOLI	Pyruvate formate-lyase 1-activating enzyme	leading protein	2	2	2
+PRT818_1_P0AC13	P0AC13	DHPS_ECOLI	Dihydropteroate synthase	leading protein	1	1	1
+PRT818_1_P0A6K3	P0A6K3	DEF_ECOLI	Peptide deformylase	leading protein	1	2	1
+PRT818_1_P08957	P08957	T1MK_ECOLI	Type I restriction enzyme EcoKI M protein	leading protein	1	10	1
+PRT818_1_P0AF08	P0AF08	APBC_ECOLI	Iron-sulfur cluster carrier protein	leading protein	1	3	1
+PRT818_1_P0AG27	P0AG27	YIBN_ECOLI	Uncharacterized protein YibN	leading protein	1	12	1
+PRT818_1_P0A9F3	P0A9F3	CYSB_ECOLI	HTH-type transcriptional regulator CysB	leading protein	1	8	1
+PRT818_1_P39410	P39410	YJJJ_ECOLI	Toxin YjjJ	leading protein	1	26	1
+PRT818_1_P0A6S0	P0A6S0	FLGH_ECOLI	Flagellar L-ring protein	leading protein	1	1	1
+PRT818_1_P60785	P60785	LEPA_ECOLI	Elongation factor 4	leading protein	1	2	1
+PRT818_1_P77247	P77247	HXPB_ECOLI	Hexitol phosphatase B	leading protein	1	9	1
+PRT818_1_P0A9J8	P0A9J8	CMPDT_ECOLI	Bifunctional chorismate mutase/prephenate dehydratase	leading protein	1	1	1
+PRT818_1_P26612	P26612	AMY2_ECOLI	Cytoplasmic alpha-amylase	leading protein	1	1	1
+PRT818_1_P18390	P18390	YJJA_ECOLI	Uncharacterized protein YjjA	leading protein	1	12	1
+PRT818_1_P36672	P36672	PTTBC_ECOLI	PTS system trehalose-specific EIIBC component	leading protein	1	1	1
+PRT818_1_P37773	P37773	MPL_ECOLI	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase	leading protein	1	2	1
+PRT818_1_P04425	P04425	GSHB_ECOLI	Glutathione synthetase	leading protein	1	2	1
+PRT818_1_P16525	P16525	TUS_ECOLI	DNA replication terminus site-binding protein	leading protein	1	6	1
+PRT818_1_P0A812	P0A812	RUVB_ECOLI	Holliday junction ATP-dependent DNA helicase RuvB	leading protein	1	14	1
+PRT818_1_P14081	P14081	SELB_ECOLI	Selenocysteine-specific elongation factor	leading protein	1	4	1
+PRT818_1_P67080	P67080	PLPHP_ECOLI	Pyridoxal phosphate homeostasis protein	leading protein	1	3	1
+PRT818_1_P0ADV5	P0ADV5	YHBW_ECOLI	Luciferase-like monooxygenase	leading protein	1	4	1
+PRT818_1_P32177	P32177	FDHD_ECOLI	Sulfur carrier protein FdhD	leading protein	1	1	1
+PRT818_1_P21645	P21645	LPXD_ECOLI	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	leading protein	1	6	1
+PRT818_1_P0AES0	P0AES0	GSP_ECOLI	Bifunctional glutathionylspermidine synthetase/amidase	leading protein	1	2	1
+PRT818_1_P0C0K3	P0C0K3	SRKA_ECOLI	Stress response kinase A	leading protein	1	1	1
+PRT818_1_P36767	P36767	RDGC_ECOLI	Recombination-associated protein RdgC	leading protein	1	8	1
+PRT818_1_P27240	P27240	RFAY_ECOLI	Lipopolysaccharide core heptose(II) kinase RfaY	leading protein	1	8	1
+PRT818_1_P0AFI5	P0AFI5	PBP7_ECOLI	D-alanyl-D-alanine endopeptidase	leading protein	1	1	1
+PRT818_1_P0A6R3	P0A6R3	FIS_ECOLI	DNA-binding protein Fis	leading protein	1	35	1
+PRT818_1_P75728	P75728	UBIF_ECOLI	3-demethoxyubiquinol 3-hydroxylase	leading protein	1	3	1
+PRT818_1_P32664	P32664	NUDC_ECOLI	NADH pyrophosphatase	leading protein	1	3	1
+PRT818_1_P64540	P64540	YFCL_ECOLI	Uncharacterized protein YfcL	leading protein	1	19	1
+PRT818_1_P0AAF6	P0AAF6	ARTP_ECOLI	Arginine transport ATP-binding protein ArtP	leading protein	1	14	1
+PRT818_1_P0ADC1	P0ADC1	LPTE_ECOLI	LPS-assembly lipoprotein LptE	leading protein	1	5	1
+PRT818_1_P22564	P22564	RIHC_ECOLI	Non-specific ribonucleoside hydrolase RihC	leading protein	1	23	1
+PRT818_1_P76182	P76182	RSXD_ECOLI	Ion-translocating oxidoreductase complex subunit D	leading protein	1	7	1
+PRT818_1_P75797	P75797	GSIB_ECOLI	Glutathione-binding protein GsiB	leading protein	1	4	1
+PRT818_1_P0ACJ0	P0ACJ0	LRP_ECOLI	Leucine-responsive regulatory protein	leading protein	1	4	1
+PRT818_1_P0ADV9	P0ADV9	LPTC_ECOLI	Lipopolysaccharide export system protein LptC	leading protein	1	1	1
+PRT818_1_P61887	P61887	RMLA2_ECOLI	Glucose-1-phosphate thymidylyltransferase 2	leading protein	1	3	1
+PRT818_1_P0A8W5	P0A8W5	YQGE_ECOLI	UPF0301 protein YqgE	leading protein	1	19	1
+PRT818_1_P0A9W6	P0A9W6	IBAG_ECOLI	Acid stress protein IbaG	leading protein	1	7	1
+PRT818_1_P22523	P22523	MUKB_ECOLI	Chromosome partition protein MukB	leading protein	1	2	1
+PRT818_1_P0A6V5	P0A6V5	GLPE_ECOLI	Thiosulfate sulfurtransferase GlpE	leading protein	1	1	1
+PRT818_1_P0A698	P0A698	UVRA_ECOLI	UvrABC system protein A	leading protein	1	1	1
+PRT818_1_P0AED5	P0AED5	UVRY_ECOLI	Response regulator UvrY	leading protein	1	4	1
+PRT818_1_P23839	P23839	YICC_ECOLI	UPF0701 protein YicC	leading protein	1	11	1
+PRT818_1_P60560	P60560	GUAC_ECOLI	GMP reductase	leading protein	1	1	1
+PRT818_1_P60752	P60752	MSBA_ECOLI	Lipid A export ATP-binding/permease protein MsbA	leading protein	1	3	1
+PRT818_1_P28903	P28903	NRDD_ECOLI	Anaerobic ribonucleoside-triphosphate reductase	leading protein	1	11	1
+PRT818_1_P37639	P37639	GADX_ECOLI	HTH-type transcriptional regulator GadX	leading protein	1	3	1
+PRT818_1_P17993	P17993	UBIG_ECOLI	Ubiquinone biosynthesis O-methyltransferase	leading protein	1	12	1
+PRT818_1_P00864	P00864	CAPP_ECOLI	Phosphoenolpyruvate carboxylase	leading protein	1	2	1
+PRT818_1_P31678	P31678	OTSB_ECOLI	Trehalose-6-phosphate phosphatase	leading protein	1	3	1
+PRT818_1_P25522	P25522	MNME_ECOLI	tRNA modification GTPase MnmE	leading protein	1	2	1
+PRT818_1_P0AD01	P0AD01	DCUR_ECOLI	Transcriptional regulatory protein DcuR	leading protein	1	2	1
+PRT818_1_P69831	P69831	PTKC_ECOLI	PTS system galactitol-specific EIIC component	leading protein	1	1	1
+PRT818_1_P06612	P06612	TOP1_ECOLI	DNA topoisomerase 1	leading protein	1	1	1
+PRT818_1_P0AGJ5	P0AGJ5	YFIF_ECOLI	Uncharacterized tRNA/rRNA methyltransferase YfiF	leading protein	1	1	1
+PRT818_1_P0AGE6	P0AGE6	CHRR_ECOLI	Quinone reductase	leading protein	1	11	1
+PRT818_1_P26648	P26648	FTSP_ECOLI	Cell division protein FtsP	leading protein	1	9	1
+PRT818_1_P0AAQ6	P0AAQ6	YBAA_ECOLI	Uncharacterized protein YbaA	leading protein	1	3	1
+PRT818_1_P39187	P39187	YTFJ_ECOLI	Uncharacterized protein YtfJ	leading protein	1	1	1
+PRT818_1_P26647	P26647	PLSC_ECOLI	1-acyl-sn-glycerol-3-phosphate acyltransferase	leading protein	1	1	1
+PRT818_1_P0AEV9	P0AEV9	HYCI_ECOLI	Hydrogenase 3 maturation protease	leading protein	1	2	1
+PRT818_1_P27278	P27278	NADR_ECOLI	Trifunctional NAD biosynthesis/regulator protein NadR	leading protein	1	1	1
+PRT818_1_P76484	P76484	YFBN_ECOLI	Uncharacterized protein YfbN	leading protein	1	1	1
+PRT818_1_P77374	P77374	YNFE_ECOLI	Putative dimethyl sulfoxide reductase chain YnfE	leading protein	1	5	1
+PRT818_1_P63417	P63417	YHBS_ECOLI	Uncharacterized N-acetyltransferase YhbS	leading protein	1	9	1
+PRT818_1_P43672	P43672	UUP_ECOLI	ATP-binding protein Uup	leading protein	1	6	1
+PRT818_1_P02931	P02931	OMPF_ECOLI	Outer membrane porin F	leading protein	1	2	1
+PRT818_1_P14900	P14900	MURD_ECOLI	UDP-N-acetylmuramoylalanine--D-glutamate ligase	leading protein	1	2	1
+PRT818_1_P06961	P06961	CCA_ECOLI	Multifunctional CCA protein	leading protein	1	6	1
+PRT818_1_P77754	P77754	SPY_ECOLI	Periplasmic chaperone Spy	leading protein	1	5	1
+PRT818_1_P0AEM4	P0AEM4	FLGM_ECOLI	Negative regulator of flagellin synthesis	leading protein	1	1	1
+PRT818_1_P0A8I5	P0A8I5	TRMB_ECOLI	tRNA (guanine-N(7)-)-methyltransferase	leading protein	1	10	1
+PRT818_1_P76541	P76541	EUTL_ECOLI	Ethanolamine utilization protein EutL	leading protein	1	4	1
+PRT818_1_P0AGG2	P0AGG2	TESB_ECOLI	Acyl-CoA thioesterase 2	leading protein	1	2	1
+PRT818_1_P0A8Y3	P0A8Y3	YIHX_ECOLI	Alpha-D-glucose 1-phosphate phosphatase YihX	leading protein	1	2	1
+PRT818_1_P0A8M0	P0A8M0	SYN_ECOLI	Asparagine--tRNA ligase	leading protein	1	25	1
+PRT818_1_P0A6D3	P0A6D3	AROA_ECOLI	3-phosphoshikimate 1-carboxyvinyltransferase	leading protein	1	4	1
+PRT818_1_P46853	P46853	YHHX_ECOLI	Uncharacterized oxidoreductase YhhX	leading protein	1	1	1
+PRT818_1_P62623	P62623	ISPH_ECOLI	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	leading protein	1	1	1
+PRT818_1_P0A9H1	P0A9H1	MUG_ECOLI	G/U mismatch-specific DNA glycosylase	leading protein	1	30	1
+PRT818_1_P00909	P00909	TRPC_ECOLI	Tryptophan biosynthesis protein TrpCF	leading protein	1	1	1
+PRT818_1_Q46851	Q46851	GPR_ECOLI	L-glyceraldehyde 3-phosphate reductase	leading protein	1	10	1
+PRT818_1_P0AGD7	P0AGD7	SRP54_ECOLI	Signal recognition particle protein	leading protein	1	2	1
+PRT818_1_P06129	P06129	BTUB_ECOLI	Vitamin B12 transporter BtuB	leading protein	1	1	1
+PRT818_1_P31802	P31802	NARP_ECOLI	Nitrate/nitrite response regulator protein NarP	leading protein	1	14	1
+PRT818_1_P39451	P39451	ADHP_ECOLI	Alcohol dehydrogenase, propanol-preferring	leading protein	1	1	1
+PRT818_1_P0A9S1	P0A9S1	FUCO_ECOLI	Lactaldehyde reductase	leading protein	1	2	1
+PRT818_1_P0AAC8	P0AAC8	ISCA_ECOLI	Iron-binding protein IscA	leading protein	1	6	1
+PRT818_1_P0ADP9	P0ADP9	YIHD_ECOLI	Protein YihD	leading protein	1	8	1
+PRT818_1_P0A8G3	P0A8G3	UXAC_ECOLI	Uronate isomerase	leading protein	1	2	1
+PRT818_1_P02919	P02919	PBPB_ECOLI	Penicillin-binding protein 1B	leading protein	1	17	1
+PRT818_1_P0ACI0	P0ACI0	ROB_ECOLI	Right origin-binding protein	leading protein	1	9	1
+PRT818_1_P22939	P22939	ISPA_ECOLI	Farnesyl diphosphate synthase	leading protein	1	1	1
+PRT818_1_P64483	P64483	YEAK_ECOLI	Uncharacterized protein YeaK	leading protein	1	1	1
+PRT818_1_P0AB80	P0AB80	ILVE_ECOLI	Branched-chain-amino-acid aminotransferase	leading protein	1	3	1
+PRT818_1_Q46920	Q46920	QUEF_ECOLI	NADPH-dependent 7-cyano-7-deazaguanine reductase	leading protein	1	7	1
+PRT818_1_P0AFD1	P0AFD1	NUOE_ECOLI	NADH-quinone oxidoreductase subunit E	leading protein	1	1	1
+PRT818_1_P76396	P76396	YEGL_ECOLI	Uncharacterized protein YegL	leading protein	1	4	1
+PRT818_1_P08244	P08244	PYRF_ECOLI	Orotidine 5'-phosphate decarboxylase	leading protein	1	6	1
+PRT818_1_P28905	P28905	HOLC_ECOLI	DNA polymerase III subunit chi	leading protein	1	2	1
+PRT818_1_P31130	P31130	YDEI_ECOLI	Uncharacterized protein YdeI	leading protein	1	11	1
+PRT818_1_P76621	P76621	GLAH_ECOLI	Glutarate 2-hydroxylase	leading protein	1	4	1
+PRT818_1_P17443	P17443	MURG_ECOLI	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	leading protein	1	3	1
+PRT818_1_P0A729	P0A729	NTPPB_ECOLI	7-methyl-GTP pyrophosphatase	leading protein	1	1	1
+PRT818_1_P65294	P65294	YGDR_ECOLI	Uncharacterized lipoprotein YgdR	leading protein	1	16	1
+PRT818_1_P39829	P39829	GARD_ECOLI	Galactarate dehydratase (L-threo-forming)	leading protein	1	3	1
+PRT818_1_P25519	P25519	HFLX_ECOLI	GTPase HflX	leading protein	1	1	1
+PRT818_1_P0A7I0	P0A7I0	RF1_ECOLI	Peptide chain release factor RF1	leading protein	1	1	1
+PRT818_1_P05852	P05852	TSAD_ECOLI	tRNA N6-adenosine threonylcarbamoyltransferase	leading protein	1	1	1
+PRT818_1_P08390	P08390	USG_ECOLI	USG-1 protein	leading protein	1	2	1
+PRT818_1_P09147	P09147	GALE_ECOLI	UDP-glucose 4-epimerase	leading protein	1	6	1
+PRT818_1_P37177	P37177	PT1P_ECOLI	Phosphoenolpyruvate-dependent phosphotransferase system	leading protein	1	1	1
+PRT818_1_P0A894	P0A894	RAPZ_ECOLI	RNase adapter protein RapZ	leading protein	1	2	1
+PRT818_1_P0AAJ1	P0AAJ1	YNFG_ECOLI	Probable anaerobic dimethyl sulfoxide reductase chain YnfG	leading protein	1	3	0
+PRT818_1_P0AFA2	P0AFA2	NARX_ECOLI	Nitrate/nitrite sensor protein NarX	leading protein	1	1	1
+PRT818_1_P0A9P6	P0A9P6	DEAD_ECOLI	ATP-dependent RNA helicase DeaD	leading protein	1	19	1
+PRT818_1_P0ACB0	P0ACB0	DNAB_ECOLI	Replicative DNA helicase	leading protein	1	4	1
+PRT818_1_P05194	P05194	AROD_ECOLI	3-dehydroquinate dehydratase	leading protein	1	1	1
+PRT818_1_P0ACY1	P0ACY1	YDJA_ECOLI	Putative NAD(P)H nitroreductase YdjA	leading protein	1	9	1
+PRT818_1_P0ACB7	P0ACB7	HEMY_ECOLI	Protein HemY	leading protein	1	3	1
+PRT818_1_P0AFX4	P0AFX4	RSD_ECOLI	Regulator of sigma D	leading protein	1	2	1
+PRT818_1_P75736	P75736	YBFF_ECOLI	Esterase YbfF	leading protein	1	2	1
+PRT818_1_P37387	P37387	XYLF_ECOLI	D-xylose-binding periplasmic protein	leading protein	1	2	1
+PRT818_1_P0AF36	P0AF36	ZAPB_ECOLI	Cell division protein ZapB	leading protein	1	17	1
+PRT818_1_Q57261	Q57261	TRUD_ECOLI	tRNA pseudouridine synthase D	leading protein	1	1	1
+PRT818_1_P0A722	P0A722	LPXA_ECOLI	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	leading protein	1	23	1
+PRT818_1_P68191	P68191	SRA_ECOLI	Stationary-phase-induced ribosome-associated protein	leading protein	1	9	1
+PRT818_1_P41409	P41409	RIHA_ECOLI	Pyrimidine-specific ribonucleoside hydrolase RihA	leading protein	1	8	1
+PRT818_1_P0A6X3	P0A6X3	HFQ_ECOLI	RNA-binding protein Hfq	leading protein	1	152	1
+PRT818_1_P39310	P39310	YTFB_ECOLI	Cell division protein YtfB	leading protein	1	9	1
+PRT818_1_P00562	P00562	AK2H_ECOLI	Bifunctional aspartokinase/homoserine dehydrogenase 2	leading protein	1	4	1
+PRT818_1_P76235	P76235	YEAH_ECOLI	UPF0229 protein YeaH	leading protein	1	2	1
+PRT818_1_P0C0S1	P0C0S1	MSCS_ECOLI	Small-conductance mechanosensitive channel	leading protein	1	4	1
+PRT818_1_P0A9G4	P0A9G4	CUER_ECOLI	HTH-type transcriptional regulator CueR	leading protein	1	1	1
+PRT818_1_P0A6E1	P0A6E1	AROL_ECOLI	Shikimate kinase 2	leading protein	1	1	1
+PRT818_1_P76170	P76170	YNFB_ECOLI	UPF0482 protein YnfB	leading protein	1	3	1
+PRT818_1_P0AB10	P0AB10	PQIC_ECOLI	Intermembrane transport lipoprotein PqiC	leading protein	1	17	1
+PRT818_1_P27434	P27434	RODZ_ECOLI	Cytoskeleton protein RodZ	leading protein	1	2	1
+PRT818_1_P0ABF1	P0ABF1	PCNB_ECOLI	Poly(A) polymerase I	leading protein	1	2	1
+PRT818_1_P0A749	P0A749	MURA_ECOLI	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	leading protein	1	1	1
+PRT818_1_P0AF03	P0AF03	MOG_ECOLI	Molybdopterin adenylyltransferase	leading protein	1	15	1
+PRT818_1_P08192	P08192	FOLC_ECOLI	Dihydrofolate synthase/folylpolyglutamate synthase	leading protein	1	12	1
+PRT818_1_P69411	P69411	RCSF_ECOLI	Outer membrane lipoprotein RcsF	leading protein	1	58	1
+PRT818_1_P0ADA7	P0ADA7	OSMB_ECOLI	Osmotically-inducible lipoprotein B	leading protein	1	1	1
+PRT818_1_P62620	P62620	ISPG_ECOLI	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	leading protein	1	37	1
+PRT818_1_P0AGF4	P0AGF4	XYLE_ECOLI	D-xylose-proton symporter	leading protein	1	1	1
+PRT818_1_P39406	P39406	RSMC_ECOLI	Ribosomal RNA small subunit methyltransferase C	leading protein	1	3	1
+PRT818_1_P63177	P63177	RLMB_ECOLI	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB	leading protein	1	4	1
+PRT818_1_P0A6Z1	P0A6Z1	HSCA_ECOLI	Chaperone protein HscA	leading protein	1	3	1
+PRT818_1_P0AAN9	P0AAN9	IRAP_ECOLI	Anti-adapter protein IraP	leading protein	1	1	1
+PRT818_1_P0A937	P0A937	BAME_ECOLI	Outer membrane protein assembly factor BamE	leading protein	1	3	1
+PRT818_1_P0A6V8	P0A6V8	GLK_ECOLI	Glucokinase	leading protein	1	2	1
+PRT818_1_P0A847	P0A847	TGT_ECOLI	Queuine tRNA-ribosyltransferase	leading protein	1	2	1
+PRT818_1_P39384	P39384	YJIM_ECOLI	Putative dehydratase subunit YjiM	leading protein	1	3	1
+PRT818_1_P0AFJ1	P0AFJ1	YJDM_ECOLI	Protein YjdM	leading protein	1	43	1
+PRT818_1_P0AEA8	P0AEA8	CYSG_ECOLI	Siroheme synthase	leading protein	1	1	1
+PRT818_1_P0A8J8	P0A8J8	RHLB_ECOLI	ATP-dependent RNA helicase RhlB	leading protein	1	2	1
+PRT818_1_P23882	P23882	FMT_ECOLI	Methionyl-tRNA formyltransferase	leading protein	1	7	1
+PRT818_1_P39315	P39315	QOR2_ECOLI	Quinone oxidoreductase 2	leading protein	1	1	1
+PRT818_1_P0A7N9	P0A7N9	RL33_ECOLI	50S ribosomal protein L33	leading protein	1	9	1
+PRT818_1_P41052	P41052	MLTB_ECOLI	Membrane-bound lytic murein transglycosylase B	leading protein	1	5	1
+PRT818_1_P0AF61	P0AF61	GHOS_ECOLI	Endoribonuclease antitoxin GhoS	leading protein	1	8	1
+PRT818_1_P18775	P18775	DMSA_ECOLI	Dimethyl sulfoxide reductase DmsA	leading protein	1	9	1
+PRT818_1_P03018	P03018	UVRD_ECOLI	DNA helicase II	leading protein	1	2	1
+PRT818_1_P0AGF6	P0AGF6	TDCB_ECOLI	L-threonine dehydratase catabolic TdcB	leading protein	1	1	1
+PRT818_1_Q46948	Q46948	YAJL_ECOLI	Protein/nucleic acid deglycase 3	leading protein	1	4	1
+PRT818_1_P25889	P25889	PREA_ECOLI	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA	leading protein	1	18	1
+PRT818_1_P08506	P08506	DACC_ECOLI	D-alanyl-D-alanine carboxypeptidase DacC	leading protein	1	3	1
+PRT818_1_P0ACL2	P0ACL2	EXUR_ECOLI	Exu regulon transcriptional regulator	leading protein	1	5	1
+PRT818_1_P0AB89	P0AB89	PUR8_ECOLI	Adenylosuccinate lyase	leading protein	1	1	1
+PRT818_1_P76578	P76578	A2MG_ECOLI	Alpha-2-macroglobulin	leading protein	1	7	1
+PRT818_1_P75949	P75949	NAGZ_ECOLI	Beta-hexosaminidase	leading protein	1	7	1
+PRT818_1_P33219	P33219	YEBF_ECOLI	Protein YebF	leading protein	1	5	1
+PRT818_1_P76502	P76502	SIXA_ECOLI	Phosphohistidine phosphatase SixA	leading protein	1	7	1
+PRT818_1_P0A9R4	P0A9R4	FER_ECOLI	2Fe-2S ferredoxin	leading protein	1	5	1
+PRT818_1_P0AAB6	P0AAB6	GALF_ECOLI	UTP--glucose-1-phosphate uridylyltransferase	leading protein	1	4	1
+PRT818_1_P0A7E9	P0A7E9	PYRH_ECOLI	Uridylate kinase	leading protein	1	2	1
+PRT818_1_P07001	P07001	PNTA_ECOLI	NAD(P) transhydrogenase subunit alpha	leading protein	1	2	1
+PRT818_1_P0AFF2	P0AFF2	NUPC_ECOLI	Nucleoside permease NupC	leading protein	1	5	1
+PRT818_1_P0ADN6	P0ADN6	YIFL_ECOLI	Uncharacterized lipoprotein YifL	leading protein	1	4	1
+PRT818_1_P24203	P24203	YJIA_ECOLI	P-loop guanosine triphosphatase YjiA	leading protein	1	4	1
+PRT818_1_P39336	P39336	YJGL_ECOLI	Uncharacterized protein YjgL	leading protein	1	8	1
+PRT818_1_P76473	P76473	ARNT_ECOLI	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase	leading protein	1	1	1
+PRT818_1_P0AG80	P0AG80	UGPB_ECOLI	sn-glycerol-3-phosphate-binding periplasmic protein UgpB	leading protein	1	29	1
+PRT818_1_P12281	P12281	MOEA_ECOLI	Molybdopterin molybdenumtransferase	leading protein	1	1	1
+PRT818_1_P07004	P07004	PROA_ECOLI	Gamma-glutamyl phosphate reductase	leading protein	1	2	1
+PRT818_1_P00963	P00963	ASNA_ECOLI	Aspartate--ammonia ligase	leading protein	1	1	1
+PRT818_1_P0AE01	P0AE01	TRMJ_ECOLI	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ	leading protein	1	7	1
+PRT818_1_P0ACZ4	P0ACZ4	EVGA_ECOLI	DNA-binding transcriptional activator EvgA	leading protein	1	108	1
+PRT818_1_P69786	P69786	PTGCB_ECOLI	PTS system glucose-specific EIICB component	leading protein	1	1	1
+PRT818_1_P24171	P24171	DCP_ECOLI	Dipeptidyl carboxypeptidase	leading protein	1	1	1
+PRT818_1_P37645	P37645	YHJG_ECOLI	AsmA family protein YhjG	leading protein	1	17	1
+PRT818_1_P10441	P10441	LPXB_ECOLI	Lipid-A-disaccharide synthase	leading protein	1	2	1
+PRT818_1_P0A6T5	P0A6T5	GCH1_ECOLI	GTP cyclohydrolase 1	leading protein	1	3	1
+PRT818_1_P37692	P37692	RFAF_ECOLI	ADP-heptose--LPS heptosyltransferase 2	leading protein	1	7	1
+PRT818_1_P0AGK8	P0AGK8	ISCR_ECOLI	HTH-type transcriptional regulator IscR	leading protein	1	13	1
+PRT818_1_P21507	P21507	SRMB_ECOLI	ATP-dependent RNA helicase SrmB	leading protein	1	2	1
+PRT818_1_P75915	P75915	YCDY_ECOLI	Chaperone protein YcdY	leading protein	1	14	1
+PRT818_1_P0AAN5	P0AAN5	YAIA_ECOLI	Uncharacterized protein YaiA	leading protein	1	7	1
+PRT818_1_P77252	P77252	YKGE_ECOLI	Uncharacterized protein YkgE	leading protein	1	4	1
+PRT818_1_P15770	P15770	AROE_ECOLI	Shikimate dehydrogenase (NADP(+))	leading protein	1	3	1
+PRT818_1_P00393	P00393	DHNA_ECOLI	NADH dehydrogenase	leading protein	1	1	1
+PRT818_1_P0ACR9	P0ACR9	MPRA_ECOLI	Transcriptional repressor MprA	leading protein	1	9	1
+PRT818_1_P56580	P56580	PTHB_ECOLI	PTS system glucitol/sorbitol-specific EIIB component	leading protein	1	3	1
+PRT818_1_P33026	P33026	SETB_ECOLI	Sugar efflux transporter B	leading protein	1	1	1
+PRT818_1_P0A7Y0	P0A7Y0	RNC_ECOLI	Ribonuclease 3	leading protein	1	2	1
+PRT818_1_P75824	P75824	HCR_ECOLI	NADH oxidoreductase HCR	leading protein	1	18	1
+PRT818_1_P0AFI2	P0AFI2	PARC_ECOLI	DNA topoisomerase 4 subunit A	leading protein	1	4	1
+PRT818_1_P64476	P64476	YDIH_ECOLI	Uncharacterized protein YdiH	leading protein	1	3	1
+PRT818_1_P76143	P76143	LSRF_ECOLI	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase	leading protein	1	2	1
+PRT818_1_P09832	P09832	GLTD_ECOLI	Glutamate synthase [NADPH] small chain	leading protein	1	5	1
+PRT818_1_P0A8A4	P0A8A4	PSRP_ECOLI	Phosphoenolpyruvate synthase regulatory protein	leading protein	1	1	1
+PRT818_1_P0AFW2	P0AFW2	RMF_ECOLI	Ribosome modulation factor	leading protein	1	6	1
+PRT818_1_P00811	P00811	AMPC_ECOLI	Beta-lactamase	leading protein	1	5	1
+PRT818_1_P77348	P77348	MPPA_ECOLI	Periplasmic murein peptide-binding protein	leading protein	1	20	1
+PRT818_1_P0ABQ2	P0ABQ2	GARR_ECOLI	2-hydroxy-3-oxopropionate reductase	leading protein	1	3	1
+PRT818_1_P03841	P03841	MALM_ECOLI	Maltose operon periplasmic protein	leading protein	1	44	1
+PRT818_1_P76340	P76340	HPRR_ECOLI	Transcriptional regulatory protein HprR	leading protein	1	2	1
+PRT818_1_P0AD12	P0AD12	YEEZ_ECOLI	Protein YeeZ	leading protein	1	1	1
+PRT818_1_P0A901	P0A901	BLC_ECOLI	Outer membrane lipoprotein Blc	leading protein	1	15	1
+PRT818_1_P0ADB7	P0ADB7	ECNB_ECOLI	Entericidin B	leading protein	1	45	1
+PRT818_1_P0AD57	P0AD57	ISPB_ECOLI	Octaprenyl diphosphate synthase	leading protein	1	6	1
+PRT818_1_P08395	P08395	SPPA_ECOLI	Protease 4	leading protein	1	8	1
+PRT818_1_P04951	P04951	KDSB_ECOLI	3-deoxy-manno-octulosonate cytidylyltransferase	leading protein	1	1	1
+PRT818_1_P23830	P23830	PSS_ECOLI	CDP-diacylglycerol--serine O-phosphatidyltransferase	leading protein	1	12	1
+PRT818_1_P23836	P23836	PHOP_ECOLI	Transcriptional regulatory protein PhoP	leading protein	1	14	1
+PRT818_1_P0AF20	P0AF20	NAGC_ECOLI	N-acetylglucosamine repressor	leading protein	1	3	1
+PRT818_1_P0A9G8	P0A9G8	MODE_ECOLI	DNA-binding transcriptional dual regulator ModE	leading protein	1	17	1
+PRT818_1_P30178	P30178	HCXB_ECOLI	Hydroxycarboxylate dehydrogenase B	leading protein	1	2	1
+PRT818_1_P37751	P37751	WBBK_ECOLI	Putative glycosyltransferase WbbK	leading protein	1	2	1
+PRT818_1_P76014	P76014	DHAL_ECOLI	PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL	leading protein	1	11	1
+PRT818_1_P13458	P13458	SBCC_ECOLI	Nuclease SbcCD subunit C	leading protein	1	1	1
+PRT818_1_P0A6L9	P0A6L9	HSCB_ECOLI	Co-chaperone protein HscB	leading protein	1	7	1
+PRT818_1_P0AAQ2	P0AAQ2	YAJD_ECOLI	Putative HNH nuclease YajD	leading protein	1	6	1
+PRT818_1_P77150	P77150	PDXY_ECOLI	Pyridoxal kinase PdxY	leading protein	1	2	1
+PRT818_1_P0AFQ7	P0AFQ7	YCFH_ECOLI	Uncharacterized metal-dependent hydrolase YcfH	leading protein	1	1	1
+PRT818_1_P75682	P75682	YAGE_ECOLI	Putative 2-dehydro-3-deoxy-D-gluconate aldolase YagE	leading protein	1	4	1
+PRT818_1_P0A962	P0A962	ASPG1_ECOLI	L-asparaginase 1	leading protein	1	2	1
+PRT818_1_P0ACP7	P0ACP7	PURR_ECOLI	HTH-type transcriptional repressor PurR	leading protein	1	1	1
+PRT818_1_P22524	P22524	MUKE_ECOLI	Chromosome partition protein MukE	leading protein	1	24	1
+PRT818_1_P25894	P25894	LOIP_ECOLI	Metalloprotease LoiP	leading protein	1	2	1
+PRT818_1_P64503	P64503	YEBV_ECOLI	Uncharacterized protein YebV	leading protein	1	24	1
+PRT818_1_P23865	P23865	PRC_ECOLI	Tail-specific protease	leading protein	1	1	1
+PRT818_1_P05637	P05637	APAH_ECOLI	Bis(5'-nucleosyl)-tetraphosphatase [symmetrical]	leading protein	1	5	1
+PRT818_1_P63264	P63264	CBPM_ECOLI	Chaperone modulatory protein CbpM	leading protein	1	28	1
+PRT818_1_P0AGB3	P0AGB3	RPOH_ECOLI	RNA polymerase sigma factor RpoH	leading protein	1	1	1
+PRT818_1_Q46856	Q46856	YQHD_ECOLI	Alcohol dehydrogenase YqhD	leading protein	1	1	1
+PRT818_1_P15042	P15042	DNLJ_ECOLI	DNA ligase	leading protein	1	8	1
+PRT818_1_P03024	P03024	GALR_ECOLI	HTH-type transcriptional regulator GalR	leading protein	1	2	1
+PRT818_1_P0A8D6	P0A8D6	YMDB_ECOLI	O-acetyl-ADP-ribose deacetylase	leading protein	1	3	1
+PRT818_1_P75792	P75792	SUPH_ECOLI	Sugar phosphatase YbiV	leading protein	1	2	1
+PRT818_1_P02924	P02924	ARAF_ECOLI	L-arabinose-binding periplasmic protein	leading protein	1	3	1
+PRT818_1_P17445	P17445	BETB_ECOLI	NAD/NADP-dependent betaine aldehyde dehydrogenase	leading protein	1	1	1
+PRT818_1_P77791	P77791	MAA_ECOLI	Maltose O-acetyltransferase	leading protein	1	3	1
+PRT818_1_P76108	P76108	YDCS_ECOLI	Bifunctional polyhydroxybutyrate synthase / ABC transporter periplasmic binding protein	leading protein	1	5	1
+PRT818_1_P0A9T4	P0A9T4	TAS_ECOLI	Protein tas	leading protein	1	1	1
+PRT818_1_P0AC81	P0AC81	LGUL_ECOLI	Lactoylglutathione lyase	leading protein	1	1	1
+PRT818_1_P75957	P75957	LOLD_ECOLI	Lipoprotein-releasing system ATP-binding protein LolD	leading protein	1	5	1
+PRT818_1_P64506	P64506	YEBY_ECOLI	Uncharacterized protein YebY	leading protein	1	14	1
+PRT818_1_P69741	P69741	MBHT_ECOLI	Hydrogenase-2 small chain	leading protein	1	2	1
+PRT818_1_P0ADX1	P0ADX1	YHFA_ECOLI	Protein YhfA	leading protein	1	17	1
+PRT818_1_P50456	P50456	MLC_ECOLI	Protein mlc	leading protein	1	6	1
+PRT818_1_P76256	P76256	TSAB_ECOLI	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	leading protein	1	7	1
+PRT818_1_P77554	P77554	YAHJ_ECOLI	Uncharacterized protein YahJ	leading protein	1	5	1
+PRT818_1_P37647	P37647	KDGK_ECOLI	2-dehydro-3-deoxygluconokinase	leading protein	1	9	1
+PRT818_1_P13016	P13016	AMPD_ECOLI	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD	leading protein	1	8	1
+PRT818_1_P75959	P75959	NAGK_ECOLI	N-acetyl-D-glucosamine kinase	leading protein	1	3	1
+PRT818_1_P08194	P08194	GLPT_ECOLI	Glycerol-3-phosphate transporter	leading protein	1	2	1
+PRT818_1_P61517	P61517	CAN_ECOLI	Carbonic anhydrase 2	leading protein	1	10	1
+PRT818_1_P0AD07	P0AD07	YECF_ECOLI	Uncharacterized protein YecF	leading protein	1	2	1
+PRT818_1_P0A9Q5	P0A9Q5	ACCD_ECOLI	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	leading protein	1	1	1
+PRT818_1_P30014	P30014	RNT_ECOLI	Ribonuclease T	leading protein	1	3	1
+PRT818_1_P0AE12	P0AE12	AMN_ECOLI	AMP nucleosidase	leading protein	1	2	1
+PRT818_1_P19932	P19932	HYAF_ECOLI	Hydrogenase-1 operon protein HyaF	leading protein	1	2	1
+PRT818_1_P0AF56	P0AF56	YJCO_ECOLI	Sel1-repeat-containing protein YjcO	leading protein	1	1	1
+PRT818_1_P0AB65	P0AB65	ACYP_ECOLI	Acylphosphatase	leading protein	1	11	1
+PRT818_1_P64604	P64604	MLAD_ECOLI	Intermembrane phospholipid transport system binding protein MlaD	leading protein	1	5	1
+PRT818_1_P0ADP2	P0ADP2	YIGI_ECOLI	Uncharacterized protein YigI	leading protein	1	7	1
+PRT818_1_P0A7B5	P0A7B5	PROB_ECOLI	Glutamate 5-kinase	leading protein	1	2	1
+PRT818_1_P13035	P13035	GLPD_ECOLI	Aerobic glycerol-3-phosphate dehydrogenase	leading protein	1	2	1
+PRT818_1_P0A6C1	P0A6C1	END4_ECOLI	Endonuclease 4	leading protein	1	2	1
+PRT818_1_P0A968	P0A968	CSPD_ECOLI	Cold shock-like protein CspD	leading protein	1	9	1
+PRT818_1_P39334	P39334	BDCR_ECOLI	HTH-type transcriptional repressor BdcR	leading protein	1	6	1
+PRT818_1_P75828	P75828	YBJD_ECOLI	Uncharacterized protein YbjD	leading protein	1	2	1
+PRT818_1_Q2EET2	Q2EET2	YPFN_ECOLI	UPF0370 protein YpfN	leading protein	1	3	1
+PRT818_1_P30845	P30845	EPTA_ECOLI	Phosphoethanolamine transferase EptA	leading protein	1	4	1
+PRT818_1_P77739	P77739	KT3K_ECOLI	Probable ketoamine kinase YniA	leading protein	1	8	1
+PRT818_1_P37760	P37760	RMLD_ECOLI	dTDP-4-dehydrorhamnose reductase	leading protein	1	2	1
+PRT818_1_P76112	P76112	MNAT_ECOLI	L-amino acid N-acyltransferase MnaT	leading protein	1	3	1
+PRT818_1_Q47690	Q47690	MMUM_ECOLI	Homocysteine S-methyltransferase	leading protein	1	3	1
+PRT818_1_P45395	P45395	KDSD_ECOLI	Arabinose 5-phosphate isomerase KdsD	leading protein	1	2	1
+PRT818_1_P30011	P30011	NADC_ECOLI	Nicotinate-nucleotide pyrophosphorylase [carboxylating]	leading protein	1	3	1
+PRT818_1_P37440	P37440	UCPA_ECOLI	Oxidoreductase UcpA	leading protein	1	1	1
+PRT818_1_P0CB39	P0CB39	EPTC_ECOLI	Phosphoethanolamine transferase EptC	leading protein	1	17	1
+PRT818_1_P0A8C1	P0A8C1	YBJQ_ECOLI	UPF0145 protein YbjQ	leading protein	1	4	1
+PRT818_1_P34209	P34209	YDCF_ECOLI	Protein YdcF	leading protein	1	3	1
+PRT818_1_P0ABQ4	P0ABQ4	DYR_ECOLI	Dihydrofolate reductase	leading protein	1	13	1
+PRT818_1_P16095	P16095	SDHL_ECOLI	L-serine dehydratase 1	leading protein	1	4	1
+PRT818_1_P0A921	P0A921	PA1_ECOLI	Phospholipase A1	leading protein	1	2	1
+PRT818_1_P0A6T9	P0A6T9	GCSH_ECOLI	Glycine cleavage system H protein	leading protein	1	27	1
+PRT818_1_P00960	P00960	SYGA_ECOLI	Glycine--tRNA ligase alpha subunit	leading protein	1	8	1
+PRT818_1_P13445	P13445	RPOS_ECOLI	RNA polymerase sigma factor RpoS	leading protein	1	2	1
+PRT818_1_P76506	P76506	MLAA_ECOLI	Intermembrane phospholipid transport system lipoprotein MlaA	leading protein	1	19	1
+PRT818_1_P29680	P29680	DCUP_ECOLI	Uroporphyrinogen decarboxylase	leading protein	1	1	1
+PRT818_1_P27250	P27250	AHR_ECOLI	Aldehyde reductase Ahr	leading protein	1	5	1
+PRT818_1_P11289	P11289	YFIL_ECOLI	Uncharacterized protein YfiL	leading protein	1	3	1
+PRT818_1_P0AFZ3	P0AFZ3	SSPB_ECOLI	Stringent starvation protein B	leading protein	1	1	1
+PRT818_1_P0AC69	P0AC69	GLRX4_ECOLI	Glutaredoxin 4	leading protein	1	11	1
+PRT818_1_P31551	P31551	CAID_ECOLI	Carnitinyl-CoA dehydratase	leading protein	1	1	1
+PRT818_1_P0AFH6	P0AFH6	OPPC_ECOLI	Oligopeptide transport system permease protein OppC	leading protein	1	2	1
+PRT818_1_P0AEW9	P0AEW9	K1PF_ECOLI	1-phosphofructokinase	leading protein	1	24	1
+PRT818_1_P10384	P10384	FADL_ECOLI	Long-chain fatty acid transport protein	leading protein	1	3	1
+PRT818_1_P0ADK8	P0ADK8	YIBL_ECOLI	Uncharacterized protein YibL	leading protein	1	13	1
+PRT818_1_P0AB55	P0AB55	YCII_ECOLI	Protein YciI	leading protein	1	1	1
+PRT818_1_P0A6W9	P0A6W9	GSH1_ECOLI	Glutamate--cysteine ligase	leading protein	1	2	1
+PRT818_1_P33012	P33012	SBMC_ECOLI	DNA gyrase inhibitor	leading protein	1	4	1
+PRT818_1_P0ADT2	P0ADT2	YGIB_ECOLI	UPF0441 protein YgiB	leading protein	1	1	1
+PRT818_1_P03817	P03817	MIOC_ECOLI	Protein MioC	leading protein	1	6	1
+PRT818_1_P37745	P37745	RMLC_ECOLI	dTDP-4-dehydrorhamnose 3,5-epimerase	leading protein	1	3	1
+PRT818_1_P0A6U5	P0A6U5	RSMG_ECOLI	Ribosomal RNA small subunit methyltransferase G	leading protein	1	2	1
+PRT818_1_P37637	P37637	MDTF_ECOLI	Multidrug resistance protein MdtF	leading protein	1	1	1
+PRT818_1_P42599	P42599	YGJR_ECOLI	Uncharacterized oxidoreductase YgjR	leading protein	1	4	1
+PRT818_1_P0A8E1	P0A8E1	YCFP_ECOLI	UPF0227 protein YcfP	leading protein	1	4	1
+PRT818_1_P0AEN1	P0AEN1	FRE_ECOLI	NAD(P)H-flavin reductase	leading protein	1	4	1
+PRT818_1_P0AAJ5	P0AAJ5	FDOH_ECOLI	Formate dehydrogenase-O iron-sulfur subunit	leading protein	1	2	1
+PRT818_1_P17115	P17115	GUTQ_ECOLI	Arabinose 5-phosphate isomerase GutQ	leading protein	1	1	1
+PRT818_1_P33232	P33232	LLDD_ECOLI	L-lactate dehydrogenase	leading protein	1	1	1
+PRT818_1_P06968	P06968	DUT_ECOLI	Deoxyuridine 5'-triphosphate nucleotidohydrolase	leading protein	1	19	1
+PRT818_1_P0ADI7	P0ADI7	YECD_ECOLI	Isochorismatase family protein YecD	leading protein	1	9	1
+PRT818_1_P24205	P24205	LPXM_ECOLI	Lipid A biosynthesis myristoyltransferase	leading protein	1	6	1
+PRT818_1_P62672	P62672	APAG_ECOLI	Protein ApaG	leading protein	1	4	1
+PRT818_1_P76576	P76576	YFGM_ECOLI	UPF0070 protein YfgM	leading protein	1	4	1
+PRT818_1_P0A7I7	P0A7I7	RIBA_ECOLI	GTP cyclohydrolase-2	leading protein	1	2	1
+PRT818_1_P0A786	P0A786	PYRB_ECOLI	Aspartate carbamoyltransferase catalytic subunit	leading protein	1	1	1
+PRT818_1_P0AA80	P0AA80	GARP_ECOLI	Probable galactarate transporter	leading protein	1	27	1
+PRT818_1_P20966	P20966	PTFBC_ECOLI	PTS system fructose-specific EIIB'BC component	leading protein	1	2	1
+PRT818_1_P0ACW6	P0ACW6	YDCH_ECOLI	Uncharacterized protein YdcH	leading protein	1	2	1
+PRT818_1_P76015	P76015	DHAK_ECOLI	PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK	leading protein	1	1	1
+PRT818_1_P0A9J6	P0A9J6	RBSK_ECOLI	Ribokinase	leading protein	1	3	1
+PRT818_1_P30871	P30871	3PASE_ECOLI	Inorganic triphosphatase	leading protein	1	1	1
+PRT818_1_P0AFU8	P0AFU8	RISA_ECOLI	Riboflavin synthase	leading protein	1	8	1
+PRT818_1_P76243	P76243	YEAO_ECOLI	Uncharacterized protein YeaO	leading protein	1	13	1
+PRT818_1_P14175	P14175	PROV_ECOLI	Glycine betaine/proline betaine transport system ATP-binding protein ProV	leading protein	1	5	1
+PRT818_1_P0AG24	P0AG24	SPOT_ECOLI	Bifunctional (p)ppGpp synthase/hydrolase SpoT	leading protein	1	1	1
+PRT818_1_P65807	P65807	YGEY_ECOLI	Uncharacterized protein YgeY	leading protein	1	9	1
+PRT818_1_P0A6D0	P0A6D0	ARGR_ECOLI	Arginine repressor	leading protein	1	1	1
+PRT818_1_P0ADR8	P0ADR8	PPNN_ECOLI	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase	leading protein	1	18	1
+PRT818_1_P0A7Q1	P0A7Q1	RL35_ECOLI	50S ribosomal protein L35	leading protein	1	3	1
+PRT818_1_P32670	P32670	PTFX2_ECOLI	Multiphosphoryl transfer protein 2	leading protein	1	2	1
+PRT818_1_P77258	P77258	NEMA_ECOLI	N-ethylmaleimide reductase	leading protein	1	2	1
+PRT818_1_P68688	P68688	GLRX1_ECOLI	Glutaredoxin 1	leading protein	1	2	1
+PRT818_1_P0AFZ1	P0AFZ1	SSEB_ECOLI	Protein SseB	leading protein	1	6	1
+PRT818_1_P29012	P29012	ALR2_ECOLI	Alanine racemase, catabolic	leading protein	1	1	1
+PRT818_1_P00926	P00926	SDHD_ECOLI	D-serine dehydratase	leading protein	1	6	1
+PRT818_1_P00561	P00561	AK1H_ECOLI	Bifunctional aspartokinase/homoserine dehydrogenase 1	leading protein	1	3	1
+PRT818_1_Q47150	Q47150	DINJ_ECOLI	Antitoxin DinJ	leading protein	1	5	1
+PRT818_1_P76113	P76113	CURA_ECOLI	NADPH-dependent curcumin reductase	leading protein	1	7	1
+PRT818_1_P76550	P76550	YFFS_ECOLI	Uncharacterized protein YffS	leading protein	1	3	1
+PRT818_1_P23857	P23857	PSPE_ECOLI	Thiosulfate sulfurtransferase PspE	leading protein	1	7	1
+PRT818_1_P0CE48	P0CE48	EFTU2_ECOLI	Elongation factor Tu 2	spectrum same-set protein	30	3691	0
+PRT818_1_P18776	P18776	DMSB_ECOLI	Anaerobic dimethyl sulfoxide reductase chain B	spectrum same-set protein	1	3	0
+PRT818_1_P69908	P69908	DCEA_ECOLI	Glutamate decarboxylase alpha	spectrum sub-set protein	26	974	0
+PRT818_1_P19318	P19318	NARY_ECOLI	Respiratory nitrate reductase 2 beta chain	spectrum sub-set protein	3	31	0
+PRT818_1_P0C8K0	P0C8K0	KBAZ_ECOLI	D-tagatose-1,6-bisphosphate aldolase subunit KbaZ	spectrum sub-set protein	1	11	0
+PRT818_1_P0A978	P0A978	CSPG_ECOLI	Cold shock-like protein CspG	spectrum sub-set protein	1	31	0
+PRT818_1_P38097	P38097	DGCE_ECOLI	Probable diguanylate cyclase DgcE	spectrum sub-set protein	1	2	0

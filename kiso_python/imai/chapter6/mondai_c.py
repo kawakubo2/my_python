@@ -1,0 +1,8 @@
+import sys
+if len(sys.argv) < 2:
+    print('引数を指定してください')
+    sys.exit()
+
+with open('out.txt', 'w', encoding='utf_8') as f:
+    for i in range(1, len(sys.argv)):
+        f.write(sys.argv[i] + '\n')

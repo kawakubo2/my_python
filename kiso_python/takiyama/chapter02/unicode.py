@@ -1,0 +1,5 @@
+s = "Machi Caf\u00E9"
+print(s)
+
+s = "\u062e\u06d5\u064a\u0631\u0644\u0649\u0643\u0626\u06d5\u062a\u0649\u06af\u06d5\u0646"
+print(s)

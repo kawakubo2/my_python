@@ -1,0 +1,121 @@
+dataset_id	project_id	project_title	project_date	protein_count	spectrum_count
+DS790_1	JPST000790	One-dimensional capillary liquid chromatographic separation coupled with tandem mass spectrometry unveils the Escherichia coli proteome on a microarray scale.	2016-07-20	2003	53446
+DS790_2	JPST000790	One-dimensional capillary liquid chromatographic separation coupled with tandem mass spectrometry unveils the Escherichia coli proteome on a microarray scale.	2016-07-20	2063	52659
+DS790_3	JPST000790	One-dimensional capillary liquid chromatographic separation coupled with tandem mass spectrometry unveils the Escherichia coli proteome on a microarray scale.	2016-07-20	2125	56771
+DS791_1	JPST000791	White adipocyte phosphoproteomics	2017-06-23	1385	4047
+DS791_2	JPST000791	White adipocyte phosphoproteomics	2017-06-23	1182	3527
+DS791_3	JPST000791	White adipocyte phosphoproteomics	2017-06-23	1615	5404
+DS791_4	JPST000791	White adipocyte phosphoproteomics	2017-06-23	1519	5089
+DS792_1	JPST000792	Beige adipocyte phosphoproteomics	2017-06-23	1489	5241
+DS792_2	JPST000792	Beige adipocyte phosphoproteomics	2017-06-23	1403	4635
+DS792_3	JPST000792	Beige adipocyte phosphoproteomics	2017-06-23	1204	3548
+DS792_4	JPST000792	Beige adipocyte phosphoproteomics	2017-06-23	1664	6250
+DS793_1	JPST000793	Brown adipocyte phosphoproteomics	2017-06-23	1223	4421
+DS793_2	JPST000793	Brown adipocyte phosphoproteomics	2017-06-23	1100	3499
+DS793_3	JPST000793	Brown adipocyte phosphoproteomics	2017-06-23	1321	4513
+DS793_4	JPST000793	Brown adipocyte phosphoproteomics	2017-06-23	786	2408
+DS794_1	JPST000794	B. subtilis phosphoproteomics	2017-06-23	659	23020
+DS794_2	JPST000794	B. subtilis phosphoproteomics	2017-06-23	536	10385
+DS795_1	JPST000795	K. pneumoniae phosphoproteomics	2017-06-23	825	13763
+DS795_2	JPST000795	K. pneumoniae phosphoproteomics	2017-06-23	891	18440
+DS796_1	JPST000796	Hela-S3 ATPome	2017-06-25	3434	89214
+DS796_2	JPST000796	Hela-S3 ATPome	2017-06-25	3045	51545
+DS796_3	JPST000796	Hela-S3 ATPome	2017-06-25	3169	53428
+DS796_4	JPST000796	Hela-S3 ATPome	2017-06-25	3228	55661
+DS796_5	JPST000796	Hela-S3 ATPome	2017-06-25	3115	54046
+DS796_6	JPST000796	Hela-S3 ATPome	2017-06-25	3184	52572
+DS797_1	JPST000797	ATPome-wide selectivity profiling of staurosporine	2017-06-25	3142	86126
+DS797_2	JPST000797	ATPome-wide selectivity profiling of staurosporine	2017-06-25	2652	28626
+DS797_3	JPST000797	ATPome-wide selectivity profiling of staurosporine	2017-06-25	2662	28536
+DS797_4	JPST000797	ATPome-wide selectivity profiling of staurosporine	2017-06-25	2648	29762
+DS797_5	JPST000797	ATPome-wide selectivity profiling of staurosporine	2017-06-25	2575	27244
+DS798_1	JPST000798	ATPome-wide selectivity profiling of (s)-crizotinib	2017-06-25	2092	23494
+DS798_2	JPST000798	ATPome-wide selectivity profiling of (s)-crizotinib	2017-06-25	2061	23372
+DS798_3	JPST000798	ATPome-wide selectivity profiling of (s)-crizotinib	2017-06-25	2041	22972
+DS798_4	JPST000798	ATPome-wide selectivity profiling of (s)-crizotinib	2017-06-25	2044	23736
+DS798_5	JPST000798	ATPome-wide selectivity profiling of (s)-crizotinib	2017-06-25	2098	22741
+DS799_1	JPST000799	Stagetip fractionation for total proteome	2017-06-30	7876	252098
+DS799_2	JPST000799	Stagetip fractionation for total proteome	2017-06-30	8057	268893
+DS800_1	JPST000800	Stagetip fractionation for Phosphoproteome	2017-06-30	5474	213439
+DS800_2	JPST000800	Stagetip fractionation for Phosphoproteome	2017-06-30	5732	210242
+DS801_1	JPST000801	In-depth membrane proteomic study of breast cancer tissues	2016-10-17	7103	189522
+DS803_1	JPST000803	Quantitative phosphoproteomics of colorectal cancer tissues	2016-10-18	1943	6203
+DS804_1	JPST000804	Proteomic data of HCT116 cells	2016-10-18	7228	287974
+DS805_1	JPST000805	Phosphoproteomic data of HCT116 cells	2016-10-18	4154	98556
+DS806_1	JPST000806	Phosphoproteomics comparison between SW480 and SW620 cells	2016-10-18	3108	18610
+DS806_2	JPST000806	Phosphoproteomics comparison between SW480 and SW620 cells	2016-10-18	3098	15991
+DS807_1	JPST000807	Proteomics comparison between SW480 and SW620 cells	2016-10-18	3982	28152
+DS807_2	JPST000807	Proteomics comparison between SW480 and SW620 cells	2016-10-18	4048	27369
+DS808_1	JPST000808	Phosphoproteomics data of colon tissues (tumor and non-tumor)	2016-10-18	4180	25433
+DS808_2	JPST000808	Phosphoproteomics data of colon tissues (tumor and non-tumor)	2016-10-18	4584	33196
+DS809_1	JPST000809	PC12, NF1 disease model, iTRAQ analysis	2016-09-22	3925	52044
+DS810_1	JPST000810	Human iPS cell_201B7-P32	2016-07-21	3650	43510
+DS810_2	JPST000810	Human iPS cell_201B7-P32	2016-07-21	3481	43901
+DS810_3	JPST000810	Human iPS cell_201B7-P32	2016-07-21	3555	42641
+DS811_1	JPST000811	Human iPS cell_32R1-P32	2016-07-21	4236	58785
+DS811_2	JPST000811	Human iPS cell_32R1-P32	2016-07-21	4044	49761
+DS811_3	JPST000811	Human iPS cell_32R1-P32	2016-07-21	4728	77710
+DS812_1	JPST000812	Human iPS cell_ 414C2-P43	2016-07-21	3632	44547
+DS812_2	JPST000812	Human iPS cell_ 414C2-P43	2016-07-21	4624	67487
+DS812_3	JPST000812	Human iPS cell_ 414C2-P43	2016-07-21	4393	58238
+DS813_1	JPST000813	Human iPS cell_585A1-P55	2016-07-21	3059	28710
+DS813_2	JPST000813	Human iPS cell_585A1-P55	2016-07-21	3117	30460
+DS813_3	JPST000813	Human iPS cell_585A1-P55	2016-07-21	4192	54904
+DS814_1	JPST000814	Human iPS cell_606A1-P46	2016-07-21	3245	34701
+DS814_2	JPST000814	Human iPS cell_606A1-P46	2016-07-21	3183	30164
+DS814_3	JPST000814	Human iPS cell_606A1-P46	2016-07-21	3066	31968
+DS815_1	JPST000815	Human Fibroblast  cell_aHDF1388-P9	2016-07-21	3139	42718
+DS815_2	JPST000815	Human Fibroblast  cell_aHDF1388-P9	2016-07-21	3522	51024
+DS815_3	JPST000815	Human Fibroblast  cell_aHDF1388-P9	2016-07-21	3421	52835
+DS816_1	JPST000816	Human Fibroblast  cell_aHDF1419-P10	2016-07-21	3793	52758
+DS816_2	JPST000816	Human Fibroblast  cell_aHDF1419-P10	2016-07-21	3629	50700
+DS816_3	JPST000816	Human Fibroblast  cell_aHDF1419-P10	2016-07-21	3486	46777
+DS817_1	JPST000817	Human Fibroblast  cell_Tig120slc-P8	2016-07-21	3364	38983
+DS817_2	JPST000817	Human Fibroblast  cell_Tig120slc-P8	2016-07-21	3576	47275
+DS817_3	JPST000817	Human Fibroblast  cell_Tig120slc-P8	2016-07-21	3252	32672
+DS818_1	JPST000818	E. coli phosphoproteomics	2017-06-23	1016	70015
+DS820_1	JPST000820	DM	2018-05-31	680	14546
+DS820_10	JPST000820	DM	2018-05-31	863	30833
+DS820_2	JPST000820	DM	2018-05-31	689	16805
+DS820_3	JPST000820	DM	2018-05-31	688	17006
+DS820_4	JPST000820	DM	2018-05-31	632	14401
+DS820_5	JPST000820	DM	2018-05-31	571	14870
+DS820_6	JPST000820	DM	2018-05-31	1118	40088
+DS820_7	JPST000820	DM	2018-05-31	1154	44472
+DS820_8	JPST000820	DM	2018-05-31	940	38609
+DS820_9	JPST000820	DM	2018-05-31	1044	36829
+DS821_1	JPST000821	Phosphoproteomics analysis of TCR signaling	2016-12-03	2241	15824
+DS822_1	JPST000822	in vitro kinase reaction, PKA	2017-06-30	1257	13522
+DS822_2	JPST000822	in vitro kinase reaction, PKA	2017-06-30	1164	9819
+DS822_3	JPST000822	in vitro kinase reaction, PKA	2017-06-30	498	5404
+DS822_4	JPST000822	in vitro kinase reaction, PKA	2017-06-30	349	2133
+DS823_1	JPST000823	in vitro kinase reaction, ERK1	2017-06-30	1229	19220
+DS823_2	JPST000823	in vitro kinase reaction, ERK1	2017-06-30	1015	11206
+DS823_3	JPST000823	in vitro kinase reaction, ERK1	2017-06-30	261	1785
+DS823_4	JPST000823	in vitro kinase reaction, ERK1	2017-06-30	261	1786
+DS824_1	JPST000824	in vitro kinase reaction, AKT1	2017-06-30	674	6106
+DS824_2	JPST000824	in vitro kinase reaction, AKT1	2017-06-30	639	4913
+DS824_3	JPST000824	in vitro kinase reaction, AKT1	2017-06-30	332	2007
+DS824_4	JPST000824	in vitro kinase reaction, AKT1	2017-06-30	332	2008
+DS825_1	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1316	15758
+DS825_10	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1211	9673
+DS825_11	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1876	33062
+DS825_12	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1258	12944
+DS825_2	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	867	5388
+DS825_3	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	826	7841
+DS825_4	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1280	16106
+DS825_5	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1708	42048
+DS825_6	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1503	24557
+DS825_7	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1253	16267
+DS825_8	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1928	51890
+DS825_9	JPST000825	Mouse liver and kidney proteome with antibiotics treatment	2018-01-01	1793	24746
+DS826_1	JPST000826	Zinc-responsive labeling in live cells for novel conditional proteomics	2016-08-24	1607	18566
+DS826_2	JPST000826	Zinc-responsive labeling in live cells for novel conditional proteomics	2016-08-24	1275	14512
+DS826_3	JPST000826	Zinc-responsive labeling in live cells for novel conditional proteomics	2016-08-24	822	9133
+DS868_1	JPST000868	TiO2-enriched phosphopeptides from thymocytes	2016-09-20	114	730
+DS868_2	JPST000868	TiO2-enriched phosphopeptides from thymocytes	2016-09-20	180	896
+DS868_3	JPST000868	TiO2-enriched phosphopeptides from thymocytes	2016-09-20	208	1134
+DS869_1	JPST000869	monolith HILIC-HeLa	2017-06-22	1705	35910
+DS870_1	JPST000870	Extended Coverage of Singly and Multiply Phosphorylated Peptides from a Single Titanium Dioxide Microcolumn	2017-06-30	963	10779
+DS870_2	JPST000870	Extended Coverage of Singly and Multiply Phosphorylated Peptides from a Single Titanium Dioxide Microcolumn	2017-06-30	729	8654
+DS871_1	JPST000871	TCTP interactome analysis by AP-SWATH	2018-11-05	250	3881

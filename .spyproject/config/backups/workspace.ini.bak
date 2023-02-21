@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['utils\\mypack\\lib.py', 'utils\\mypack\\hoge.py', 'utils\\mypack\\sub_call.py', 'utils\\mypack\\sub.py', 'utils\\mypack\\__init__.py', 'utils\\mypack\\mysub\\__init__.py', 'kiso_python\\inadumi\\chapter05\\filter1.py', 'kiso_python\\inadumi\\chapter05\\filter2.py', 'kiso_python\\inadumi\\chapter01\\figure.py', 'kiso_python\\inadumi\\chapter01\\figure_test.py', 'kiso_python\\inadumi\\chapter01\\__init__.py', 'dokushu_python\\inadumi\\__init__.py', 'utils\\figure.py', 'kiso_python\\inadumi\\chapter01\\figure_test_call.py', 'dokushu_python\\inadumi\\chapter09\\inddumi\\coro_basic.py', 'C:\\program files\\spyder\\pkgs\\ipython\\core\\interactiveshell.py']
+
+[main]
+version = 0.2.0
+recent_files = ['C:\\Users\\tomok\\.spyder-py3\\temp.py', 'dokushu_python\\inadumi\\chapter09\\inddumi\\coro_basic.py', 'dokushu_python\\inadumi\\chapter09\\coro_basic.py']
+

@@ -1,0 +1,541 @@
+protein_id	accession	symbol	name	protein_type	pep_count	psm_count	uniq_pep_count
+PRT794_2_P17889	P17889	IF2_BACSU	Translation initiation factor IF-2	Representative isoform	3	6	3
+PRT794_2_P26900	P26900	ASPG1_BACSU	L-asparaginase 1	Representative isoform	1	5	1
+PRT794_2_Q04747	Q04747	SRFAB_BACSU	Surfactin synthase subunit 2	leading protein	23	71	18
+PRT794_2_P33166	P33166	EFTU_BACSU	Elongation factor Tu	leading protein	22	525	22
+PRT794_2_P27206	P27206	SRFAA_BACSU	Surfactin synthase subunit 1	leading protein	17	51	12
+PRT794_2_P28598	P28598	CH60_BACSU	60 kDa chaperonin	leading protein	17	166	17
+PRT794_2_P80868	P80868	EFG_BACSU	Elongation factor G	leading protein	16	177	16
+PRT794_2_O34788	O34788	BDHA_BACSU	(R,R)-butanediol dehydrogenase	leading protein	16	316	16
+PRT794_2_P02968	P02968	FLA_BACSU	Flagellin	leading protein	15	104	15
+PRT794_2_P09124	P09124	G3P1_BACSU	Glyceraldehyde-3-phosphate dehydrogenase 1	leading protein	14	150	14
+PRT794_2_P37869	P37869	ENO_BACSU	Enolase	leading protein	14	95	14
+PRT794_2_P45694	P45694	TKT_BACSU	Transketolase	leading protein	13	43	13
+PRT794_2_P80698	P80698	TIG_BACSU	Trigger factor	leading protein	13	205	13
+PRT794_2_P21883	P21883	ODP2_BACSU	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	leading protein	12	71	12
+PRT794_2_P80885	P80885	KPYK_BACSU	Pyruvate kinase	leading protein	12	47	12
+PRT794_2_P80860	P80860	G6PI_BACSU	Glucose-6-phosphate isomerase	leading protein	11	57	11
+PRT794_2_O34591	O34591	ACOB_BACSU	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta	leading protein	11	46	11
+PRT794_2_P13243	P13243	ALF_BACSU	Probable fructose-bisphosphate aldolase	leading protein	11	377	11
+PRT794_2_O34425	O34425	G3P2_BACSU	Glyceraldehyde-3-phosphate dehydrogenase 2	leading protein	11	74	11
+PRT794_2_P17820	P17820	DNAK_BACSU	Chaperone protein DnaK	leading protein	11	45	11
+PRT794_2_O31605	O31605	PEPF_BACSU	Oligoendopeptidase F homolog	leading protein	10	34	10
+PRT794_2_P37870	P37870	RPOB_BACSU	DNA-directed RNA polymerase subunit beta	leading protein	10	24	10
+PRT794_2_Q07833	Q07833	WAPA_BACSU	tRNA nuclease WapA	leading protein	10	22	10
+PRT794_2_P09339	P09339	ACNA_BACSU	Aconitate/2-methylaconitate hydratase	leading protein	10	44	10
+PRT794_2_P0CI73	P0CI73	GLMS_BACSU	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	leading protein	10	30	10
+PRT794_2_P39120	P39120	CISY2_BACSU	Citrate synthase 2	leading protein	10	51	10
+PRT794_2_P16263	P16263	ODO2_BACSU	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	leading protein	10	97	10
+PRT794_2_P39126	P39126	IDH_BACSU	Isocitrate dehydrogenase [NADP]	leading protein	10	34	10
+PRT794_2_P21880	P21880	DLDH1_BACSU	Dihydrolipoyl dehydrogenase	leading protein	9	55	9
+PRT794_2_P40924	P40924	PGK_BACSU	Phosphoglycerate kinase	leading protein	9	32	8
+PRT794_2_P37809	P37809	ATPB_BACSU	ATP synthase subunit beta	leading protein	8	25	8
+PRT794_2_P21464	P21464	RS2_BACSU	30S ribosomal protein S2	leading protein	8	25	8
+PRT794_2_P37877	P37877	ACKA_BACSU	Acetate kinase	leading protein	8	34	8
+PRT794_2_O06478	O06478	ALDH5_BACSU	Benzaldehyde dehydrogenase YfmT	leading protein	8	27	8
+PRT794_2_P80859	P80859	6PGD_BACSU	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating	leading protein	8	19	8
+PRT794_2_P80886	P80886	SUCC_BACSU	Succinate--CoA ligase [ADP-forming] subunit beta	leading protein	8	53	8
+PRT794_2_P13714	P13714	LDH_BACSU	L-lactate dehydrogenase	leading protein	8	57	8
+PRT794_2_P21882	P21882	ODPB_BACSU	Pyruvate dehydrogenase E1 component subunit beta	leading protein	8	32	8
+PRT794_2_P80861	P80861	YJLD_BACSU	NADH dehydrogenase-like protein YjlD	leading protein	7	23	7
+PRT794_2_P80239	P80239	AHPC_BACSU	Alkyl hydroperoxide reductase C	leading protein	7	38	7
+PRT794_2_O34499	O34499	6PGL_BACSU	6-phosphogluconolactonase	leading protein	7	34	7
+PRT794_2_P46354	P46354	PUNA_BACSU	Purine nucleoside phosphorylase 1	leading protein	7	30	7
+PRT794_2_O32165	O32165	SUFD_BACSU	FeS cluster assembly protein SufD	leading protein	7	132	7
+PRT794_2_P54419	P54419	METK_BACSU	S-adenosylmethionine synthase	leading protein	7	32	7
+PRT794_2_P39773	P39773	GPMI_BACSU	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	leading protein	7	60	7
+PRT794_2_P37871	P37871	RPOC_BACSU	DNA-directed RNA polymerase subunit beta'	leading protein	7	33	7
+PRT794_2_P19669	P19669	TAL_BACSU	Transaldolase	leading protein	7	30	7
+PRT794_2_P21881	P21881	ODPA_BACSU	Pyruvate dehydrogenase E1 component subunit alpha	leading protein	7	31	7
+PRT794_2_P42920	P42920	RL3_BACSU	50S ribosomal protein L3	leading protein	7	47	7
+PRT794_2_O05268	O05268	FENR2_BACSU	Ferredoxin--NADP reductase 2	leading protein	7	29	7
+PRT794_2_P42175	P42175	NARG_BACSU	Nitrate reductase alpha chain	leading protein	7	30	7
+PRT794_2_P37487	P37487	PPAC_BACSU	Manganese-dependent inorganic pyrophosphatase	leading protein	7	15	7
+PRT794_2_P38494	P38494	RS1H_BACSU	30S ribosomal protein S1 homolog	leading protein	7	16	7
+PRT794_2_P49814	P49814	MDH_BACSU	Malate dehydrogenase	leading protein	7	77	7
+PRT794_2_P46320	P46320	LICH_BACSU	Probable 6-phospho-beta-glucosidase	leading protein	6	34	6
+PRT794_2_P37808	P37808	ATPA_BACSU	ATP synthase subunit alpha	leading protein	6	39	6
+PRT794_2_P80700	P80700	EFTS_BACSU	Elongation factor Ts	leading protein	6	48	6
+PRT794_2_O32162	O32162	SUFB_BACSU	FeS cluster assembly protein SufB	leading protein	6	15	6
+PRT794_2_P12877	P12877	RL5_BACSU	50S ribosomal protein L5	leading protein	6	31	6
+PRT794_2_P39634	P39634	ROCA_BACSU	1-pyrroline-5-carboxylate dehydrogenase	leading protein	6	12	6
+PRT794_2_P21468	P21468	RS6_BACSU	30S ribosomal protein S6	leading protein	6	301	6
+PRT794_2_P08065	P08065	SDHA_BACSU	Succinate dehydrogenase flavoprotein subunit	leading protein	6	27	6
+PRT794_2_P39912	P39912	AROG_BACSU	Protein AroA(G)	leading protein	6	15	6
+PRT794_2_P46353	P46353	DEOB_BACSU	Phosphopentomutase	leading protein	6	198	6
+PRT794_2_P23129	P23129	ODO1_BACSU	2-oxoglutarate dehydrogenase E1 component	leading protein	6	18	6
+PRT794_2_P13242	P13242	PYRG_BACSU	CTP synthase	leading protein	6	15	6
+PRT794_2_O31404	O31404	ACOA_BACSU	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha	leading protein	6	16	6
+PRT794_2_Q08352	Q08352	DHA_BACSU	Alanine dehydrogenase	leading protein	6	41	6
+PRT794_2_P80875	P80875	G16U_BACSU	General stress protein 16U	leading protein	5	16	4
+PRT794_2_P21465	P21465	RS3_BACSU	30S ribosomal protein S3	leading protein	5	20	5
+PRT794_2_P37477	P37477	SYK_BACSU	Lysine--tRNA ligase	leading protein	5	19	5
+PRT794_2_O32090	O32090	PNCB_BACSU	Nicotinate phosphoribosyltransferase	leading protein	5	13	5
+PRT794_2_P21469	P21469	RS7_BACSU	30S ribosomal protein S7	leading protein	5	28	5
+PRT794_2_O34526	O34526	SYA_BACSU	Alanine--tRNA ligase	leading protein	5	10	5
+PRT794_2_P80865	P80865	SUCD_BACSU	Succinate--CoA ligase [ADP-forming] subunit alpha	leading protein	5	68	5
+PRT794_2_P54375	P54375	SODM_BACSU	Superoxide dismutase [Mn]	leading protein	5	25	5
+PRT794_2_P32727	P32727	NUSA_BACSU	Transcription termination/antitermination protein NusA	leading protein	5	10	5
+PRT794_2_P22326	P22326	SYY1_BACSU	Tyrosine--tRNA ligase 1	leading protein	5	11	5
+PRT794_2_P08821	P08821	DBH1_BACSU	DNA-binding protein HU 1	leading protein	5	29	5
+PRT794_2_P39148	P39148	GLYA_BACSU	Serine hydroxymethyltransferase	leading protein	5	39	5
+PRT794_2_O34660	O34660	ALDH4_BACSU	Putative aldehyde dehydrogenase DhaS	leading protein	5	23	5
+PRT794_2_P54418	P54418	PCKA_BACSU	Phosphoenolpyruvate carboxykinase (ATP)	leading protein	5	16	5
+PRT794_2_P21466	P21466	RS4_BACSU	30S ribosomal protein S4	leading protein	5	13	5
+PRT794_2_O31777	O31777	BIOF1_BACSU	8-amino-7-oxononanoate synthase 1	leading protein	5	19	5
+PRT794_2_O31645	O31645	PTN3B_BACSU	PTS system mannose-specific EIIBCA component	leading protein	5	37	5
+PRT794_2_Q45477	Q45477	SYI_BACSU	Isoleucine--tRNA ligase	leading protein	5	14	5
+PRT794_2_P05653	P05653	GYRA_BACSU	DNA gyrase subunit A	leading protein	5	18	5
+PRT794_2_P21879	P21879	IMDH_BACSU	Inosine-5'-monophosphate dehydrogenase	leading protein	5	19	5
+PRT794_2_P54531	P54531	DHLE_BACSU	Leucine dehydrogenase	leading protein	5	24	5
+PRT794_2_O34962	O34962	MAO4_BACSU	Probable NAD-dependent malic enzyme 4	leading protein	5	17	5
+PRT794_2_P53001	P53001	AAT1_BACSU	Aspartate aminotransferase	leading protein	5	11	5
+PRT794_2_O07631	O07631	BIPA_BACSU	50S ribosomal subunit assembly factor BipA	leading protein	4	12	4
+PRT794_2_P54547	P54547	G6PD_BACSU	Glucose-6-phosphate 1-dehydrogenase	leading protein	4	6	4
+PRT794_2_P08877	P08877	PTHP_BACSU	Phosphocarrier protein HPr	leading protein	4	58	4
+PRT794_2_O06491	O06491	GATA_BACSU	Glutamyl-tRNA(Gln) amidotransferase subunit A	leading protein	4	11	4
+PRT794_2_P28366	P28366	SECA_BACSU	Protein translocase subunit SecA	leading protein	4	6	4
+PRT794_2_P39779	P39779	CODY_BACSU	GTP-sensing transcriptional pleiotropic repressor CodY	leading protein	4	15	4
+PRT794_2_Q03223	Q03223	RL31_BACSU	50S ribosomal protein L31	leading protein	4	14	4
+PRT794_2_Q05852	Q05852	GTAB_BACSU	UTP--glucose-1-phosphate uridylyltransferase	leading protein	4	21	4
+PRT794_2_O07021	O07021	LUTB_BACSU	Lactate utilization protein B	leading protein	4	7	4
+PRT794_2_Q08787	Q08787	SRFAC_BACSU	Surfactin synthase subunit 3	leading protein	4	12	4
+PRT794_2_P20429	P20429	RPOA_BACSU	DNA-directed RNA polymerase subunit alpha	leading protein	4	23	4
+PRT794_2_P50866	P50866	CLPX_BACSU	ATP-dependent Clp protease ATP-binding subunit ClpX	leading protein	4	9	4
+PRT794_2_P17865	P17865	FTSZ_BACSU	Cell division protein FtsZ	leading protein	4	13	4
+PRT794_2_O30509	O30509	GATB_BACSU	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	leading protein	4	10	4
+PRT794_2_P35137	P35137	PPIB_BACSU	Peptidyl-prolyl cis-trans isomerase B	leading protein	4	9	4
+PRT794_2_P29727	P29727	GUAA_BACSU	GMP synthase [glutamine-hydrolyzing]	leading protein	4	11	4
+PRT794_2_O34334	O34334	YJOA_BACSU	Uncharacterized protein YjoA	leading protein	4	11	4
+PRT794_2_P39646	P39646	PTAS_BACSU	Phosphate acetyltransferase	leading protein	4	16	4
+PRT794_2_O34529	O34529	PFKA_BACSU	ATP-dependent 6-phosphofructokinase	leading protein	4	12	4
+PRT794_2_P49787	P49787	ACCC1_BACSU	Biotin carboxylase 1	leading protein	4	11	4
+PRT794_2_P80870	P80870	GS13_BACSU	General stress protein 13	leading protein	4	25	4
+PRT794_2_P80864	P80864	TPX_BACSU	Thiol peroxidase	leading protein	4	12	4
+PRT794_2_P04969	P04969	RS11_BACSU	30S ribosomal protein S11	leading protein	4	12	4
+PRT794_2_P08066	P08066	SDHB_BACSU	Succinate dehydrogenase iron-sulfur subunit	leading protein	4	11	4
+PRT794_2_P45743	P45743	DHBB_BACSU	Isochorismatase	leading protein	4	15	4
+PRT794_2_P36945	P36945	RBSK_BACSU	Ribokinase	leading protein	4	14	4
+PRT794_2_P36949	P36949	RBSB_BACSU	Ribose import binding protein RbsB	leading protein	4	9	4
+PRT794_2_P42919	P42919	RL2_BACSU	50S ribosomal protein L2	leading protein	4	23	4
+PRT794_2_P37810	P37810	ATPG_BACSU	ATP synthase gamma chain	leading protein	4	18	4
+PRT794_2_P37571	P37571	CLPC_BACSU	Negative regulator of genetic competence ClpC/MecB	leading protein	4	6	3
+PRT794_2_P08838	P08838	PT1_BACSU	Phosphoenolpyruvate-protein phosphotransferase	leading protein	4	13	4
+PRT794_2_P27876	P27876	TPIS_BACSU	Triosephosphate isomerase	leading protein	4	24	4
+PRT794_2_P14949	P14949	THIO_BACSU	Thioredoxin	leading protein	4	31	4
+PRT794_2_P37476	P37476	FTSH_BACSU	ATP-dependent zinc metalloprotease FtsH	leading protein	4	11	4
+PRT794_2_P12425	P12425	GLN1A_BACSU	Glutamine synthetase	leading protein	4	11	4
+PRT794_2_P23966	P23966	MENB_BACSU	1,4-dihydroxy-2-naphthoyl-CoA synthase	leading protein	4	18	4
+PRT794_2_P38021	P38021	OAT_BACSU	Ornithine aminotransferase	leading protein	4	13	4
+PRT794_2_O32210	O32210	GR_BACSU	Glyoxal reductase	leading protein	4	12	4
+PRT794_2_P49786	P49786	BCCP_BACSU	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	leading protein	4	112	4
+PRT794_2_P54466	P54466	YQFA_BACSU	UPF0365 protein YqfA	leading protein	3	7	3
+PRT794_2_O34384	O34384	YCEE_BACSU	Uncharacterized protein YceE	leading protein	3	12	2
+PRT794_2_O34981	O34981	DAPH_BACSU	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase	leading protein	3	19	3
+PRT794_2_P14193	P14193	KPRS_BACSU	Ribose-phosphate pyrophosphokinase	leading protein	3	18	3
+PRT794_2_P55179	P55179	PEPT_BACSU	Peptidase T	leading protein	3	3	3
+PRT794_2_P37942	P37942	ODB2_BACSU	Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex	leading protein	3	7	3
+PRT794_2_P54572	P54572	MAO1_BACSU	Probable NAD-dependent malic enzyme 1	leading protein	3	11	3
+PRT794_2_O34525	O34525	SPPA_BACSU	Putative signal peptide peptidase SppA	leading protein	3	7	3
+PRT794_2_O34633	O34633	YJLC_BACSU	Uncharacterized protein YjlC	leading protein	3	5	3
+PRT794_2_P46898	P46898	RL6_BACSU	50S ribosomal protein L6	leading protein	3	9	3
+PRT794_2_P08164	P08164	NADE_BACSU	NH(3)-dependent NAD(+) synthetase	leading protein	3	28	3
+PRT794_2_O34324	O34324	DLDH3_BACSU	Dihydrolipoyl dehydrogenase	leading protein	3	7	3
+PRT794_2_P96614	P96614	CSHA_BACSU	DEAD-box ATP-dependent RNA helicase CshA	leading protein	3	9	3
+PRT794_2_P21656	P21656	SYW_BACSU	Tryptophan--tRNA ligase	leading protein	3	10	3
+PRT794_2_O06006	O06006	YRAA_BACSU	Putative cysteine protease YraA	leading protein	3	13	3
+PRT794_2_P18157	P18157	GLPK_BACSU	Glycerol kinase	leading protein	3	5	3
+PRT794_2_Q04797	Q04797	DHAS_BACSU	Aspartate-semialdehyde dehydrogenase	leading protein	3	15	3
+PRT794_2_P18255	P18255	SYT1_BACSU	Threonine--tRNA ligase 1	leading protein	3	15	3
+PRT794_2_P08750	P08750	DACA_BACSU	D-alanyl-D-alanine carboxypeptidase DacA	leading protein	3	10	3
+PRT794_2_P32081	P32081	CSPB_BACSU	Cold shock protein CspB	leading protein	3	535	3
+PRT794_2_P55180	P55180	GALE_BACSU	UDP-glucose 4-epimerase	leading protein	3	6	3
+PRT794_2_O31716	O31716	YKPA_BACSU	Uncharacterized ABC transporter ATP-binding protein YkpA	leading protein	3	8	3
+PRT794_2_P26908	P26908	RL21_BACSU	50S ribosomal protein L21	leading protein	3	180	3
+PRT794_2_O34507	O34507	PRKC_BACSU	Serine/threonine-protein kinase PrkC	leading protein	3	23	3
+PRT794_2_P23446	P23446	FLGG_BACSU	Flagellar basal-body rod protein FlgG	leading protein	3	5	3
+PRT794_2_P80240	P80240	GREA_BACSU	Transcription elongation factor GreA	leading protein	3	18	3
+PRT794_2_P0CI78	P0CI78	RL24_BACSU	50S ribosomal protein L24	leading protein	3	20	3
+PRT794_2_P42060	P42060	RL22_BACSU	50S ribosomal protein L22	leading protein	3	29	3
+PRT794_2_P54542	P54542	YQJE_BACSU	Uncharacterized protein YqjE	leading protein	3	10	3
+PRT794_2_O34860	O34860	RSBRB_BACSU	RsbT co-antagonist protein RsbRB	leading protein	3	87	3
+PRT794_2_P51777	P51777	CSPD_BACSU	Cold shock protein CspD	leading protein	3	279	3
+PRT794_2_P70965	P70965	MURA1_BACSU	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1	leading protein	3	8	3
+PRT794_2_P28368	P28368	HPF_BACSU	Ribosome hibernation promotion factor	leading protein	3	56	3
+PRT794_2_C0SP85	C0SP85	YUKE_BACSU	Protein YukE	leading protein	3	16	3
+PRT794_2_P21467	P21467	RS5_BACSU	30S ribosomal protein S5	leading protein	3	9	3
+PRT794_2_P32395	P32395	DCUP_BACSU	Uroporphyrinogen decarboxylase	leading protein	3	16	3
+PRT794_2_P81101	P81101	RRF_BACSU	Ribosome-recycling factor	leading protein	3	7	3
+PRT794_2_P12879	P12879	RS8_BACSU	30S ribosomal protein S8	leading protein	3	13	3
+PRT794_2_P20166	P20166	PTG3C_BACSU	PTS system glucose-specific EIICBA component	leading protein	3	5	3
+PRT794_2_P46318	P46318	PTJB_BACSU	Lichenan-specific phosphotransferase enzyme IIB component	leading protein	3	16	3
+PRT794_2_P37518	P37518	YCHF_BACSU	Ribosome-binding ATPase YchF	leading protein	3	10	3
+PRT794_2_O32047	O32047	SECDF_BACSU	Protein translocase subunit SecDF	leading protein	3	9	3
+PRT794_2_P18159	P18159	PGCA_BACSU	Phosphoglucomutase	leading protein	3	223	3
+PRT794_2_P42974	P42974	DHNA_BACSU	NADH dehydrogenase	leading protein	3	6	3
+PRT794_2_P40740	P40740	BGLH_BACSU	Aryl-phospho-beta-D-glucosidase BglH	leading protein	3	8	3
+PRT794_2_P96611	P96611	YDBP_BACSU	Thioredoxin-like protein YdbP	leading protein	3	7	3
+PRT794_2_P94431	P94431	YCNI_BACSU	Uncharacterized protein YcnI	leading protein	3	13	3
+PRT794_2_P16971	P16971	RECA_BACSU	Protein RecA	leading protein	3	8	3
+PRT794_2_P19670	P19670	MURA2_BACSU	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2	leading protein	3	6	3
+PRT794_2_O32259	O32259	LUTC_BACSU	Lactate utilization protein C	leading protein	3	17	3
+PRT794_2_P05649	P05649	DPO3B_BACSU	Beta sliding clamp	leading protein	3	7	3
+PRT794_2_P14577	P14577	RL16_BACSU	50S ribosomal protein L16	leading protein	3	27	3
+PRT794_2_P54518	P54518	YQHT_BACSU	Uncharacterized peptidase YqhT	leading protein	3	15	3
+PRT794_2_P54464	P54464	YQEY_BACSU	Uncharacterized protein YqeY	leading protein	3	10	3
+PRT794_2_P35163	P35163	RESD_BACSU	Transcriptional regulatory protein ResD	leading protein	3	10	3
+PRT794_2_P17889	P17889	IF2_BACSU	Translation initiation factor IF-2	leading protein	3	6	3
+PRT794_2_P08874	P08874	ABRB_BACSU	Transition state regulatory protein AbrB	leading protein	3	20	3
+PRT794_2_P07343	P07343	FUMC_BACSU	Fumarate hydratase class II	leading protein	3	12	3
+PRT794_2_P02394	P02394	RL7_BACSU	50S ribosomal protein L7/L12	leading protein	3	196	3
+PRT794_2_O07513	O07513	HIT_BACSU	Protein hit	leading protein	3	8	3
+PRT794_2_P34957	P34957	QOX2_BACSU	Quinol oxidase subunit 2	leading protein	3	10	3
+PRT794_2_P80866	P80866	SUFC_BACSU	Vegetative protein 296	leading protein	3	11	3
+PRT794_2_Q796Y8	Q796Y8	BCP_BACSU	Peroxiredoxin Bcp	leading protein	2	6	2
+PRT794_2_P39758	P39758	ABH_BACSU	Putative transition state regulator Abh	leading protein	2	11	2
+PRT794_2_P35136	P35136	SERA_BACSU	D-3-phosphoglycerate dehydrogenase	leading protein	2	3	2
+PRT794_2_O31550	O31550	ACOC_BACSU	Dihydrolipoyllysine-residue acetyltransferase component of acetoin cleaving system	leading protein	2	3	2
+PRT794_2_P36430	P36430	SYL_BACSU	Leucine--tRNA ligase	leading protein	2	3	2
+PRT794_2_P37465	P37465	SYM_BACSU	Methionine--tRNA ligase	leading protein	2	4	2
+PRT794_2_O31646	O31646	MANA1_BACSU	Mannose-6-phosphate isomerase ManA	leading protein	2	2	2
+PRT794_2_O31639	O31639	YJCQ_BACSU	Uncharacterized protein YjcQ	leading protein	2	2	2
+PRT794_2_P42176	P42176	NARH_BACSU	Nitrate reductase beta chain	leading protein	2	10	2
+PRT794_2_O31509	O31509	YEEI_BACSU	Probable transcriptional regulatory protein YeeI	leading protein	2	3	2
+PRT794_2_P29726	P29726	PURA_BACSU	Adenylosuccinate synthetase	leading protein	2	4	2
+PRT794_2_P71088	P71088	SP0M_BACSU	Sporulation-control protein spo0M	leading protein	2	4	2
+PRT794_2_C0H410	C0H410	YKZW_BACSU	Uncharacterized protein YkzW	leading protein	2	4	2
+PRT794_2_P42923	P42923	RL10_BACSU	50S ribosomal protein L10	leading protein	2	10	2
+PRT794_2_P37527	P37527	PDXS_BACSU	Pyridoxal 5'-phosphate synthase subunit PdxS	leading protein	2	9	2
+PRT794_2_P37941	P37941	ODBB_BACSU	2-oxoisovalerate dehydrogenase subunit beta	leading protein	2	3	2
+PRT794_2_P31103	P31103	NDK_BACSU	Nucleoside diphosphate kinase	leading protein	2	11	2
+PRT794_2_P54482	P54482	ISPG_BACSU	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	leading protein	2	8	2
+PRT794_2_O32129	O32129	LIPA_BACSU	Lipoyl synthase	leading protein	2	5	2
+PRT794_2_P32396	P32396	HEMH_BACSU	Ferrochelatase	leading protein	2	20	2
+PRT794_2_P34958	P34958	QOX3_BACSU	Quinol oxidase subunit 3	leading protein	2	6	2
+PRT794_2_P42409	P42409	RSBRA_BACSU	RsbT co-antagonist protein RsbRA	leading protein	2	35	2
+PRT794_2_P37887	P37887	CYSK_BACSU	Cysteine synthase	leading protein	2	16	2
+PRT794_2_P94356	P94356	YXKC_BACSU	Uncharacterized protein YxkC	leading protein	2	3	2
+PRT794_2_P45913	P45913	YQAP_BACSU	Uncharacterized protein YqaP	leading protein	2	4	2
+PRT794_2_O05239	O05239	YUGJ_BACSU	Probable NADH-dependent butanol dehydrogenase 1	leading protein	2	5	2
+PRT794_2_P24327	P24327	PRSA_BACSU	Foldase protein PrsA	leading protein	2	6	2
+PRT794_2_P39149	P39149	UPP_BACSU	Uracil phosphoribosyltransferase	leading protein	2	5	2
+PRT794_2_P12873	P12873	RL29_BACSU	50S ribosomal protein L29	leading protein	2	6	2
+PRT794_2_O06476	O06476	YFMR_BACSU	Uncharacterized ABC transporter ATP-binding protein YfmR	leading protein	2	7	2
+PRT794_2_P36947	P36947	RBSA_BACSU	Ribose import ATP-binding protein RbsA	leading protein	2	5	2
+PRT794_2_P21474	P21474	RS16_BACSU	30S ribosomal protein S16	leading protein	2	4	2
+PRT794_2_O31764	O31764	YMFF_BACSU	Probable inactive metalloprotease YmfF	leading protein	2	7	2
+PRT794_2_P50735	P50735	GUDB_BACSU	Cryptic catabolic NAD-specific glutamate dehydrogenase GudB	leading protein	2	4	2
+PRT794_2_P54170	P54170	YPHP_BACSU	UPF0403 protein YphP	leading protein	2	10	2
+PRT794_2_P42921	P42921	RL4_BACSU	50S ribosomal protein L4	leading protein	2	13	2
+PRT794_2_P54420	P54420	ASNB_BACSU	Asparagine synthetase [glutamine-hydrolyzing] 1	leading protein	2	7	2
+PRT794_2_Q05873	Q05873	SYV_BACSU	Valine--tRNA ligase	leading protein	2	6	2
+PRT794_2_Q45493	Q45493	RNJ1_BACSU	Ribonuclease J1	leading protein	2	2	2
+PRT794_2_P46336	P46336	IOLS_BACSU	Aldo-keto reductase IolS	leading protein	2	4	2
+PRT794_2_O34925	O34925	DEOD_BACSU	Purine nucleoside phosphorylase DeoD-type	leading protein	2	16	2
+PRT794_2_Q06752	Q06752	SYC_BACSU	Cysteine--tRNA ligase	leading protein	2	3	2
+PRT794_2_P37599	P37599	CHEV_BACSU	Chemotaxis protein CheV	leading protein	2	5	2
+PRT794_2_P40778	P40778	MURC_BACSU	UDP-N-acetylmuramate--L-alanine ligase	leading protein	2	4	2
+PRT794_2_P21470	P21470	RS9_BACSU	30S ribosomal protein S9	leading protein	2	27	2
+PRT794_2_P46208	P46208	HTPG_BACSU	Chaperone protein HtpG	leading protein	2	6	2
+PRT794_2_O06477	O06477	YFMS_BACSU	Putative sensory transducer protein YfmS	leading protein	2	6	2
+PRT794_2_Q02114	Q02114	LYTC_BACSU	N-acetylmuramoyl-L-alanine amidase LytC	leading protein	2	9	2
+PRT794_2_P54947	P54947	YXEH_BACSU	Putative phosphatase YxeH	leading protein	2	2	2
+PRT794_2_O34589	O34589	FLAW_BACSU	Probable flavodoxin 2	leading protein	2	8	2
+PRT794_2_Q02113	Q02113	CWBA_BACSU	Amidase enhancer	leading protein	2	2	2
+PRT794_2_P39772	P39772	SYN_BACSU	Asparagine--tRNA ligase	leading protein	2	7	2
+PRT794_2_P39760	P39760	KTRC_BACSU	Ktr system potassium uptake protein C	leading protein	2	13	2
+PRT794_2_Q02115	Q02115	TAGU_BACSU	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	leading protein	2	12	2
+PRT794_2_P94551	P94551	ETFA_BACSU	Electron transfer flavoprotein subunit alpha	leading protein	2	8	2
+PRT794_2_P54941	P54941	YXEB_BACSU	Iron(3+)-hydroxamate-binding protein YxeB	leading protein	2	7	2
+PRT794_2_P39217	P39217	TLPB_BACSU	Methyl-accepting chemotaxis protein TlpB	leading protein	2	2	2
+PRT794_2_P39142	P39142	PDP_BACSU	Pyrimidine-nucleoside phosphorylase	leading protein	2	5	2
+PRT794_2_P20458	P20458	IF1_BACSU	Translation initiation factor IF-1	leading protein	2	20	2
+PRT794_2_P19946	P19946	RL15_BACSU	50S ribosomal protein L15	leading protein	2	8	2
+PRT794_2_P0CI74	P0CI74	GPSB_BACSU	Cell cycle protein GpsB	leading protein	2	20	2
+PRT794_2_O34433	O34433	YOBO_BACSU	Putative phage-related protein YobO	leading protein	2	3	2
+PRT794_2_P40768	P40768	YTKA_BACSU	Uncharacterized protein YtkA	leading protein	2	2	2
+PRT794_2_P23448	P23448	FLIG_BACSU	Flagellar motor switch protein FliG	leading protein	2	6	2
+PRT794_2_P42297	P42297	YXIE_BACSU	Universal stress protein YxiE	leading protein	2	6	2
+PRT794_2_O34833	O34833	YCEH_BACSU	Uncharacterized protein YceH	leading protein	2	15	2
+PRT794_2_P31104	P31104	AROC_BACSU	Chorismate synthase	leading protein	2	7	2
+PRT794_2_P50848	P50848	CBP1_BACSU	Carboxypeptidase 1	leading protein	2	11	2
+PRT794_2_O34340	O34340	FABF_BACSU	3-oxoacyl-[acyl-carrier-protein] synthase 2	leading protein	2	5	2
+PRT794_2_P37464	P37464	SYS_BACSU	Serine--tRNA ligase	leading protein	2	7	2
+PRT794_2_P46911	P46911	QCRA_BACSU	Menaquinol-cytochrome c reductase iron-sulfur subunit	leading protein	2	2	2
+PRT794_2_P18158	P18158	GLPD_BACSU	Aerobic glycerol-3-phosphate dehydrogenase	leading protein	2	6	2
+PRT794_2_P39214	P39214	MCPA_BACSU	Methyl-accepting chemotaxis protein McpA	leading protein	2	7	2
+PRT794_2_P80879	P80879	G20U_BACSU	General stress protein 20U	leading protein	2	9	2
+PRT794_2_Q06796	Q06796	RL11_BACSU	50S ribosomal protein L11	leading protein	2	7	2
+PRT794_2_Q7BVT7	Q7BVT7	YERC_BACSU	Uncharacterized protein YerC	leading protein	2	6	2
+PRT794_2_P46899	P46899	RL18_BACSU	50S ribosomal protein L18	leading protein	2	15	2
+PRT794_2_P21473	P21473	RS15_BACSU	30S ribosomal protein S15	leading protein	2	9	2
+PRT794_2_P39795	P39795	TREC_BACSU	Trehalose-6-phosphate hydrolase	leading protein	2	8	2
+PRT794_2_O31989	O31989	SUNI_BACSU	Sublancin immunity protein SunI	leading protein	2	2	2
+PRT794_2_O31657	O31657	HTPX_BACSU	Protease HtpX homolog	leading protein	2	3	2
+PRT794_2_P71011	P71011	ALBA_BACSU	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA	leading protein	2	2	2
+PRT794_2_P71021	P71021	DIV4A_BACSU	Septum site-determining protein DivIVA	leading protein	2	5	2
+PRT794_2_P37811	P37811	ATPD_BACSU	ATP synthase subunit delta	leading protein	2	9	2
+PRT794_2_P39808	P39808	YVYG_BACSU	Uncharacterized protein YvyG	leading protein	2	15	2
+PRT794_2_P37472	P37472	HPRT_BACSU	Hypoxanthine-guanine phosphoribosyltransferase	leading protein	2	7	2
+PRT794_2_P21476	P21476	RS19_BACSU	30S ribosomal protein S19	leading protein	2	11	2
+PRT794_2_P12013	P12013	6PGDH_BACSU	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating	leading protein	2	6	2
+PRT794_2_P54616	P54616	FABI_BACSU	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	leading protein	2	10	2
+PRT794_2_P50849	P50849	PNP_BACSU	Polyribonucleotide nucleotidyltransferase	leading protein	2	5	2
+PRT794_2_O34824	O34824	GLMM_BACSU	Phosphoglucosamine mutase	leading protein	2	36	2
+PRT794_2_O32039	O32039	SYH_BACSU	Histidine--tRNA ligase	leading protein	2	4	2
+PRT794_2_P80880	P80880	TRXB_BACSU	Thioredoxin reductase	leading protein	2	6	2
+PRT794_2_O32248	O32248	YVBK_BACSU	Uncharacterized N-acetyltransferase YvbK	leading protein	2	3	2
+PRT794_2_P14192	P14192	GLMU_BACSU	Bifunctional protein GlmU	leading protein	2	5	2
+PRT794_2_O32119	O32119	YUTI_BACSU	Putative nitrogen fixation protein YutI	leading protein	2	8	2
+PRT794_2_P70974	P70974	RL13_BACSU	50S ribosomal protein L13	leading protein	2	23	2
+PRT794_2_Q03224	Q03224	GLPX_BACSU	Fructose-1,6-bisphosphatase class 2	leading protein	2	5	2
+PRT794_2_O32028	O32028	MTNN_BACSU	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	leading protein	2	12	2
+PRT794_2_P50863	P50863	APBC_BACSU	Iron-sulfur cluster carrier protein	leading protein	2	4	2
+PRT794_2_P39810	P39810	FLGK_BACSU	Flagellar hook-associated protein 1	leading protein	2	2	2
+PRT794_2_P45693	P45693	SP5S_BACSU	Stage V sporulation protein S	leading protein	2	2	2
+PRT794_2_O31755	O31755	SYP_BACSU	Proline--tRNA ligase	leading protein	2	5	2
+PRT794_2_P24141	P24141	OPPA_BACSU	Oligopeptide-binding protein OppA	leading protein	2	16	2
+PRT794_2_P37814	P37814	ATPF_BACSU	ATP synthase subunit b	leading protein	2	10	2
+PRT794_2_Q07876	Q07876	RSMH_BACSU	Ribosomal RNA small subunit methyltransferase H	leading protein	2	3	2
+PRT794_2_P23452	P23452	FLIL_BACSU	Flagellar protein FliL	leading protein	2	8	2
+PRT794_2_C0H3V2	C0H3V2	PTMA_BACSU	Mannitol-specific phosphotransferase enzyme IIA component	leading protein	2	19	2
+PRT794_2_O34857	O34857	ROK_BACSU	Repressor Rok	leading protein	2	14	2
+PRT794_2_P28599	P28599	CH10_BACSU	10 kDa chaperonin	leading protein	2	3	2
+PRT794_2_P40780	P40780	YTXH_BACSU	Uncharacterized protein YtxH	leading protein	2	3	2
+PRT794_2_P49778	P49778	EFP_BACSU	Elongation factor P	leading protein	2	26	2
+PRT794_2_P71042	P71042	YWNG_BACSU	Uncharacterized protein YwnG	leading protein	2	4	2
+PRT794_2_O34667	O34667	LUXS_BACSU	S-ribosylhomocysteine lyase	leading protein	1	2	1
+PRT794_2_O34746	O34746	FABH1_BACSU	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1	leading protein	1	2	1
+PRT794_2_O31942	O31942	YONS_BACSU	SPbeta prophage-derived uncharacterized lipoprotein YonS	leading protein	1	1	1
+PRT794_2_P50842	P50842	KDUD_BACSU	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase	leading protein	1	1	1
+PRT794_2_P39215	P39215	MCPB_BACSU	Methyl-accepting chemotaxis protein McpB	leading protein	1	2	1
+PRT794_2_P51831	P51831	FABG_BACSU	3-oxoacyl-[acyl-carrier-protein] reductase FabG	leading protein	1	8	1
+PRT794_2_P54460	P54460	PRMA_BACSU	Ribosomal protein L11 methyltransferase	leading protein	1	1	1
+PRT794_2_P50736	P50736	YPDA_BACSU	Uncharacterized protein YpdA	leading protein	1	1	1
+PRT794_2_P24281	P24281	YAAK_BACSU	Nucleoid-associated protein YaaK	leading protein	1	3	1
+PRT794_2_P32437	P32437	YVYE_BACSU	IMPACT family member YvyE	leading protein	1	2	1
+PRT794_2_Q45480	Q45480	YLYB_BACSU	Uncharacterized RNA pseudouridine synthase YlyB	leading protein	1	2	1
+PRT794_2_O31749	O31749	PYRH_BACSU	Uridylate kinase	leading protein	1	4	1
+PRT794_2_P71066	P71066	YVFG_BACSU	Uncharacterized protein YvfG	leading protein	1	1	1
+PRT794_2_Q01465	Q01465	MREB_BACSU	Cell shape-determining protein MreB	leading protein	1	2	1
+PRT794_2_P26497	P26497	SP0J_BACSU	Stage 0 sporulation protein J	leading protein	1	3	1
+PRT794_2_P39633	P39633	DHE2_BACSU	Catabolic NAD-specific glutamate dehydrogenase RocG	leading protein	1	7	1
+PRT794_2_Q9JMQ2	Q9JMQ2	PPAX_BACSU	Pyrophosphatase PpaX	leading protein	1	1	1
+PRT794_2_P07784	P07784	SSPE_BACSU	Small, acid-soluble spore protein gamma-type	leading protein	1	1	1
+PRT794_2_O31727	O31727	PLPHP_BACSU	Pyridoxal phosphate homeostasis protein	leading protein	1	1	1
+PRT794_2_Q06797	Q06797	RL1_BACSU	50S ribosomal protein L1	leading protein	1	9	1
+PRT794_2_O31753	O31753	DXR_BACSU	1-deoxy-D-xylulose 5-phosphate reductoisomerase	leading protein	1	5	1
+PRT794_2_O32247	O32247	YVBJ_BACSU	Uncharacterized membrane protein YvbJ	leading protein	1	3	1
+PRT794_2_Q04795	Q04795	AK1_BACSU	Aspartokinase 1	leading protein	1	1	1
+PRT794_2_O34318	O34318	YLOU_BACSU	Uncharacterized protein YloU	leading protein	1	8	1
+PRT794_2_O34687	O34687	RL32_BACSU	50S ribosomal protein L32	leading protein	1	2	1
+PRT794_2_P20277	P20277	RL17_BACSU	50S ribosomal protein L17	leading protein	1	5	1
+PRT794_2_Q45600	Q45600	YYDB_BACSU	Uncharacterized metallophosphoesterase-like protein YydB	leading protein	1	2	1
+PRT794_2_O31501	O31501	SWRC_BACSU	Swarming motility protein SwrC	leading protein	1	1	1
+PRT794_2_P17622	P17622	RIBT_BACSU	Protein RibT	leading protein	1	1	1
+PRT794_2_P25144	P25144	CCPA_BACSU	Catabolite control protein A	leading protein	1	1	1
+PRT794_2_O31718	O31718	YKZG_BACSU	UPF0356 protein YkzG	leading protein	1	1	1
+PRT794_2_O05518	O05518	TSAD_BACSU	tRNA N6-adenosine threonylcarbamoyltransferase	leading protein	1	1	1
+PRT794_2_O34600	O34600	NRNA_BACSU	Bifunctional oligoribonuclease and PAP phosphatase NrnA	leading protein	1	2	1
+PRT794_2_P16304	P16304	KAD_BACSU	Adenylate kinase	leading protein	1	5	1
+PRT794_2_Q04796	Q04796	DAPA_BACSU	4-hydroxy-tetrahydrodipicolinate synthase	leading protein	1	5	1
+PRT794_2_P39645	P39645	YWFI_BACSU	Putative heme-dependent peroxidase YwfI	leading protein	1	8	1
+PRT794_2_P36948	P36948	RBSC_BACSU	Ribose import permease protein RbsC	leading protein	1	6	1
+PRT794_2_Q7WY61	Q7WY61	YRZL_BACSU	UPF0297 protein YrzL	leading protein	1	2	1
+PRT794_2_P42973	P42973	BGLA_BACSU	Aryl-phospho-beta-D-glucosidase BglA	leading protein	1	3	1
+PRT794_2_P32397	P32397	PPOX_BACSU	Protoporphyrinogen oxidase	leading protein	1	2	1
+PRT794_2_P71079	P71079	FABL_BACSU	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL	leading protein	1	3	1
+PRT794_2_P38493	P38493	KCY_BACSU	Cytidylate kinase	leading protein	1	1	1
+PRT794_2_P46347	P46347	YBEY_BACSU	Endoribonuclease YbeY	leading protein	1	4	1
+PRT794_2_P94425	P94425	YCNE_BACSU	Putative monooxygenase YcnE	leading protein	1	6	1
+PRT794_2_P46317	P46317	PTJC_BACSU	Lichenan permease IIC component	leading protein	1	1	1
+PRT794_2_P71043	P71043	YWNH_BACSU	Putative phosphinothricin acetyltransferase YwnH	leading protein	1	1	1
+PRT794_2_P37437	P37437	RL9_BACSU	50S ribosomal protein L9	leading protein	1	2	1
+PRT794_2_P39737	P39737	YVYC_BACSU	Uncharacterized protein YvyC	leading protein	1	1	1
+PRT794_2_O32218	O32218	BDBD_BACSU	Disulfide bond formation protein D	leading protein	1	1	1
+PRT794_2_P39794	P39794	PTTBC_BACSU	PTS system trehalose-specific EIIBC component	leading protein	1	15	1
+PRT794_2_P55874	P55874	RL35_BACSU	50S ribosomal protein L35	leading protein	1	2	1
+PRT794_2_C0SPB1	C0SPB1	YUKJ_BACSU	Uncharacterized protein YukJ	leading protein	1	2	1
+PRT794_2_Q45577	Q45577	YBEC_BACSU	Probable amino acid-proton symporter YbeC	leading protein	1	1	1
+PRT794_2_P54569	P54569	YQKF_BACSU	Uncharacterized oxidoreductase YqkF	leading protein	1	3	1
+PRT794_2_P55872	P55872	IF3_BACSU	Translation initiation factor IF-3	leading protein	1	2	1
+PRT794_2_O32167	O32167	METQ_BACSU	Methionine-binding lipoprotein MetQ	leading protein	1	10	1
+PRT794_2_P54522	P54522	EX7S_BACSU	Exodeoxyribonuclease 7 small subunit	leading protein	1	4	1
+PRT794_2_P94422	P94422	YCNB_BACSU	Uncharacterized MFS-type transporter YcnB	leading protein	1	1	1
+PRT794_2_P42412	P42412	IOLA_BACSU	Malonate-semialdehyde dehydrogenase	leading protein	1	2	1
+PRT794_2_P33189	P33189	YHXA_BACSU	Uncharacterized aminotransferase YhxA	leading protein	1	8	1
+PRT794_2_P40750	P40750	PBPD_BACSU	Penicillin-binding protein 4	leading protein	1	3	1
+PRT794_2_Q03523	Q03523	MURE_BACSU	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	leading protein	1	2	1
+PRT794_2_O31684	O31684	YKVS_BACSU	Uncharacterized protein YkvS	leading protein	1	3	1
+PRT794_2_P94364	P94364	CYDA_BACSU	Cytochrome bd ubiquinol oxidase subunit 1	leading protein	1	2	1
+PRT794_2_P56849	P56849	RL331_BACSU	50S ribosomal protein L33 1	leading protein	1	7	1
+PRT794_2_O34454	O34454	YKAA_BACSU	UPF0111 protein YkaA	leading protein	1	4	1
+PRT794_2_P55873	P55873	RL20_BACSU	50S ribosomal protein L20	leading protein	1	5	1
+PRT794_2_P13485	P13485	TAGF_BACSU	Teichoic acid poly(glycerol phosphate) polymerase	leading protein	1	1	1
+PRT794_2_O31766	O31766	YMFH_BACSU	Uncharacterized zinc protease YmfH	leading protein	1	1	1
+PRT794_2_P22250	P22250	SYE_BACSU	Glutamate--tRNA ligase	leading protein	1	1	1
+PRT794_2_O32091	O32091	PNCA_BACSU	Uncharacterized isochorismatase family protein PncA	leading protein	1	2	1
+PRT794_2_P54533	P54533	DLDH2_BACSU	Dihydrolipoyl dehydrogenase	leading protein	1	1	1
+PRT794_2_P28619	P28619	RNPH_BACSU	Ribonuclease PH	leading protein	1	1	1
+PRT794_2_O32053	O32053	TGT_BACSU	Queuine tRNA-ribosyltransferase	leading protein	1	4	1
+PRT794_2_O32224	O32224	AZOR2_BACSU	FMN-dependent NADH-azoreductase 2	leading protein	1	3	1
+PRT794_2_P32731	P32731	RBFA_BACSU	Ribosome-binding factor A	leading protein	1	2	1
+PRT794_2_O32082	O32082	YUBF_BACSU	Uncharacterized membrane protein YubF	leading protein	1	3	1
+PRT794_2_P14802	P14802	YOXD_BACSU	Uncharacterized oxidoreductase YoxD	leading protein	1	3	1
+PRT794_2_P31847	P31847	YPUA_BACSU	Uncharacterized protein YpuA	leading protein	1	3	1
+PRT794_2_P39576	P39576	ILVE2_BACSU	Branched-chain-amino-acid aminotransferase 2	leading protein	1	2	1
+PRT794_2_P42955	P42955	YSLB_BACSU	Uncharacterized protein YslB	leading protein	1	1	1
+PRT794_2_O05236	O05236	YUGG_BACSU	Uncharacterized HTH-type transcriptional regulator YugG	leading protein	1	3	1
+PRT794_2_Q9KWU4	Q9KWU4	PYC_BACSU	Pyruvate carboxylase	leading protein	1	2	1
+PRT794_2_P54465	P54465	YQEZ_BACSU	Uncharacterized protein YqeZ	leading protein	1	2	1
+PRT794_2_O34909	O34909	YERA_BACSU	Putative adenine deaminase YerA	leading protein	1	6	1
+PRT794_2_Q795U4	Q795U4	YTKL_BACSU	UPF0173 metal-dependent hydrolase YtkL	leading protein	1	1	1
+PRT794_2_P96612	P96612	DDL_BACSU	D-alanine--D-alanine ligase	leading protein	1	1	1
+PRT794_2_P55340	P55340	ECSB_BACSU	Protein EcsB	leading protein	1	1	1
+PRT794_2_O05519	O05519	YDIF_BACSU	Putative ATP-binding protein YdiF	leading protein	1	2	1
+PRT794_2_P37552	P37552	RIDA_BACSU	2-iminobutanoate/2-iminopropanoate deaminase	leading protein	1	1	1
+PRT794_2_O34450	O34450	NAGA_BACSU	N-acetylglucosamine-6-phosphate deacetylase	leading protein	1	3	1
+PRT794_2_P54576	P54576	MCPC_BACSU	Methyl-accepting chemotaxis protein McpC	leading protein	1	6	1
+PRT794_2_O34588	O34588	YKUJ_BACSU	Uncharacterized protein YkuJ	leading protein	1	2	1
+PRT794_2_P39209	P39209	TLPC_BACSU	Methyl-accepting chemotaxis protein TlpC	leading protein	1	1	1
+PRT794_2_P68575	P68575	SCP1_BACSU	SPbeta prophage-derived stress response protein SCP1	leading protein	1	3	1
+PRT794_2_O32164	O32164	SUFS_BACSU	Cysteine desulfurase SufS	leading protein	1	1	1
+PRT794_2_O35019	O35019	YFKK_BACSU	UPF0435 protein YfkK	leading protein	1	4	1
+PRT794_2_O32106	O32106	AMPA_BACSU	Probable cytosol aminopeptidase	leading protein	1	2	1
+PRT794_2_P42298	P42298	YXIF_BACSU	Uncharacterized protein YxiF	leading protein	1	1	1
+PRT794_2_O35022	O35022	AZOR1_BACSU	FMN-dependent NADH-azoreductase 1	leading protein	1	1	1
+PRT794_2_P37565	P37565	HSLO_BACSU	33 kDa chaperonin	leading protein	1	1	1
+PRT794_2_P46337	P46337	IOLR_BACSU	HTH-type transcriptional regulator IolR	leading protein	1	3	1
+PRT794_2_O31642	O31642	YJDA_BACSU	Uncharacterized oxidoreductase YjdA	leading protein	1	1	1
+PRT794_2_P39815	P39815	TRMFO_BACSU	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	leading protein	1	4	1
+PRT794_2_P21477	P21477	RS20_BACSU	30S ribosomal protein S20	leading protein	1	1	1
+PRT794_2_O31760	O31760	RNJ2_BACSU	Ribonuclease J2	leading protein	1	3	1
+PRT794_2_P30950	P30950	HEM2_BACSU	Delta-aminolevulinic acid dehydratase	leading protein	1	5	1
+PRT794_2_Q59192	Q59192	PARE_BACSU	DNA topoisomerase 4 subunit B	leading protein	1	1	1
+PRT794_2_O34828	O34828	YRZB_BACSU	UPF0473 protein YrzB	leading protein	1	5	1
+PRT794_2_P54160	P54160	YPBS_BACSU	Uncharacterized protein YpbS	leading protein	1	1	1
+PRT794_2_P26900	P26900	ASPG1_BACSU	L-asparaginase 1	leading protein	1	5	1
+PRT794_2_P94556	P94556	MURI1_BACSU	Glutamate racemase 1	leading protein	1	1	1
+PRT794_2_O32174	O32174	GCSH_BACSU	Glycine cleavage system H protein	leading protein	1	11	1
+PRT794_2_O31678	O31678	QUEF_BACSU	NADPH-dependent 7-cyano-7-deazaguanine reductase	leading protein	1	1	1
+PRT794_2_P54378	P54378	GCST_BACSU	Aminomethyltransferase	leading protein	1	1	1
+PRT794_2_P17731	P17731	HIS8_BACSU	Histidinol-phosphate aminotransferase	leading protein	1	3	1
+PRT794_2_P20282	P20282	RS13_BACSU	30S ribosomal protein S13	leading protein	1	1	1
+PRT794_2_P23447	P23447	FLIF_BACSU	Flagellar M-ring protein	leading protein	1	1	1
+PRT794_2_P19994	P19994	MAP11_BACSU	Methionine aminopeptidase 1	leading protein	1	4	1
+PRT794_2_O34812	O34812	YFMJ_BACSU	Putative NADP-dependent oxidoreductase YfmJ	leading protein	1	2	1
+PRT794_2_P25811	P25811	MNME_BACSU	tRNA modification GTPase MnmE	leading protein	1	1	1
+PRT794_2_P54381	P54381	SYGB_BACSU	Glycine--tRNA ligase beta subunit	leading protein	1	1	1
+PRT794_2_P94428	P94428	GABD_BACSU	Succinate-semialdehyde dehydrogenase [NADP(+)]	leading protein	1	4	1
+PRT794_2_P80244	P80244	CLPP_BACSU	ATP-dependent Clp protease proteolytic subunit	leading protein	1	1	1
+PRT794_2_P17903	P17903	RSBV_BACSU	Anti-sigma-B factor antagonist	leading protein	1	332	1
+PRT794_2_O07607	O07607	YHFI_BACSU	Probable metallo-hydrolase YhfI	leading protein	1	1	1
+PRT794_2_P68577	P68577	SUNA_BACSU	SPbeta prophage-derived bacteriocin sublancin-168	leading protein	1	1	1
+PRT794_2_O32052	O32052	YRBF_BACSU	Sec translocon accessory complex subunit YrbF	leading protein	1	8	1
+PRT794_2_O35008	O35008	YTQA_BACSU	Uncharacterized protein YtqA	leading protein	1	1	1
+PRT794_2_P16655	P16655	DIVIB_BACSU	Cell division protein DivIB	leading protein	1	1	1
+PRT794_2_P94391	P94391	ROCA2_BACSU	1-pyrroline-5-carboxylate dehydrogenase 2	leading protein	1	1	1
+PRT794_2_P13800	P13800	DEGU_BACSU	Transcriptional regulatory protein DegU	leading protein	1	1	1
+PRT794_2_O07020	O07020	LUTA_BACSU	Lactate utilization protein A	leading protein	1	4	1
+PRT794_2_P18579	P18579	MURB_BACSU	UDP-N-acetylenolpyruvoylglucosamine reductase	leading protein	1	3	1
+PRT794_2_O32264	O32264	TKRA_BACSU	Probable 2-ketogluconate reductase	leading protein	1	5	1
+PRT794_2_O31709	O31709	YKNW_BACSU	Membrane protein YknW	leading protein	1	1	1
+PRT794_2_P27623	P27623	TAGD_BACSU	Glycerol-3-phosphate cytidylyltransferase	leading protein	1	1	1
+PRT794_2_O34743	O34743	YLBA_BACSU	Uncharacterized protein YlbA	leading protein	1	2	1
+PRT794_2_Q08788	Q08788	SRFAD_BACSU	Surfactin synthase thioesterase subunit	leading protein	1	7	1
+PRT794_2_P11065	P11065	HPR_BACSU	HTH-type transcriptional regulator Hpr	leading protein	1	1	1
+PRT794_2_P05657	P05657	RL27_BACSU	50S ribosomal protein L27	leading protein	1	1	1
+PRT794_2_P17631	P17631	DNAJ_BACSU	Chaperone protein DnaJ	leading protein	1	5	1
+PRT794_2_P39802	P39802	CHEW_BACSU	Chemotaxis protein CheW	leading protein	1	4	1
+PRT794_2_O34943	O34943	YTPR_BACSU	Putative tRNA-binding protein YtpR	leading protein	1	2	1
+PRT794_2_P19947	P19947	RL30_BACSU	50S ribosomal protein L30	leading protein	1	3	1
+PRT794_2_P24072	P24072	CHEY_BACSU	Chemotaxis protein CheY	leading protein	1	8	1
+PRT794_2_P94441	P94441	LNRM_BACSU	Linearmycin resistance permease protein LnrM	leading protein	1	1	1
+PRT794_2_O05505	O05505	PTEB_BACSU	PTS system oligo-beta-mannoside-specific EIIB component	leading protein	1	4	1
+PRT794_2_P37570	P37570	MCSB_BACSU	Protein-arginine kinase	leading protein	1	1	1
+PRT794_2_Q7WY76	Q7WY76	YEZE_BACSU	Uncharacterized HTH-type transcriptional regulator YezE	leading protein	1	1	1
+PRT794_2_Q9JMQ1	Q9JMQ1	EXUR_BACSU	Probable HTH-type transcriptional repressor ExuR	leading protein	1	1	1
+PRT794_2_P39138	P39138	ARGI_BACSU	Arginase	leading protein	1	3	1
+PRT794_2_P39778	P39778	CLPY_BACSU	ATP-dependent protease ATPase subunit ClpY	leading protein	1	1	1
+PRT794_2_O34328	O34328	KGUA_BACSU	Guanylate kinase	leading protein	1	1	1
+PRT794_2_P54534	P54534	YQIW_BACSU	UPF0403 protein YqiW	leading protein	1	1	1
+PRT794_2_P20964	P20964	OBG_BACSU	GTPase Obg	leading protein	1	1	1
+PRT794_2_P28264	P28264	FTSA_BACSU	Cell division protein FtsA	leading protein	1	2	1
+PRT794_2_P54484	P54484	YQGA_BACSU	Cell wall-binding protein YqgA	leading protein	1	1	1
+PRT794_2_O05496	O05496	YDHE_BACSU	Uncharacterized UDP-glucosyltransferase YdhE	leading protein	1	1	1
+PRT794_2_P54519	P54519	YQHY_BACSU	Uncharacterized protein YqhY	leading protein	1	2	1
+PRT794_2_P71012	P71012	PTF3A_BACSU	PTS system fructose-specific EIIABC component	leading protein	1	5	1
+PRT794_2_P51835	P51835	FTSY_BACSU	Signal recognition particle receptor FtsY	leading protein	1	2	1
+PRT794_2_P42419	P42419	IOLI_BACSU	Inosose isomerase	leading protein	1	4	1
+PRT794_2_O07542	O07542	YHEA_BACSU	UPF0342 protein YheA	leading protein	1	2	1
+PRT794_2_O34904	O34904	YEBD_BACSU	Uncharacterized protein YebD	leading protein	1	1	1
+PRT794_2_P37455	P37455	SSBA_BACSU	Single-stranded DNA-binding protein A	leading protein	1	387	1
+PRT794_2_P17921	P17921	SYFA_BACSU	Phenylalanine--tRNA ligase alpha subunit	leading protein	1	7	1
+PRT794_2_O34443	O34443	APT_BACSU	Adenine phosphoribosyltransferase	leading protein	1	3	1
+PRT794_2_O32114	O32114	DAPF_BACSU	Diaminopimelate epimerase	leading protein	1	1	1
+PRT794_2_O32221	O32221	COPZ_BACSU	Copper chaperone CopZ	leading protein	1	3	1
+PRT794_2_P37538	P37538	DARA_BACSU	Cyclic di-AMP receptor A	leading protein	1	5	1
+PRT794_2_P51834	P51834	SMC_BACSU	Chromosome partition protein Smc	leading protein	1	1	1
+PRT794_2_P54453	P54453	YQEH_BACSU	Uncharacterized protein YqeH	leading protein	1	1	1
+PRT794_2_P94559	P94559	YSNB_BACSU	Putative metallophosphoesterase YsnB	leading protein	1	2	1
+PRT794_2_P39821	P39821	PROA_BACSU	Gamma-glutamyl phosphate reductase	leading protein	1	1	1
+PRT794_2_P30949	P30949	GSA_BACSU	Glutamate-1-semialdehyde 2,1-aminomutase	leading protein	1	3	1
+PRT794_2_O05398	O05398	YRHF_BACSU	Uncharacterized protein YrhF	leading protein	1	1	1
+PRT794_2_O07636	O07636	YLAL_BACSU	Uncharacterized protein YlaL	leading protein	1	7	1
+PRT794_2_O31590	O31590	TRML_BACSU	Putative tRNA (cytidine(34)-2'-O)-methyltransferase	leading protein	1	4	1
+PRT794_2_P50621	P50621	RIR2_BACSU	Ribonucleoside-diphosphate reductase subunit beta	leading protein	1	1	1
+PRT794_2_P16616	P16616	HEM3_BACSU	Porphobilinogen deaminase	leading protein	1	1	1
+PRT794_2_O34990	O34990	PURU_BACSU	Formyltetrahydrofolate deformylase	leading protein	1	5	1
+PRT794_2_P96631	P96631	IMMR_BACSU	HTH-type transcriptional regulator ImmR	leading protein	1	1	1
+PRT794_2_P39579	P39579	DLTC_BACSU	D-alanyl carrier protein	leading protein	1	1	1
+PRT794_2_P25812	P25812	MNMG_BACSU	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	leading protein	1	1	1
+PRT794_2_P12045	P12045	PURK_BACSU	N5-carboxyaminoimidazole ribonucleotide synthase	leading protein	1	3	1
+PRT794_2_P19466	P19466	MTRB_BACSU	Transcription attenuation protein MtrB	leading protein	1	2	1
+PRT794_2_P80643	P80643	ACP_BACSU	Acyl carrier protein	leading protein	1	6	1
+PRT794_2_O06714	O06714	SBCC_BACSU	Nuclease SbcCD subunit C	leading protein	1	1	1
+PRT794_2_P38033	P38033	NIFS_BACSU	Putative cysteine desulfurase NifS	leading protein	1	1	1
+PRT794_2_O34512	O34512	YFMM_BACSU	Uncharacterized ABC transporter ATP-binding protein YfmM	leading protein	1	3	1
+PRT794_2_P25053	P25053	TENI_BACSU	Thiazole tautomerase	leading protein	1	1	1
+PRT794_2_O31714	O31714	K1PF_BACSU	1-phosphofructokinase	leading protein	1	6	1
+PRT794_2_O31848	O31848	YOZC_BACSU	Uncharacterized protein YozC	leading protein	1	2	1
+PRT794_2_P11998	P11998	RISB_BACSU	6,7-dimethyl-8-ribityllumazine synthase	leading protein	1	8	1
+PRT794_2_P39121	P39121	DEOC_BACSU	Deoxyribose-phosphate aldolase	leading protein	1	2	1
+PRT794_2_P39809	P39809	FLGM_BACSU	Negative regulator of flagellin synthesis	leading protein	1	1	1
+PRT794_2_P54452	P54452	YQEG_BACSU	Uncharacterized protein YqeG	leading protein	1	1	1
+PRT794_2_P10727	P10727	SP2AA_BACSU	Anti-sigma F factor antagonist	leading protein	1	10	1
+PRT794_2_P54476	P54476	END4_BACSU	Probable endonuclease 4	leading protein	1	4	1
+PRT794_2_P50846	P50846	ALKH_BACSU	KHG/KDPG aldolase	leading protein	1	1	1
+PRT794_2_P21471	P21471	RS10_BACSU	30S ribosomal protein S10	leading protein	1	4	1
+PRT794_2_P42958	P42958	TTUC_BACSU	Probable tartrate dehydrogenase/decarboxylase	leading protein	1	4	1
+PRT794_2_O34934	O34934	NADK2_BACSU	NAD kinase 2	leading protein	1	5	1
+PRT794_2_O07606	O07606	YHFH_BACSU	Uncharacterized protein YhfH	leading protein	1	1	1
+PRT794_2_P96686	P96686	YDFI_BACSU	Transcriptional regulatory protein YdfI	leading protein	1	2	1
+PRT794_2_O07521	O07521	YHAM_BACSU	3'-5' exoribonuclease YhaM	leading protein	1	1	1
+PRT794_2_P94549	P94549	FADB_BACSU	Probable enoyl-CoA hydratase	leading protein	1	2	1
+PRT794_2_O31689	O31689	YKVY_BACSU	Putative dipeptidase YkvY	leading protein	1	2	1
+PRT794_2_O06492	O06492	GATC_BACSU	Glutamyl-tRNA(Gln) amidotransferase subunit C	leading protein	1	8	1
+PRT794_2_O34628	O34628	YVLB_BACSU	Uncharacterized protein YvlB	leading protein	1	6	1
+PRT794_2_Q07836	Q07836	WAPI_BACSU	Immunity protein WapI	leading protein	1	7	1
+PRT794_2_P39789	P39789	YPOC_BACSU	Uncharacterized protein YpoC	leading protein	1	9	1
+PRT794_2_O06986	O06986	YVDD_BACSU	LOG family protein YvdD	leading protein	1	1	1
+PRT794_2_P06224	P06224	SIGA_BACSU	RNA polymerase sigma factor SigA	leading protein	1	2	1
+PRT794_2_P26899	P26899	ASPA_BACSU	Aspartate ammonia-lyase	leading protein	1	2	1
+PRT794_2_P96613	P96613	MURF_BACSU	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	leading protein	1	2	1
+PRT794_2_P50727	P50727	FER_BACSU	Ferredoxin	leading protein	1	2	1
+PRT794_2_O31567	O31567	YFIY_BACSU	Probable siderophore-binding lipoprotein YfiY	leading protein	1	2	1
+PRT794_2_P54471	P54471	TRMK_BACSU	tRNA (adenine(22)-N(1))-methyltransferase	leading protein	1	5	1
+PRT794_2_O32163	O32163	SUFU_BACSU	Zinc-dependent sulfurtransferase SufU	leading protein	1	4	1
+PRT794_2_P42400	P42400	YCKB_BACSU	Probable ABC transporter extracellular-binding protein YckB	leading protein	1	1	1
+PRT794_2_O06746	O06746	YITK_BACSU	UPF0234 protein yitk	leading protein	1	2	1
+PRT794_2_P96648	P96648	YDDK_BACSU	Uncharacterized protein YddK	leading protein	1	1	1
+PRT794_2_O32038	O32038	SYDND_BACSU	Aspartate--tRNA(Asp/Asn) ligase	leading protein	1	3	1
+PRT794_2_O32037	O32037	TCDA_BACSU	tRNA threonylcarbamoyladenosine dehydratase	leading protein	1	1	1
+PRT794_2_P37949	P37949	LEPA_BACSU	Elongation factor 4	leading protein	1	3	1
+PRT794_2_Q01464	Q01464	MIND_BACSU	Septum site-determining protein MinD	leading protein	1	2	1
+PRT794_2_O32232	O32232	EST_BACSU	Carboxylesterase	leading protein	1	7	1
+PRT794_2_O34594	O34594	CY551_BACSU	Cytochrome c-551	leading protein	1	3	1
+PRT794_2_P42435	P42435	NASD_BACSU	Nitrite reductase [NAD(P)H]	leading protein	1	2	1
+PRT794_2_O07621	O07621	HEMAT_BACSU	Heme-based aerotactic transducer HemAT	leading protein	1	1	1
+PRT794_2_O32208	O32208	YVGL_BACSU	Putative ABC transporter substrate-binding lipoprotein YvgL	leading protein	1	1	1
+PRT794_2_O31673	O31673	CLPE_BACSU	ATP-dependent Clp protease ATP-binding subunit ClpE	spectrum sub-set protein	1	1	0
+PRT794_2_O31451	O31451	YBFJ_BACSU	Uncharacterized protein YbfJ	spectrum sub-set protein	1	1	0

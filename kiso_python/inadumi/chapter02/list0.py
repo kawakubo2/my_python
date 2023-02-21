@@ -1,0 +1,25 @@
+height = [180,165,159,171,155]
+print(height)
+print('------------')
+print('前から順に取り出す')
+print(height[0])
+print(height[1])
+print(height[2])
+print(height[3])
+print(height[4])
+print('------------')
+try:
+    print(height[5])
+except IndexError as ie:
+    print('存在しないインデックスが指定されました。')
+print('------------')
+print(height[-1])
+print(height[-2])
+print(height[-3])
+print(height[-4])
+print(height[-5])
+
+print('リストheightには{}個の要素が存在します'.format(len(height)))
+print('リストheightには' + str(len(height)) + '個の要素が存在します')
+print('------------')
+print(height[len(height) - 1])

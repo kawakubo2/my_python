@@ -1,0 +1,7 @@
+import math
+
+def menseki(hankei):
+    return hankei * hankei * math.pi
+
+hankei = 10
+print(f"半径: {hankei} -> 面積: {menseki(hankei):.3f}")

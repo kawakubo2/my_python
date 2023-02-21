@@ -1,0 +1,13 @@
+import sys
+try:
+    age = int(input("年齢: "))
+except ValueError:
+    print("正しい年齢を入力してください")
+    sys.exit()
+    
+if age <= 0:
+    print("年齢は正の整数を入力してください。")
+elif age < 13:
+    print("子供料金です。")
+else:
+    print("大人料金です。")

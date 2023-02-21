@@ -1,0 +1,1139 @@
+protein_id	accession	symbol	name	protein_type	pep_count	psm_count	uniq_pep_count
+PRT824_2_P07900	P07900	HS90A_HUMAN	Heat shock protein HSP 90-alpha	Representative isoform	13	95	5
+PRT824_2_P11142	P11142	HSP7C_HUMAN	Heat shock cognate 71 kDa protein	Representative isoform	9	37	6
+PRT824_2_P06733	P06733	ENOA_HUMAN	Alpha-enolase	Representative isoform	9	38	8
+PRT824_2_P31749	P31749	AKT1_HUMAN	RAC-alpha serine/threonine-protein kinase	Representative isoform	8	77	5
+PRT824_2_P14618	P14618	KPYM_HUMAN	Pyruvate kinase PKM	Representative isoform	7	34	6
+PRT824_2_P00338	P00338	LDHA_HUMAN	L-lactate dehydrogenase A chain	Representative isoform	7	33	4
+PRT824_2_P10809	P10809	CH60_HUMAN	60 kDa heat shock protein, mitochondrial	Representative isoform	7	20	7
+PRT824_2_O60343	O60343	TBCD4_HUMAN	TBC1 domain family member 4	Representative isoform	6	37	6
+PRT824_2_Q9UQ35	Q9UQ35	SRRM2_HUMAN	Serine/arginine repetitive matrix protein 2	Representative isoform	6	32	6
+PRT824_2_P06748	P06748	NPM_HUMAN	Nucleophosmin	Representative isoform	5	29	4
+PRT824_2_P62258	P62258	1433E_HUMAN	14-3-3 protein epsilon	Representative isoform	5	59	4
+PRT824_2_P04075	P04075	ALDOA_HUMAN	Fructose-bisphosphate aldolase A	Representative isoform	5	36	5
+PRT824_2_P23588	P23588	IF4B_HUMAN	Eukaryotic translation initiation factor 4B	Representative isoform	5	40	5
+PRT824_2_P68363	P68363	TBA1B_HUMAN	Tubulin alpha-1B chain	Representative isoform	5	27	0
+PRT824_2_Q5SW79	Q5SW79	CE170_HUMAN	Centrosomal protein of 170 kDa	Representative isoform	5	21	5
+PRT824_2_P62937	P62937	PPIA_HUMAN	Peptidyl-prolyl cis-trans isomerase A	Representative isoform	5	27	4
+PRT824_2_Q8ND56	Q8ND56	LS14A_HUMAN	Protein LSM14 homolog A	Representative isoform	4	9	4
+PRT824_2_P31751	P31751	AKT2_HUMAN	RAC-beta serine/threonine-protein kinase	Representative isoform	4	35	1
+PRT824_2_P48634	P48634	PRC2A_HUMAN	Protein PRRC2A	Representative isoform	4	18	4
+PRT824_2_P14314	P14314	GLU2B_HUMAN	Glucosidase 2 subunit beta	Representative isoform	4	22	4
+PRT824_2_Q92597	Q92597	NDRG1_HUMAN	Protein NDRG1	Representative isoform	4	25	4
+PRT824_2_O75122	O75122	CLAP2_HUMAN	CLIP-associating protein 2	Representative isoform	4	7	4
+PRT824_2_P0DMV8	P0DMV8	HS71A_HUMAN	Heat shock 70 kDa protein 1A	Representative isoform	4	21	0
+PRT824_2_P60174	P60174	TPIS_HUMAN	Triosephosphate isomerase	Representative isoform	4	26	4
+PRT824_2_Q9UGV2	Q9UGV2	NDRG3_HUMAN	Protein NDRG3	Representative isoform	4	25	4
+PRT824_2_Q5JSZ5	Q5JSZ5	PRC2B_HUMAN	Protein PRRC2B	Representative isoform	4	14	4
+PRT824_2_Q13263	Q13263	TIF1B_HUMAN	Transcription intermediary factor 1-beta	Representative isoform	3	10	3
+PRT824_2_P27816	P27816	MAP4_HUMAN	Microtubule-associated protein 4	Representative isoform	3	31	3
+PRT824_2_P27824	P27824	CALX_HUMAN	Calnexin	Representative isoform	3	24	3
+PRT824_2_Q9BZ23	Q9BZ23	PANK2_HUMAN	Pantothenate kinase 2, mitochondrial	Representative isoform	3	10	3
+PRT824_2_P00558	P00558	PGK1_HUMAN	Phosphoglycerate kinase 1	Representative isoform	3	23	2
+PRT824_2_P68104	P68104	EF1A1_HUMAN	Elongation factor 1-alpha 1	Representative isoform	3	12	0
+PRT824_2_P49841	P49841	GSK3B_HUMAN	Glycogen synthase kinase-3 beta	Representative isoform	3	25	1
+PRT824_2_Q7Z5L9	Q7Z5L9	I2BP2_HUMAN	Interferon regulatory factor 2-binding protein 2	Representative isoform	3	18	2
+PRT824_2_O14974	O14974	MYPT1_HUMAN	Protein phosphatase 1 regulatory subunit 12A	Representative isoform	3	19	3
+PRT824_2_O60271	O60271	JIP4_HUMAN	C-Jun-amino-terminal kinase-interacting protein 4	Representative isoform	3	12	3
+PRT824_2_P31946	P31946	1433B_HUMAN	14-3-3 protein beta/alpha	Representative isoform	3	53	2
+PRT824_2_P34932	P34932	HSP74_HUMAN	Heat shock 70 kDa protein 4	Representative isoform	3	18	3
+PRT824_2_P46779	P46779	RL28_HUMAN	60S ribosomal protein L28	Representative isoform	3	14	3
+PRT824_2_P49419	P49419	AL7A1_HUMAN	Alpha-aminoadipic semialdehyde dehydrogenase	Representative isoform	3	9	3
+PRT824_2_P63104	P63104	1433Z_HUMAN	14-3-3 protein zeta/delta	Representative isoform	3	41	2
+PRT824_2_P25054	P25054	APC_HUMAN	Adenomatous polyposis coli protein	Representative isoform	3	15	3
+PRT824_2_P37802	P37802	TAGL2_HUMAN	Transgelin-2	Representative isoform	3	13	2
+PRT824_2_P29401	P29401	TKT_HUMAN	Transketolase	Representative isoform	3	35	3
+PRT824_2_P23381	P23381	SYWC_HUMAN	Tryptophan--tRNA ligase, cytoplasmic	Representative isoform	3	17	3
+PRT824_2_P43487	P43487	RANG_HUMAN	Ran-specific GTPase-activating protein	Representative isoform	3	23	3
+PRT824_2_P26373	P26373	RL13_HUMAN	60S ribosomal protein L13	Representative isoform	3	9	3
+PRT824_2_Q5UIP0	Q5UIP0	RIF1_HUMAN	Telomere-associated protein RIF1	Representative isoform	3	14	3
+PRT824_2_Q9H6Z4	Q9H6Z4	RANB3_HUMAN	Ran-binding protein 3	Representative isoform	3	65	3
+PRT824_2_O95297	O95297	MPZL1_HUMAN	Myelin protein zero-like protein 1	Representative isoform	2	3	2
+PRT824_2_P07602	P07602	SAP_HUMAN	Prosaposin	Representative isoform	2	5	2
+PRT824_2_Q9NP61	Q9NP61	ARFG3_HUMAN	ADP-ribosylation factor GTPase-activating protein 3	Representative isoform	2	9	2
+PRT824_2_Q9NZM1	Q9NZM1	MYOF_HUMAN	Myoferlin	Representative isoform	2	4	2
+PRT824_2_Q3KQU3	Q3KQU3	MA7D1_HUMAN	MAP7 domain-containing protein 1	Representative isoform	2	8	2
+PRT824_2_P53396	P53396	ACLY_HUMAN	ATP-citrate synthase	Representative isoform	2	10	2
+PRT824_2_P40818	P40818	UBP8_HUMAN	Ubiquitin carboxyl-terminal hydrolase 8	Representative isoform	2	10	2
+PRT824_2_Q8TEW0	Q8TEW0	PARD3_HUMAN	Partitioning defective 3 homolog	Representative isoform	2	4	2
+PRT824_2_Q92841	Q92841	DDX17_HUMAN	Probable ATP-dependent RNA helicase DDX17	Representative isoform	2	8	2
+PRT824_2_A0MZ66	A0MZ66	SHOT1_HUMAN	Shootin-1	Representative isoform	2	4	2
+PRT824_2_Q9NZN5	Q9NZN5	ARHGC_HUMAN	Rho guanine nucleotide exchange factor 12	Representative isoform	2	6	2
+PRT824_2_Q9Y520	Q9Y520	PRC2C_HUMAN	Protein PRRC2C	Representative isoform	2	21	2
+PRT824_2_P25705	P25705	ATPA_HUMAN	ATP synthase subunit alpha, mitochondrial	Representative isoform	2	12	2
+PRT824_2_Q9H0D6	Q9H0D6	XRN2_HUMAN	5'-3' exoribonuclease 2	Representative isoform	2	6	2
+PRT824_2_Q7Z2W4	Q7Z2W4	ZCCHV_HUMAN	Zinc finger CCCH-type antiviral protein 1	Representative isoform	2	6	2
+PRT824_2_O95544	O95544	NADK_HUMAN	NAD kinase	Representative isoform	2	13	2
+PRT824_2_P51858	P51858	HDGF_HUMAN	Hepatoma-derived growth factor	Representative isoform	2	7	2
+PRT824_2_Q7LBC6	Q7LBC6	KDM3B_HUMAN	Lysine-specific demethylase 3B	Representative isoform	2	5	2
+PRT824_2_Q9UPR0	Q9UPR0	PLCL2_HUMAN	Inactive phospholipase C-like protein 2	Representative isoform	2	9	2
+PRT824_2_Q8WWI1	Q8WWI1	LMO7_HUMAN	LIM domain only protein 7	Representative isoform	2	8	2
+PRT824_2_O43852	O43852	CALU_HUMAN	Calumenin	Representative isoform	2	9	2
+PRT824_2_P17655	P17655	CAN2_HUMAN	Calpain-2 catalytic subunit	Representative isoform	2	5	2
+PRT824_2_Q9BYW2	Q9BYW2	SETD2_HUMAN	Histone-lysine N-methyltransferase SETD2	Representative isoform	2	7	2
+PRT824_2_P25788	P25788	PSA3_HUMAN	Proteasome subunit alpha type-3	Representative isoform	2	12	2
+PRT824_2_P61978	P61978	HNRPK_HUMAN	Heterogeneous nuclear ribonucleoprotein K	Representative isoform	2	8	2
+PRT824_2_P31947	P31947	1433S_HUMAN	14-3-3 protein sigma	Representative isoform	2	23	1
+PRT824_2_P21333	P21333	FLNA_HUMAN	Filamin-A	Representative isoform	2	12	2
+PRT824_2_P08195	P08195	4F2_HUMAN	4F2 cell-surface antigen heavy chain	Representative isoform	2	7	2
+PRT824_2_Q15084	Q15084	PDIA6_HUMAN	Protein disulfide-isomerase A6	Representative isoform	2	9	2
+PRT824_2_Q86UU0	Q86UU0	BCL9L_HUMAN	B-cell CLL/lymphoma 9-like protein	Representative isoform	2	11	2
+PRT824_2_P55196	P55196	AFAD_HUMAN	Afadin	Representative isoform	2	11	2
+PRT824_2_Q9H0B6	Q9H0B6	KLC2_HUMAN	Kinesin light chain 2	Representative isoform	2	12	2
+PRT824_2_Q96RT1	Q96RT1	ERBIN_HUMAN	Erbin	Representative isoform	2	7	2
+PRT824_2_Q14978	Q14978	NOLC1_HUMAN	Nucleolar and coiled-body phosphoprotein 1	Representative isoform	2	7	2
+PRT824_2_P45880	P45880	VDAC2_HUMAN	Voltage-dependent anion-selective channel protein 2	Representative isoform	2	5	2
+PRT824_2_Q9H2G2	Q9H2G2	SLK_HUMAN	STE20-like serine/threonine-protein kinase	Representative isoform	2	6	2
+PRT824_2_Q9UPQ0	Q9UPQ0	LIMC1_HUMAN	LIM and calponin homology domains-containing protein 1	Representative isoform	2	5	2
+PRT824_2_O43865	O43865	SAHH2_HUMAN	S-adenosylhomocysteine hydrolase-like protein 1	Representative isoform	2	14	2
+PRT824_2_Q08AD1	Q08AD1	CAMP2_HUMAN	Calmodulin-regulated spectrin-associated protein 2	Representative isoform	2	6	2
+PRT824_2_P05787	P05787	K2C8_HUMAN	Keratin, type II cytoskeletal 8	Representative isoform	2	3	1
+PRT824_2_Q96G46	Q96G46	DUS3L_HUMAN	tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like	Representative isoform	2	6	2
+PRT824_2_Q86W92	Q86W92	LIPB1_HUMAN	Liprin-beta-1	Representative isoform	2	6	2
+PRT824_2_P50395	P50395	GDIB_HUMAN	Rab GDP dissociation inhibitor beta	Representative isoform	2	19	1
+PRT824_2_Q6PKG0	Q6PKG0	LARP1_HUMAN	La-related protein 1	Representative isoform	2	6	2
+PRT824_2_O00264	O00264	PGRC1_HUMAN	Membrane-associated progesterone receptor component 1	Representative isoform	2	20	1
+PRT824_2_Q9UK76	Q9UK76	JUPI1_HUMAN	Jupiter microtubule associated homolog 1	Representative isoform	2	7	2
+PRT824_2_P60842	P60842	IF4A1_HUMAN	Eukaryotic initiation factor 4A-I	Representative isoform	2	13	2
+PRT824_2_Q9H8S9	Q9H8S9	MOB1A_HUMAN	MOB kinase activator 1A	Representative isoform	2	11	2
+PRT824_2_Q01813	Q01813	PFKAP_HUMAN	ATP-dependent 6-phosphofructokinase, platelet type	Representative isoform	2	13	2
+PRT824_2_P15531	P15531	NDKA_HUMAN	Nucleoside diphosphate kinase A	Representative isoform	2	7	1
+PRT824_2_Q9BQA1	Q9BQA1	MEP50_HUMAN	Methylosome protein 50	Representative isoform	2	9	2
+PRT824_2_Q12931	Q12931	TRAP1_HUMAN	Heat shock protein 75 kDa, mitochondrial	Representative isoform	2	10	1
+PRT824_2_O15027	O15027	SC16A_HUMAN	Protein transport protein Sec16A	Representative isoform	2	8	2
+PRT824_2_Q14152	Q14152	EIF3A_HUMAN	Eukaryotic translation initiation factor 3 subunit A	Representative isoform	2	6	2
+PRT824_2_Q9H1E3	Q9H1E3	NUCKS_HUMAN	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	Representative isoform	2	13	2
+PRT824_2_P04406	P04406	G3P_HUMAN	Glyceraldehyde-3-phosphate dehydrogenase	Representative isoform	2	12	2
+PRT824_2_Q9ULD2	Q9ULD2	MTUS1_HUMAN	Microtubule-associated tumor suppressor 1	Representative isoform	2	7	2
+PRT824_2_Q13017	Q13017	RHG05_HUMAN	Rho GTPase-activating protein 5	Representative isoform	2	5	2
+PRT824_2_Q99460	Q99460	PSMD1_HUMAN	26S proteasome non-ATPase regulatory subunit 1	Representative isoform	2	9	2
+PRT824_2_Q63HQ0	Q63HQ0	AP1AR_HUMAN	AP-1 complex-associated regulatory protein	Representative isoform	2	3	2
+PRT824_2_P22314	P22314	UBA1_HUMAN	Ubiquitin-like modifier-activating enzyme 1	Representative isoform	2	11	2
+PRT824_2_Q3V6T2	Q3V6T2	GRDN_HUMAN	Girdin	Representative isoform	2	8	2
+PRT824_2_Q9UPN3	Q9UPN3	MACF1_HUMAN	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5	Representative isoform	2	9	2
+PRT824_2_P61313	P61313	RL15_HUMAN	60S ribosomal protein L15	Representative isoform	2	10	2
+PRT824_2_Q86X29	Q86X29	LSR_HUMAN	Lipolysis-stimulated lipoprotein receptor	Representative isoform	2	20	2
+PRT824_2_Q00839	Q00839	HNRPU_HUMAN	Heterogeneous nuclear ribonucleoprotein U	Representative isoform	2	10	2
+PRT824_2_O94776	O94776	MTA2_HUMAN	Metastasis-associated protein MTA2	Representative isoform	2	3	2
+PRT824_2_Q9ULX6	Q9ULX6	AKP8L_HUMAN	A-kinase anchor protein 8-like	Representative isoform	2	5	2
+PRT824_2_Q13459	Q13459	MYO9B_HUMAN	Unconventional myosin-IXb	Representative isoform	2	7	2
+PRT824_2_Q9UN36	Q9UN36	NDRG2_HUMAN	Protein NDRG2	Representative isoform	2	8	2
+PRT824_2_Q9BY44	Q9BY44	EIF2A_HUMAN	Eukaryotic translation initiation factor 2A	Representative isoform	2	8	2
+PRT824_2_O43707	O43707	ACTN4_HUMAN	Alpha-actinin-4	Representative isoform	2	2	2
+PRT824_2_P25205	P25205	MCM3_HUMAN	DNA replication licensing factor MCM3	Representative isoform	2	10	2
+PRT824_2_Q86WR7	Q86WR7	PRSR2_HUMAN	Proline and serine-rich protein 2	Representative isoform	2	13	2
+PRT824_2_P09651	P09651	ROA1_HUMAN	Heterogeneous nuclear ribonucleoprotein A1	Representative isoform	2	4	1
+PRT824_2_Q96EY7	Q96EY7	PTCD3_HUMAN	Pentatricopeptide repeat domain-containing protein 3, mitochondrial	Representative isoform	1	11	1
+PRT824_2_P55210	P55210	CASP7_HUMAN	Caspase-7	Representative isoform	1	2	1
+PRT824_2_Q5VZK9	Q5VZK9	CARL1_HUMAN	F-actin-uncapping protein LRRC16A	Representative isoform	1	3	1
+PRT824_2_Q8TDN4	Q8TDN4	CABL1_HUMAN	CDK5 and ABL1 enzyme substrate 1	Representative isoform	1	2	1
+PRT824_2_Q9H7D7	Q9H7D7	WDR26_HUMAN	WD repeat-containing protein 26	Representative isoform	1	2	1
+PRT824_2_Q8NEY1	Q8NEY1	NAV1_HUMAN	Neuron navigator 1	Representative isoform	1	4	1
+PRT824_2_O95684	O95684	FR1OP_HUMAN	FGFR1 oncogene partner	Representative isoform	1	2	1
+PRT824_2_Q6ZN18	Q6ZN18	AEBP2_HUMAN	Zinc finger protein AEBP2	Representative isoform	1	14	1
+PRT824_2_Q9NYU2	Q9NYU2	UGGG1_HUMAN	UDP-glucose:glycoprotein glucosyltransferase 1	Representative isoform	1	1	1
+PRT824_2_P27361	P27361	MK03_HUMAN	Mitogen-activated protein kinase 3	Representative isoform	1	1	1
+PRT824_2_Q96SB4	Q96SB4	SRPK1_HUMAN	SRSF protein kinase 1	Representative isoform	1	2	1
+PRT824_2_P45974	P45974	UBP5_HUMAN	Ubiquitin carboxyl-terminal hydrolase 5	Representative isoform	1	4	1
+PRT824_2_P53621	P53621	COPA_HUMAN	Coatomer subunit alpha	Representative isoform	1	6	1
+PRT824_2_Q9ULJ3	Q9ULJ3	ZBT21_HUMAN	Zinc finger and BTB domain-containing protein 21	Representative isoform	1	4	1
+PRT824_2_Q71RC2	Q71RC2	LARP4_HUMAN	La-related protein 4	Representative isoform	1	4	1
+PRT824_2_Q9UKV3	Q9UKV3	ACINU_HUMAN	Apoptotic chromatin condensation inducer in the nucleus	Representative isoform	1	6	1
+PRT824_2_Q8TB72	Q8TB72	PUM2_HUMAN	Pumilio homolog 2	Representative isoform	1	2	1
+PRT824_2_P50991	P50991	TCPD_HUMAN	T-complex protein 1 subunit delta	Representative isoform	1	5	1
+PRT824_2_O75369	O75369	FLNB_HUMAN	Filamin-B	Representative isoform	1	2	1
+PRT824_2_P30622	P30622	CLIP1_HUMAN	CAP-Gly domain-containing linker protein 1	Representative isoform	1	3	1
+PRT824_2_Q8TEU7	Q8TEU7	RPGF6_HUMAN	Rap guanine nucleotide exchange factor 6	Representative isoform	1	4	1
+PRT824_2_O60293	O60293	ZC3H1_HUMAN	Zinc finger C3H1 domain-containing protein	Representative isoform	1	9	1
+PRT824_2_Q9UJS0	Q9UJS0	CMC2_HUMAN	Calcium-binding mitochondrial carrier protein Aralar2	Representative isoform	1	1	1
+PRT824_2_Q9P206	Q9P206	K1522_HUMAN	Uncharacterized protein KIAA1522	Representative isoform	1	1	1
+PRT824_2_P55060	P55060	XPO2_HUMAN	Exportin-2	Representative isoform	1	2	1
+PRT824_2_Q9NPQ8	Q9NPQ8	RIC8A_HUMAN	Synembryn-A	Representative isoform	1	7	1
+PRT824_2_P18615	P18615	NELFE_HUMAN	Negative elongation factor E	Representative isoform	1	5	1
+PRT824_2_Q53EL6	Q53EL6	PDCD4_HUMAN	Programmed cell death protein 4	Representative isoform	1	5	1
+PRT824_2_P49959	P49959	MRE11_HUMAN	Double-strand break repair protein MRE11	Representative isoform	1	8	1
+PRT824_2_Q69YN4	Q69YN4	VIR_HUMAN	Protein virilizer homolog	Representative isoform	1	3	1
+PRT824_2_P38159	P38159	RBMX_HUMAN	RNA-binding motif protein, X chromosome	Representative isoform	1	1	0
+PRT824_2_Q5VSL9	Q5VSL9	STRP1_HUMAN	Striatin-interacting protein 1	Representative isoform	1	5	1
+PRT824_2_O95155	O95155	UBE4B_HUMAN	Ubiquitin conjugation factor E4 B	Representative isoform	1	8	1
+PRT824_2_O94875	O94875	SRBS2_HUMAN	Sorbin and SH3 domain-containing protein 2	Representative isoform	1	2	1
+PRT824_2_Q63ZY3	Q63ZY3	KANK2_HUMAN	KN motif and ankyrin repeat domain-containing protein 2	Representative isoform	1	5	1
+PRT824_2_P35221	P35221	CTNA1_HUMAN	Catenin alpha-1	Representative isoform	1	10	1
+PRT824_2_P20340	P20340	RAB6A_HUMAN	Ras-related protein Rab-6A	Representative isoform	1	2	1
+PRT824_2_Q92598	Q92598	HS105_HUMAN	Heat shock protein 105 kDa	Representative isoform	1	2	1
+PRT824_2_Q13480	Q13480	GAB1_HUMAN	GRB2-associated-binding protein 1	Representative isoform	1	5	1
+PRT824_2_P60900	P60900	PSA6_HUMAN	Proteasome subunit alpha type-6	Representative isoform	1	3	1
+PRT824_2_P26641	P26641	EF1G_HUMAN	Elongation factor 1-gamma	Representative isoform	1	4	1
+PRT824_2_Q9UNH7	Q9UNH7	SNX6_HUMAN	Sorting nexin-6	Representative isoform	1	5	1
+PRT824_2_P13861	P13861	KAP2_HUMAN	cAMP-dependent protein kinase type II-alpha regulatory subunit	Representative isoform	1	8	1
+PRT824_2_Q8NBJ7	Q8NBJ7	SUMF2_HUMAN	Inactive C-alpha-formylglycine-generating enzyme 2	Representative isoform	1	5	1
+PRT824_2_P18621	P18621	RL17_HUMAN	60S ribosomal protein L17	Representative isoform	1	10	1
+PRT824_2_P49588	P49588	SYAC_HUMAN	Alanine--tRNA ligase, cytoplasmic	Representative isoform	1	2	1
+PRT824_2_Q8N350	Q8N350	CBARP_HUMAN	Voltage-dependent calcium channel beta subunit-associated regulatory protein	Representative isoform	1	1	1
+PRT824_2_P25786	P25786	PSA1_HUMAN	Proteasome subunit alpha type-1	Representative isoform	1	4	1
+PRT824_2_Q9HAU0	Q9HAU0	PKHA5_HUMAN	Pleckstrin homology domain-containing family A member 5	Representative isoform	1	1	1
+PRT824_2_P13797	P13797	PLST_HUMAN	Plastin-3	Representative isoform	1	5	1
+PRT824_2_Q92766	Q92766	RREB1_HUMAN	Ras-responsive element-binding protein 1	Representative isoform	1	5	1
+PRT824_2_Q92614	Q92614	MY18A_HUMAN	Unconventional myosin-XVIIIa	Representative isoform	1	1	1
+PRT824_2_P11940	P11940	PABP1_HUMAN	Polyadenylate-binding protein 1	Representative isoform	1	4	0
+PRT824_2_Q15056	Q15056	IF4H_HUMAN	Eukaryotic translation initiation factor 4H	Representative isoform	1	3	1
+PRT824_2_P62070	P62070	RRAS2_HUMAN	Ras-related protein R-Ras2	Representative isoform	1	3	1
+PRT824_2_Q7Z4S6	Q7Z4S6	KI21A_HUMAN	Kinesin-like protein KIF21A	Representative isoform	1	3	1
+PRT824_2_Q8NEY8	Q8NEY8	PPHLN_HUMAN	Periphilin-1	Representative isoform	1	3	1
+PRT824_2_Q8IX03	Q8IX03	KIBRA_HUMAN	Protein KIBRA	Representative isoform	1	5	1
+PRT824_2_P30085	P30085	KCY_HUMAN	UMP-CMP kinase	Representative isoform	1	4	1
+PRT824_2_Q8N6T3	Q8N6T3	ARFG1_HUMAN	ADP-ribosylation factor GTPase-activating protein 1	Representative isoform	1	3	1
+PRT824_2_Q8N4C8	Q8N4C8	MINK1_HUMAN	Misshapen-like kinase 1	Representative isoform	1	5	1
+PRT824_2_Q9BTE3	Q9BTE3	MCMBP_HUMAN	Mini-chromosome maintenance complex-binding protein	Representative isoform	1	2	1
+PRT824_2_O75665	O75665	OFD1_HUMAN	Oral-facial-digital syndrome 1 protein	Representative isoform	1	1	1
+PRT824_2_Q9HB09	Q9HB09	B2L12_HUMAN	Bcl-2-like protein 12	Representative isoform	1	1	1
+PRT824_2_P10599	P10599	THIO_HUMAN	Thioredoxin	Representative isoform	1	5	1
+PRT824_2_Q12982	Q12982	BNIP2_HUMAN	BCL2/adenovirus E1B 19 kDa protein-interacting protein 2	Representative isoform	1	3	1
+PRT824_2_Q9H4A3	Q9H4A3	WNK1_HUMAN	Serine/threonine-protein kinase WNK1	Representative isoform	1	4	0
+PRT824_2_Q4ADV7	Q4ADV7	RIC1_HUMAN	RAB6A-GEF complex partner protein 1	Representative isoform	1	3	1
+PRT824_2_P08174	P08174	DAF_HUMAN	Complement decay-accelerating factor	Representative isoform	1	4	1
+PRT824_2_Q68CZ2	Q68CZ2	TENS3_HUMAN	Tensin-3	Representative isoform	1	5	1
+PRT824_2_O14617	O14617	AP3D1_HUMAN	AP-3 complex subunit delta-1	Representative isoform	1	3	1
+PRT824_2_P31040	P31040	SDHA_HUMAN	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	Representative isoform	1	5	1
+PRT824_2_Q13627	Q13627	DYR1A_HUMAN	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	Representative isoform	1	4	0
+PRT824_2_Q8WVC0	Q8WVC0	LEO1_HUMAN	RNA polymerase-associated protein LEO1	Representative isoform	1	5	1
+PRT824_2_Q9NQW6	Q9NQW6	ANLN_HUMAN	Anillin	Representative isoform	1	4	1
+PRT824_2_Q07666	Q07666	KHDR1_HUMAN	KH domain-containing, RNA-binding, signal transduction-associated protein 1	Representative isoform	1	13	1
+PRT824_2_P55786	P55786	PSA_HUMAN	Puromycin-sensitive aminopeptidase	Representative isoform	1	3	1
+PRT824_2_Q96T51	Q96T51	RUFY1_HUMAN	RUN and FYVE domain-containing protein 1	Representative isoform	1	5	1
+PRT824_2_P49790	P49790	NU153_HUMAN	Nuclear pore complex protein Nup153	Representative isoform	1	4	1
+PRT824_2_P49590	P49590	SYHM_HUMAN	Histidine--tRNA ligase, mitochondrial	Representative isoform	1	2	1
+PRT824_2_Q14676	Q14676	MDC1_HUMAN	Mediator of DNA damage checkpoint protein 1	Representative isoform	1	13	1
+PRT824_2_Q9NSK0	Q9NSK0	KLC4_HUMAN	Kinesin light chain 4	Representative isoform	1	1	1
+PRT824_2_Q8WYP5	Q8WYP5	ELYS_HUMAN	Protein ELYS	Representative isoform	1	5	1
+PRT824_2_Q8NHM5	Q8NHM5	KDM2B_HUMAN	Lysine-specific demethylase 2B	Representative isoform	1	4	1
+PRT824_2_Q9UI08	Q9UI08	EVL_HUMAN	Ena/VASP-like protein	Representative isoform	1	3	1
+PRT824_2_P28074	P28074	PSB5_HUMAN	Proteasome subunit beta type-5	Representative isoform	1	2	1
+PRT824_2_Q4G0J3	Q4G0J3	LARP7_HUMAN	La-related protein 7	Representative isoform	1	10	1
+PRT824_2_Q14155	Q14155	ARHG7_HUMAN	Rho guanine nucleotide exchange factor 7	Representative isoform	1	4	0
+PRT824_2_Q93100	Q93100	KPBB_HUMAN	Phosphorylase b kinase regulatory subunit beta	Representative isoform	1	4	1
+PRT824_2_A2RRP1	A2RRP1	NBAS_HUMAN	Neuroblastoma-amplified sequence	Representative isoform	1	5	1
+PRT824_2_P40227	P40227	TCPZ_HUMAN	T-complex protein 1 subunit zeta	Representative isoform	1	5	1
+PRT824_2_P53814	P53814	SMTN_HUMAN	Smoothelin	Representative isoform	1	3	1
+PRT824_2_Q9P260	Q9P260	RELCH_HUMAN	RAB11-binding protein RELCH	Representative isoform	1	5	1
+PRT824_2_O75534	O75534	CSDE1_HUMAN	Cold shock domain-containing protein E1	Representative isoform	1	1	1
+PRT824_2_O14497	O14497	ARI1A_HUMAN	AT-rich interactive domain-containing protein 1A	Representative isoform	1	6	1
+PRT824_2_Q9H3K6	Q9H3K6	BOLA2_HUMAN	BolA-like protein 2	Representative isoform	1	5	1
+PRT824_2_O15231	O15231	ZN185_HUMAN	Zinc finger protein 185	Representative isoform	1	4	1
+PRT824_2_Q5JTD0	Q5JTD0	TJAP1_HUMAN	Tight junction-associated protein 1	Representative isoform	1	4	1
+PRT824_2_Q6L8Q7	Q6L8Q7	PDE12_HUMAN	2',5'-phosphodiesterase 12	Representative isoform	1	1	1
+PRT824_2_Q8NI08	Q8NI08	NCOA7_HUMAN	Nuclear receptor coactivator 7	Representative isoform	1	2	1
+PRT824_2_P53365	P53365	ARFP2_HUMAN	Arfaptin-2	Representative isoform	1	2	1
+PRT824_2_O43847	O43847	NRDC_HUMAN	Nardilysin	Representative isoform	1	2	1
+PRT824_2_P06493	P06493	CDK1_HUMAN	Cyclin-dependent kinase 1	Representative isoform	1	4	0
+PRT824_2_Q7Z4V5	Q7Z4V5	HDGR2_HUMAN	Hepatoma-derived growth factor-related protein 2	Representative isoform	1	3	1
+PRT824_2_Q9Y2I7	Q9Y2I7	FYV1_HUMAN	1-phosphatidylinositol 3-phosphate 5-kinase	Representative isoform	1	5	1
+PRT824_2_Q9GZT3	Q9GZT3	SLIRP_HUMAN	SRA stem-loop-interacting RNA-binding protein, mitochondrial	Representative isoform	1	12	1
+PRT824_2_Q6PJT7	Q6PJT7	ZC3HE_HUMAN	Zinc finger CCCH domain-containing protein 14	Representative isoform	1	1	1
+PRT824_2_P29353	P29353	SHC1_HUMAN	SHC-transforming protein 1	Representative isoform	1	3	1
+PRT824_2_Q13247	Q13247	SRSF6_HUMAN	Serine/arginine-rich splicing factor 6	Representative isoform	1	28	1
+PRT824_2_Q12888	Q12888	TP53B_HUMAN	TP53-binding protein 1	Representative isoform	1	3	1
+PRT824_2_P98082	P98082	DAB2_HUMAN	Disabled homolog 2	Representative isoform	1	7	1
+PRT824_2_O95347	O95347	SMC2_HUMAN	Structural maintenance of chromosomes protein 2	Representative isoform	1	1	1
+PRT824_2_Q9H3Z4	Q9H3Z4	DNJC5_HUMAN	DnaJ homolog subfamily C member 5	Representative isoform	1	2	1
+PRT824_2_Q13428	Q13428	TCOF_HUMAN	Treacle protein	Representative isoform	1	1	1
+PRT824_2_Q9NZN8	Q9NZN8	CNOT2_HUMAN	CCR4-NOT transcription complex subunit 2	Representative isoform	1	4	1
+PRT824_2_Q01130	Q01130	SRSF2_HUMAN	Serine/arginine-rich splicing factor 2	Representative isoform	1	3	1
+PRT824_2_P16615	P16615	AT2A2_HUMAN	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2	Representative isoform	1	8	1
+PRT824_2_O95453	O95453	PARN_HUMAN	Poly(A)-specific ribonuclease PARN	Representative isoform	1	5	1
+PRT824_2_Q58WW2	Q58WW2	DCAF6_HUMAN	DDB1- and CUL4-associated factor 6	Representative isoform	1	4	1
+PRT824_2_Q86VP6	Q86VP6	CAND1_HUMAN	Cullin-associated NEDD8-dissociated protein 1	Representative isoform	1	4	1
+PRT824_2_Q5M775	Q5M775	CYTSB_HUMAN	Cytospin-B	Representative isoform	1	5	1
+PRT824_2_P05023	P05023	AT1A1_HUMAN	Sodium/potassium-transporting ATPase subunit alpha-1	Representative isoform	1	12	1
+PRT824_2_O15321	O15321	TM9S1_HUMAN	Transmembrane 9 superfamily member 1	Representative isoform	1	1	1
+PRT824_2_Q08378	Q08378	GOGA3_HUMAN	Golgin subfamily A member 3	Representative isoform	1	1	1
+PRT824_2_Q8TDM6	Q8TDM6	DLG5_HUMAN	Disks large homolog 5	Representative isoform	1	2	1
+PRT824_2_Q12770	Q12770	SCAP_HUMAN	Sterol regulatory element-binding protein cleavage-activating protein	Representative isoform	1	5	1
+PRT824_2_Q14697	Q14697	GANAB_HUMAN	Neutral alpha-glucosidase AB	Representative isoform	1	2	1
+PRT824_2_Q8IZ21	Q8IZ21	PHAR4_HUMAN	Phosphatase and actin regulator 4	Representative isoform	1	1	1
+PRT824_2_Q2TAA2	Q2TAA2	IAH1_HUMAN	Isoamyl acetate-hydrolyzing esterase 1 homolog	Representative isoform	1	5	1
+PRT824_2_P35606	P35606	COPB2_HUMAN	Coatomer subunit beta'	Representative isoform	1	5	1
+PRT824_2_P26639	P26639	SYTC_HUMAN	Threonine--tRNA ligase 1, cytoplasmic	Representative isoform	1	4	1
+PRT824_2_P02686	P02686	MBP_HUMAN	Myelin basic protein	Representative isoform	1	2	1
+PRT824_2_Q9Y6Q9	Q9Y6Q9	NCOA3_HUMAN	Nuclear receptor coactivator 3	Representative isoform	1	1	1
+PRT824_2_P29692	P29692	EF1D_HUMAN	Elongation factor 1-delta	Representative isoform	1	12	1
+PRT824_2_Q6P1L5	Q6P1L5	F117B_HUMAN	Protein FAM117B	Representative isoform	1	2	1
+PRT824_2_P31948	P31948	STIP1_HUMAN	Stress-induced-phosphoprotein 1	Representative isoform	1	3	1
+PRT824_2_P47736	P47736	RPGP1_HUMAN	Rap1 GTPase-activating protein 1	Representative isoform	1	5	1
+PRT824_2_O15530	O15530	PDPK1_HUMAN	3-phosphoinositide-dependent protein kinase 1	Representative isoform	1	2	0
+PRT824_2_Q69YQ0	Q69YQ0	CYTSA_HUMAN	Cytospin-A	Representative isoform	1	4	1
+PRT824_2_O95218	O95218	ZRAB2_HUMAN	Zinc finger Ran-binding domain-containing protein 2	Representative isoform	1	5	1
+PRT824_2_P06454	P06454	PTMA_HUMAN	Prothymosin alpha	Representative isoform	1	5	1
+PRT824_2_A1L390	A1L390	PKHG3_HUMAN	Pleckstrin homology domain-containing family G member 3	Representative isoform	1	3	1
+PRT824_2_Q7Z6Z7	Q7Z6Z7	HUWE1_HUMAN	E3 ubiquitin-protein ligase HUWE1	Representative isoform	1	1	1
+PRT824_2_Q676U5	Q676U5	A16L1_HUMAN	Autophagy-related protein 16-1	Representative isoform	1	5	1
+PRT824_2_Q9Y2K2	Q9Y2K2	SIK3_HUMAN	Serine/threonine-protein kinase SIK3	Representative isoform	1	2	1
+PRT824_2_Q99832	Q99832	TCPH_HUMAN	T-complex protein 1 subunit eta	Representative isoform	1	2	1
+PRT824_2_Q01518	Q01518	CAP1_HUMAN	Adenylyl cyclase-associated protein 1	Representative isoform	1	5	1
+PRT824_2_Q9Y606	Q9Y606	TRUA_HUMAN	tRNA pseudouridine synthase A	Representative isoform	1	22	1
+PRT824_2_O14776	O14776	TCRG1_HUMAN	Transcription elongation regulator 1	Representative isoform	1	2	1
+PRT824_2_Q6GYQ0	Q6GYQ0	RGPA1_HUMAN	Ral GTPase-activating protein subunit alpha-1	Representative isoform	1	1	1
+PRT824_2_Q5H9R7	Q5H9R7	PP6R3_HUMAN	Serine/threonine-protein phosphatase 6 regulatory subunit 3	Representative isoform	1	5	1
+PRT824_2_P46108	P46108	CRK_HUMAN	Adapter molecule crk	Representative isoform	1	5	1
+PRT824_2_O14639	O14639	ABLM1_HUMAN	Actin-binding LIM protein 1	Representative isoform	1	1	1
+PRT824_2_Q96PU5	Q96PU5	NED4L_HUMAN	E3 ubiquitin-protein ligase NEDD4-like	Representative isoform	1	4	1
+PRT824_2_P22234	P22234	PUR6_HUMAN	Multifunctional protein ADE2	Representative isoform	1	2	1
+PRT824_2_Q9H788	Q9H788	SH24A_HUMAN	SH2 domain-containing protein 4A	Representative isoform	1	4	1
+PRT824_2_P38606	P38606	VATA_HUMAN	V-type proton ATPase catalytic subunit A	Representative isoform	1	3	1
+PRT824_2_Q8WX93	Q8WX93	PALLD_HUMAN	Palladin	Representative isoform	1	4	1
+PRT824_2_Q9UQ80	Q9UQ80	PA2G4_HUMAN	Proliferation-associated protein 2G4	Representative isoform	1	2	1
+PRT824_2_O15068	O15068	MCF2L_HUMAN	Guanine nucleotide exchange factor DBS	Representative isoform	1	4	1
+PRT824_2_P43897	P43897	EFTS_HUMAN	Elongation factor Ts, mitochondrial	Representative isoform	1	4	1
+PRT824_2_Q13409	Q13409	DC1I2_HUMAN	Cytoplasmic dynein 1 intermediate chain 2	Representative isoform	1	3	1
+PRT824_2_P30044	P30044	PRDX5_HUMAN	Peroxiredoxin-5, mitochondrial	Representative isoform	1	4	1
+PRT824_2_Q8IVL1	Q8IVL1	NAV2_HUMAN	Neuron navigator 2	Representative isoform	1	5	1
+PRT824_2_Q9NYJ1	Q9NYJ1	COA4_HUMAN	Cytochrome c oxidase assembly factor 4 homolog, mitochondrial	Representative isoform	1	2	1
+PRT824_2_Q9BRF8	Q9BRF8	CPPED_HUMAN	Serine/threonine-protein phosphatase CPPED1	Representative isoform	1	2	1
+PRT824_2_Q13439	Q13439	GOGA4_HUMAN	Golgin subfamily A member 4	Representative isoform	1	5	1
+PRT824_2_P15291	P15291	B4GT1_HUMAN	Beta-1,4-galactosyltransferase 1	Representative isoform	1	2	1
+PRT824_2_P02545	P02545	LMNA_HUMAN	Prelamin-A/C	Representative isoform	1	2	1
+PRT824_2_Q14244	Q14244	MAP7_HUMAN	Ensconsin	Representative isoform	1	8	1
+PRT824_2_P13473	P13473	LAMP2_HUMAN	Lysosome-associated membrane glycoprotein 2	Representative isoform	1	10	1
+PRT824_2_Q9UJ70	Q9UJ70	NAGK_HUMAN	N-acetyl-D-glucosamine kinase	Representative isoform	1	2	1
+PRT824_2_Q9P0K1	Q9P0K1	ADA22_HUMAN	Disintegrin and metalloproteinase domain-containing protein 22	Representative isoform	1	3	1
+PRT824_2_Q6GTX8	Q6GTX8	LAIR1_HUMAN	Leukocyte-associated immunoglobulin-like receptor 1	Representative isoform	1	2	1
+PRT824_2_Q9UJU6	Q9UJU6	DBNL_HUMAN	Drebrin-like protein	Representative isoform	1	13	1
+PRT824_2_P19484	P19484	TFEB_HUMAN	Transcription factor EB	Representative isoform	1	4	1
+PRT824_2_P55084	P55084	ECHB_HUMAN	Trifunctional enzyme subunit beta, mitochondrial	Representative isoform	1	4	1
+PRT824_2_Q5SSJ5	Q5SSJ5	HP1B3_HUMAN	Heterochromatin protein 1-binding protein 3	Representative isoform	1	2	1
+PRT824_2_Q14671	Q14671	PUM1_HUMAN	Pumilio homolog 1	Representative isoform	1	3	1
+PRT824_2_Q96K76	Q96K76	UBP47_HUMAN	Ubiquitin carboxyl-terminal hydrolase 47	Representative isoform	1	2	1
+PRT824_2_Q27J81	Q27J81	INF2_HUMAN	Inverted formin-2	Representative isoform	1	4	1
+PRT824_2_Q86YD5	Q86YD5	LRAD3_HUMAN	Low-density lipoprotein receptor class A domain-containing protein 3	Representative isoform	1	1	1
+PRT824_2_Q9UEU0	Q9UEU0	VTI1B_HUMAN	Vesicle transport through interaction with t-SNAREs homolog 1B	Representative isoform	1	2	1
+PRT824_2_Q08J23	Q08J23	NSUN2_HUMAN	RNA cytosine C(5)-methyltransferase NSUN2	Representative isoform	1	3	1
+PRT824_2_Q5T4S7	Q5T4S7	UBR4_HUMAN	E3 ubiquitin-protein ligase UBR4	Representative isoform	1	3	1
+PRT824_2_P55884	P55884	EIF3B_HUMAN	Eukaryotic translation initiation factor 3 subunit B	Representative isoform	1	2	1
+PRT824_2_Q8TEB1	Q8TEB1	DCA11_HUMAN	DDB1- and CUL4-associated factor 11	Representative isoform	1	3	1
+PRT824_2_Q9UKV8	Q9UKV8	AGO2_HUMAN	Protein argonaute-2	Representative isoform	1	5	1
+PRT824_2_Q96JP5	Q96JP5	ZFP91_HUMAN	E3 ubiquitin-protein ligase ZFP91	Representative isoform	1	6	1
+PRT824_2_Q13561	Q13561	DCTN2_HUMAN	Dynactin subunit 2	Representative isoform	1	1	1
+PRT824_2_Q14643	Q14643	ITPR1_HUMAN	Inositol 1,4,5-trisphosphate receptor type 1	Representative isoform	1	7	1
+PRT824_2_Q9H3Q1	Q9H3Q1	BORG4_HUMAN	Cdc42 effector protein 4	Representative isoform	1	3	1
+PRT824_2_P60660	P60660	MYL6_HUMAN	Myosin light polypeptide 6	Representative isoform	1	2	1
+PRT824_2_Q8NCF5	Q8NCF5	NF2IP_HUMAN	NFATC2-interacting protein	Representative isoform	1	1	1
+PRT824_2_P16949	P16949	STMN1_HUMAN	Stathmin	Representative isoform	1	11	1
+PRT824_2_Q13404	Q13404	UB2V1_HUMAN	Ubiquitin-conjugating enzyme E2 variant 1	Representative isoform	1	3	0
+PRT824_2_Q14444	Q14444	CAPR1_HUMAN	Caprin-1	Representative isoform	1	1	1
+PRT824_2_Q96B36	Q96B36	AKTS1_HUMAN	Proline-rich AKT1 substrate 1	Representative isoform	1	4	1
+PRT824_2_Q15019	Q15019	SEPT2_HUMAN	Septin-2	Representative isoform	1	1	1
+PRT824_2_Q16875	Q16875	F263_HUMAN	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3	Representative isoform	1	4	1
+PRT824_2_O95239	O95239	KIF4A_HUMAN	Chromosome-associated kinesin KIF4A	Representative isoform	1	1	0
+PRT824_2_P56537	P56537	IF6_HUMAN	Eukaryotic translation initiation factor 6	Representative isoform	1	3	1
+PRT824_2_Q86TC9	Q86TC9	MYPN_HUMAN	Myopalladin	Representative isoform	1	3	1
+PRT824_2_P49321	P49321	NASP_HUMAN	Nuclear autoantigenic sperm protein	Representative isoform	1	5	1
+PRT824_2_Q9UQB8	Q9UQB8	BAIP2_HUMAN	Brain-specific angiogenesis inhibitor 1-associated protein 2	Representative isoform	1	2	1
+PRT824_2_Q99733	Q99733	NP1L4_HUMAN	Nucleosome assembly protein 1-like 4	Representative isoform	1	3	1
+PRT824_2_Q9H910	Q9H910	JUPI2_HUMAN	Jupiter microtubule associated homolog 2	Representative isoform	1	10	1
+PRT824_2_Q14153	Q14153	FA53B_HUMAN	Protein FAM53B	Representative isoform	1	3	1
+PRT824_2_Q14C86	Q14C86	GAPD1_HUMAN	GTPase-activating protein and VPS9 domain-containing protein 1	Representative isoform	1	4	1
+PRT824_2_O43491	O43491	E41L2_HUMAN	Band 4.1-like protein 2	Representative isoform	1	1	1
+PRT824_2_O15013	O15013	ARHGA_HUMAN	Rho guanine nucleotide exchange factor 10	Representative isoform	1	5	1
+PRT824_2_Q9Y5U2	Q9Y5U2	TSSC4_HUMAN	Protein TSSC4	Representative isoform	1	5	1
+PRT824_2_Q9NYF8	Q9NYF8	BCLF1_HUMAN	Bcl-2-associated transcription factor 1	Representative isoform	1	4	1
+PRT824_2_Q96BD0	Q96BD0	SO4A1_HUMAN	Solute carrier organic anion transporter family member 4A1	Representative isoform	1	1	1
+PRT824_2_P14868	P14868	SYDC_HUMAN	Aspartate--tRNA ligase, cytoplasmic	Representative isoform	1	4	1
+PRT824_2_P11177	P11177	ODPB_HUMAN	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial	Representative isoform	1	3	1
+PRT824_2_Q86TB9	Q86TB9	PATL1_HUMAN	Protein PAT1 homolog 1	Representative isoform	1	3	1
+PRT824_2_Q92609	Q92609	TBCD5_HUMAN	TBC1 domain family member 5	Representative isoform	1	3	1
+PRT824_2_Q7Z460	Q7Z460	CLAP1_HUMAN	CLIP-associating protein 1	Representative isoform	1	1	1
+PRT824_2_Q8NC51	Q8NC51	PAIRB_HUMAN	Plasminogen activator inhibitor 1 RNA-binding protein	Representative isoform	1	6	1
+PRT824_2_Q15149	Q15149	PLEC_HUMAN	Plectin	Representative isoform	1	5	1
+PRT824_2_Q96S55	Q96S55	WRIP1_HUMAN	ATPase WRNIP1	Representative isoform	1	4	1
+PRT824_2_P12956	P12956	XRCC6_HUMAN	X-ray repair cross-complementing protein 6	Representative isoform	1	2	1
+PRT824_2_P0CAP2	P0CAP2	GRL1A_HUMAN	DNA-directed RNA polymerase II subunit GRINL1A	Representative isoform	1	4	0
+PRT824_2_P15408	P15408	FOSL2_HUMAN	Fos-related antigen 2	Representative isoform	1	2	1
+PRT824_2_Q99590	Q99590	SCAFB_HUMAN	Protein SCAF11	Representative isoform	1	9	1
+PRT824_2_O15169	O15169	AXIN1_HUMAN	Axin-1	Representative isoform	1	3	1
+PRT824_2_Q9UHD1	Q9UHD1	CHRD1_HUMAN	Cysteine and histidine-rich domain-containing protein 1	Representative isoform	1	4	1
+PRT824_2_P11532	P11532	DMD_HUMAN	Dystrophin	Representative isoform	1	2	1
+PRT824_2_Q7L2H7	Q7L2H7	EIF3M_HUMAN	Eukaryotic translation initiation factor 3 subunit M	Representative isoform	1	3	1
+PRT824_2_Q9H4L7	Q9H4L7	SMRCD_HUMAN	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	Representative isoform	1	4	1
+PRT824_2_P46379	P46379	BAG6_HUMAN	Large proline-rich protein BAG6	Representative isoform	1	30	1
+PRT824_2_Q14678	Q14678	KANK1_HUMAN	KN motif and ankyrin repeat domain-containing protein 1	Representative isoform	1	1	1
+PRT824_2_Q9UKX7	Q9UKX7	NUP50_HUMAN	Nuclear pore complex protein Nup50	Representative isoform	1	5	1
+PRT824_2_Q9H1H9	Q9H1H9	KI13A_HUMAN	Kinesin-like protein KIF13A	Representative isoform	1	3	1
+PRT824_2_O00232	O00232	PSD12_HUMAN	26S proteasome non-ATPase regulatory subunit 12	Representative isoform	1	5	1
+PRT824_2_O75592	O75592	MYCB2_HUMAN	E3 ubiquitin-protein ligase MYCBP2	Representative isoform	1	5	1
+PRT824_2_Q02952	Q02952	AKA12_HUMAN	A-kinase anchor protein 12	Representative isoform	1	5	1
+PRT824_2_O15021	O15021	MAST4_HUMAN	Microtubule-associated serine/threonine-protein kinase 4	Representative isoform	1	1	1
+PRT824_2_Q9UBP6	Q9UBP6	TRMB_HUMAN	tRNA (guanine-N(7)-)-methyltransferase	Representative isoform	1	1	1
+PRT824_2_Q00613	Q00613	HSF1_HUMAN	Heat shock factor protein 1	Representative isoform	1	1	1
+PRT824_2_Q92890	Q92890	UFD1_HUMAN	Ubiquitin recognition factor in ER-associated degradation protein 1	Representative isoform	1	1	1
+PRT824_2_Q86WB0	Q86WB0	NIPA_HUMAN	Nuclear-interacting partner of ALK	Representative isoform	1	3	1
+PRT824_2_Q6P996	Q6P996	PDXD1_HUMAN	Pyridoxal-dependent decarboxylase domain-containing protein 1	Representative isoform	1	1	1
+PRT824_2_O95835	O95835	LATS1_HUMAN	Serine/threonine-protein kinase LATS1	Representative isoform	1	9	1
+PRT824_2_Q6NYC1	Q6NYC1	JMJD6_HUMAN	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6	Representative isoform	1	4	1
+PRT824_2_Q16637	Q16637	SMN_HUMAN	Survival motor neuron protein	Representative isoform	1	5	1
+PRT824_2_Q9BXS6	Q9BXS6	NUSAP_HUMAN	Nucleolar and spindle-associated protein 1	Representative isoform	1	4	1
+PRT824_2_P08238	P08238	HS90B_HUMAN	Heat shock protein HSP 90-beta	leading protein	16	119	4
+PRT824_2_P07900	P07900	HS90A_HUMAN	Heat shock protein HSP 90-alpha	leading protein	13	95	5
+PRT824_2_P60709	P60709	ACTB_HUMAN	Actin, cytoplasmic 1	leading protein	11	58	1
+PRT824_2_P11142	P11142	HSP7C_HUMAN	Heat shock cognate 71 kDa protein	leading protein	9	37	6
+PRT824_2_P06733	P06733	ENOA_HUMAN	Alpha-enolase	leading protein	9	38	8
+PRT824_2_P31749	P31749	AKT1_HUMAN	RAC-alpha serine/threonine-protein kinase	leading protein	8	77	5
+PRT824_2_P07195	P07195	LDHB_HUMAN	L-lactate dehydrogenase B chain	leading protein	7	33	5
+PRT824_2_P14618	P14618	KPYM_HUMAN	Pyruvate kinase PKM	leading protein	7	34	6
+PRT824_2_P00338	P00338	LDHA_HUMAN	L-lactate dehydrogenase A chain	leading protein	7	33	4
+PRT824_2_P10809	P10809	CH60_HUMAN	60 kDa heat shock protein, mitochondrial	leading protein	7	20	7
+PRT824_2_O60343	O60343	TBCD4_HUMAN	TBC1 domain family member 4	leading protein	6	37	6
+PRT824_2_P11021	P11021	BIP_HUMAN	Endoplasmic reticulum chaperone BiP	leading protein	6	34	5
+PRT824_2_P19338	P19338	NUCL_HUMAN	Nucleolin	leading protein	6	18	6
+PRT824_2_Q9UQ35	Q9UQ35	SRRM2_HUMAN	Serine/arginine repetitive matrix protein 2	leading protein	6	32	6
+PRT824_2_Q9BQE3	Q9BQE3	TBA1C_HUMAN	Tubulin alpha-1C chain	leading protein	5	23	1
+PRT824_2_P62258	P62258	1433E_HUMAN	14-3-3 protein epsilon	leading protein	5	59	4
+PRT824_2_P04075	P04075	ALDOA_HUMAN	Fructose-bisphosphate aldolase A	leading protein	5	36	5
+PRT824_2_Q5SW79	Q5SW79	CE170_HUMAN	Centrosomal protein of 170 kDa	leading protein	5	21	5
+PRT824_2_P62937	P62937	PPIA_HUMAN	Peptidyl-prolyl cis-trans isomerase A	leading protein	5	27	4
+PRT824_2_P68363	P68363	TBA1B_HUMAN	Tubulin alpha-1B chain	leading protein	5	27	0
+PRT824_2_P06748	P06748	NPM_HUMAN	Nucleophosmin	leading protein	5	29	4
+PRT824_2_P23588	P23588	IF4B_HUMAN	Eukaryotic translation initiation factor 4B	leading protein	5	40	5
+PRT824_2_Q13442	Q13442	HAP28_HUMAN	28 kDa heat- and acid-stable phosphoprotein	leading protein	4	35	4
+PRT824_2_P14314	P14314	GLU2B_HUMAN	Glucosidase 2 subunit beta	leading protein	4	22	4
+PRT824_2_Q92597	Q92597	NDRG1_HUMAN	Protein NDRG1	leading protein	4	25	4
+PRT824_2_P49840	P49840	GSK3A_HUMAN	Glycogen synthase kinase-3 alpha	leading protein	4	40	2
+PRT824_2_Q5JSZ5	Q5JSZ5	PRC2B_HUMAN	Protein PRRC2B	leading protein	4	14	4
+PRT824_2_P14625	P14625	ENPL_HUMAN	Endoplasmin	leading protein	4	21	3
+PRT824_2_Q14432	Q14432	PDE3A_HUMAN	cGMP-inhibited 3',5'-cyclic phosphodiesterase A	leading protein	4	12	4
+PRT824_2_P60174	P60174	TPIS_HUMAN	Triosephosphate isomerase	leading protein	4	26	4
+PRT824_2_Q8ND56	Q8ND56	LS14A_HUMAN	Protein LSM14 homolog A	leading protein	4	9	4
+PRT824_2_P49411	P49411	EFTU_HUMAN	Elongation factor Tu, mitochondrial	leading protein	4	20	4
+PRT824_2_P07737	P07737	PROF1_HUMAN	Profilin-1	leading protein	4	44	4
+PRT824_2_O75122	O75122	CLAP2_HUMAN	CLIP-associating protein 2	leading protein	4	7	4
+PRT824_2_P31751	P31751	AKT2_HUMAN	RAC-beta serine/threonine-protein kinase	leading protein	4	35	1
+PRT824_2_P48634	P48634	PRC2A_HUMAN	Protein PRRC2A	leading protein	4	18	4
+PRT824_2_P0DMV8	P0DMV8	HS71A_HUMAN	Heat shock 70 kDa protein 1A	leading protein	4	21	0
+PRT824_2_Q9UGV2	Q9UGV2	NDRG3_HUMAN	Protein NDRG3	leading protein	4	25	4
+PRT824_2_Q02543	Q02543	RL18A_HUMAN	60S ribosomal protein L18a	leading protein	3	11	3
+PRT824_2_P07237	P07237	PDIA1_HUMAN	Protein disulfide-isomerase	leading protein	3	8	3
+PRT824_2_P43487	P43487	RANG_HUMAN	Ran-specific GTPase-activating protein	leading protein	3	23	3
+PRT824_2_Q9H6Z4	Q9H6Z4	RANB3_HUMAN	Ran-binding protein 3	leading protein	3	65	3
+PRT824_2_P62269	P62269	RS18_HUMAN	40S ribosomal protein S18	leading protein	3	15	3
+PRT824_2_P13639	P13639	EF2_HUMAN	Elongation factor 2	leading protein	3	14	3
+PRT824_2_P23528	P23528	COF1_HUMAN	Cofilin-1	leading protein	3	23	2
+PRT824_2_P08670	P08670	VIME_HUMAN	Vimentin	leading protein	3	14	3
+PRT824_2_P27824	P27824	CALX_HUMAN	Calnexin	leading protein	3	24	3
+PRT824_2_Q13263	Q13263	TIF1B_HUMAN	Transcription intermediary factor 1-beta	leading protein	3	10	3
+PRT824_2_P27816	P27816	MAP4_HUMAN	Microtubule-associated protein 4	leading protein	3	31	3
+PRT824_2_Q9BZ23	Q9BZ23	PANK2_HUMAN	Pantothenate kinase 2, mitochondrial	leading protein	3	10	3
+PRT824_2_P25054	P25054	APC_HUMAN	Adenomatous polyposis coli protein	leading protein	3	15	3
+PRT824_2_P0DP23	P0DP23	CALM1_HUMAN	Calmodulin-1	leading protein	3	20	0
+PRT824_2_Q7Z5L9	Q7Z5L9	I2BP2_HUMAN	Interferon regulatory factor 2-binding protein 2	leading protein	3	18	2
+PRT824_2_P62826	P62826	RAN_HUMAN	GTP-binding nuclear protein Ran	leading protein	3	14	3
+PRT824_2_P26373	P26373	RL13_HUMAN	60S ribosomal protein L13	leading protein	3	9	3
+PRT824_2_Q06830	Q06830	PRDX1_HUMAN	Peroxiredoxin-1	leading protein	3	9	2
+PRT824_2_P49419	P49419	AL7A1_HUMAN	Alpha-aminoadipic semialdehyde dehydrogenase	leading protein	3	9	3
+PRT824_2_P29401	P29401	TKT_HUMAN	Transketolase	leading protein	3	35	3
+PRT824_2_P63104	P63104	1433Z_HUMAN	14-3-3 protein zeta/delta	leading protein	3	41	2
+PRT824_2_P34932	P34932	HSP74_HUMAN	Heat shock 70 kDa protein 4	leading protein	3	18	3
+PRT824_2_A6NMY6	A6NMY6	AXA2L_HUMAN	Putative annexin A2-like protein	leading protein	3	11	0
+PRT824_2_P04083	P04083	ANXA1_HUMAN	Annexin A1	leading protein	3	16	3
+PRT824_2_P00558	P00558	PGK1_HUMAN	Phosphoglycerate kinase 1	leading protein	3	23	2
+PRT824_2_P37802	P37802	TAGL2_HUMAN	Transgelin-2	leading protein	3	13	2
+PRT824_2_O60841	O60841	IF2P_HUMAN	Eukaryotic translation initiation factor 5B	leading protein	3	26	3
+PRT824_2_P31946	P31946	1433B_HUMAN	14-3-3 protein beta/alpha	leading protein	3	53	2
+PRT824_2_Q5UIP0	Q5UIP0	RIF1_HUMAN	Telomere-associated protein RIF1	leading protein	3	14	3
+PRT824_2_P49841	P49841	GSK3B_HUMAN	Glycogen synthase kinase-3 beta	leading protein	3	25	1
+PRT824_2_P05455	P05455	LA_HUMAN	Lupus La protein	leading protein	3	19	3
+PRT824_2_P09382	P09382	LEG1_HUMAN	Galectin-1	leading protein	3	14	3
+PRT824_2_P46779	P46779	RL28_HUMAN	60S ribosomal protein L28	leading protein	3	14	3
+PRT824_2_O14974	O14974	MYPT1_HUMAN	Protein phosphatase 1 regulatory subunit 12A	leading protein	3	19	3
+PRT824_2_P68104	P68104	EF1A1_HUMAN	Elongation factor 1-alpha 1	leading protein	3	12	0
+PRT824_2_P23381	P23381	SYWC_HUMAN	Tryptophan--tRNA ligase, cytoplasmic	leading protein	3	17	3
+PRT824_2_P61981	P61981	1433G_HUMAN	14-3-3 protein gamma	leading protein	3	92	2
+PRT824_2_O60271	O60271	JIP4_HUMAN	C-Jun-amino-terminal kinase-interacting protein 4	leading protein	3	12	3
+PRT824_2_P04406	P04406	G3P_HUMAN	Glyceraldehyde-3-phosphate dehydrogenase	leading protein	2	12	2
+PRT824_2_Q96RT1	Q96RT1	ERBIN_HUMAN	Erbin	leading protein	2	7	2
+PRT824_2_P25205	P25205	MCM3_HUMAN	DNA replication licensing factor MCM3	leading protein	2	10	2
+PRT824_2_Q9H8S9	Q9H8S9	MOB1A_HUMAN	MOB kinase activator 1A	leading protein	2	11	2
+PRT824_2_P05387	P05387	RLA2_HUMAN	60S acidic ribosomal protein P2	leading protein	2	8	1
+PRT824_2_P07814	P07814	SYEP_HUMAN	Bifunctional glutamate/proline--tRNA ligase	leading protein	2	4	2
+PRT824_2_Q63HQ0	Q63HQ0	AP1AR_HUMAN	AP-1 complex-associated regulatory protein	leading protein	2	3	2
+PRT824_2_Q6PKG0	Q6PKG0	LARP1_HUMAN	La-related protein 1	leading protein	2	6	2
+PRT824_2_P25705	P25705	ATPA_HUMAN	ATP synthase subunit alpha, mitochondrial	leading protein	2	12	2
+PRT824_2_Q9BY44	Q9BY44	EIF2A_HUMAN	Eukaryotic translation initiation factor 2A	leading protein	2	8	2
+PRT824_2_Q99460	Q99460	PSMD1_HUMAN	26S proteasome non-ATPase regulatory subunit 1	leading protein	2	9	2
+PRT824_2_Q9BX95	Q9BX95	SGPP1_HUMAN	Sphingosine-1-phosphate phosphatase 1	leading protein	2	11	2
+PRT824_2_P30101	P30101	PDIA3_HUMAN	Protein disulfide-isomerase A3	leading protein	2	10	2
+PRT824_2_P54105	P54105	ICLN_HUMAN	Methylosome subunit pICln	leading protein	2	13	2
+PRT824_2_Q9ULX6	Q9ULX6	AKP8L_HUMAN	A-kinase anchor protein 8-like	leading protein	2	5	2
+PRT824_2_O95544	O95544	NADK_HUMAN	NAD kinase	leading protein	2	13	2
+PRT824_2_P49327	P49327	FAS_HUMAN	Fatty acid synthase	leading protein	2	9	1
+PRT824_2_Q15084	Q15084	PDIA6_HUMAN	Protein disulfide-isomerase A6	leading protein	2	9	2
+PRT824_2_Q9C0C2	Q9C0C2	TB182_HUMAN	182 kDa tankyrase-1-binding protein	leading protein	2	16	2
+PRT824_2_P10412	P10412	H14_HUMAN	Histone H1.4	leading protein	2	7	0
+PRT824_2_P51858	P51858	HDGF_HUMAN	Hepatoma-derived growth factor	leading protein	2	7	2
+PRT824_2_P83731	P83731	RL24_HUMAN	60S ribosomal protein L24	leading protein	2	15	2
+PRT824_2_Q9UPQ0	Q9UPQ0	LIMC1_HUMAN	LIM and calponin homology domains-containing protein 1	leading protein	2	5	2
+PRT824_2_O60825	O60825	F262_HUMAN	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2	leading protein	2	5	2
+PRT824_2_P46776	P46776	RL27A_HUMAN	60S ribosomal protein L27a	leading protein	2	14	2
+PRT824_2_P21333	P21333	FLNA_HUMAN	Filamin-A	leading protein	2	12	2
+PRT824_2_Q01813	Q01813	PFKAP_HUMAN	ATP-dependent 6-phosphofructokinase, platelet type	leading protein	2	13	2
+PRT824_2_Q00839	Q00839	HNRPU_HUMAN	Heterogeneous nuclear ribonucleoprotein U	leading protein	2	10	2
+PRT824_2_Q3KQU3	Q3KQU3	MA7D1_HUMAN	MAP7 domain-containing protein 1	leading protein	2	8	2
+PRT824_2_P61313	P61313	RL15_HUMAN	60S ribosomal protein L15	leading protein	2	10	2
+PRT824_2_Q96DV4	Q96DV4	RM38_HUMAN	39S ribosomal protein L38, mitochondrial	leading protein	2	6	2
+PRT824_2_O00264	O00264	PGRC1_HUMAN	Membrane-associated progesterone receptor component 1	leading protein	2	20	1
+PRT824_2_Q3V6T2	Q3V6T2	GRDN_HUMAN	Girdin	leading protein	2	8	2
+PRT824_2_P36507	P36507	MP2K2_HUMAN	Dual specificity mitogen-activated protein kinase kinase 2	leading protein	2	5	2
+PRT824_2_B5ME19	B5ME19	EIFCL_HUMAN	Eukaryotic translation initiation factor 3 subunit C-like protein	leading protein	2	2	0
+PRT824_2_P30041	P30041	PRDX6_HUMAN	Peroxiredoxin-6	leading protein	2	5	2
+PRT824_2_P55196	P55196	AFAD_HUMAN	Afadin	leading protein	2	11	2
+PRT824_2_Q9BQA1	Q9BQA1	MEP50_HUMAN	Methylosome protein 50	leading protein	2	9	2
+PRT824_2_Q9ULD2	Q9ULD2	MTUS1_HUMAN	Microtubule-associated tumor suppressor 1	leading protein	2	7	2
+PRT824_2_Q8WWI1	Q8WWI1	LMO7_HUMAN	LIM domain only protein 7	leading protein	2	8	2
+PRT824_2_Q96PK6	Q96PK6	RBM14_HUMAN	RNA-binding protein 14	leading protein	2	6	2
+PRT824_2_P39023	P39023	RL3_HUMAN	60S ribosomal protein L3	leading protein	2	20	2
+PRT824_2_P08195	P08195	4F2_HUMAN	4F2 cell-surface antigen heavy chain	leading protein	2	7	2
+PRT824_2_O94776	O94776	MTA2_HUMAN	Metastasis-associated protein MTA2	leading protein	2	3	2
+PRT824_2_P53396	P53396	ACLY_HUMAN	ATP-citrate synthase	leading protein	2	10	2
+PRT824_2_Q96G46	Q96G46	DUS3L_HUMAN	tRNA-dihydrouridine(47) synthase [NAD(P)(+)]-like	leading protein	2	6	2
+PRT824_2_P63244	P63244	RACK1_HUMAN	Receptor of activated protein C kinase 1	leading protein	2	6	2
+PRT824_2_P37837	P37837	TALDO_HUMAN	Transaldolase	leading protein	2	22	2
+PRT824_2_Q13017	Q13017	RHG05_HUMAN	Rho GTPase-activating protein 5	leading protein	2	5	2
+PRT824_2_P39019	P39019	RS19_HUMAN	40S ribosomal protein S19	leading protein	2	8	2
+PRT824_2_P60842	P60842	IF4A1_HUMAN	Eukaryotic initiation factor 4A-I	leading protein	2	13	2
+PRT824_2_P21796	P21796	VDAC1_HUMAN	Voltage-dependent anion-selective channel protein 1	leading protein	2	14	2
+PRT824_2_P07437	P07437	TBB5_HUMAN	Tubulin beta chain	leading protein	2	13	1
+PRT824_2_Q14152	Q14152	EIF3A_HUMAN	Eukaryotic translation initiation factor 3 subunit A	leading protein	2	6	2
+PRT824_2_O43852	O43852	CALU_HUMAN	Calumenin	leading protein	2	9	2
+PRT824_2_Q9H2G2	Q9H2G2	SLK_HUMAN	STE20-like serine/threonine-protein kinase	leading protein	2	6	2
+PRT824_2_Q9NP61	Q9NP61	ARFG3_HUMAN	ADP-ribosylation factor GTPase-activating protein 3	leading protein	2	9	2
+PRT824_2_Q12965	Q12965	MYO1E_HUMAN	Unconventional myosin-Ie	leading protein	2	9	2
+PRT824_2_P29966	P29966	MARCS_HUMAN	Myristoylated alanine-rich C-kinase substrate	leading protein	2	7	2
+PRT824_2_P31947	P31947	1433S_HUMAN	14-3-3 protein sigma	leading protein	2	23	1
+PRT824_2_Q12931	Q12931	TRAP1_HUMAN	Heat shock protein 75 kDa, mitochondrial	leading protein	2	10	1
+PRT824_2_O95297	O95297	MPZL1_HUMAN	Myelin protein zero-like protein 1	leading protein	2	3	2
+PRT824_2_P61978	P61978	HNRPK_HUMAN	Heterogeneous nuclear ribonucleoprotein K	leading protein	2	8	2
+PRT824_2_Q9C0C9	Q9C0C9	UBE2O_HUMAN	(E3-independent) E2 ubiquitin-conjugating enzyme	leading protein	2	6	2
+PRT824_2_P50395	P50395	GDIB_HUMAN	Rab GDP dissociation inhibitor beta	leading protein	2	19	1
+PRT824_2_O60739	O60739	EIF1B_HUMAN	Eukaryotic translation initiation factor 1b	leading protein	2	11	0
+PRT824_2_P38646	P38646	GRP75_HUMAN	Stress-70 protein, mitochondrial	leading protein	2	11	2
+PRT824_2_P49792	P49792	RBP2_HUMAN	E3 SUMO-protein ligase RanBP2	leading protein	2	5	2
+PRT824_2_Q9UPR0	Q9UPR0	PLCL2_HUMAN	Inactive phospholipase C-like protein 2	leading protein	2	9	2
+PRT824_2_P35579	P35579	MYH9_HUMAN	Myosin-9	leading protein	2	6	2
+PRT824_2_A0MZ66	A0MZ66	SHOT1_HUMAN	Shootin-1	leading protein	2	4	2
+PRT824_2_O43707	O43707	ACTN4_HUMAN	Alpha-actinin-4	leading protein	2	2	2
+PRT824_2_P22314	P22314	UBA1_HUMAN	Ubiquitin-like modifier-activating enzyme 1	leading protein	2	11	2
+PRT824_2_Q8TD19	Q8TD19	NEK9_HUMAN	Serine/threonine-protein kinase Nek9	leading protein	2	6	2
+PRT824_2_P04792	P04792	HSPB1_HUMAN	Heat shock protein beta-1	leading protein	2	30	2
+PRT824_2_O43865	O43865	SAHH2_HUMAN	S-adenosylhomocysteine hydrolase-like protein 1	leading protein	2	14	2
+PRT824_2_P17655	P17655	CAN2_HUMAN	Calpain-2 catalytic subunit	leading protein	2	5	2
+PRT824_2_Q7Z2W4	Q7Z2W4	ZCCHV_HUMAN	Zinc finger CCCH-type antiviral protein 1	leading protein	2	6	2
+PRT824_2_Q86X29	Q86X29	LSR_HUMAN	Lipolysis-stimulated lipoprotein receptor	leading protein	2	20	2
+PRT824_2_Q9H0B6	Q9H0B6	KLC2_HUMAN	Kinesin light chain 2	leading protein	2	12	2
+PRT824_2_P07602	P07602	SAP_HUMAN	Prosaposin	leading protein	2	5	2
+PRT824_2_P68371	P68371	TBB4B_HUMAN	Tubulin beta-4B chain	leading protein	2	11	1
+PRT824_2_Q86W92	Q86W92	LIPB1_HUMAN	Liprin-beta-1	leading protein	2	6	2
+PRT824_2_P47712	P47712	PA24A_HUMAN	Cytosolic phospholipase A2	leading protein	2	16	2
+PRT824_2_Q9UPU5	Q9UPU5	UBP24_HUMAN	Ubiquitin carboxyl-terminal hydrolase 24	leading protein	2	3	2
+PRT824_2_P40818	P40818	UBP8_HUMAN	Ubiquitin carboxyl-terminal hydrolase 8	leading protein	2	10	2
+PRT824_2_Q86UU0	Q86UU0	BCL9L_HUMAN	B-cell CLL/lymphoma 9-like protein	leading protein	2	11	2
+PRT824_2_Q13619	Q13619	CUL4A_HUMAN	Cullin-4A	leading protein	2	7	2
+PRT824_2_Q14978	Q14978	NOLC1_HUMAN	Nucleolar and coiled-body phosphoprotein 1	leading protein	2	7	2
+PRT824_2_Q8TEW0	Q8TEW0	PARD3_HUMAN	Partitioning defective 3 homolog	leading protein	2	4	2
+PRT824_2_Q7Z417	Q7Z417	NUFP2_HUMAN	Nuclear fragile X mental retardation-interacting protein 2	leading protein	2	14	2
+PRT824_2_Q9BYW2	Q9BYW2	SETD2_HUMAN	Histone-lysine N-methyltransferase SETD2	leading protein	2	7	2
+PRT824_2_Q96A26	Q96A26	F162A_HUMAN	Protein FAM162A	leading protein	2	7	2
+PRT824_2_Q9H0D6	Q9H0D6	XRN2_HUMAN	5'-3' exoribonuclease 2	leading protein	2	6	2
+PRT824_2_P02786	P02786	TFR1_HUMAN	Transferrin receptor protein 1	leading protein	2	10	2
+PRT824_2_P05787	P05787	K2C8_HUMAN	Keratin, type II cytoskeletal 8	leading protein	2	3	1
+PRT824_2_Q04917	Q04917	1433F_HUMAN	14-3-3 protein eta	leading protein	2	26	1
+PRT824_2_P15531	P15531	NDKA_HUMAN	Nucleoside diphosphate kinase A	leading protein	2	7	1
+PRT824_2_P09651	P09651	ROA1_HUMAN	Heterogeneous nuclear ribonucleoprotein A1	leading protein	2	4	1
+PRT824_2_Q92841	Q92841	DDX17_HUMAN	Probable ATP-dependent RNA helicase DDX17	leading protein	2	8	2
+PRT824_2_P35269	P35269	T2FA_HUMAN	General transcription factor IIF subunit 1	leading protein	2	10	2
+PRT824_2_Q08AD1	Q08AD1	CAMP2_HUMAN	Calmodulin-regulated spectrin-associated protein 2	leading protein	2	6	2
+PRT824_2_O60927	O60927	PP1RB_HUMAN	E3 ubiquitin-protein ligase PPP1R11	leading protein	2	2	2
+PRT824_2_Q9Y2V2	Q9Y2V2	CHSP1_HUMAN	Calcium-regulated heat-stable protein 1	leading protein	2	7	2
+PRT824_2_P0CG47	P0CG47	UBB_HUMAN	Polyubiquitin-B	leading protein	2	7	0
+PRT824_2_P22059	P22059	OSBP1_HUMAN	Oxysterol-binding protein 1	leading protein	2	18	2
+PRT824_2_Q9NZN5	Q9NZN5	ARHGC_HUMAN	Rho guanine nucleotide exchange factor 12	leading protein	2	6	2
+PRT824_2_P25788	P25788	PSA3_HUMAN	Proteasome subunit alpha type-3	leading protein	2	12	2
+PRT824_2_P27797	P27797	CALR_HUMAN	Calreticulin	leading protein	2	9	2
+PRT824_2_Q13459	Q13459	MYO9B_HUMAN	Unconventional myosin-IXb	leading protein	2	7	2
+PRT824_2_Q9H1E3	Q9H1E3	NUCKS_HUMAN	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	leading protein	2	13	2
+PRT824_2_Q9Y520	Q9Y520	PRC2C_HUMAN	Protein PRRC2C	leading protein	2	21	2
+PRT824_2_P27348	P27348	1433T_HUMAN	14-3-3 protein theta	leading protein	2	26	1
+PRT824_2_Q9NZM1	Q9NZM1	MYOF_HUMAN	Myoferlin	leading protein	2	4	2
+PRT824_2_Q7LBC6	Q7LBC6	KDM3B_HUMAN	Lysine-specific demethylase 3B	leading protein	2	5	2
+PRT824_2_Q9H1B7	Q9H1B7	I2BPL_HUMAN	Probable E3 ubiquitin-protein ligase IRF2BPL	leading protein	2	8	1
+PRT824_2_O15027	O15027	SC16A_HUMAN	Protein transport protein Sec16A	leading protein	2	8	2
+PRT824_2_P45880	P45880	VDAC2_HUMAN	Voltage-dependent anion-selective channel protein 2	leading protein	2	5	2
+PRT824_2_O43175	O43175	SERA_HUMAN	D-3-phosphoglycerate dehydrogenase	leading protein	2	6	2
+PRT824_2_Q86WR7	Q86WR7	PRSR2_HUMAN	Proline and serine-rich protein 2	leading protein	2	13	2
+PRT824_2_Q9Y266	Q9Y266	NUDC_HUMAN	Nuclear migration protein nudC	leading protein	2	20	2
+PRT824_2_Q9UK76	Q9UK76	JUPI1_HUMAN	Jupiter microtubule associated homolog 1	leading protein	2	7	2
+PRT824_2_Q9UN36	Q9UN36	NDRG2_HUMAN	Protein NDRG2	leading protein	2	8	2
+PRT824_2_Q9UPN3	Q9UPN3	MACF1_HUMAN	Microtubule-actin cross-linking factor 1, isoforms 1/2/3/5	leading protein	2	9	2
+PRT824_2_Q9UII2	Q9UII2	ATIF1_HUMAN	ATPase inhibitor, mitochondrial	leading protein	1	4	1
+PRT824_2_Q9Y606	Q9Y606	TRUA_HUMAN	tRNA pseudouridine synthase A	leading protein	1	22	1
+PRT824_2_Q9NVN8	Q9NVN8	GNL3L_HUMAN	Guanine nucleotide-binding protein-like 3-like protein	leading protein	1	2	1
+PRT824_2_Q8TEU7	Q8TEU7	RPGF6_HUMAN	Rap guanine nucleotide exchange factor 6	leading protein	1	4	1
+PRT824_2_Q9BXS6	Q9BXS6	NUSAP_HUMAN	Nucleolar and spindle-associated protein 1	leading protein	1	4	1
+PRT824_2_Q12982	Q12982	BNIP2_HUMAN	BCL2/adenovirus E1B 19 kDa protein-interacting protein 2	leading protein	1	3	1
+PRT824_2_Q9Y2K2	Q9Y2K2	SIK3_HUMAN	Serine/threonine-protein kinase SIK3	leading protein	1	2	1
+PRT824_2_P60033	P60033	CD81_HUMAN	CD81 antigen	leading protein	1	1	1
+PRT824_2_Q86TB9	Q86TB9	PATL1_HUMAN	Protein PAT1 homolog 1	leading protein	1	3	1
+PRT824_2_P49321	P49321	NASP_HUMAN	Nuclear autoantigenic sperm protein	leading protein	1	5	1
+PRT824_2_Q01130	Q01130	SRSF2_HUMAN	Serine/arginine-rich splicing factor 2	leading protein	1	3	1
+PRT824_2_Q96JP5	Q96JP5	ZFP91_HUMAN	E3 ubiquitin-protein ligase ZFP91	leading protein	1	6	1
+PRT824_2_Q8IVL1	Q8IVL1	NAV2_HUMAN	Neuron navigator 2	leading protein	1	5	1
+PRT824_2_Q13247	Q13247	SRSF6_HUMAN	Serine/arginine-rich splicing factor 6	leading protein	1	28	1
+PRT824_2_Q5H9R7	Q5H9R7	PP6R3_HUMAN	Serine/threonine-protein phosphatase 6 regulatory subunit 3	leading protein	1	5	1
+PRT824_2_Q9BTC0	Q9BTC0	DIDO1_HUMAN	Death-inducer obliterator 1	leading protein	1	8	1
+PRT824_2_Q86VQ1	Q86VQ1	GLCI1_HUMAN	Glucocorticoid-induced transcript 1 protein	leading protein	1	9	1
+PRT824_2_Q00613	Q00613	HSF1_HUMAN	Heat shock factor protein 1	leading protein	1	1	1
+PRT824_2_Q69YN4	Q69YN4	VIR_HUMAN	Protein virilizer homolog	leading protein	1	3	1
+PRT824_2_Q9H4L7	Q9H4L7	SMRCD_HUMAN	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	leading protein	1	4	1
+PRT824_2_Q14671	Q14671	PUM1_HUMAN	Pumilio homolog 1	leading protein	1	3	1
+PRT824_2_Q96F86	Q96F86	EDC3_HUMAN	Enhancer of mRNA-decapping protein 3	leading protein	1	2	1
+PRT824_2_Q9H1H9	Q9H1H9	KI13A_HUMAN	Kinesin-like protein KIF13A	leading protein	1	3	1
+PRT824_2_Q9HAU0	Q9HAU0	PKHA5_HUMAN	Pleckstrin homology domain-containing family A member 5	leading protein	1	1	1
+PRT824_2_P19532	P19532	TFE3_HUMAN	Transcription factor E3	leading protein	1	4	1
+PRT824_2_Q7Z4S6	Q7Z4S6	KI21A_HUMAN	Kinesin-like protein KIF21A	leading protein	1	3	1
+PRT824_2_Q9BTK6	Q9BTK6	PAGR1_HUMAN	PAXIP1-associated glutamate-rich protein 1	leading protein	1	13	1
+PRT824_2_Q15019	Q15019	SEPT2_HUMAN	Septin-2	leading protein	1	1	1
+PRT824_2_P31949	P31949	S10AB_HUMAN	Protein S100-A11	leading protein	1	3	1
+PRT824_2_Q86V85	Q86V85	GP180_HUMAN	Integral membrane protein GPR180	leading protein	1	3	1
+PRT824_2_Q92609	Q92609	TBCD5_HUMAN	TBC1 domain family member 5	leading protein	1	3	1
+PRT824_2_Q14444	Q14444	CAPR1_HUMAN	Caprin-1	leading protein	1	1	1
+PRT824_2_Q13464	Q13464	ROCK1_HUMAN	Rho-associated protein kinase 1	leading protein	1	6	1
+PRT824_2_Q96PE2	Q96PE2	ARHGH_HUMAN	Rho guanine nucleotide exchange factor 17	leading protein	1	2	1
+PRT824_2_P08758	P08758	ANXA5_HUMAN	Annexin A5	leading protein	1	8	1
+PRT824_2_O95218	O95218	ZRAB2_HUMAN	Zinc finger Ran-binding domain-containing protein 2	leading protein	1	5	1
+PRT824_2_P09661	P09661	RU2A_HUMAN	U2 small nuclear ribonucleoprotein A'	leading protein	1	4	1
+PRT824_2_P38159	P38159	RBMX_HUMAN	RNA-binding motif protein, X chromosome	leading protein	1	1	0
+PRT824_2_O76003	O76003	GLRX3_HUMAN	Glutaredoxin-3	leading protein	1	1	1
+PRT824_2_Q9UBP6	Q9UBP6	TRMB_HUMAN	tRNA (guanine-N(7)-)-methyltransferase	leading protein	1	1	1
+PRT824_2_P29692	P29692	EF1D_HUMAN	Elongation factor 1-delta	leading protein	1	12	1
+PRT824_2_Q02952	Q02952	AKA12_HUMAN	A-kinase anchor protein 12	leading protein	1	5	1
+PRT824_2_Q8N6T3	Q8N6T3	ARFG1_HUMAN	ADP-ribosylation factor GTPase-activating protein 1	leading protein	1	3	1
+PRT824_2_O43491	O43491	E41L2_HUMAN	Band 4.1-like protein 2	leading protein	1	1	1
+PRT824_2_Q92882	Q92882	OSTF1_HUMAN	Osteoclast-stimulating factor 1	leading protein	1	10	1
+PRT824_2_P60660	P60660	MYL6_HUMAN	Myosin light polypeptide 6	leading protein	1	2	1
+PRT824_2_Q8N6S5	Q8N6S5	AR6P6_HUMAN	ADP-ribosylation factor-like protein 6-interacting protein 6	leading protein	1	1	1
+PRT824_2_Q8N3D4	Q8N3D4	EH1L1_HUMAN	EH domain-binding protein 1-like protein 1	leading protein	1	1	1
+PRT824_2_P51946	P51946	CCNH_HUMAN	Cyclin-H	leading protein	1	1	1
+PRT824_2_O15068	O15068	MCF2L_HUMAN	Guanine nucleotide exchange factor DBS	leading protein	1	4	1
+PRT824_2_Q9UKV3	Q9UKV3	ACINU_HUMAN	Apoptotic chromatin condensation inducer in the nucleus	leading protein	1	6	1
+PRT824_2_P63313	P63313	TYB10_HUMAN	Thymosin beta-10	leading protein	1	3	1
+PRT824_2_P19484	P19484	TFEB_HUMAN	Transcription factor EB	leading protein	1	4	1
+PRT824_2_Q9NSK0	Q9NSK0	KLC4_HUMAN	Kinesin light chain 4	leading protein	1	1	1
+PRT824_2_A1L390	A1L390	PKHG3_HUMAN	Pleckstrin homology domain-containing family G member 3	leading protein	1	3	1
+PRT824_2_Q8NC51	Q8NC51	PAIRB_HUMAN	Plasminogen activator inhibitor 1 RNA-binding protein	leading protein	1	6	1
+PRT824_2_P42677	P42677	RS27_HUMAN	40S ribosomal protein S27	leading protein	1	3	0
+PRT824_2_P06493	P06493	CDK1_HUMAN	Cyclin-dependent kinase 1	leading protein	1	4	0
+PRT824_2_Q92614	Q92614	MY18A_HUMAN	Unconventional myosin-XVIIIa	leading protein	1	1	1
+PRT824_2_O43615	O43615	TIM44_HUMAN	Mitochondrial import inner membrane translocase subunit TIM44	leading protein	1	1	1
+PRT824_2_Q96EY7	Q96EY7	PTCD3_HUMAN	Pentatricopeptide repeat domain-containing protein 3, mitochondrial	leading protein	1	11	1
+PRT824_2_P21912	P21912	SDHB_HUMAN	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial	leading protein	1	2	1
+PRT824_2_P43897	P43897	EFTS_HUMAN	Elongation factor Ts, mitochondrial	leading protein	1	4	1
+PRT824_2_Q93100	Q93100	KPBB_HUMAN	Phosphorylase b kinase regulatory subunit beta	leading protein	1	4	1
+PRT824_2_O75116	O75116	ROCK2_HUMAN	Rho-associated protein kinase 2	leading protein	1	5	1
+PRT824_2_P15408	P15408	FOSL2_HUMAN	Fos-related antigen 2	leading protein	1	2	1
+PRT824_2_P62070	P62070	RRAS2_HUMAN	Ras-related protein R-Ras2	leading protein	1	3	1
+PRT824_2_Q6P1L5	Q6P1L5	F117B_HUMAN	Protein FAM117B	leading protein	1	2	1
+PRT824_2_Q6GTX8	Q6GTX8	LAIR1_HUMAN	Leukocyte-associated immunoglobulin-like receptor 1	leading protein	1	2	1
+PRT824_2_Q9BXB4	Q9BXB4	OSB11_HUMAN	Oxysterol-binding protein-related protein 11	leading protein	1	1	1
+PRT824_2_P50454	P50454	SERPH_HUMAN	Serpin H1	leading protein	1	1	1
+PRT824_2_P53365	P53365	ARFP2_HUMAN	Arfaptin-2	leading protein	1	2	1
+PRT824_2_P62249	P62249	RS16_HUMAN	40S ribosomal protein S16	leading protein	1	1	1
+PRT824_2_Q13409	Q13409	DC1I2_HUMAN	Cytoplasmic dynein 1 intermediate chain 2	leading protein	1	3	1
+PRT824_2_O75937	O75937	DNJC8_HUMAN	DnaJ homolog subfamily C member 8	leading protein	1	3	1
+PRT824_2_O14980	O14980	XPO1_HUMAN	Exportin-1	leading protein	1	1	1
+PRT824_2_O95453	O95453	PARN_HUMAN	Poly(A)-specific ribonuclease PARN	leading protein	1	5	1
+PRT824_2_P02545	P02545	LMNA_HUMAN	Prelamin-A/C	leading protein	1	2	1
+PRT824_2_Q8WU17	Q8WU17	RN139_HUMAN	E3 ubiquitin-protein ligase RNF139	leading protein	1	7	1
+PRT824_2_O00180	O00180	KCNK1_HUMAN	Potassium channel subfamily K member 1	leading protein	1	4	1
+PRT824_2_P16615	P16615	AT2A2_HUMAN	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2	leading protein	1	8	1
+PRT824_2_P35268	P35268	RL22_HUMAN	60S ribosomal protein L22	leading protein	1	2	1
+PRT824_2_Q8TDN4	Q8TDN4	CABL1_HUMAN	CDK5 and ABL1 enzyme substrate 1	leading protein	1	2	1
+PRT824_2_P46783	P46783	RS10_HUMAN	40S ribosomal protein S10	leading protein	1	2	0
+PRT824_2_Q6ZN18	Q6ZN18	AEBP2_HUMAN	Zinc finger protein AEBP2	leading protein	1	14	1
+PRT824_2_P02686	P02686	MBP_HUMAN	Myelin basic protein	leading protein	1	2	1
+PRT824_2_Q96SB4	Q96SB4	SRPK1_HUMAN	SRSF protein kinase 1	leading protein	1	2	1
+PRT824_2_P05362	P05362	ICAM1_HUMAN	Intercellular adhesion molecule 1	leading protein	1	8	1
+PRT824_2_P51116	P51116	FXR2_HUMAN	Fragile X mental retardation syndrome-related protein 2	leading protein	1	5	1
+PRT824_2_P53621	P53621	COPA_HUMAN	Coatomer subunit alpha	leading protein	1	6	1
+PRT824_2_Q9H299	Q9H299	SH3L3_HUMAN	SH3 domain-binding glutamic acid-rich-like protein 3	leading protein	1	2	1
+PRT824_2_Q92598	Q92598	HS105_HUMAN	Heat shock protein 105 kDa	leading protein	1	2	1
+PRT824_2_Q8IWT6	Q8IWT6	LRC8A_HUMAN	Volume-regulated anion channel subunit LRRC8A	leading protein	1	4	1
+PRT824_2_Q13428	Q13428	TCOF_HUMAN	Treacle protein	leading protein	1	1	1
+PRT824_2_Q96FS4	Q96FS4	SIPA1_HUMAN	Signal-induced proliferation-associated protein 1	leading protein	1	2	1
+PRT824_2_Q9HB20	Q9HB20	PKHA3_HUMAN	Pleckstrin homology domain-containing family A member 3	leading protein	1	3	1
+PRT824_2_Q9NZN8	Q9NZN8	CNOT2_HUMAN	CCR4-NOT transcription complex subunit 2	leading protein	1	4	1
+PRT824_2_P09923	P09923	PPBI_HUMAN	Intestinal-type alkaline phosphatase	leading protein	1	16	1
+PRT824_2_Q16875	Q16875	F263_HUMAN	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3	leading protein	1	4	1
+PRT824_2_Q96GS4	Q96GS4	BORC6_HUMAN	BLOC-1-related complex subunit 6	leading protein	1	7	1
+PRT824_2_Q9H4A3	Q9H4A3	WNK1_HUMAN	Serine/threonine-protein kinase WNK1	leading protein	1	4	0
+PRT824_2_Q92890	Q92890	UFD1_HUMAN	Ubiquitin recognition factor in ER-associated degradation protein 1	leading protein	1	1	1
+PRT824_2_Q14C86	Q14C86	GAPD1_HUMAN	GTPase-activating protein and VPS9 domain-containing protein 1	leading protein	1	4	1
+PRT824_2_Q99590	Q99590	SCAFB_HUMAN	Protein SCAF11	leading protein	1	9	1
+PRT824_2_Q5VV41	Q5VV41	ARHGG_HUMAN	Rho guanine nucleotide exchange factor 16	leading protein	1	2	1
+PRT824_2_Q9BRF8	Q9BRF8	CPPED_HUMAN	Serine/threonine-protein phosphatase CPPED1	leading protein	1	2	1
+PRT824_2_Q14697	Q14697	GANAB_HUMAN	Neutral alpha-glucosidase AB	leading protein	1	2	1
+PRT824_2_Q9UHY1	Q9UHY1	NRBP_HUMAN	Nuclear receptor-binding protein	leading protein	1	3	1
+PRT824_2_Q9H3Z4	Q9H3Z4	DNJC5_HUMAN	DnaJ homolog subfamily C member 5	leading protein	1	2	1
+PRT824_2_P0CAP2	P0CAP2	GRL1A_HUMAN	DNA-directed RNA polymerase II subunit GRINL1A	leading protein	1	4	0
+PRT824_2_Q63ZY3	Q63ZY3	KANK2_HUMAN	KN motif and ankyrin repeat domain-containing protein 2	leading protein	1	5	1
+PRT824_2_Q14153	Q14153	FA53B_HUMAN	Protein FAM53B	leading protein	1	3	1
+PRT824_2_Q9NYJ1	Q9NYJ1	COA4_HUMAN	Cytochrome c oxidase assembly factor 4 homolog, mitochondrial	leading protein	1	2	1
+PRT824_2_Q9P258	Q9P258	RCC2_HUMAN	Protein RCC2	leading protein	1	10	1
+PRT824_2_Q71RC2	Q71RC2	LARP4_HUMAN	La-related protein 4	leading protein	1	4	1
+PRT824_2_Q5T5U3	Q5T5U3	RHG21_HUMAN	Rho GTPase-activating protein 21	leading protein	1	5	1
+PRT824_2_O60292	O60292	SI1L3_HUMAN	Signal-induced proliferation-associated 1-like protein 3	leading protein	1	1	1
+PRT824_2_Q9NYF8	Q9NYF8	BCLF1_HUMAN	Bcl-2-associated transcription factor 1	leading protein	1	4	1
+PRT824_2_Q6GYQ0	Q6GYQ0	RGPA1_HUMAN	Ral GTPase-activating protein subunit alpha-1	leading protein	1	1	1
+PRT824_2_Q08378	Q08378	GOGA3_HUMAN	Golgin subfamily A member 3	leading protein	1	1	1
+PRT824_2_Q9HA77	Q9HA77	SYCM_HUMAN	Probable cysteine--tRNA ligase, mitochondrial	leading protein	1	5	1
+PRT824_2_Q9UQB8	Q9UQB8	BAIP2_HUMAN	Brain-specific angiogenesis inhibitor 1-associated protein 2	leading protein	1	2	1
+PRT824_2_O94875	O94875	SRBS2_HUMAN	Sorbin and SH3 domain-containing protein 2	leading protein	1	2	1
+PRT824_2_P04183	P04183	KITH_HUMAN	Thymidine kinase, cytosolic	leading protein	1	4	1
+PRT824_2_O43181	O43181	NDUS4_HUMAN	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial	leading protein	1	8	1
+PRT824_2_Q07666	Q07666	KHDR1_HUMAN	KH domain-containing, RNA-binding, signal transduction-associated protein 1	leading protein	1	13	1
+PRT824_2_P08174	P08174	DAF_HUMAN	Complement decay-accelerating factor	leading protein	1	4	1
+PRT824_2_P12277	P12277	KCRB_HUMAN	Creatine kinase B-type	leading protein	1	5	1
+PRT824_2_Q9H3K6	Q9H3K6	BOLA2_HUMAN	BolA-like protein 2	leading protein	1	5	1
+PRT824_2_P41236	P41236	IPP2_HUMAN	Protein phosphatase inhibitor 2	leading protein	1	2	0
+PRT824_2_Q8WU20	Q8WU20	FRS2_HUMAN	Fibroblast growth factor receptor substrate 2	leading protein	1	1	1
+PRT824_2_Q9H6H4	Q9H6H4	REEP4_HUMAN	Receptor expression-enhancing protein 4	leading protein	1	5	1
+PRT824_2_P63167	P63167	DYL1_HUMAN	Dynein light chain 1, cytoplasmic	leading protein	1	2	1
+PRT824_2_Q5M775	Q5M775	CYTSB_HUMAN	Cytospin-B	leading protein	1	5	1
+PRT824_2_P11532	P11532	DMD_HUMAN	Dystrophin	leading protein	1	2	1
+PRT824_2_Q9Y6A5	Q9Y6A5	TACC3_HUMAN	Transforming acidic coiled-coil-containing protein 3	leading protein	1	7	1
+PRT824_2_Q92766	Q92766	RREB1_HUMAN	Ras-responsive element-binding protein 1	leading protein	1	5	1
+PRT824_2_Q9Y3P9	Q9Y3P9	RBGP1_HUMAN	Rab GTPase-activating protein 1	leading protein	1	3	1
+PRT824_2_Q69YH5	Q69YH5	CDCA2_HUMAN	Cell division cycle-associated protein 2	leading protein	1	5	1
+PRT824_2_O95239	O95239	KIF4A_HUMAN	Chromosome-associated kinesin KIF4A	leading protein	1	1	0
+PRT824_2_Q7Z4V5	Q7Z4V5	HDGR2_HUMAN	Hepatoma-derived growth factor-related protein 2	leading protein	1	3	1
+PRT824_2_P00491	P00491	PNPH_HUMAN	Purine nucleoside phosphorylase	leading protein	1	1	1
+PRT824_2_P26641	P26641	EF1G_HUMAN	Elongation factor 1-gamma	leading protein	1	4	1
+PRT824_2_Q9NX63	Q9NX63	MIC19_HUMAN	MICOS complex subunit MIC19	leading protein	1	3	1
+PRT824_2_P62280	P62280	RS11_HUMAN	40S ribosomal protein S11	leading protein	1	3	1
+PRT824_2_Q10571	Q10571	MN1_HUMAN	Transcriptional activator MN1	leading protein	1	1	1
+PRT824_2_P24752	P24752	THIL_HUMAN	Acetyl-CoA acetyltransferase, mitochondrial	leading protein	1	4	1
+PRT824_2_P55036	P55036	PSMD4_HUMAN	26S proteasome non-ATPase regulatory subunit 4	leading protein	1	4	1
+PRT824_2_Q8NI08	Q8NI08	NCOA7_HUMAN	Nuclear receptor coactivator 7	leading protein	1	2	1
+PRT824_2_P0DME0	P0DME0	SETLP_HUMAN	Protein SETSIP	leading protein	1	2	0
+PRT824_2_P55084	P55084	ECHB_HUMAN	Trifunctional enzyme subunit beta, mitochondrial	leading protein	1	4	1
+PRT824_2_Q9P260	Q9P260	RELCH_HUMAN	RAB11-binding protein RELCH	leading protein	1	5	1
+PRT824_2_Q7L2H7	Q7L2H7	EIF3M_HUMAN	Eukaryotic translation initiation factor 3 subunit M	leading protein	1	3	1
+PRT824_2_Q9UHD1	Q9UHD1	CHRD1_HUMAN	Cysteine and histidine-rich domain-containing protein 1	leading protein	1	4	1
+PRT824_2_Q9Y6Q9	Q9Y6Q9	NCOA3_HUMAN	Nuclear receptor coactivator 3	leading protein	1	1	1
+PRT824_2_P62277	P62277	RS13_HUMAN	40S ribosomal protein S13	leading protein	1	3	1
+PRT824_2_P12268	P12268	IMDH2_HUMAN	Inosine-5'-monophosphate dehydrogenase 2	leading protein	1	2	1
+PRT824_2_Q9BQ61	Q9BQ61	TRIR_HUMAN	Telomerase RNA component interacting RNase	leading protein	1	14	1
+PRT824_2_O95347	O95347	SMC2_HUMAN	Structural maintenance of chromosomes protein 2	leading protein	1	1	1
+PRT824_2_O15013	O15013	ARHGA_HUMAN	Rho guanine nucleotide exchange factor 10	leading protein	1	5	1
+PRT824_2_Q9Y4H2	Q9Y4H2	IRS2_HUMAN	Insulin receptor substrate 2	leading protein	1	1	1
+PRT824_2_O95714	O95714	HERC2_HUMAN	E3 ubiquitin-protein ligase HERC2	leading protein	1	3	1
+PRT824_2_Q9UJS0	Q9UJS0	CMC2_HUMAN	Calcium-binding mitochondrial carrier protein Aralar2	leading protein	1	1	1
+PRT824_2_O15231	O15231	ZN185_HUMAN	Zinc finger protein 185	leading protein	1	4	1
+PRT824_2_Q13283	Q13283	G3BP1_HUMAN	Ras GTPase-activating protein-binding protein 1	leading protein	1	4	1
+PRT824_2_P11047	P11047	LAMC1_HUMAN	Laminin subunit gamma-1	leading protein	1	1	1
+PRT824_2_A2RRP1	A2RRP1	NBAS_HUMAN	Neuroblastoma-amplified sequence	leading protein	1	5	1
+PRT824_2_Q9H0H5	Q9H0H5	RGAP1_HUMAN	Rac GTPase-activating protein 1	leading protein	1	4	1
+PRT824_2_Q6ZVX7	Q6ZVX7	FBX50_HUMAN	F-box only protein 50	leading protein	1	5	1
+PRT824_2_O75534	O75534	CSDE1_HUMAN	Cold shock domain-containing protein E1	leading protein	1	1	1
+PRT824_2_Q8NEY1	Q8NEY1	NAV1_HUMAN	Neuron navigator 1	leading protein	1	4	1
+PRT824_2_Q58WW2	Q58WW2	DCAF6_HUMAN	DDB1- and CUL4-associated factor 6	leading protein	1	4	1
+PRT824_2_P20340	P20340	RAB6A_HUMAN	Ras-related protein Rab-6A	leading protein	1	2	1
+PRT824_2_Q92541	Q92541	RTF1_HUMAN	RNA polymerase-associated protein RTF1 homolog	leading protein	1	13	1
+PRT824_2_Q14244	Q14244	MAP7_HUMAN	Ensconsin	leading protein	1	8	1
+PRT824_2_Q15149	Q15149	PLEC_HUMAN	Plectin	leading protein	1	5	1
+PRT824_2_P25398	P25398	RS12_HUMAN	40S ribosomal protein S12	leading protein	1	4	1
+PRT824_2_Q86V81	Q86V81	THOC4_HUMAN	THO complex subunit 4	leading protein	1	3	1
+PRT824_2_Q99733	Q99733	NP1L4_HUMAN	Nucleosome assembly protein 1-like 4	leading protein	1	3	1
+PRT824_2_Q8NHM5	Q8NHM5	KDM2B_HUMAN	Lysine-specific demethylase 2B	leading protein	1	4	1
+PRT824_2_Q9UI08	Q9UI08	EVL_HUMAN	Ena/VASP-like protein	leading protein	1	3	1
+PRT824_2_P18615	P18615	NELFE_HUMAN	Negative elongation factor E	leading protein	1	5	1
+PRT824_2_P05023	P05023	AT1A1_HUMAN	Sodium/potassium-transporting ATPase subunit alpha-1	leading protein	1	12	1
+PRT824_2_Q9H3Q1	Q9H3Q1	BORG4_HUMAN	Cdc42 effector protein 4	leading protein	1	3	1
+PRT824_2_Q9P2N5	Q9P2N5	RBM27_HUMAN	RNA-binding protein 27	leading protein	1	3	1
+PRT824_2_Q8TB72	Q8TB72	PUM2_HUMAN	Pumilio homolog 2	leading protein	1	2	1
+PRT824_2_Q9Y6D5	Q9Y6D5	BIG2_HUMAN	Brefeldin A-inhibited guanine nucleotide-exchange protein 2	leading protein	1	4	1
+PRT824_2_Q6P1J9	Q6P1J9	CDC73_HUMAN	Parafibromin	leading protein	1	3	1
+PRT824_2_Q9H6F5	Q9H6F5	CCD86_HUMAN	Coiled-coil domain-containing protein 86	leading protein	1	1	1
+PRT824_2_Q8IX03	Q8IX03	KIBRA_HUMAN	Protein KIBRA	leading protein	1	5	1
+PRT824_2_Q86TC9	Q86TC9	MYPN_HUMAN	Myopalladin	leading protein	1	3	1
+PRT824_2_P22234	P22234	PUR6_HUMAN	Multifunctional protein ADE2	leading protein	1	2	1
+PRT824_2_Q7Z460	Q7Z460	CLAP1_HUMAN	CLIP-associating protein 1	leading protein	1	1	1
+PRT824_2_Q6ZRV2	Q6ZRV2	FA83H_HUMAN	Protein FAM83H	leading protein	1	2	1
+PRT824_2_Q14676	Q14676	MDC1_HUMAN	Mediator of DNA damage checkpoint protein 1	leading protein	1	13	1
+PRT824_2_P62273	P62273	RS29_HUMAN	40S ribosomal protein S29	leading protein	1	3	1
+PRT824_2_P21731	P21731	TA2R_HUMAN	Thromboxane A2 receptor	leading protein	1	3	1
+PRT824_2_Q96I25	Q96I25	SPF45_HUMAN	Splicing factor 45	leading protein	1	5	1
+PRT824_2_Q5VZK9	Q5VZK9	CARL1_HUMAN	F-actin-uncapping protein LRRC16A	leading protein	1	3	1
+PRT824_2_Q14643	Q14643	ITPR1_HUMAN	Inositol 1,4,5-trisphosphate receptor type 1	leading protein	1	7	1
+PRT824_2_Q14573	Q14573	ITPR3_HUMAN	Inositol 1,4,5-trisphosphate receptor type 3	leading protein	1	4	1
+PRT824_2_P49590	P49590	SYHM_HUMAN	Histidine--tRNA ligase, mitochondrial	leading protein	1	2	1
+PRT824_2_O14639	O14639	ABLM1_HUMAN	Actin-binding LIM protein 1	leading protein	1	1	1
+PRT824_2_Q8WYP5	Q8WYP5	ELYS_HUMAN	Protein ELYS	leading protein	1	5	1
+PRT824_2_Q9H788	Q9H788	SH24A_HUMAN	SH2 domain-containing protein 4A	leading protein	1	4	1
+PRT824_2_P20042	P20042	IF2B_HUMAN	Eukaryotic translation initiation factor 2 subunit 2	leading protein	1	4	1
+PRT824_2_Q9BRS2	Q9BRS2	RIOK1_HUMAN	Serine/threonine-protein kinase RIO1	leading protein	1	5	1
+PRT824_2_P49790	P49790	NU153_HUMAN	Nuclear pore complex protein Nup153	leading protein	1	4	1
+PRT824_2_P46109	P46109	CRKL_HUMAN	Crk-like protein	leading protein	1	4	1
+PRT824_2_Q6PJT7	Q6PJT7	ZC3HE_HUMAN	Zinc finger CCCH domain-containing protein 14	leading protein	1	1	1
+PRT824_2_O75592	O75592	MYCB2_HUMAN	E3 ubiquitin-protein ligase MYCBP2	leading protein	1	5	1
+PRT824_2_Q9P2B2	Q9P2B2	FPRP_HUMAN	Prostaglandin F2 receptor negative regulator	leading protein	1	2	1
+PRT824_2_Q96IZ0	Q96IZ0	PAWR_HUMAN	PRKC apoptosis WT1 regulator protein	leading protein	1	5	1
+PRT824_2_Q15181	Q15181	IPYR_HUMAN	Inorganic pyrophosphatase	leading protein	1	5	1
+PRT824_2_P46108	P46108	CRK_HUMAN	Adapter molecule crk	leading protein	1	5	1
+PRT824_2_O15021	O15021	MAST4_HUMAN	Microtubule-associated serine/threonine-protein kinase 4	leading protein	1	1	1
+PRT824_2_Q9BRT2	Q9BRT2	UQCC2_HUMAN	Ubiquinol-cytochrome-c reductase complex assembly factor 2	leading protein	1	8	1
+PRT824_2_Q8WX93	Q8WX93	PALLD_HUMAN	Palladin	leading protein	1	4	1
+PRT824_2_Q9P0K1	Q9P0K1	ADA22_HUMAN	Disintegrin and metalloproteinase domain-containing protein 22	leading protein	1	3	1
+PRT824_2_P32119	P32119	PRDX2_HUMAN	Peroxiredoxin-2	leading protein	1	3	1
+PRT824_2_Q13439	Q13439	GOGA4_HUMAN	Golgin subfamily A member 4	leading protein	1	5	1
+PRT824_2_P68431	P68431	H31_HUMAN	Histone H3.1	leading protein	1	5	0
+PRT824_2_P47736	P47736	RPGP1_HUMAN	Rap1 GTPase-activating protein 1	leading protein	1	5	1
+PRT824_2_Q9GZU8	Q9GZU8	PIP30_HUMAN	PSME3-interacting protein	leading protein	1	7	1
+PRT824_2_Q9UNE7	Q9UNE7	CHIP_HUMAN	E3 ubiquitin-protein ligase CHIP	leading protein	1	7	1
+PRT824_2_P05187	P05187	PPB1_HUMAN	Alkaline phosphatase, placental type	leading protein	1	22	0
+PRT824_2_P55060	P55060	XPO2_HUMAN	Exportin-2	leading protein	1	2	1
+PRT824_2_Q15527	Q15527	SURF2_HUMAN	Surfeit locus protein 2	leading protein	1	2	1
+PRT824_2_P11586	P11586	C1TC_HUMAN	C-1-tetrahydrofolate synthase, cytoplasmic	leading protein	1	1	1
+PRT824_2_O60814	O60814	H2B1K_HUMAN	Histone H2B type 1-K	leading protein	1	8	0
+PRT824_2_Q9HCN8	Q9HCN8	SDF2L_HUMAN	Stromal cell-derived factor 2-like protein 1	leading protein	1	2	1
+PRT824_2_Q27J81	Q27J81	INF2_HUMAN	Inverted formin-2	leading protein	1	4	1
+PRT824_2_Q12770	Q12770	SCAP_HUMAN	Sterol regulatory element-binding protein cleavage-activating protein	leading protein	1	5	1
+PRT824_2_P18124	P18124	RL7_HUMAN	60S ribosomal protein L7	leading protein	1	1	1
+PRT824_2_Q16637	Q16637	SMN_HUMAN	Survival motor neuron protein	leading protein	1	5	1
+PRT824_2_P56537	P56537	IF6_HUMAN	Eukaryotic translation initiation factor 6	leading protein	1	3	1
+PRT824_2_Q8TDM6	Q8TDM6	DLG5_HUMAN	Disks large homolog 5	leading protein	1	2	1
+PRT824_2_O75369	O75369	FLNB_HUMAN	Filamin-B	leading protein	1	2	1
+PRT824_2_P26639	P26639	SYTC_HUMAN	Threonine--tRNA ligase 1, cytoplasmic	leading protein	1	4	1
+PRT824_2_Q9NPQ8	Q9NPQ8	RIC8A_HUMAN	Synembryn-A	leading protein	1	7	1
+PRT824_2_P78345	P78345	RPP38_HUMAN	Ribonuclease P protein subunit p38	leading protein	1	6	1
+PRT824_2_Q8IWZ8	Q8IWZ8	SUGP1_HUMAN	SURP and G-patch domain-containing protein 1	leading protein	1	3	1
+PRT824_2_Q6P435	Q6P435	SMG1L_HUMAN	Putative uncharacterized SMG1-like protein	leading protein	1	1	0
+PRT824_2_O60293	O60293	ZC3H1_HUMAN	Zinc finger C3H1 domain-containing protein	leading protein	1	9	1
+PRT824_2_Q14155	Q14155	ARHG7_HUMAN	Rho guanine nucleotide exchange factor 7	leading protein	1	4	0
+PRT824_2_P18669	P18669	PGAM1_HUMAN	Phosphoglycerate mutase 1	leading protein	1	1	1
+PRT824_2_Q9HB09	Q9HB09	B2L12_HUMAN	Bcl-2-like protein 12	leading protein	1	1	1
+PRT824_2_Q9H910	Q9H910	JUPI2_HUMAN	Jupiter microtubule associated homolog 2	leading protein	1	10	1
+PRT824_2_P49959	P49959	MRE11_HUMAN	Double-strand break repair protein MRE11	leading protein	1	8	1
+PRT824_2_Q9UKV8	Q9UKV8	AGO2_HUMAN	Protein argonaute-2	leading protein	1	5	1
+PRT824_2_Q86WB0	Q86WB0	NIPA_HUMAN	Nuclear-interacting partner of ALK	leading protein	1	3	1
+PRT824_2_Q92945	Q92945	FUBP2_HUMAN	Far upstream element-binding protein 2	leading protein	1	8	1
+PRT824_2_Q6L8Q7	Q6L8Q7	PDE12_HUMAN	2',5'-phosphodiesterase 12	leading protein	1	1	1
+PRT824_2_Q9UQ80	Q9UQ80	PA2G4_HUMAN	Proliferation-associated protein 2G4	leading protein	1	2	1
+PRT824_2_Q96S55	Q96S55	WRIP1_HUMAN	ATPase WRNIP1	leading protein	1	4	1
+PRT824_2_Q08J23	Q08J23	NSUN2_HUMAN	RNA cytosine C(5)-methyltransferase NSUN2	leading protein	1	3	1
+PRT824_2_Q9UJ70	Q9UJ70	NAGK_HUMAN	N-acetyl-D-glucosamine kinase	leading protein	1	2	1
+PRT824_2_Q9UJU6	Q9UJU6	DBNL_HUMAN	Drebrin-like protein	leading protein	1	13	1
+PRT824_2_Q8N4C8	Q8N4C8	MINK1_HUMAN	Misshapen-like kinase 1	leading protein	1	5	1
+PRT824_2_Q9NQW6	Q9NQW6	ANLN_HUMAN	Anillin	leading protein	1	4	1
+PRT824_2_Q96T51	Q96T51	RUFY1_HUMAN	RUN and FYVE domain-containing protein 1	leading protein	1	5	1
+PRT824_2_Q2TAA2	Q2TAA2	IAH1_HUMAN	Isoamyl acetate-hydrolyzing esterase 1 homolog	leading protein	1	5	1
+PRT824_2_Q07955	Q07955	SRSF1_HUMAN	Serine/arginine-rich splicing factor 1	leading protein	1	2	1
+PRT824_2_Q9GZT3	Q9GZT3	SLIRP_HUMAN	SRA stem-loop-interacting RNA-binding protein, mitochondrial	leading protein	1	12	1
+PRT824_2_P53618	P53618	COPB_HUMAN	Coatomer subunit beta	leading protein	1	19	1
+PRT824_2_Q99832	Q99832	TCPH_HUMAN	T-complex protein 1 subunit eta	leading protein	1	2	1
+PRT824_2_Q9HB90	Q9HB90	RRAGC_HUMAN	Ras-related GTP-binding protein C	leading protein	1	3	0
+PRT824_2_P13010	P13010	XRCC5_HUMAN	X-ray repair cross-complementing protein 5	leading protein	1	1	1
+PRT824_2_Q96PU5	Q96PU5	NED4L_HUMAN	E3 ubiquitin-protein ligase NEDD4-like	leading protein	1	4	1
+PRT824_2_Q8NHG8	Q8NHG8	ZNRF2_HUMAN	E3 ubiquitin-protein ligase ZNRF2	leading protein	1	5	1
+PRT824_2_Q6NYC1	Q6NYC1	JMJD6_HUMAN	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6	leading protein	1	4	1
+PRT824_2_Q8N350	Q8N350	CBARP_HUMAN	Voltage-dependent calcium channel beta subunit-associated regulatory protein	leading protein	1	1	1
+PRT824_2_O75390	O75390	CISY_HUMAN	Citrate synthase, mitochondrial	leading protein	1	7	1
+PRT824_2_P27361	P27361	MK03_HUMAN	Mitogen-activated protein kinase 3	leading protein	1	1	1
+PRT824_2_Q5JTD0	Q5JTD0	TJAP1_HUMAN	Tight junction-associated protein 1	leading protein	1	4	1
+PRT824_2_P40926	P40926	MDHM_HUMAN	Malate dehydrogenase, mitochondrial	leading protein	1	4	1
+PRT824_2_Q8NBJ7	Q8NBJ7	SUMF2_HUMAN	Inactive C-alpha-formylglycine-generating enzyme 2	leading protein	1	5	1
+PRT824_2_Q07889	Q07889	SOS1_HUMAN	Son of sevenless homolog 1	leading protein	1	5	1
+PRT824_2_P31948	P31948	STIP1_HUMAN	Stress-induced-phosphoprotein 1	leading protein	1	3	1
+PRT824_2_Q9HAV7	Q9HAV7	GRPE1_HUMAN	GrpE protein homolog 1, mitochondrial	leading protein	1	2	1
+PRT824_2_P84098	P84098	RL19_HUMAN	60S ribosomal protein L19	leading protein	1	10	1
+PRT824_2_P13473	P13473	LAMP2_HUMAN	Lysosome-associated membrane glycoprotein 2	leading protein	1	10	1
+PRT824_2_O15169	O15169	AXIN1_HUMAN	Axin-1	leading protein	1	3	1
+PRT824_2_Q6P996	Q6P996	PDXD1_HUMAN	Pyridoxal-dependent decarboxylase domain-containing protein 1	leading protein	1	1	1
+PRT824_2_Q9BW71	Q9BW71	HIRP3_HUMAN	HIRA-interacting protein 3	leading protein	1	1	1
+PRT824_2_Q9UKX7	Q9UKX7	NUP50_HUMAN	Nuclear pore complex protein Nup50	leading protein	1	5	1
+PRT824_2_P11177	P11177	ODPB_HUMAN	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial	leading protein	1	3	1
+PRT824_2_Q69YQ0	Q69YQ0	CYTSA_HUMAN	Cytospin-A	leading protein	1	4	1
+PRT824_2_P11940	P11940	PABP1_HUMAN	Polyadenylate-binding protein 1	leading protein	1	4	0
+PRT824_2_Q676U5	Q676U5	A16L1_HUMAN	Autophagy-related protein 16-1	leading protein	1	5	1
+PRT824_2_Q96AT1	Q96AT1	K1143_HUMAN	Uncharacterized protein KIAA1143	leading protein	1	4	1
+PRT824_2_Q09666	Q09666	AHNK_HUMAN	Neuroblast differentiation-associated protein AHNAK	leading protein	1	3	1
+PRT824_2_O75396	O75396	SC22B_HUMAN	Vesicle-trafficking protein SEC22b	leading protein	1	2	1
+PRT824_2_P68400	P68400	CSK21_HUMAN	Casein kinase II subunit alpha	leading protein	1	3	0
+PRT824_2_P63220	P63220	RS21_HUMAN	40S ribosomal protein S21	leading protein	1	2	1
+PRT824_2_Q9UH62	Q9UH62	ARMX3_HUMAN	Armadillo repeat-containing X-linked protein 3	leading protein	1	3	1
+PRT824_2_P52907	P52907	CAZA1_HUMAN	F-actin-capping protein subunit alpha-1	leading protein	1	4	1
+PRT824_2_Q4G0J3	Q4G0J3	LARP7_HUMAN	La-related protein 7	leading protein	1	10	1
+PRT824_2_P62304	P62304	RUXE_HUMAN	Small nuclear ribonucleoprotein E	leading protein	1	5	1
+PRT824_2_O15321	O15321	TM9S1_HUMAN	Transmembrane 9 superfamily member 1	leading protein	1	1	1
+PRT824_2_P60983	P60983	GMFB_HUMAN	Glia maturation factor beta	leading protein	1	5	1
+PRT824_2_O43847	O43847	NRDC_HUMAN	Nardilysin	leading protein	1	2	1
+PRT824_2_O14497	O14497	ARI1A_HUMAN	AT-rich interactive domain-containing protein 1A	leading protein	1	6	1
+PRT824_2_Q8NEY8	Q8NEY8	PPHLN_HUMAN	Periphilin-1	leading protein	1	3	1
+PRT824_2_Q96B36	Q96B36	AKTS1_HUMAN	Proline-rich AKT1 substrate 1	leading protein	1	4	1
+PRT824_2_Q15388	Q15388	TOM20_HUMAN	Mitochondrial import receptor subunit TOM20 homolog	leading protein	1	4	1
+PRT824_2_Q7Z6Z7	Q7Z6Z7	HUWE1_HUMAN	E3 ubiquitin-protein ligase HUWE1	leading protein	1	1	1
+PRT824_2_P62942	P62942	FKB1A_HUMAN	Peptidyl-prolyl cis-trans isomerase FKBP1A	leading protein	1	23	1
+PRT824_2_Q8WVC0	Q8WVC0	LEO1_HUMAN	RNA polymerase-associated protein LEO1	leading protein	1	5	1
+PRT824_2_Q8N7H5	Q8N7H5	PAF1_HUMAN	RNA polymerase II-associated factor 1 homolog	leading protein	1	2	1
+PRT824_2_P06899	P06899	H2B1J_HUMAN	Histone H2B type 1-J	leading protein	1	7	0
+PRT824_2_O00232	O00232	PSD12_HUMAN	26S proteasome non-ATPase regulatory subunit 12	leading protein	1	5	1
+PRT824_2_Q9UHI6	Q9UHI6	DDX20_HUMAN	Probable ATP-dependent RNA helicase DDX20	leading protein	1	5	1
+PRT824_2_P13861	P13861	KAP2_HUMAN	cAMP-dependent protein kinase type II-alpha regulatory subunit	leading protein	1	8	1
+PRT824_2_Q9H773	Q9H773	DCTP1_HUMAN	dCTP pyrophosphatase 1	leading protein	1	3	1
+PRT824_2_Q5T4S7	Q5T4S7	UBR4_HUMAN	E3 ubiquitin-protein ligase UBR4	leading protein	1	3	1
+PRT824_2_Q96TC7	Q96TC7	RMD3_HUMAN	Regulator of microtubule dynamics protein 3	leading protein	1	10	1
+PRT824_2_Q5SSJ5	Q5SSJ5	HP1B3_HUMAN	Heterochromatin protein 1-binding protein 3	leading protein	1	2	1
+PRT824_2_Q13561	Q13561	DCTN2_HUMAN	Dynactin subunit 2	leading protein	1	1	1
+PRT824_2_Q8IWX8	Q8IWX8	CHERP_HUMAN	Calcium homeostasis endoplasmic reticulum protein	leading protein	1	3	1
+PRT824_2_Q9Y5U2	Q9Y5U2	TSSC4_HUMAN	Protein TSSC4	leading protein	1	5	1
+PRT824_2_P30044	P30044	PRDX5_HUMAN	Peroxiredoxin-5, mitochondrial	leading protein	1	4	1
+PRT824_2_P06454	P06454	PTMA_HUMAN	Prothymosin alpha	leading protein	1	5	1
+PRT824_2_Q12888	Q12888	TP53B_HUMAN	TP53-binding protein 1	leading protein	1	3	1
+PRT824_2_O60749	O60749	SNX2_HUMAN	Sorting nexin-2	leading protein	1	4	1
+PRT824_2_P35221	P35221	CTNA1_HUMAN	Catenin alpha-1	leading protein	1	10	1
+PRT824_2_O75348	O75348	VATG1_HUMAN	V-type proton ATPase subunit G 1	leading protein	1	3	1
+PRT824_2_Q16719	Q16719	KYNU_HUMAN	Kynureninase	leading protein	1	4	1
+PRT824_2_P10599	P10599	THIO_HUMAN	Thioredoxin	leading protein	1	5	1
+PRT824_2_Q9H173	Q9H173	SIL1_HUMAN	Nucleotide exchange factor SIL1	leading protein	1	4	1
+PRT824_2_Q96IF1	Q96IF1	AJUBA_HUMAN	LIM domain-containing protein ajuba	leading protein	1	3	1
+PRT824_2_P15880	P15880	RS2_HUMAN	40S ribosomal protein S2	leading protein	1	5	1
+PRT824_2_Q53EL6	Q53EL6	PDCD4_HUMAN	Programmed cell death protein 4	leading protein	1	5	1
+PRT824_2_P98082	P98082	DAB2_HUMAN	Disabled homolog 2	leading protein	1	7	1
+PRT824_2_Q68CQ4	Q68CQ4	DIEXF_HUMAN	Digestive organ expansion factor homolog	leading protein	1	2	1
+PRT824_2_O95757	O95757	HS74L_HUMAN	Heat shock 70 kDa protein 4L	leading protein	1	2	1
+PRT824_2_P31040	P31040	SDHA_HUMAN	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial	leading protein	1	5	1
+PRT824_2_Q13480	Q13480	GAB1_HUMAN	GRB2-associated-binding protein 1	leading protein	1	5	1
+PRT824_2_O95625	O95625	ZBT11_HUMAN	Zinc finger and BTB domain-containing protein 11	leading protein	1	3	1
+PRT824_2_Q8WUX9	Q8WUX9	CHMP7_HUMAN	Charged multivesicular body protein 7	leading protein	1	1	1
+PRT824_2_P62072	P62072	TIM10_HUMAN	Mitochondrial import inner membrane translocase subunit Tim10	leading protein	1	5	1
+PRT824_2_Q13501	Q13501	SQSTM_HUMAN	Sequestosome-1	leading protein	1	4	1
+PRT824_2_P55884	P55884	EIF3B_HUMAN	Eukaryotic translation initiation factor 3 subunit B	leading protein	1	2	1
+PRT824_2_Q9Y2I7	Q9Y2I7	FYV1_HUMAN	1-phosphatidylinositol 3-phosphate 5-kinase	leading protein	1	5	1
+PRT824_2_Q9P206	Q9P206	K1522_HUMAN	Uncharacterized protein KIAA1522	leading protein	1	1	1
+PRT824_2_Q9ULT8	Q9ULT8	HECD1_HUMAN	E3 ubiquitin-protein ligase HECTD1	leading protein	1	5	1
+PRT824_2_Q68CZ2	Q68CZ2	TENS3_HUMAN	Tensin-3	leading protein	1	5	1
+PRT824_2_P46379	P46379	BAG6_HUMAN	Large proline-rich protein BAG6	leading protein	1	30	1
+PRT824_2_Q86VP6	Q86VP6	CAND1_HUMAN	Cullin-associated NEDD8-dissociated protein 1	leading protein	1	4	1
+PRT824_2_Q9Y478	Q9Y478	AAKB1_HUMAN	5'-AMP-activated protein kinase subunit beta-1	leading protein	1	3	1
+PRT824_2_Q9Y580	Q9Y580	RBM7_HUMAN	RNA-binding protein 7	leading protein	1	7	1
+PRT824_2_P60900	P60900	PSA6_HUMAN	Proteasome subunit alpha type-6	leading protein	1	3	1
+PRT824_2_P25786	P25786	PSA1_HUMAN	Proteasome subunit alpha type-1	leading protein	1	4	1
+PRT824_2_Q13627	Q13627	DYR1A_HUMAN	Dual specificity tyrosine-phosphorylation-regulated kinase 1A	leading protein	1	4	0
+PRT824_2_P55786	P55786	PSA_HUMAN	Puromycin-sensitive aminopeptidase	leading protein	1	3	1
+PRT824_2_P61604	P61604	CH10_HUMAN	10 kDa heat shock protein, mitochondrial	leading protein	1	1	1
+PRT824_2_Q96RK0	Q96RK0	CIC_HUMAN	Protein capicua homolog	leading protein	1	2	1
+PRT824_2_P55210	P55210	CASP7_HUMAN	Caspase-7	leading protein	1	2	1
+PRT824_2_P01893	P01893	HLAH_HUMAN	Putative HLA class I histocompatibility antigen, alpha chain H	leading protein	1	5	0
+PRT824_2_P62857	P62857	RS28_HUMAN	40S ribosomal protein S28	leading protein	1	1	1
+PRT824_2_Q14678	Q14678	KANK1_HUMAN	KN motif and ankyrin repeat domain-containing protein 1	leading protein	1	1	1
+PRT824_2_Q9UEU0	Q9UEU0	VTI1B_HUMAN	Vesicle transport through interaction with t-SNAREs homolog 1B	leading protein	1	2	1
+PRT824_2_P29353	P29353	SHC1_HUMAN	SHC-transforming protein 1	leading protein	1	3	1
+PRT824_2_P14868	P14868	SYDC_HUMAN	Aspartate--tRNA ligase, cytoplasmic	leading protein	1	4	1
+PRT824_2_P50991	P50991	TCPD_HUMAN	T-complex protein 1 subunit delta	leading protein	1	5	1
+PRT824_2_P43121	P43121	MUC18_HUMAN	Cell surface glycoprotein MUC18	leading protein	1	2	1
+PRT824_2_P30622	P30622	CLIP1_HUMAN	CAP-Gly domain-containing linker protein 1	leading protein	1	3	1
+PRT824_2_Q9Y2W1	Q9Y2W1	TR150_HUMAN	Thyroid hormone receptor-associated protein 3	leading protein	1	4	1
+PRT824_2_Q8IZ21	Q8IZ21	PHAR4_HUMAN	Phosphatase and actin regulator 4	leading protein	1	1	1
+PRT824_2_Q9BXF6	Q9BXF6	RFIP5_HUMAN	Rab11 family-interacting protein 5	leading protein	1	5	1
+PRT824_2_Q86YD5	Q86YD5	LRAD3_HUMAN	Low-density lipoprotein receptor class A domain-containing protein 3	leading protein	1	1	1
+PRT824_2_Q08211	Q08211	DHX9_HUMAN	ATP-dependent RNA helicase A	leading protein	1	4	1
+PRT824_2_Q96BH1	Q96BH1	RNF25_HUMAN	E3 ubiquitin-protein ligase RNF25	leading protein	1	4	1
+PRT824_2_P07339	P07339	CATD_HUMAN	Cathepsin D	leading protein	1	7	1
+PRT824_2_Q5BKZ1	Q5BKZ1	ZN326_HUMAN	DBIRD complex subunit ZNF326	leading protein	1	2	1
+PRT824_2_Q01518	Q01518	CAP1_HUMAN	Adenylyl cyclase-associated protein 1	leading protein	1	5	1
+PRT824_2_P28074	P28074	PSB5_HUMAN	Proteasome subunit beta type-5	leading protein	1	2	1
+PRT824_2_Q99497	Q99497	PARK7_HUMAN	Protein/nucleic acid deglycase DJ-1	leading protein	1	5	1
+PRT824_2_O95684	O95684	FR1OP_HUMAN	FGFR1 oncogene partner	leading protein	1	2	1
+PRT824_2_P38606	P38606	VATA_HUMAN	V-type proton ATPase catalytic subunit A	leading protein	1	3	1
+PRT824_2_Q5TAX3	Q5TAX3	TUT4_HUMAN	Terminal uridylyltransferase 4	leading protein	1	5	1
+PRT824_2_Q9UNH7	Q9UNH7	SNX6_HUMAN	Sorting nexin-6	leading protein	1	5	1
+PRT824_2_O00299	O00299	CLIC1_HUMAN	Chloride intracellular channel protein 1	leading protein	1	5	1
+PRT824_2_Q8TEM1	Q8TEM1	PO210_HUMAN	Nuclear pore membrane glycoprotein 210	leading protein	1	9	1
+PRT824_2_P35606	P35606	COPB2_HUMAN	Coatomer subunit beta'	leading protein	1	5	1
+PRT824_2_O15530	O15530	PDPK1_HUMAN	3-phosphoinositide-dependent protein kinase 1	leading protein	1	2	0
+PRT824_2_Q8NBP7	Q8NBP7	PCSK9_HUMAN	Proprotein convertase subtilisin/kexin type 9	leading protein	1	3	1
+PRT824_2_Q8TEB1	Q8TEB1	DCA11_HUMAN	DDB1- and CUL4-associated factor 11	leading protein	1	3	1
+PRT824_2_P30085	P30085	KCY_HUMAN	UMP-CMP kinase	leading protein	1	4	1
+PRT824_2_P12956	P12956	XRCC6_HUMAN	X-ray repair cross-complementing protein 6	leading protein	1	2	1
+PRT824_2_Q9NQG5	Q9NQG5	RPR1B_HUMAN	Regulation of nuclear pre-mRNA domain-containing protein 1B	leading protein	1	4	1
+PRT824_2_Q96K76	Q96K76	UBP47_HUMAN	Ubiquitin carboxyl-terminal hydrolase 47	leading protein	1	2	1
+PRT824_2_O00116	O00116	ADAS_HUMAN	Alkyldihydroxyacetonephosphate synthase, peroxisomal	leading protein	1	4	1
+PRT824_2_Q13610	Q13610	PWP1_HUMAN	Periodic tryptophan protein 1 homolog	leading protein	1	19	1
+PRT824_2_O75665	O75665	OFD1_HUMAN	Oral-facial-digital syndrome 1 protein	leading protein	1	1	1
+PRT824_2_Q9ULJ3	Q9ULJ3	ZBT21_HUMAN	Zinc finger and BTB domain-containing protein 21	leading protein	1	4	1
+PRT824_2_O95835	O95835	LATS1_HUMAN	Serine/threonine-protein kinase LATS1	leading protein	1	9	1
+PRT824_2_P00492	P00492	HPRT_HUMAN	Hypoxanthine-guanine phosphoribosyltransferase	leading protein	1	3	1
+PRT824_2_Q9NYU2	Q9NYU2	UGGG1_HUMAN	UDP-glucose:glycoprotein glucosyltransferase 1	leading protein	1	1	1
+PRT824_2_Q9H2H9	Q9H2H9	S38A1_HUMAN	Sodium-coupled neutral amino acid transporter 1	leading protein	1	1	1
+PRT824_2_P16949	P16949	STMN1_HUMAN	Stathmin	leading protein	1	11	1
+PRT824_2_P25787	P25787	PSA2_HUMAN	Proteasome subunit alpha type-2	leading protein	1	8	1
+PRT824_2_P62899	P62899	RL31_HUMAN	60S ribosomal protein L31	leading protein	1	4	1
+PRT824_2_Q9H7D7	Q9H7D7	WDR26_HUMAN	WD repeat-containing protein 26	leading protein	1	2	1
+PRT824_2_Q15056	Q15056	IF4H_HUMAN	Eukaryotic translation initiation factor 4H	leading protein	1	3	1
+PRT824_2_P17987	P17987	TCPA_HUMAN	T-complex protein 1 subunit alpha	leading protein	1	4	1
+PRT824_2_Q4ADV7	Q4ADV7	RIC1_HUMAN	RAB6A-GEF complex partner protein 1	leading protein	1	3	1
+PRT824_2_Q9H3N1	Q9H3N1	TMX1_HUMAN	Thioredoxin-related transmembrane protein 1	leading protein	1	2	1
+PRT824_2_O14617	O14617	AP3D1_HUMAN	AP-3 complex subunit delta-1	leading protein	1	3	1
+PRT824_2_Q9NYF3	Q9NYF3	FA53C_HUMAN	Protein FAM53C	leading protein	1	3	1
+PRT824_2_P15291	P15291	B4GT1_HUMAN	Beta-1,4-galactosyltransferase 1	leading protein	1	2	1
+PRT824_2_P30086	P30086	PEBP1_HUMAN	Phosphatidylethanolamine-binding protein 1	leading protein	1	18	1
+PRT824_2_P49588	P49588	SYAC_HUMAN	Alanine--tRNA ligase, cytoplasmic	leading protein	1	2	1
+PRT824_2_P15311	P15311	EZRI_HUMAN	Ezrin	leading protein	1	5	1
+PRT824_2_P13797	P13797	PLST_HUMAN	Plastin-3	leading protein	1	5	1
+PRT824_2_O14776	O14776	TCRG1_HUMAN	Transcription elongation regulator 1	leading protein	1	2	1
+PRT824_2_Q96HE7	Q96HE7	ERO1A_HUMAN	ERO1-like protein alpha	leading protein	1	1	1
+PRT824_2_P18621	P18621	RL17_HUMAN	60S ribosomal protein L17	leading protein	1	10	1
+PRT824_2_Q9BTE3	Q9BTE3	MCMBP_HUMAN	Mini-chromosome maintenance complex-binding protein	leading protein	1	2	1
+PRT824_2_Q8NCF5	Q8NCF5	NF2IP_HUMAN	NFATC2-interacting protein	leading protein	1	1	1
+PRT824_2_P45974	P45974	UBP5_HUMAN	Ubiquitin carboxyl-terminal hydrolase 5	leading protein	1	4	1
+PRT824_2_Q96BD0	Q96BD0	SO4A1_HUMAN	Solute carrier organic anion transporter family member 4A1	leading protein	1	1	1
+PRT824_2_Q5VSL9	Q5VSL9	STRP1_HUMAN	Striatin-interacting protein 1	leading protein	1	5	1
+PRT824_2_Q9H1A4	Q9H1A4	APC1_HUMAN	Anaphase-promoting complex subunit 1	leading protein	1	5	1
+PRT824_2_Q9Y6E2	Q9Y6E2	BZW2_HUMAN	Basic leucine zipper and W2 domain-containing protein 2	leading protein	1	4	1
+PRT824_2_Q6P1L8	Q6P1L8	RM14_HUMAN	39S ribosomal protein L14, mitochondrial	leading protein	1	1	1
+PRT824_2_P40227	P40227	TCPZ_HUMAN	T-complex protein 1 subunit zeta	leading protein	1	5	1
+PRT824_2_Q13404	Q13404	UB2V1_HUMAN	Ubiquitin-conjugating enzyme E2 variant 1	leading protein	1	3	0
+PRT824_2_O95155	O95155	UBE4B_HUMAN	Ubiquitin conjugation factor E4 B	leading protein	1	8	1
+PRT824_2_Q9HBL0	Q9HBL0	TENS1_HUMAN	Tensin-1	leading protein	1	4	1
+PRT824_2_P53814	P53814	SMTN_HUMAN	Smoothelin	leading protein	1	3	1
+PRT824_2_Q71U36	Q71U36	TBA1A_HUMAN	Tubulin alpha-1A chain	spectrum same-set protein	5	27	0
+PRT824_2_P0DMV9	P0DMV9	HS71B_HUMAN	Heat shock 70 kDa protein 1B	spectrum same-set protein	4	21	0
+PRT824_2_P0DP24	P0DP24	CALM2_HUMAN	Calmodulin-2	spectrum same-set protein	3	20	0
+PRT824_2_Q05639	Q05639	EF1A2_HUMAN	Elongation factor 1-alpha 2	spectrum same-set protein	3	12	0
+PRT824_2_P0DP25	P0DP25	CALM3_HUMAN	Calmodulin-3	spectrum same-set protein	3	20	0
+PRT824_2_Q5VTE0	Q5VTE0	EF1A3_HUMAN	Putative elongation factor 1-alpha-like 3	spectrum same-set protein	3	12	0
+PRT824_2_P07355	P07355	ANXA2_HUMAN	Annexin A2	spectrum same-set protein	3	11	0
+PRT824_2_P62979	P62979	RS27A_HUMAN	Ubiquitin-40S ribosomal protein S27a	spectrum same-set protein	2	7	0
+PRT824_2_P0CG48	P0CG48	UBC_HUMAN	Polyubiquitin-C	spectrum same-set protein	2	7	0
+PRT824_2_P16403	P16403	H12_HUMAN	Histone H1.2	spectrum same-set protein	2	7	0
+PRT824_2_P62987	P62987	RL40_HUMAN	Ubiquitin-60S ribosomal protein L40	spectrum same-set protein	2	7	0
+PRT824_2_Q99613	Q99613	EIF3C_HUMAN	Eukaryotic translation initiation factor 3 subunit C	spectrum same-set protein	2	2	0
+PRT824_2_P41567	P41567	EIF1_HUMAN	Eukaryotic translation initiation factor 1	spectrum same-set protein	2	11	0
+PRT824_2_P16402	P16402	H13_HUMAN	Histone H1.3	spectrum same-set protein	2	7	0
+PRT824_2_P33778	P33778	H2B1B_HUMAN	Histone H2B type 1-B	spectrum same-set protein	1	7	0
+PRT824_2_P04439	P04439	HLAA_HUMAN	HLA class I histocompatibility antigen, A alpha chain	spectrum same-set protein	1	5	0
+PRT824_2_Q99879	Q99879	H2B1M_HUMAN	Histone H2B type 1-M	spectrum same-set protein	1	8	0
+PRT824_2_Q99877	Q99877	H2B1N_HUMAN	Histone H2B type 1-N	spectrum same-set protein	1	8	0
+PRT824_2_Q01105	Q01105	SET_HUMAN	Protein SET	spectrum same-set protein	1	2	0
+PRT824_2_Q5QNW6	Q5QNW6	H2B2F_HUMAN	Histone H2B type 2-F	spectrum same-set protein	1	8	0
+PRT824_2_P62807	P62807	H2B1C_HUMAN	Histone H2B type 1-C/E/F/G/I	spectrum same-set protein	1	8	0
+PRT824_2_Q96Q15	Q96Q15	SMG1_HUMAN	Serine/threonine-protein kinase SMG1	spectrum same-set protein	1	1	0
+PRT824_2_Q96E39	Q96E39	RMXL1_HUMAN	RNA binding motif protein, X-linked-like-1	spectrum same-set protein	1	1	0
+PRT824_2_Q71DI3	Q71DI3	H32_HUMAN	Histone H3.2	spectrum same-set protein	1	5	0
+PRT824_2_Q6A1A2	Q6A1A2	PDPK2_HUMAN	Putative 3-phosphoinositide-dependent protein kinase 2	spectrum same-set protein	1	2	0
+PRT824_2_P10696	P10696	PPBN_HUMAN	Alkaline phosphatase, germ cell type	spectrum same-set protein	1	22	0
+PRT824_2_Q15819	Q15819	UB2V2_HUMAN	Ubiquitin-conjugating enzyme E2 variant 2	spectrum same-set protein	1	3	0
+PRT824_2_Q15052	Q15052	ARHG6_HUMAN	Rho guanine nucleotide exchange factor 6	spectrum same-set protein	1	4	0
+PRT824_2_Q6DRA6	Q6DRA6	H2B2D_HUMAN	Putative histone H2B type 2-D	spectrum same-set protein	1	7	0
+PRT824_2_Q6NXS1	Q6NXS1	IPP2B_HUMAN	Protein phosphatase inhibitor 2 family member B	spectrum same-set protein	1	2	0
+PRT824_2_Q8N257	Q8N257	H2B3B_HUMAN	Histone H2B type 3-B	spectrum same-set protein	1	7	0
+PRT824_2_Q00526	Q00526	CDK3_HUMAN	Cyclin-dependent kinase 3	spectrum same-set protein	1	4	0
+PRT824_2_Q6NXT2	Q6NXT2	H3C_HUMAN	Histone H3.3C	spectrum same-set protein	1	5	0
+PRT824_2_Q71UM5	Q71UM5	RS27L_HUMAN	40S ribosomal protein S27-like	spectrum same-set protein	1	3	0
+PRT824_2_Q96DU9	Q96DU9	PABP5_HUMAN	Polyadenylate-binding protein 5	spectrum same-set protein	1	4	0
+PRT824_2_Q16778	Q16778	H2B2E_HUMAN	Histone H2B type 2-E	spectrum same-set protein	1	7	0
+PRT824_2_P84243	P84243	H33_HUMAN	Histone H3.3	spectrum same-set protein	1	5	0
+PRT824_2_P23527	P23527	H2B1O_HUMAN	Histone H2B type 1-O	spectrum same-set protein	1	7	0
+PRT824_2_Q16695	Q16695	H31T_HUMAN	Histone H3.1t	spectrum same-set protein	1	5	0
+PRT824_2_Q9BZD3	Q9BZD3	GCOM2_HUMAN	Putative GRINL1B complex locus protein 2	spectrum same-set protein	1	4	0
+PRT824_2_Q99880	Q99880	H2B1L_HUMAN	Histone H2B type 1-L	spectrum same-set protein	1	8	0
+PRT824_2_Q9NQ39	Q9NQ39	RS10L_HUMAN	Putative 40S ribosomal protein S10-like	spectrum same-set protein	1	2	0
+PRT824_2_Q9Y3S1	Q9Y3S1	WNK2_HUMAN	Serine/threonine-protein kinase WNK2	spectrum same-set protein	1	4	0
+PRT824_2_Q4VXU2	Q4VXU2	PAP1L_HUMAN	Polyadenylate-binding protein 1-like	spectrum same-set protein	1	4	0
+PRT824_2_P58876	P58876	H2B1D_HUMAN	Histone H2B type 1-D	spectrum same-set protein	1	8	0
+PRT824_2_P24941	P24941	CDK2_HUMAN	Cyclin-dependent kinase 2	spectrum same-set protein	1	4	0
+PRT824_2_Q6DN03	Q6DN03	H2B2C_HUMAN	Putative histone H2B type 2-C	spectrum same-set protein	1	7	0
+PRT824_2_Q9Y463	Q9Y463	DYR1B_HUMAN	Dual specificity tyrosine-phosphorylation-regulated kinase 1B	spectrum same-set protein	1	4	0
+PRT824_2_Q2VIQ3	Q2VIQ3	KIF4B_HUMAN	Chromosome-associated kinesin KIF4B	spectrum same-set protein	1	1	0
+PRT824_2_P10321	P10321	HLAC_HUMAN	HLA class I histocompatibility antigen, C alpha chain	spectrum same-set protein	1	5	0
+PRT824_2_Q9NQL2	Q9NQL2	RRAGD_HUMAN	Ras-related GTP-binding protein D	spectrum same-set protein	1	3	0
+PRT824_2_Q8NEV1	Q8NEV1	CSK23_HUMAN	Casein kinase II subunit alpha 3	spectrum same-set protein	1	3	0
+PRT824_2_Q93079	Q93079	H2B1H_HUMAN	Histone H2B type 1-H	spectrum same-set protein	1	8	0
+PRT824_2_P57053	P57053	H2BFS_HUMAN	Histone H2B type F-S	spectrum same-set protein	1	8	0
+PRT824_2_P63261	P63261	ACTG_HUMAN	Actin, cytoplasmic 2	spectrum sub-set protein	10	48	0
+PRT824_2_P63267	P63267	ACTH_HUMAN	Actin, gamma-enteric smooth muscle	spectrum sub-set protein	7	34	0
+PRT824_2_P62736	P62736	ACTA_HUMAN	Actin, aortic smooth muscle	spectrum sub-set protein	7	34	0
+PRT824_2_P68032	P68032	ACTC_HUMAN	Actin, alpha cardiac muscle 1	spectrum sub-set protein	7	34	0
+PRT824_2_P68133	P68133	ACTS_HUMAN	Actin, alpha skeletal muscle	spectrum sub-set protein	7	34	0
+PRT824_2_Q58FF7	Q58FF7	H90B3_HUMAN	Putative heat shock protein HSP 90-beta-3	spectrum sub-set protein	6	40	0
+PRT824_2_Q58FF8	Q58FF8	H90B2_HUMAN	Putative heat shock protein HSP 90-beta 2	spectrum sub-set protein	5	47	0
+PRT824_2_A5A3E0	A5A3E0	POTEF_HUMAN	POTE ankyrin domain family member F	spectrum sub-set protein	4	17	0
+PRT824_2_Q6S8J3	Q6S8J3	POTEE_HUMAN	POTE ankyrin domain family member E	spectrum sub-set protein	4	17	0
+PRT824_2_Q14568	Q14568	HS902_HUMAN	Heat shock protein HSP 90-alpha A2	spectrum sub-set protein	4	40	0
+PRT824_2_Q9BYX7	Q9BYX7	ACTBM_HUMAN	Putative beta-actin-like protein 3	spectrum sub-set protein	3	12	0
+PRT824_2_P0DPH7	P0DPH7	TBA3C_HUMAN	Tubulin alpha-3C chain	spectrum sub-set protein	3	13	0
+PRT824_2_P17066	P17066	HSP76_HUMAN	Heat shock 70 kDa protein 6	spectrum sub-set protein	3	14	0
+PRT824_2_P0CG38	P0CG38	POTEI_HUMAN	POTE ankyrin domain family member I	spectrum sub-set protein	3	9	0
+PRT824_2_Q6PEY2	Q6PEY2	TBA3E_HUMAN	Tubulin alpha-3E chain	spectrum sub-set protein	3	13	0
+PRT824_2_P0DPH8	P0DPH8	TBA3D_HUMAN	Tubulin alpha-3D chain	spectrum sub-set protein	3	13	0
+PRT824_2_P34931	P34931	HS71L_HUMAN	Heat shock 70 kDa protein 1-like	spectrum sub-set protein	3	14	0
+PRT824_2_P54652	P54652	HSP72_HUMAN	Heat shock-related 70 kDa protein 2	spectrum sub-set protein	3	13	0
+PRT824_2_Q58FF6	Q58FF6	H90B4_HUMAN	Putative heat shock protein HSP 90-beta 4	spectrum sub-set protein	3	22	0
+PRT824_2_P48741	P48741	HSP77_HUMAN	Putative heat shock 70 kDa protein 7	spectrum sub-set protein	3	14	0
+PRT824_2_Q562R1	Q562R1	ACTBL_HUMAN	Beta-actin-like protein 2	spectrum sub-set protein	2	16	0
+PRT824_2_Q9Y243	Q9Y243	AKT3_HUMAN	RAC-gamma serine/threonine-protein kinase	spectrum sub-set protein	2	12	0
+PRT824_2_P0CG39	P0CG39	POTEJ_HUMAN	POTE ankyrin domain family member J	spectrum sub-set protein	2	7	0
+PRT824_2_Q6ZMR3	Q6ZMR3	LDH6A_HUMAN	L-lactate dehydrogenase A-like 6A	spectrum sub-set protein	2	10	0
+PRT824_2_P04259	P04259	K2C6B_HUMAN	Keratin, type II cytoskeletal 6B	spectrum sub-set protein	1	2	0
+PRT824_2_Q13885	Q13885	TBB2A_HUMAN	Tubulin beta-2A chain	spectrum sub-set protein	1	8	0
+PRT824_2_O95678	O95678	K2C75_HUMAN	Keratin, type II cytoskeletal 75	spectrum sub-set protein	1	2	0
+PRT824_2_A0A075B759	A0A075B759	PAL4E_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4E	spectrum sub-set protein	1	1	0
+PRT824_2_Q7RTS7	Q7RTS7	K2C74_HUMAN	Keratin, type II cytoskeletal 74	spectrum sub-set protein	1	2	0
+PRT824_2_P12035	P12035	K2C3_HUMAN	Keratin, type II cytoskeletal 3	spectrum sub-set protein	1	2	0
+PRT824_2_P48668	P48668	K2C6C_HUMAN	Keratin, type II cytoskeletal 6C	spectrum sub-set protein	1	2	0
+PRT824_2_O60361	O60361	NDK8_HUMAN	Putative nucleoside diphosphate kinase	spectrum sub-set protein	1	4	0
+PRT824_2_Q86Y46	Q86Y46	K2C73_HUMAN	Keratin, type II cytoskeletal 73	spectrum sub-set protein	1	2	0
+PRT824_2_Q9Y536	Q9Y536	PAL4A_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4A	spectrum sub-set protein	1	1	0
+PRT824_2_Q5XKE5	Q5XKE5	K2C79_HUMAN	Keratin, type II cytoskeletal 79	spectrum sub-set protein	1	2	0
+PRT824_2_P04264	P04264	K2C1_HUMAN	Keratin, type II cytoskeletal 1	spectrum sub-set protein	1	2	0
+PRT824_2_P05386	P05386	RLA1_HUMAN	60S acidic ribosomal protein P1	spectrum sub-set protein	1	7	0
+PRT824_2_Q9BVA1	Q9BVA1	TBB2B_HUMAN	Tubulin beta-2B chain	spectrum sub-set protein	1	8	0
+PRT824_2_P06276	P06276	CHLE_HUMAN	Cholinesterase	spectrum sub-set protein	1	3	0
+PRT824_2_A0A075B767	A0A075B767	PAL4H_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4H	spectrum sub-set protein	1	1	0
+PRT824_2_P41252	P41252	SYIC_HUMAN	Isoleucine--tRNA ligase, cytoplasmic	spectrum sub-set protein	1	6	0
+PRT824_2_Q8IVH8	Q8IVH8	M4K3_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 3	spectrum sub-set protein	1	6	0
+PRT824_2_P0DN37	P0DN37	PAL4G_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4G	spectrum sub-set protein	1	1	0
+PRT824_2_Q96LJ7	Q96LJ7	DHRS1_HUMAN	Dehydrogenase/reductase SDR family member 1	spectrum sub-set protein	1	6	0
+PRT824_2_Q7Z794	Q7Z794	K2C1B_HUMAN	Keratin, type II cytoskeletal 1b	spectrum sub-set protein	1	2	0
+PRT824_2_P16401	P16401	H15_HUMAN	Histone H1.5	spectrum sub-set protein	1	1	0
+PRT824_2_Q58FG0	Q58FG0	HS905_HUMAN	Putative heat shock protein HSP 90-alpha A5	spectrum sub-set protein	1	8	0
+PRT824_2_Q13162	Q13162	PRDX4_HUMAN	Peroxiredoxin-4	spectrum sub-set protein	1	2	0
+PRT824_2_P27482	P27482	CALL3_HUMAN	Calmodulin-like protein 3	spectrum sub-set protein	1	4	0
+PRT824_2_Q32P51	Q32P51	RA1L2_HUMAN	Heterogeneous nuclear ribonucleoprotein A1-like 2	spectrum sub-set protein	1	3	0
+PRT824_2_P35908	P35908	K22E_HUMAN	Keratin, type II cytoskeletal 2 epidermal	spectrum sub-set protein	1	2	0
+PRT824_2_Q9C0A0	Q9C0A0	CNTP4_HUMAN	Contactin-associated protein-like 4	spectrum sub-set protein	1	6	0
+PRT824_2_P0DN26	P0DN26	PAL4F_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4F	spectrum sub-set protein	1	1	0
+PRT824_2_O15173	O15173	PGRC2_HUMAN	Membrane-associated progesterone receptor component 2	spectrum sub-set protein	1	3	0
+PRT824_2_Q01546	Q01546	K22O_HUMAN	Keratin, type II cytoskeletal 2 oral	spectrum sub-set protein	1	2	0
+PRT824_2_A0A0B4J2A2	A0A0B4J2A2	PAL4C_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4C	spectrum sub-set protein	1	1	0
+PRT824_2_P02538	P02538	K2C6A_HUMAN	Keratin, type II cytoskeletal 6A	spectrum sub-set protein	1	2	0
+PRT824_2_Q02539	Q02539	H11_HUMAN	Histone H1.1	spectrum sub-set protein	1	1	0
+PRT824_2_P13647	P13647	K2C5_HUMAN	Keratin, type II cytoskeletal 5	spectrum sub-set protein	1	2	0
+PRT824_2_P22392	P22392	NDKB_HUMAN	Nucleoside diphosphate kinase B	spectrum sub-set protein	1	4	0
+PRT824_2_Q3SY84	Q3SY84	K2C71_HUMAN	Keratin, type II cytoskeletal 71	spectrum sub-set protein	1	2	0
+PRT824_2_Q12851	Q12851	M4K2_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 2	spectrum sub-set protein	1	6	0
+PRT824_2_Q9NY65	Q9NY65	TBA8_HUMAN	Tubulin alpha-8 chain	spectrum sub-set protein	1	7	0
+PRT824_2_P19013	P19013	K2C4_HUMAN	Keratin, type II cytoskeletal 4	spectrum sub-set protein	1	2	0
+PRT824_2_Q9NSB2	Q9NSB2	KRT84_HUMAN	Keratin, type II cuticular Hb4	spectrum sub-set protein	1	2	0
+PRT824_2_P08729	P08729	K2C7_HUMAN	Keratin, type II cytoskeletal 7	spectrum sub-set protein	1	2	0
+PRT824_2_P13929	P13929	ENOB_HUMAN	Beta-enolase	spectrum sub-set protein	1	3	0
+PRT824_2_Q92538	Q92538	GBF1_HUMAN	Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1	spectrum sub-set protein	1	8	0
+PRT824_2_Q9Y281	Q9Y281	COF2_HUMAN	Cofilin-2	spectrum sub-set protein	1	5	0
+PRT824_2_P07205	P07205	PGK2_HUMAN	Phosphoglycerate kinase 2	spectrum sub-set protein	1	3	0
+PRT824_2_P31150	P31150	GDIA_HUMAN	Rab GDP dissociation inhibitor alpha	spectrum sub-set protein	1	5	0
+PRT824_2_F5H284	F5H284	PAL4D_HUMAN	Peptidyl-prolyl cis-trans isomerase A-like 4D	spectrum sub-set protein	1	1	0
+PRT824_2_Q7Z7M8	Q7Z7M8	B3GN8_HUMAN	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8	spectrum sub-set protein	1	1	0
+PRT824_2_Q9H853	Q9H853	TBA4B_HUMAN	Putative tubulin-like protein alpha-4B	spectrum sub-set protein	1	7	0
+PRT824_2_Q14CN4	Q14CN4	K2C72_HUMAN	Keratin, type II cytoskeletal 72	spectrum sub-set protein	1	2	0
+PRT824_2_Q58FG1	Q58FG1	HS904_HUMAN	Putative heat shock protein HSP 90-alpha A4	spectrum sub-set protein	1	26	0
+PRT824_2_P68366	P68366	TBA4A_HUMAN	Tubulin alpha-4A chain	spectrum sub-set protein	1	7	0
+PRT824_2_P30613	P30613	KPYR_HUMAN	Pyruvate kinase PKLR	spectrum sub-set protein	1	4	0
+PRT824_2_Q8N1N4	Q8N1N4	K2C78_HUMAN	Keratin, type II cytoskeletal 78	spectrum sub-set protein	1	2	0
+PRT824_2_Q9UI15	Q9UI15	TAGL3_HUMAN	Transgelin-3	spectrum sub-set protein	1	4	0
+PRT824_2_P07864	P07864	LDHC_HUMAN	L-lactate dehydrogenase C chain	spectrum sub-set protein	1	5	0

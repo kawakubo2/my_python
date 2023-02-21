@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+# month = int(input('月の値を入力してください:'))
+
+for month in range(0, 14): # 0から13までの数値が作られる
+    if month in (12, 1, 2):
+        print('冬')
+    elif month in (3, 4, 5):
+        print('春')
+    elif month in (6, 7, 8):
+        print('夏')
+    elif month in (9, 10, 11):
+        print('秋')
+    else:
+        print('1～12の値を入力してください')

@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt2">
+            <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+            <title>MetaboAnalyst</title><link type="text/css" rel="stylesheet" href="/MetaboAnalyst/javax.faces.resource/theme.css.xhtml?ln=primefaces-saga&amp;v=12.0.0&amp;e=12.0.0" /><link type="text/css" rel="stylesheet" href="/MetaboAnalyst/javax.faces.resource/primeicons/primeicons.css.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0" /><link type="text/css" rel="stylesheet" href="/MetaboAnalyst/javax.faces.resource/layout/layout.css.xhtml?ln=primefaces-extensions&amp;v=12.0.0&amp;e=12.0.0" /><link type="text/css" rel="stylesheet" href="/MetaboAnalyst/javax.faces.resource/components.css.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0" /><link type="text/css" rel="stylesheet" href="/MetaboAnalyst/javax.faces.resource/colorpicker/colorpicker.css.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0" />
+
+        
+             
+        
+
+         
+        
+        
+
+        
+        <link type="text/css" rel="stylesheet" href="/MetaboAnalyst/resources/css/default_1.03.css" />
+        <style>
+            body > .ui-layout-west{
+                background: #f2f8ff !important;
+                border-right: dashed thin !important;
+                border-color: #999999 !important;
+            }
+            body > .ui-layout-east{
+                background: #f2f8ff !important;
+                border-left: dashed thin !important;
+                border-color: #999999 !important;
+            }
+            .glow {
+                text-shadow: 2px 2px 4px #000000;
+            }
+            .login .ui-dialog-titlebar{
+                padding: 0px !important;
+            }
+
+        </style></head><body><div id="j_idt7" class="ui-layout-north ui-layout-unit ui-panel ui-widget ui-widget-content ui-corner-all ui-layout-unit-content pe-layout-pane-content ui-panel-content" data-combinedposition="north">
+<form id="cmdCtrlForm" name="cmdCtrlForm" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="cmdCtrlForm" value="cmdCtrlForm" />
+<a id="cmdCtrlForm:showCmd" href="#" class="ui-commandlink ui-widget" onclick="PrimeFaces.addSubmitParam('cmdCtrlForm',{'cmdCtrlForm:showCmd':'cmdCtrlForm:showCmd'}).submit('cmdCtrlForm');return false;" style="position:absolute; right:10px; top: 10px; z-index: 999; color: blue">Show R Commands</a><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form><div id="j_idt8" class="ui-messages ui-widget" style="width:800px; padding-left: 280px" aria-live="polite"></div><span id="growl"></span></div><div id="j_idt9" class="ui-layout-center ui-layout-unit ui-panel ui-widget ui-widget-content ui-corner-all ui-layout-unit-content pe-layout-pane-content ui-panel-content" data-combinedposition="center">
+<form id="form1" name="form1" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="form1" value="form1" />
+<table id="form1:normPane" style="padding:30px 40px 20px 40px; font-size: 13px; line-height: 23px; width:95%">
+<tbody>
+<tr>
+<td>
+                <h2>Normalization Overview:</h2>
+                <p>
+                    The normalization procedures are grouped into three categories. You can use one or combine them to achieve better results.
+                    <ul>
+                        <li>
+                            Sample normalization is for general-purpose adjustment for systematic differences among samples;  
+                        </li>
+                        <li>
+                            Data transformation applies a mathematical transformation on individual values themselves. 
+                            A simple mathematical approach is used to deal with negative values in log and square root
+                            Please search OmicsForum using "normalization #metaboanalyst" to find more information.
+                        </li>
+                        <li>
+                            Data scaling adjusts each variable/feature by a scaling factor computed based on the dispersion of the variable. 
+                        </li>
+                    </ul>  
+                </p></td>
+</tr>
+<tr>
+<td><span id="form1:rowRadio" class="ui-helper-hidden"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:0" name="form1:rowRadio" type="radio" value="NULL" checked="checked" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:1" name="form1:rowRadio" type="radio" value="SpecNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:2" name="form1:rowRadio" type="radio" value="SumNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:3" name="form1:rowRadio" type="radio" value="MedianNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:4" name="form1:rowRadio" type="radio" value="SamplePQN" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:5" name="form1:rowRadio" type="radio" value="GroupPQN" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:6" name="form1:rowRadio" type="radio" value="CompNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:7" name="form1:rowRadio" type="radio" value="QuantileNorm" /></div></span></td>
+</tr>
+<tr>
+<td><span id="form1:transRadio" class="ui-helper-hidden"><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:0" name="form1:transRadio" type="radio" value="NULL" checked="checked" /></div><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:1" name="form1:transRadio" type="radio" value="LogNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:2" name="form1:transRadio" type="radio" value="SrNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:3" name="form1:transRadio" type="radio" value="CrNorm" /></div></span></td>
+</tr>
+<tr>
+<td><span id="form1:scaleRadio" class="ui-helper-hidden"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:0" name="form1:scaleRadio" type="radio" value="NULL" checked="checked" /></div><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:1" name="form1:scaleRadio" type="radio" value="MeanCenter" /></div><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:2" name="form1:scaleRadio" type="radio" value="AutoNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:3" name="form1:scaleRadio" type="radio" value="ParetoNorm" /></div><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:4" name="form1:scaleRadio" type="radio" value="RangeNorm" /></div></span></td>
+</tr>
+<tr>
+<td><table style="border: solid gray thin; width:800px; font-size: 13px; line-height: 28px; background-color: #F9F9FB; padding: 20px 20px 20px 30px; margin-left: 30px">
+<tbody>
+<tr>
+<td><span style="font-weight:bold">Sample normalization</span></td>
+</tr>
+<tr>
+<td><table style="padding:2px 12px 10px 10px">
+<tbody>
+<tr>
+<td><div id="form1:j_idt31" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:0_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="0" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt32" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">None</label></td>
+<td><img id="form1:j_idt33" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt34" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:1_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="1" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><div style="width: 360px"><label id="form1:j_idt36" class="ui-outputlabel ui-widget" style="font-size:13px; font-weight: bold">Sample-specific normalization</label><label> (i.e. weight, volume)</label></div></td>
+<td><a id="form1:j_idt38" href="#" class="ui-commandlink ui-widget" onclick="PF('smplNormDialog').show();PrimeFaces.ab({s:&quot;form1:j_idt38&quot;,f:&quot;form1&quot;});return false;">Specify</a></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt39" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:2_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="2" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt40" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Normalization by sum</label></td>
+<td><img id="form1:j_idt41" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt42" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:3_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="3" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt43" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Normalization by median</label></td>
+<td><img id="form1:j_idt44" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt45" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:4_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="4" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt46" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Normalization by a reference sample (PQN)</label></td>
+<td><a id="form1:j_idt47" href="#" class="ui-commandlink ui-widget" onclick="PF('refSmplDialog').show();PrimeFaces.ab({s:&quot;form1:j_idt47&quot;,f:&quot;form1&quot;});return false;">Specify</a></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt48" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:5_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="5" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt49" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Normalization by a pooled sample from group (group PQN)</label></td>
+<td><a id="form1:j_idt50" href="#" class="ui-commandlink ui-widget" onclick="PF('refGrpDialog').show();PrimeFaces.ab({s:&quot;form1:j_idt50&quot;,f:&quot;form1&quot;});return false;">Specify</a></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt51" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:6_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="6" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt52" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Normalization by reference feature</label></td>
+<td><a id="form1:j_idt53" href="#" class="ui-commandlink ui-widget" onclick="PF('refVarDialog').show();PrimeFaces.ab({s:&quot;form1:j_idt53&quot;,f:&quot;form1&quot;});return false;">Specify</a></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt54" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:rowRadio:7_clone" name="form1:rowRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="7" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt56" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Quantile normalization</label><label> (suggested only for &gt; 1000 features)</label></td>
+<td><img id="form1:j_idt58" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><span style="font-weight:bold">Data transformation</span></td>
+</tr>
+<tr>
+<td><table style="padding:2px 12px 10px 10px">
+<tbody>
+<tr>
+<td><div id="form1:j_idt70" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:0_clone" name="form1:transRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="0" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt71" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">None</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt72" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:1_clone" name="form1:transRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="1" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt74" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Log transformation</label><label> (base 10)</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt76" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:2_clone" name="form1:transRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="2" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt78" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Square root transformation</label><label> (square root of data values)</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt80" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:transRadio:3_clone" name="form1:transRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="3" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt82" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Cube root transformation</label><label> (cube root of data values)</label></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><span style="font-weight:bold">Data scaling</span></td>
+</tr>
+<tr>
+<td><table style="padding:2px 12px 10px 10px">
+<tbody>
+<tr>
+<td><div id="form1:j_idt86" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:0_clone" name="form1:scaleRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="0" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt87" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">None</label></td>
+<td><img id="form1:j_idt88" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt89" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:1_clone" name="form1:scaleRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="1" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt90" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Mean centering</label></td>
+<td><label>(mean-centered only)</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt92" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:2_clone" name="form1:scaleRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="2" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt93" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Auto scaling</label></td>
+<td><label>(mean-centered and divided by the standard deviation of each variable)</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt95" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:3_clone" name="form1:scaleRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="3" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt96" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Pareto scaling</label></td>
+<td><label>(mean-centered and divided by the square root of the standard deviation of each variable)</label></td>
+</tr>
+<tr>
+<td><div id="form1:j_idt98" class="ui-radiobutton ui-widget"><div class="ui-helper-hidden-accessible"><input id="form1:scaleRadio:4_clone" name="form1:scaleRadio_clone" type="radio" class="ui-radio-clone" data-itemindex="4" /></div><div class="ui-radiobutton-box ui-widget ui-corner-all ui-state-default"><span class="ui-radiobutton-icon ui-icon ui-icon-blank ui-c"></span></div></div></td>
+<td><label id="form1:j_idt99" class="ui-outputlabel ui-widget" style="font-size:12px; font-weight: bold">Range scaling</label></td>
+<td><label>(mean-centered and divided by the range of each variable)</label></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><table style="width:780px; text-align: center; padding-top: 10px; margin-left: 30px">
+<tbody>
+<tr>
+<td><button id="form1:j_idt102" name="form1:j_idt102" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PrimeFaces.bcn(this,event,[function(event){PF('statusDialog').show()},function(event){PrimeFaces.ab({s:&quot;form1:j_idt102&quot;,f:&quot;form1&quot;,u:&quot;ac form1:viewBn form1:nextBn cmdPane&quot;,onco:function(xhr,status,args,data){PF('statusDialog').hide();}});return false;}]);" style="width: 100px" type="submit"><span class="ui-button-text ui-c">Normalize</span></button></td>
+<td><button id="form1:viewBn" name="form1:viewBn" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-disabled" onclick="PrimeFaces.bcn(this,event,[function(event){PF('normResDialog').show()},function(event){PrimeFaces.ab({s:&quot;form1:viewBn&quot;,f:&quot;form1&quot;});return false;}]);" style="width: 120px" type="submit" disabled="disabled"><span class="ui-button-text ui-c">View Result</span></button></td>
+<td><button id="form1:nextBn" name="form1:nextBn" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-disabled" onclick="PrimeFaces.bcn(this,event,[function(event){PF('statusDialog').show()},function(event){}]);" style="width: 100px" type="submit" disabled="disabled"><span class="ui-button-text ui-c">Proceed</span></button></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:1" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form><div id="j_idt103" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt103_title" class="ui-dialog-title"></span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt103_content"></div></div><div id="j_idt114" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt114_title" class="ui-dialog-title"></span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt114_content"></div></div><div id="j_idt129" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt129_title" class="ui-dialog-title">Sample Selection</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt129_content"></div></div><div id="j_idt140" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt140_title" class="ui-dialog-title">Group Selection</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt140_content"></div></div><div id="j_idt151" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt151_title" class="ui-dialog-title">Feature Selection</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt151_content"></div></div></div><div id="j_idt162" class="ui-layout-west ui-layout-unit ui-panel ui-widget ui-widget-content ui-corner-all ui-layout-unit-content pe-layout-pane-content ui-panel-content" style="background: " data-combinedposition="west">
+        <div id="navi" style="line-height: 23px; font-family: Arial, Helvetica, Geneva; padding: 20px 10px 10px 20px; font-size: 13px;">
+<form id="treeForm" name="treeForm" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="treeForm" value="treeForm" />
+<table style="padding-left: 35px; padding-bottom: 10px">
+<tbody>
+<tr>
+<td><a id="treeForm:homelnk" href="#" onclick="mojarra.jsfcljs(document.getElementById('treeForm'),{'treeForm:homelnk':'treeForm:homelnk'},'');return false"><img id="treeForm:home" src="/MetaboAnalyst/resources/images/home.png?pfdrid_c=true" alt="" width="32" height="32" ismap="false" /></a></td>
+<td><img id="treeForm:j_idt165" width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="width:20px" /></td>
+<td><a id="treeForm:forumlnk" href="https://www.omicsforum.ca" class="ui-link ui-widget" target="_blank"><img id="treeForm:forum" src="/MetaboAnalyst/resources/images/forum.png?pfdrid_c=true" alt="" width="26" height="26" ismap="false" /></a></td>
+</tr>
+</tbody>
+</table>
+<div id="treeForm:j_idt166" class="ui-tooltip ui-widget ui-tooltip-right" role="tooltip" style="font-size: 11px;"><div class="ui-tooltip-arrow"></div><div class="ui-tooltip-text ui-shadow ui-corner-all">Exit and return to Home page</div></div><div id="treeForm:j_idt167" class="ui-tooltip ui-widget ui-tooltip-right" role="tooltip" style="font-size: 11px;"><div class="ui-tooltip-arrow"></div><div class="ui-tooltip-text ui-shadow ui-corner-all">Visit OmicsForum to search FAQs</div></div><div id="treeForm:j_idt168" class="ui-tree ui-widget ui-widget-content ui-corner-all" role="tree" aria-multiselectable="false" style="border: 3px rgb(177, 208, 238) ridge; width: 170px;                         padding: 2px 2px 4px 0px; font-size: 13px;"><ul tabindex="0" class="ui-tree-container"><li id="treeForm:j_idt168:0" data-rowkey="0" data-nodetype="default" class="ui-treenode-selected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable ui-state-highlight" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="true"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Upload</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:1" data-rowkey="1" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-parent"><div class="ui-treenode-content" role="treeitem" tabindex="-1" aria-expanded="true" aria-selected="false"><span class="ui-tree-toggler ui-icon ui-icon-triangle-1-s"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Processing</span></span></div><ul class="ui-treenode-children" role="group"><li id="treeForm:j_idt168:1_0" data-rowkey="1_0" data-nodetype="default" class="ui-treenode-selected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable ui-state-highlight" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="true"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Data check</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:1_1" data-rowkey="1_1" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Missing value</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:1_2" data-rowkey="1_2" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Data filter</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:1_3" data-rowkey="1_3" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Data editor</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li></ul></li><li id="treeForm:j_idt168:2" data-rowkey="2" data-nodetype="default" class="ui-treenode-selected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable ui-state-highlight" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="true"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Normalization</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3" data-rowkey="3" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-parent"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-tree-toggler ui-icon ui-icon-triangle-1-e"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Statistics</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"><li id="treeForm:j_idt168:3_0" data-rowkey="3_0" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Fold change</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_1" data-rowkey="3_1" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">T-test</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_2" data-rowkey="3_2" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Volcano plot</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_3" data-rowkey="3_3" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">ANOVA</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_4" data-rowkey="3_4" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Correlations</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_5" data-rowkey="3_5" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">DSPC network</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_6" data-rowkey="3_6" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">PatternHunter</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_7" data-rowkey="3_7" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">PCA</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_8" data-rowkey="3_8" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">PLSDA</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_9" data-rowkey="3_9" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">sPLSDA</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_10" data-rowkey="3_10" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">OrthoPLSDA</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_11" data-rowkey="3_11" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">SAM</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_12" data-rowkey="3_12" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">EBAM</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_13" data-rowkey="3_13" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Dendrogram</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_14" data-rowkey="3_14" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Heatmap</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_15" data-rowkey="3_15" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">SOM</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_16" data-rowkey="3_16" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">K-means</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_17" data-rowkey="3_17" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">RandomForest</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:3_18" data-rowkey="3_18" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">SVM</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li></ul></li><li id="treeForm:j_idt168:4" data-rowkey="4" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Download</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li><li id="treeForm:j_idt168:5" data-rowkey="5" data-nodetype="default" class="ui-treenode-unselected ui-treenode ui-treenode-leaf"><div class="ui-treenode-content ui-tree-selectable" role="treeitem" tabindex="-1" aria-expanded="false" aria-selected="false"><span class="ui-treenode-leaf-icon"></span><span></span><span class="ui-treenode-label ui-corner-all"><span style="color: #011CA2;">Exit</span></span></div><ul class="ui-treenode-children" role="group" style="display:none"></ul></li></ul><input id="treeForm:j_idt168_selection" name="treeForm:j_idt168_selection" type="hidden" autocomplete="off" /><input id="treeForm:j_idt168_scrollState" name="treeForm:j_idt168_scrollState" type="hidden" autocomplete="off" value="0,0" /></div><table id="treeForm:accountPaneGeneral" style="padding-left: 12%; padding-top: 10%; width: 165px">
+<tbody>
+<tr><td></td></tr></tbody>
+</table>
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:2" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form>
+        </div><div id="j_idt178" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container" style="width: 400px; height:400px;"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt178_title" class="ui-dialog-title">Administrator Entry:</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt178_content"></div></div><div id="j_idt186" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container" style="width: 420px; height:420px;"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt186_title" class="ui-dialog-title">Graphics Center</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt186_content"></div></div><div id="j_idt232" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt232_title" class="ui-dialog-title">Your project updates can be lost!</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt232_content">
+<form id="j_idt233" name="j_idt233" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt233" value="j_idt233" />
+<table style="width:380px; line-height: 150%; padding: 2px; font-size: 13px">
+<tbody>
+<tr>
+<td>
+                    <p>
+                        <span icon="pi pi-info-circle" style="float:left; margin:0 7px 50px 0;"></span>
+                        <div>If you did not <span style="font-weight:bold">save</span> the project, please do so.</div>
+                    </p>
+                    <p>Do you want to save your work first?</p></td>
+</tr>
+</tbody>
+</table>
+<button id="j_idt233:j_idt236" name="j_idt233:j_idt236" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PrimeFaces.bcn(this,event,[function(event){PF('saveProjDialog').hide();                                          PF('statusDialog').show();},function(event){PrimeFaces.ab({s:&quot;j_idt233:j_idt236&quot;,f:&quot;j_idt233&quot;,onco:function(xhr,status,args,data){PF('statusDialog').hide();;}});return false;}]);" style="width:50px; font-size: 14px; margin-left: 20%" type="submit"><span class="ui-button-text ui-c">Yes</span></button><button id="j_idt233:j_idt237" name="j_idt233:j_idt237" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PrimeFaces.bcn(this,event,[function(event){PF('saveProjDialog').hide()},function(event){PrimeFaces.ab({s:&quot;j_idt233:j_idt237&quot;,f:&quot;j_idt233&quot;});return false;}]);" style="width:50px; font-size: 14px; margin-left: 100px" type="submit"><span class="ui-button-text ui-c">No</span></button><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:3" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form></div></div><div id="j_idt238" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt238_title" class="ui-dialog-title">Updating...</span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt238_content">
+<form id="j_idt239" name="j_idt239" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt239" value="j_idt239" />
+<table style="padding: 20px; width:540px; font-size: 13px; line-height: 23px">
+<tbody>
+<tr>
+<td> 
+
+                    Sorry. User login module is being upgraded. You can still process your spectra without login. 
+                    We will come back soon...                     
+
+                    </td>
+</tr>
+<tr>
+<td><table style=" width: 100%; text-align:center">
+<tbody>
+<tr>
+<td><button id="j_idt239:j_idt243" name="j_idt239:j_idt243" type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PF('warning').hide();;window.open('#','_self')"><span class="ui-button-text ui-c">Okay</span></button></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:4" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form></div></div></div><div id="j_idt253" class="ui-layout-south ui-layout-unit ui-panel ui-widget ui-widget-content ui-corner-all ui-layout-unit-content pe-layout-pane-content ui-panel-content" data-combinedposition="south">
+                <div id="footer" style="clear: both; margin: 0; padding: 0;" class="ui-widget ui-widget-header ui-corner-all">
+    <div style="width:100%; font-size: 10px; font-family: sans-serif; padding-top: 6px; padding-bottom: 4px">
+        <a style="text-decoration: none;" href="https://www.xialab.ca" target="_blank">Xia Lab @ McGill</a>   (last updated 2022-10-28) 
+    </div>
+                </div></div><div id="j_idt257" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container" style="width: 200px; height:65px;"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt257_title" class="ui-dialog-title">Processing .... </span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt257_content"> 
+            <div style="width: 100%; text-align: center; padding:20px">
+                <p>
+                    This may take a while to complete, please be patient....
+                </p><img id="j_idt259" src="/MetaboAnalyst/resources/images/ajax-loader.gif?pfdrid_c=true" alt="" ismap="false" /> 
+            </div></div></div><div id="j_idt261" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt261_title" class="ui-dialog-title">Your session is about to expire!</span></div><div class="ui-dialog-content ui-widget-content" id="j_idt261_content">              
+            <div style="width:400px; line-height: 150%; padding: 10px; font-size: 13px">
+                <p>
+                    <span icon="pi pi-info-circle" style="float:left; margin:0 7px 50px 0;"></span>
+                    <div>You will be logged off in <span id="dialog-countdown" style="font-weight:bold"></span> seconds.</div>
+                </p>
+                <p>Do you want to continue your session?</p>   
+            </div>
+<form id="j_idt263" name="j_idt263" method="post" action="/MetaboAnalyst/Secure/process/NormalizationView.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt263" value="j_idt263" />
+<table style="width: 100%; text-align: center">
+<tbody>
+<tr>
+<td><button id="j_idt263:j_idt265" name="j_idt263:j_idt265" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PrimeFaces.ab({s:&quot;j_idt263:j_idt265&quot;,f:&quot;j_idt263&quot;,onco:function(xhr,status,args,data){resetPageTimer();}});return false;" style="width:180px; font-size: 14px" type="submit"><span class="ui-button-text ui-c">Yes, keep working</span></button></td>
+<td><button id="j_idt263:j_idt266" name="j_idt263:j_idt266" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="PrimeFaces.bcn(this,event,[function(event){PF('timeoutDialog').hide()},function(event){PrimeFaces.ab({s:&quot;j_idt263:j_idt266&quot;,f:&quot;j_idt263&quot;});return false;}]);" style="width:160px; font-size: 14px" type="submit"><span class="ui-button-text ui-c">No, log off</span></button></td>
+</tr>
+</tbody>
+</table>
+<input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:5" value="-1687684517959868674:-2102433245172660252" autocomplete="off" />
+</form></div></div><div id="j_idt267" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container login"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt267_title" class="ui-dialog-title"></span><a href="#" class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" aria-label="Close"><span class="ui-icon ui-icon-closethick"></span></a></div><div class="ui-dialog-content ui-widget-content" id="j_idt267_content"></div></div><div id="j_idt277" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div class="ui-dialog-content ui-widget-content" id="j_idt277_content"></div></div><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/core.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/primefaces-extensions.js.xhtml?ln=primefaces-extensions&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/layout/layout.js.xhtml?ln=primefaces-extensions&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/components.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/touch/touchswipe.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/colorpicker/colorpicker.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/filedownload/filedownload.js.xhtml?ln=primefaces&amp;v=12.0.0&amp;e=12.0.0"></script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-9654671-1" type="text/javascript"></script><script type="text/javascript" src="https://api.omicsquare.com/OmicSquareAPI/resources/jscripts/webchat/webchat.js"></script><script type="text/javascript" src="/MetaboAnalyst/javax.faces.resource/jsf.js.xhtml?ln=javax.faces"></script><script id="32455c77-c164-4cda-a2a3-afc659a88f64" type="text/javascript">var pf=window.PrimeFaces;if(pf){pf.settings.locale='en';pf.settings.viewId='/Secure/process/NormalizationView.xhtml';pf.settings.contextPath='/MetaboAnalyst';pf.settings.cookiesSecure=false;pf.settings.partialSubmit=true;};
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-9654671-1');
+        ;
+
+            $(document).ready(function () {
+
+                var prefix = "www";
+                $.ajax({
+                    beforeSend: function () {
+
+                    },
+                    dataType: "html",
+                    type: "POST",
+                    url: '/MetaboAnalyst/faces/AjaxCall',
+                    data: {function: 'getOmicsBotOpt'},
+                    async: false,
+                    success: function (result) {
+                        prefix = result;
+                    },
+                    error: function () {
+                        console.log("error");
+                    }
+                });
+                console.log(prefix);
+                if (prefix !== "disabled") {
+                    sessionStorage.clear();
+                    const page = getCurrentPageUrl();
+                    const category = "MetaboAnalyst";
+                    const payLoad = getPayload(page, category);
+                    console.log(payLoad);
+                    webchatObj.func1(false, prefix, payLoad);
+                }
+
+            });
+
+        ;
+
+            var startFrom = 1800; //1500;  // Total session time out setting eg 10 sec, Real implementation assign from session
+            var loopTill = 20; //;  //Count down degins from 6 sec and starts after 4 sec ie 10-6
+            var reduce = 1;
+            var handleDialog = null;
+            var redirectPage = "/MetaboAnalyst/home.xhtml";
+            var countDownDiv = "dialog-countdown";
+            function resetPageTimer() {
+                PF('timeoutDialog').hide();
+                startPageTimer(startFrom, loopTill);
+                clearInterval(handleDialog);
+            }
+
+            function startDialogTimer(wCounter, timeOutPage) {
+                var e = null;
+                if (!e)
+                    e = document.getElementById(countDownDiv);
+                e.innerHTML = wCounter;
+                handleDialog = setInterval(function () {
+                    if (wCounter === 0) {
+                        clearInterval(handleDialog);
+                        window.location.href = timeOutPage;
+                    } else {
+                        wCounter -= reduce;
+                        e.innerHTML = wCounter;
+                    }
+                }, reduce * 1000);
+            }
+
+            function startPageTimer(wFrom, wReach) {
+                var handle = null;
+                handle = setInterval(function () {
+                    if (wFrom === wReach) {
+                        clearInterval(handle);
+                        PF('timeoutDialog').show();
+                        startDialogTimer(loopTill, redirectPage);
+                    } else {
+                        wFrom -= reduce;
+                    }
+                }, reduce * 1000);
+            }
+            if (window.location.href.includes("JobStatusView.xhtml") || window.location.href.includes("SpectraUpload.xhtml")) {
+                startPageTimer(10700, loopTill);
+            } else {
+                startPageTimer(startFrom, loopTill);
+            }
+
+            function start() {
+                PF('statusDialog').show();
+            }
+
+            function stop() {
+                PF('statusDialog').hide();
+            }
+        ;
+pf.cw("CommandLink","widget_cmdCtrlForm_showCmd",{id:"cmdCtrlForm:showCmd"});
+pf.cw("Messages","widget_j_idt8",{id:"j_idt8"});
+pf.cw("Growl","widget_growl",{id:"growl",sticky:true,life:6000,escape:false,keepAlive:false,msgs:[]});
+pf.cw("SelectOneRadio","widget_form1_rowRadio",{id:"form1:rowRadio",custom:true,unselectable:false});
+pf.cw("SelectOneRadio","widget_form1_transRadio",{id:"form1:transRadio",custom:true,unselectable:false});
+pf.cw("SelectOneRadio","widget_form1_scaleRadio",{id:"form1:scaleRadio",custom:true,unselectable:false});
+pf.cw("CommandLink","widget_form1_j_idt38",{id:"form1:j_idt38"});
+pf.cw("CommandLink","widget_form1_j_idt47",{id:"form1:j_idt47"});
+pf.cw("CommandLink","widget_form1_j_idt50",{id:"form1:j_idt50"});
+pf.cw("CommandLink","widget_form1_j_idt53",{id:"form1:j_idt53"});
+pf.cw("CommandButton","widget_form1_j_idt102",{id:"form1:j_idt102"});
+pf.cw("CommandButton","widget_form1_viewBn",{id:"form1:viewBn",disabledAttr:true});
+pf.cw("CommandButton","widget_form1_nextBn",{id:"form1:nextBn",disabledAttr:true});
+pf.cw("Dialog","smplNormDialog",{id:"j_idt103",modal:true,height:"460",appendTo:"@(body)",dynamic:true,hideEffect:"explode"});
+pf.cw("Dialog","normResDialog",{id:"j_idt114",height:"700",appendTo:"@(body)",dynamic:true,hideEffect:"explode"});
+pf.cw("Dialog","refSmplDialog",{id:"j_idt129",modal:true,appendTo:"@(body)",dynamic:true,hideEffect:"explode"});
+pf.cw("Dialog","refGrpDialog",{id:"j_idt140",modal:true,appendTo:"@(body)",dynamic:true,hideEffect:"explode"});
+pf.cw("Dialog","refVarDialog",{id:"j_idt151",modal:true,appendTo:"@(body)",dynamic:true,hideEffect:"explode"});
+pf.cw("Tooltip","widget_treeForm_j_idt166",{id:"treeForm:j_idt166",showEffect:"fade",hideEffect:"fade",target:"treeForm:homelnk"});
+pf.cw("Tooltip","widget_treeForm_j_idt167",{id:"treeForm:j_idt167",showEffect:"fade",hideEffect:"fade",target:"treeForm:forumlnk"});
+pf.cw("VerticalTree","widget_treeForm_j_idt168",{id:"treeForm:j_idt168",dynamic:false,cache:false,selectionMode:"single",propagateUp:true,propagateDown:true,iconStates:{},behaviors:{select:function(ext,event) {pf.ab({s:"treeForm:j_idt168",e:"select",f:"treeForm",p:"treeForm:j_idt168",u:"treeForm",onst:function(cfg){PF('statusDialog').show();},oner:function(xhr,status,error){PF('statusDialog').hide();}},ext);}}});
+pf.cw("Dialog","Manager Entry",{id:"j_idt178",draggable:false,resizable:false,modal:true,appendTo:"@(body)",dynamic:true});
+pf.cw("Dialog","graphDialog",{id:"j_idt186",modal:true,appendTo:"@(body)",dynamic:true});
+pf.cw("CommandButton","widget_j_idt233_j_idt236",{id:"j_idt233:j_idt236"});
+pf.cw("CommandButton","widget_j_idt233_j_idt237",{id:"j_idt233:j_idt237"});
+pf.cw("Dialog","saveProjDialog",{id:"j_idt232",draggable:false,resizable:false,modal:true,width:"395",height:"140",appendTo:"@(body)",showEffect:"fade",hideEffect:"fade"});
+pf.cw("Button","widget_j_idt239_j_idt243",{id:"j_idt239:j_idt243"});
+pf.cw("Dialog","warning",{id:"j_idt238",draggable:false,resizable:false,modal:true,appendTo:"@(body)",showEffect:"fade",hideEffect:"fade"});
+pf.cw("ExtLayout","layoutGeral",{id:"j_idt6",clientState:false,full:true,serverState:false,options:{"defaults":{"tips":{}},"north":{"spacing_closed":0,"resizable":false,"closable":false,"spacing_open":0,"tips":{}},"south":{"spacing_closed":0,"resizable":false,"closable":false,"spacing_open":0,"tips":{}},"west":{"spacing_closed":0,"size":"220","resizable":false,"closable":false,"spacing_open":0,"tips":{}},"center":{"spacing_closed":0,"resizable":false,"closable":false,"spacing_open":0,"tips":{}}}});
+pf.cw("Dialog","statusDialog",{id:"j_idt257",draggable:false,resizable:false,modal:true,appendTo:"@(body)"});
+pf.cw("CommandButton","widget_j_idt263_j_idt265",{id:"j_idt263:j_idt265"});
+pf.cw("CommandButton","widget_j_idt263_j_idt266",{id:"j_idt263:j_idt266"});
+pf.cw("Dialog","timeoutDialog",{id:"j_idt261",draggable:false,resizable:false,modal:true,width:"420",height:"160",appendTo:"@(body)",showEffect:"fade",hideEffect:"fade"});
+pf.cw("Dialog","signin",{id:"j_idt267",draggable:false,resizable:false,modal:true,appendTo:"@(body)",dynamic:true,showEffect:"fade",hideEffect:"fade"});
+pf.cw("Dialog","signup",{id:"j_idt277",draggable:false,resizable:false,modal:true,appendTo:"@(body)",dynamic:true,showEffect:"fade",hideEffect:"fade"});document.getElementById('32455c77-c164-4cda-a2a3-afc659a88f64').remove();</script></body>
+</html>

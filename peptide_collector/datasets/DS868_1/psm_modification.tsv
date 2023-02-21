@@ -1,0 +1,977 @@
+psm_id	modification	site	position
+PSM868_1_1	Carbamidomethyl	C	1
+PSM868_1_1	Phospho	S	22
+PSM868_1_10	Ammonia-loss	N-term	
+PSM868_1_10	Carbamidomethyl	C	1
+PSM868_1_10	Phospho	S	22
+PSM868_1_100	Phospho	S	10
+PSM868_1_101	Phospho	S	10
+PSM868_1_102	Phospho	S	10
+PSM868_1_103	Acetyl	N-term	
+PSM868_1_103	Phospho	S	13
+PSM868_1_104	Acetyl	N-term	
+PSM868_1_104	Phospho	S	13
+PSM868_1_105	Acetyl	N-term	
+PSM868_1_105	Phospho	S	13
+PSM868_1_106	Acetyl	N-term	
+PSM868_1_106	Phospho	S	13
+PSM868_1_107	Acetyl	N-term	
+PSM868_1_107	Phospho	S	13
+PSM868_1_108	Acetyl	N-term	
+PSM868_1_108	Phospho	S	13
+PSM868_1_109	Phospho	T	3
+PSM868_1_11	Ammonia-loss	N-term	
+PSM868_1_11	Carbamidomethyl	C	1
+PSM868_1_11	Phospho	S	22
+PSM868_1_110	Phospho	T	3
+PSM868_1_111	Phospho	T	3
+PSM868_1_112	Phospho	T	3
+PSM868_1_113	Phospho	S	3
+PSM868_1_114	Phospho	S	8
+PSM868_1_115	Phospho	S	8
+PSM868_1_116	Phospho	S	8
+PSM868_1_117	Phospho	S	8
+PSM868_1_118	Phospho	S	8
+PSM868_1_119	Phospho	S	8
+PSM868_1_12	Ammonia-loss	N-term	
+PSM868_1_12	Carbamidomethyl	C	1
+PSM868_1_12	Phospho	S	22
+PSM868_1_120	Phospho	S	8
+PSM868_1_121	Phospho	S	8
+PSM868_1_122	Phospho	S	8
+PSM868_1_123	Phospho	S	8
+PSM868_1_124	Phospho	S	8
+PSM868_1_125	Phospho	S	8
+PSM868_1_126	Phospho	S	8
+PSM868_1_127	Phospho	S	8
+PSM868_1_128	Acetyl	N-term	
+PSM868_1_128	Phospho	S	1
+PSM868_1_129	Acetyl	N-term	
+PSM868_1_129	Phospho	S	1
+PSM868_1_13	Ammonia-loss	N-term	
+PSM868_1_13	Carbamidomethyl	C	1
+PSM868_1_13	Phospho	S	22
+PSM868_1_130	Acetyl	N-term	
+PSM868_1_130	Phospho	S	1
+PSM868_1_131	Acetyl	N-term	
+PSM868_1_131	Phospho	S	1
+PSM868_1_132	Acetyl	N-term	
+PSM868_1_132	Phospho	S	1
+PSM868_1_133	Acetyl	N-term	
+PSM868_1_133	Phospho	S	1
+PSM868_1_134	Acetyl	N-term	
+PSM868_1_134	Phospho	S	1
+PSM868_1_135	Acetyl	N-term	
+PSM868_1_135	Phospho	S	1
+PSM868_1_136	Acetyl	N-term	
+PSM868_1_136	Phospho	S	2
+PSM868_1_137	Acetyl	N-term	
+PSM868_1_137	Phospho	S	2
+PSM868_1_138	Acetyl	N-term	
+PSM868_1_138	Phospho	S	2
+PSM868_1_139	Acetyl	N-term	
+PSM868_1_139	Phospho	S	2
+PSM868_1_14	Ammonia-loss	N-term	
+PSM868_1_14	Carbamidomethyl	C	1
+PSM868_1_14	Phospho	S	22
+PSM868_1_140	Acetyl	N-term	
+PSM868_1_140	Phospho	S	2
+PSM868_1_141	Acetyl	N-term	
+PSM868_1_141	Phospho	S	2
+PSM868_1_142	Acetyl	N-term	
+PSM868_1_142	Phospho	S	2
+PSM868_1_143	Acetyl	N-term	
+PSM868_1_143	Phospho	S	2
+PSM868_1_144	Acetyl	N-term	
+PSM868_1_144	Phospho	S	2
+PSM868_1_145	Acetyl	N-term	
+PSM868_1_145	Phospho	S	2
+PSM868_1_146	Acetyl	N-term	
+PSM868_1_146	Phospho	S	2
+PSM868_1_147	Acetyl	N-term	
+PSM868_1_147	Phospho	S	2
+PSM868_1_148	Acetyl	N-term	
+PSM868_1_148	Phospho	S	2
+PSM868_1_149	Acetyl	N-term	
+PSM868_1_149	Phospho	S	2
+PSM868_1_15	Phospho	S	13
+PSM868_1_150	Acetyl	N-term	
+PSM868_1_150	Phospho	S	2
+PSM868_1_151	Acetyl	N-term	
+PSM868_1_151	Phospho	S	2
+PSM868_1_152	Acetyl	N-term	
+PSM868_1_152	Phospho	S	2
+PSM868_1_153	Acetyl	N-term	
+PSM868_1_153	Phospho	S	2
+PSM868_1_154	Phospho	T	18
+PSM868_1_155	Phospho	T	18
+PSM868_1_156	Phospho	T	18
+PSM868_1_157	Phospho	S	12
+PSM868_1_158	Phospho	S	12
+PSM868_1_159	Phospho	S	12
+PSM868_1_16	Phospho	S	13
+PSM868_1_160	Phospho	S	3
+PSM868_1_161	Phospho	S	3
+PSM868_1_162	Phospho	S	3
+PSM868_1_163	Phospho	S	3
+PSM868_1_164	Phospho	S	3
+PSM868_1_165	Phospho	S	3
+PSM868_1_166	Phospho	S	3
+PSM868_1_167	Phospho	S	3
+PSM868_1_168	Phospho	S	3
+PSM868_1_169	Phospho	S	3
+PSM868_1_17	Phospho	S	13
+PSM868_1_170	Phospho	S	3
+PSM868_1_171	Acetyl	N-term	
+PSM868_1_171	Phospho	S	1
+PSM868_1_172	Acetyl	N-term	
+PSM868_1_172	Phospho	S	1
+PSM868_1_173	Acetyl	N-term	
+PSM868_1_173	Phospho	S	1
+PSM868_1_174	Acetyl	N-term	
+PSM868_1_174	Phospho	S	1
+PSM868_1_175	Carbamidomethyl	C	2
+PSM868_1_175	Phospho	Y	18
+PSM868_1_176	Carbamidomethyl	C	2
+PSM868_1_176	Phospho	Y	18
+PSM868_1_177	Carbamidomethyl	C	2
+PSM868_1_177	Phospho	Y	18
+PSM868_1_178	Carbamidomethyl	C	2
+PSM868_1_178	Phospho	Y	18
+PSM868_1_179	Carbamidomethyl	C	2
+PSM868_1_179	Phospho	Y	18
+PSM868_1_18	Phospho	S	13
+PSM868_1_180	Phospho	S	21
+PSM868_1_181	Phospho	S	21
+PSM868_1_182	Phospho	S	21
+PSM868_1_183	Phospho	S	21
+PSM868_1_184	Phospho	S	21
+PSM868_1_185	Carbamidomethyl	C	21
+PSM868_1_185	Phospho	S	23
+PSM868_1_186	Carbamidomethyl	C	21
+PSM868_1_186	Phospho	S	23
+PSM868_1_187	Carbamidomethyl	C	21
+PSM868_1_187	Phospho	S	23
+PSM868_1_188	Carbamidomethyl	C	21
+PSM868_1_188	Phospho	S	23
+PSM868_1_189	Carbamidomethyl	C	21
+PSM868_1_189	Phospho	S	23
+PSM868_1_19	Phospho	S	13
+PSM868_1_190	Carbamidomethyl	C	21
+PSM868_1_190	Phospho	S	23
+PSM868_1_191	Phospho	S	3
+PSM868_1_192	Phospho	S	3
+PSM868_1_193	Phospho	S	3
+PSM868_1_194	Phospho	S	3
+PSM868_1_195	Phospho	S	3
+PSM868_1_196	Phospho	S	3
+PSM868_1_197	Phospho	S	3
+PSM868_1_198	Phospho	S	3
+PSM868_1_199	Phospho	S	3
+PSM868_1_2	Carbamidomethyl	C	1
+PSM868_1_2	Phospho	S	22
+PSM868_1_20	Phospho	S	13
+PSM868_1_200	Phospho	S	13
+PSM868_1_201	Phospho	S	13
+PSM868_1_202	Phospho	S	13
+PSM868_1_203	Acetyl	N-term	
+PSM868_1_203	Phospho	S	1
+PSM868_1_204	Acetyl	N-term	
+PSM868_1_204	Phospho	S	1
+PSM868_1_205	Acetyl	N-term	
+PSM868_1_205	Phospho	S	1
+PSM868_1_206	Acetyl	N-term	
+PSM868_1_206	Phospho	S	1
+PSM868_1_207	Acetyl	N-term	
+PSM868_1_207	Phospho	S	1
+PSM868_1_208	Acetyl	N-term	
+PSM868_1_208	Phospho	S	1
+PSM868_1_21	Phospho	S	13
+PSM868_1_213	Acetyl	N-term	
+PSM868_1_213	Phospho	S	1
+PSM868_1_214	Acetyl	N-term	
+PSM868_1_214	Phospho	S	1
+PSM868_1_215	Acetyl	N-term	
+PSM868_1_215	Phospho	S	1
+PSM868_1_216	Acetyl	N-term	
+PSM868_1_216	Phospho	S	1
+PSM868_1_217	Acetyl	N-term	
+PSM868_1_217	Phospho	S	1
+PSM868_1_218	Acetyl	N-term	
+PSM868_1_218	Phospho	S	1
+PSM868_1_219	Acetyl	N-term	
+PSM868_1_219	Phospho	S	1
+PSM868_1_22	Phospho	S	13
+PSM868_1_220	Phospho	S	7
+PSM868_1_221	Phospho	S	7
+PSM868_1_222	Phospho	S	7
+PSM868_1_223	Phospho	S	7
+PSM868_1_224	Phospho	S	4
+PSM868_1_225	Phospho	S	4
+PSM868_1_226	Phospho	S	4
+PSM868_1_227	Phospho	S	4
+PSM868_1_228	Phospho	S	16
+PSM868_1_229	Phospho	S	16
+PSM868_1_23	Phospho	S	13
+PSM868_1_230	Phospho	S	16
+PSM868_1_231	Phospho	S	16
+PSM868_1_232	Phospho	S	16
+PSM868_1_233	Acetyl	N-term	
+PSM868_1_233	Phospho	S	1
+PSM868_1_234	Acetyl	N-term	
+PSM868_1_234	Phospho	S	1
+PSM868_1_235	Acetyl	N-term	
+PSM868_1_235	Phospho	S	1
+PSM868_1_236	Acetyl	N-term	
+PSM868_1_236	Phospho	S	1
+PSM868_1_237	Acetyl	N-term	
+PSM868_1_237	Phospho	S	1
+PSM868_1_238	Acetyl	N-term	
+PSM868_1_238	Phospho	S	1
+PSM868_1_239	Phospho	S	3
+PSM868_1_239	Carbamidomethyl	C	22
+PSM868_1_24	Phospho	S	13
+PSM868_1_240	Phospho	S	3
+PSM868_1_240	Carbamidomethyl	C	22
+PSM868_1_241	Phospho	S	3
+PSM868_1_241	Carbamidomethyl	C	22
+PSM868_1_242	Phospho	S	3
+PSM868_1_243	Phospho	S	3
+PSM868_1_244	Phospho	S	3
+PSM868_1_245	Phospho	S	3
+PSM868_1_246	Phospho	S	3
+PSM868_1_247	Phospho	S	10
+PSM868_1_248	Phospho	S	10
+PSM868_1_249	Phospho	S	10
+PSM868_1_25	Phospho	S	13
+PSM868_1_250	Phospho	S	10
+PSM868_1_251	Phospho	S	10
+PSM868_1_252	Phospho	S	10
+PSM868_1_253	Phospho	S	10
+PSM868_1_254	Phospho	S	10
+PSM868_1_255	Oxidation	M	1
+PSM868_1_255	Phospho	S	22
+PSM868_1_256	Oxidation	M	1
+PSM868_1_256	Phospho	S	22
+PSM868_1_257	Oxidation	M	1
+PSM868_1_257	Phospho	S	22
+PSM868_1_258	Phospho	S	3
+PSM868_1_258	Carbamidomethyl	C	5
+PSM868_1_259	Phospho	S	3
+PSM868_1_259	Carbamidomethyl	C	5
+PSM868_1_26	Phospho	S	3
+PSM868_1_26	Carbamidomethyl	C	37
+PSM868_1_260	Phospho	S	3
+PSM868_1_260	Carbamidomethyl	C	5
+PSM868_1_261	Phospho	S	1
+PSM868_1_261	Phospho	S	19
+PSM868_1_262	Phospho	S	1
+PSM868_1_262	Phospho	S	19
+PSM868_1_263	Phospho	S	1
+PSM868_1_263	Phospho	S	19
+PSM868_1_264	Phospho	S	3
+PSM868_1_265	Phospho	S	3
+PSM868_1_266	Phospho	S	3
+PSM868_1_267	Phospho	S	3
+PSM868_1_268	Phospho	S	3
+PSM868_1_269	Phospho	S	3
+PSM868_1_27	Phospho	S	3
+PSM868_1_27	Carbamidomethyl	C	37
+PSM868_1_270	Phospho	S	3
+PSM868_1_271	Phospho	S	3
+PSM868_1_272	Phospho	S	3
+PSM868_1_273	Phospho	S	3
+PSM868_1_274	Phospho	S	3
+PSM868_1_275	Phospho	S	3
+PSM868_1_276	Phospho	S	3
+PSM868_1_277	Phospho	S	3
+PSM868_1_278	Phospho	S	3
+PSM868_1_279	Phospho	S	3
+PSM868_1_28	Phospho	S	3
+PSM868_1_28	Carbamidomethyl	C	37
+PSM868_1_280	Acetyl	N-term	
+PSM868_1_280	Phospho	S	5
+PSM868_1_281	Acetyl	N-term	
+PSM868_1_281	Phospho	S	5
+PSM868_1_282	Acetyl	N-term	
+PSM868_1_282	Phospho	S	5
+PSM868_1_283	Acetyl	N-term	
+PSM868_1_283	Phospho	S	5
+PSM868_1_284	Acetyl	N-term	
+PSM868_1_284	Phospho	S	5
+PSM868_1_285	Phospho	S	14
+PSM868_1_286	Phospho	S	14
+PSM868_1_287	Phospho	S	14
+PSM868_1_288	Phospho	S	5
+PSM868_1_289	Phospho	S	5
+PSM868_1_29	Phospho	S	3
+PSM868_1_29	Carbamidomethyl	C	37
+PSM868_1_290	Phospho	S	5
+PSM868_1_291	Phospho	S	5
+PSM868_1_292	Phospho	S	22
+PSM868_1_293	Phospho	S	22
+PSM868_1_294	Phospho	S	22
+PSM868_1_295	Phospho	S	7
+PSM868_1_296	Phospho	S	7
+PSM868_1_297	Phospho	S	7
+PSM868_1_298	Phospho	S	7
+PSM868_1_299	Acetyl	N-term	
+PSM868_1_299	Phospho	S	2
+PSM868_1_299	Oxidation	M	17
+PSM868_1_3	Carbamidomethyl	C	1
+PSM868_1_3	Phospho	S	22
+PSM868_1_30	Phospho	S	3
+PSM868_1_30	Carbamidomethyl	C	37
+PSM868_1_300	Acetyl	N-term	
+PSM868_1_300	Phospho	S	2
+PSM868_1_300	Oxidation	M	17
+PSM868_1_301	Acetyl	N-term	
+PSM868_1_301	Phospho	S	2
+PSM868_1_301	Oxidation	M	17
+PSM868_1_302	Acetyl	N-term	
+PSM868_1_302	Phospho	S	2
+PSM868_1_302	Oxidation	M	17
+PSM868_1_303	Acetyl	N-term	
+PSM868_1_303	Phospho	S	2
+PSM868_1_303	Oxidation	M	17
+PSM868_1_304	Acetyl	N-term	
+PSM868_1_304	Phospho	S	2
+PSM868_1_304	Oxidation	M	17
+PSM868_1_305	Acetyl	N-term	
+PSM868_1_305	Phospho	S	2
+PSM868_1_305	Oxidation	M	17
+PSM868_1_306	Carbamidomethyl	C	1
+PSM868_1_306	Phospho	S	24
+PSM868_1_307	Carbamidomethyl	C	1
+PSM868_1_307	Phospho	S	24
+PSM868_1_308	Carbamidomethyl	C	1
+PSM868_1_308	Phospho	S	24
+PSM868_1_309	Phospho	S	3
+PSM868_1_309	Carbamidomethyl	C	27
+PSM868_1_31	Phospho	S	3
+PSM868_1_31	Carbamidomethyl	C	37
+PSM868_1_310	Phospho	S	3
+PSM868_1_310	Carbamidomethyl	C	27
+PSM868_1_311	Phospho	S	3
+PSM868_1_311	Carbamidomethyl	C	27
+PSM868_1_312	Phospho	S	3
+PSM868_1_312	Carbamidomethyl	C	27
+PSM868_1_315	Phospho	S	5
+PSM868_1_316	Phospho	S	5
+PSM868_1_317	Phospho	S	5
+PSM868_1_318	Phospho	S	5
+PSM868_1_319	Phospho	S	6
+PSM868_1_32	Phospho	S	3
+PSM868_1_32	Carbamidomethyl	C	37
+PSM868_1_320	Phospho	S	6
+PSM868_1_321	Phospho	S	6
+PSM868_1_322	Phospho	S	6
+PSM868_1_323	Phospho	S	6
+PSM868_1_324	Phospho	S	6
+PSM868_1_325	Phospho	S	6
+PSM868_1_326	Phospho	S	6
+PSM868_1_327	Phospho	S	6
+PSM868_1_328	Phospho	S	6
+PSM868_1_329	Phospho	S	6
+PSM868_1_33	Phospho	S	3
+PSM868_1_33	Carbamidomethyl	C	37
+PSM868_1_330	Phospho	S	6
+PSM868_1_331	Phospho	S	6
+PSM868_1_332	Phospho	S	6
+PSM868_1_333	Phospho	S	3
+PSM868_1_334	Phospho	S	3
+PSM868_1_335	Phospho	S	23
+PSM868_1_336	Phospho	S	23
+PSM868_1_337	Phospho	S	6
+PSM868_1_338	Phospho	S	6
+PSM868_1_339	Acetyl	N-term	
+PSM868_1_339	Phospho	S	13
+PSM868_1_34	Phospho	S	3
+PSM868_1_34	Carbamidomethyl	C	37
+PSM868_1_340	Acetyl	N-term	
+PSM868_1_340	Phospho	S	13
+PSM868_1_341	Acetyl	N-term	
+PSM868_1_341	Phospho	S	13
+PSM868_1_342	Acetyl	N-term	
+PSM868_1_342	Phospho	S	13
+PSM868_1_343	Phospho	S	8
+PSM868_1_344	Phospho	S	8
+PSM868_1_345	Phospho	S	8
+PSM868_1_346	Phospho	S	8
+PSM868_1_347	Phospho	S	8
+PSM868_1_348	Phospho	S	8
+PSM868_1_349	Phospho	S	8
+PSM868_1_35	Phospho	S	3
+PSM868_1_35	Carbamidomethyl	C	37
+PSM868_1_359	Carbamidomethyl	C	3
+PSM868_1_359	Phospho	S	13
+PSM868_1_36	Phospho	S	3
+PSM868_1_36	Carbamidomethyl	C	37
+PSM868_1_360	Carbamidomethyl	C	3
+PSM868_1_360	Phospho	S	13
+PSM868_1_361	Carbamidomethyl	C	3
+PSM868_1_361	Phospho	S	13
+PSM868_1_362	Carbamidomethyl	C	3
+PSM868_1_362	Phospho	S	13
+PSM868_1_363	Carbamidomethyl	C	3
+PSM868_1_363	Phospho	S	13
+PSM868_1_364	Carbamidomethyl	C	3
+PSM868_1_364	Phospho	S	13
+PSM868_1_365	Carbamidomethyl	C	3
+PSM868_1_365	Phospho	S	13
+PSM868_1_366	Phospho	S	6
+PSM868_1_367	Phospho	S	6
+PSM868_1_368	Phospho	S	6
+PSM868_1_369	Acetyl	N-term	
+PSM868_1_369	Phospho	S	1
+PSM868_1_37	Phospho	S	3
+PSM868_1_37	Carbamidomethyl	C	37
+PSM868_1_370	Acetyl	N-term	
+PSM868_1_370	Phospho	S	1
+PSM868_1_371	Acetyl	N-term	
+PSM868_1_371	Phospho	S	1
+PSM868_1_372	Acetyl	N-term	
+PSM868_1_372	Phospho	S	1
+PSM868_1_373	Acetyl	N-term	
+PSM868_1_373	Phospho	S	1
+PSM868_1_374	Acetyl	N-term	
+PSM868_1_374	Phospho	S	1
+PSM868_1_375	Phospho	S	8
+PSM868_1_376	Phospho	S	8
+PSM868_1_377	Phospho	S	8
+PSM868_1_378	Phospho	S	8
+PSM868_1_379	Phospho	S	8
+PSM868_1_38	Phospho	S	3
+PSM868_1_38	Carbamidomethyl	C	37
+PSM868_1_380	Phospho	S	8
+PSM868_1_381	Phospho	S	8
+PSM868_1_382	Phospho	S	8
+PSM868_1_383	Phospho	S	8
+PSM868_1_384	Phospho	S	8
+PSM868_1_385	Phospho	S	8
+PSM868_1_386	Phospho	S	16
+PSM868_1_387	Phospho	S	16
+PSM868_1_388	Phospho	S	16
+PSM868_1_389	Phospho	S	3
+PSM868_1_39	Phospho	S	16
+PSM868_1_390	Phospho	S	3
+PSM868_1_391	Phospho	S	15
+PSM868_1_392	Phospho	S	15
+PSM868_1_393	Phospho	S	9
+PSM868_1_394	Phospho	S	9
+PSM868_1_395	Phospho	S	9
+PSM868_1_396	Phospho	S	9
+PSM868_1_397	Phospho	S	9
+PSM868_1_398	Phospho	S	9
+PSM868_1_399	Phospho	S	9
+PSM868_1_4	Carbamidomethyl	C	1
+PSM868_1_4	Phospho	S	22
+PSM868_1_40	Phospho	S	16
+PSM868_1_400	Phospho	S	3
+PSM868_1_401	Phospho	S	3
+PSM868_1_402	Phospho	S	3
+PSM868_1_403	Phospho	S	3
+PSM868_1_404	Phospho	S	3
+PSM868_1_405	Phospho	S	3
+PSM868_1_406	Phospho	S	6
+PSM868_1_406	Oxidation	M	12
+PSM868_1_407	Phospho	S	6
+PSM868_1_407	Oxidation	M	12
+PSM868_1_408	Phospho	S	6
+PSM868_1_408	Oxidation	M	12
+PSM868_1_409	Phospho	S	6
+PSM868_1_409	Oxidation	M	12
+PSM868_1_41	Phospho	S	16
+PSM868_1_410	Phospho	S	6
+PSM868_1_410	Oxidation	M	12
+PSM868_1_411	Phospho	S	6
+PSM868_1_411	Oxidation	M	12
+PSM868_1_412	Phospho	S	6
+PSM868_1_412	Oxidation	M	12
+PSM868_1_413	Phospho	S	14
+PSM868_1_413	Carbamidomethyl	C	16
+PSM868_1_414	Phospho	S	14
+PSM868_1_414	Carbamidomethyl	C	16
+PSM868_1_415	Phospho	S	14
+PSM868_1_415	Carbamidomethyl	C	16
+PSM868_1_416	Phospho	S	3
+PSM868_1_416	Carbamidomethyl	C	15
+PSM868_1_417	Phospho	S	10
+PSM868_1_418	Phospho	S	10
+PSM868_1_419	Phospho	S	7
+PSM868_1_42	Phospho	S	16
+PSM868_1_420	Phospho	S	7
+PSM868_1_421	Phospho	S	7
+PSM868_1_422	Phospho	S	7
+PSM868_1_423	Phospho	S	7
+PSM868_1_424	Phospho	S	7
+PSM868_1_425	Phospho	S	3
+PSM868_1_426	Phospho	S	3
+PSM868_1_427	Phospho	S	3
+PSM868_1_428	Phospho	S	3
+PSM868_1_429	Gln->pyro-Glu	N-term	
+PSM868_1_429	Carbamidomethyl	C	3
+PSM868_1_429	Phospho	S	13
+PSM868_1_43	Phospho	S	16
+PSM868_1_430	Phospho	S	8
+PSM868_1_431	Phospho	T	3
+PSM868_1_432	Phospho	T	3
+PSM868_1_435	Oxidation	M	5
+PSM868_1_435	Oxidation	M	8
+PSM868_1_436	Oxidation	M	5
+PSM868_1_436	Oxidation	M	8
+PSM868_1_437	Phospho	T	5
+PSM868_1_437	Phospho	S	7
+PSM868_1_438	Phospho	T	5
+PSM868_1_438	Phospho	S	7
+PSM868_1_439	Phospho	T	5
+PSM868_1_439	Phospho	S	7
+PSM868_1_44	Phospho	S	16
+PSM868_1_440	Phospho	T	5
+PSM868_1_440	Phospho	S	7
+PSM868_1_441	Phospho	T	5
+PSM868_1_441	Phospho	S	7
+PSM868_1_442	Phospho	T	5
+PSM868_1_442	Phospho	S	7
+PSM868_1_443	Phospho	T	5
+PSM868_1_443	Phospho	S	7
+PSM868_1_444	Phospho	T	5
+PSM868_1_444	Phospho	S	7
+PSM868_1_445	Phospho	T	5
+PSM868_1_445	Phospho	S	7
+PSM868_1_446	Phospho	T	5
+PSM868_1_446	Phospho	S	7
+PSM868_1_447	Phospho	T	5
+PSM868_1_447	Phospho	S	7
+PSM868_1_448	Phospho	S	11
+PSM868_1_449	Phospho	S	23
+PSM868_1_45	Phospho	S	16
+PSM868_1_450	Phospho	S	23
+PSM868_1_451	Phospho	S	23
+PSM868_1_454	Phospho	S	7
+PSM868_1_455	Phospho	S	7
+PSM868_1_456	Phospho	S	1
+PSM868_1_457	Phospho	S	1
+PSM868_1_458	Phospho	S	1
+PSM868_1_459	Phospho	S	3
+PSM868_1_46	Phospho	S	3
+PSM868_1_46	Carbamidomethyl	C	21
+PSM868_1_46	Carbamidomethyl	C	27
+PSM868_1_460	Phospho	S	3
+PSM868_1_461	Phospho	S	3
+PSM868_1_462	Phospho	S	3
+PSM868_1_463	Phospho	S	3
+PSM868_1_464	Phospho	S	3
+PSM868_1_465	Phospho	S	3
+PSM868_1_466	Phospho	S	3
+PSM868_1_467	Phospho	S	3
+PSM868_1_468	Acetyl	N-term	
+PSM868_1_468	Phospho	S	1
+PSM868_1_469	Acetyl	N-term	
+PSM868_1_469	Phospho	S	1
+PSM868_1_47	Phospho	S	3
+PSM868_1_47	Carbamidomethyl	C	21
+PSM868_1_47	Carbamidomethyl	C	27
+PSM868_1_470	Acetyl	N-term	
+PSM868_1_470	Phospho	S	1
+PSM868_1_471	Acetyl	N-term	
+PSM868_1_471	Phospho	S	1
+PSM868_1_472	Acetyl	N-term	
+PSM868_1_472	Phospho	S	1
+PSM868_1_473	Acetyl	N-term	
+PSM868_1_473	Phospho	S	1
+PSM868_1_48	Phospho	S	3
+PSM868_1_48	Carbamidomethyl	C	21
+PSM868_1_48	Carbamidomethyl	C	27
+PSM868_1_482	Phospho	S	15
+PSM868_1_483	Phospho	S	15
+PSM868_1_484	Phospho	S	6
+PSM868_1_485	Phospho	S	6
+PSM868_1_486	Phospho	S	6
+PSM868_1_487	Phospho	S	6
+PSM868_1_488	Phospho	S	6
+PSM868_1_489	Phospho	S	6
+PSM868_1_49	Phospho	S	3
+PSM868_1_49	Carbamidomethyl	C	21
+PSM868_1_49	Carbamidomethyl	C	27
+PSM868_1_490	Phospho	S	3
+PSM868_1_491	Phospho	S	3
+PSM868_1_492	Phospho	S	3
+PSM868_1_493	Phospho	S	3
+PSM868_1_494	Carbamidomethyl	C	3
+PSM868_1_494	Phospho	S	24
+PSM868_1_495	Carbamidomethyl	C	3
+PSM868_1_495	Phospho	S	24
+PSM868_1_496	Carbamidomethyl	C	3
+PSM868_1_496	Phospho	S	24
+PSM868_1_497	Phospho	S	3
+PSM868_1_498	Phospho	S	3
+PSM868_1_499	Phospho	S	3
+PSM868_1_5	Carbamidomethyl	C	1
+PSM868_1_5	Phospho	S	22
+PSM868_1_50	Phospho	S	3
+PSM868_1_50	Carbamidomethyl	C	21
+PSM868_1_50	Carbamidomethyl	C	27
+PSM868_1_500	Phospho	S	3
+PSM868_1_501	Phospho	S	4
+PSM868_1_502	Phospho	S	4
+PSM868_1_503	Phospho	S	4
+PSM868_1_504	Phospho	S	4
+PSM868_1_505	Phospho	S	4
+PSM868_1_506	Phospho	S	9
+PSM868_1_507	Phospho	S	9
+PSM868_1_508	Phospho	S	9
+PSM868_1_509	Phospho	S	9
+PSM868_1_51	Phospho	S	3
+PSM868_1_51	Carbamidomethyl	C	21
+PSM868_1_51	Carbamidomethyl	C	27
+PSM868_1_510	Phospho	S	21
+PSM868_1_511	Phospho	S	21
+PSM868_1_512	Phospho	S	21
+PSM868_1_513	Phospho	S	21
+PSM868_1_514	Phospho	S	8
+PSM868_1_515	Phospho	S	8
+PSM868_1_52	Phospho	S	3
+PSM868_1_52	Carbamidomethyl	C	21
+PSM868_1_52	Carbamidomethyl	C	27
+PSM868_1_523	Phospho	S	13
+PSM868_1_523	Carbamidomethyl	C	17
+PSM868_1_524	Phospho	S	13
+PSM868_1_524	Carbamidomethyl	C	17
+PSM868_1_525	Phospho	S	13
+PSM868_1_525	Carbamidomethyl	C	17
+PSM868_1_527	Phospho	S	4
+PSM868_1_528	Phospho	S	4
+PSM868_1_529	Phospho	S	4
+PSM868_1_53	Phospho	S	3
+PSM868_1_53	Carbamidomethyl	C	21
+PSM868_1_53	Carbamidomethyl	C	27
+PSM868_1_530	Phospho	S	4
+PSM868_1_531	Phospho	S	4
+PSM868_1_532	Phospho	S	4
+PSM868_1_533	Phospho	S	4
+PSM868_1_534	Phospho	S	4
+PSM868_1_535	Phospho	S	4
+PSM868_1_536	Phospho	S	4
+PSM868_1_537	Phospho	S	4
+PSM868_1_538	Phospho	S	4
+PSM868_1_539	Phospho	S	4
+PSM868_1_54	Phospho	S	3
+PSM868_1_54	Carbamidomethyl	C	21
+PSM868_1_54	Carbamidomethyl	C	27
+PSM868_1_540	Phospho	S	4
+PSM868_1_541	Phospho	S	4
+PSM868_1_542	Phospho	S	4
+PSM868_1_543	Phospho	S	11
+PSM868_1_544	Phospho	S	11
+PSM868_1_545	Phospho	S	11
+PSM868_1_546	Phospho	S	11
+PSM868_1_547	Phospho	S	11
+PSM868_1_548	Phospho	S	11
+PSM868_1_549	Phospho	S	11
+PSM868_1_55	Phospho	S	3
+PSM868_1_55	Carbamidomethyl	C	21
+PSM868_1_55	Carbamidomethyl	C	27
+PSM868_1_550	Phospho	S	11
+PSM868_1_551	Phospho	S	11
+PSM868_1_552	Phospho	S	11
+PSM868_1_553	Phospho	S	11
+PSM868_1_554	Phospho	S	11
+PSM868_1_555	Carbamidomethyl	C	1
+PSM868_1_555	Phospho	S	22
+PSM868_1_555	Oxidation	M	35
+PSM868_1_556	Phospho	S	9
+PSM868_1_557	Phospho	S	9
+PSM868_1_558	Phospho	S	9
+PSM868_1_559	Phospho	S	9
+PSM868_1_56	Phospho	S	3
+PSM868_1_56	Carbamidomethyl	C	21
+PSM868_1_56	Carbamidomethyl	C	27
+PSM868_1_560	Phospho	S	9
+PSM868_1_561	Phospho	S	2
+PSM868_1_562	Phospho	S	2
+PSM868_1_563	Phospho	S	2
+PSM868_1_564	Phospho	S	2
+PSM868_1_565	Phospho	S	3
+PSM868_1_566	Phospho	S	3
+PSM868_1_567	Phospho	S	3
+PSM868_1_568	Phospho	S	3
+PSM868_1_569	Acetyl	N-term	
+PSM868_1_569	Phospho	S	2
+PSM868_1_57	Phospho	S	3
+PSM868_1_57	Carbamidomethyl	C	21
+PSM868_1_57	Carbamidomethyl	C	27
+PSM868_1_570	Acetyl	N-term	
+PSM868_1_570	Phospho	S	2
+PSM868_1_571	Acetyl	N-term	
+PSM868_1_571	Phospho	S	2
+PSM868_1_572	Acetyl	N-term	
+PSM868_1_572	Phospho	S	2
+PSM868_1_573	Acetyl	N-term	
+PSM868_1_573	Phospho	S	2
+PSM868_1_574	Acetyl	N-term	
+PSM868_1_574	Phospho	S	2
+PSM868_1_575	Acetyl	N-term	
+PSM868_1_575	Phospho	S	2
+PSM868_1_576	Phospho	S	6
+PSM868_1_577	Phospho	S	6
+PSM868_1_58	Phospho	S	3
+PSM868_1_58	Carbamidomethyl	C	21
+PSM868_1_58	Carbamidomethyl	C	27
+PSM868_1_583	Phospho	S	7
+PSM868_1_584	Phospho	S	7
+PSM868_1_585	Phospho	S	7
+PSM868_1_586	Phospho	S	7
+PSM868_1_587	Phospho	S	7
+PSM868_1_588	Phospho	S	7
+PSM868_1_589	Phospho	S	7
+PSM868_1_59	Phospho	S	3
+PSM868_1_59	Carbamidomethyl	C	21
+PSM868_1_59	Carbamidomethyl	C	27
+PSM868_1_590	Phospho	S	12
+PSM868_1_591	Phospho	T	9
+PSM868_1_592	Phospho	T	9
+PSM868_1_593	Phospho	T	9
+PSM868_1_594	Phospho	T	9
+PSM868_1_595	Phospho	T	9
+PSM868_1_596	Phospho	T	9
+PSM868_1_597	Phospho	T	9
+PSM868_1_598	Phospho	T	9
+PSM868_1_599	Phospho	T	9
+PSM868_1_6	Carbamidomethyl	C	1
+PSM868_1_6	Phospho	S	22
+PSM868_1_60	Phospho	S	3
+PSM868_1_60	Carbamidomethyl	C	21
+PSM868_1_60	Carbamidomethyl	C	27
+PSM868_1_600	Phospho	S	3
+PSM868_1_601	Phospho	S	3
+PSM868_1_602	Phospho	S	5
+PSM868_1_603	Phospho	S	5
+PSM868_1_604	Phospho	S	5
+PSM868_1_605	Phospho	S	9
+PSM868_1_606	Phospho	S	9
+PSM868_1_607	Phospho	S	13
+PSM868_1_608	Phospho	S	13
+PSM868_1_609	Phospho	S	19
+PSM868_1_61	Phospho	S	3
+PSM868_1_61	Carbamidomethyl	C	21
+PSM868_1_61	Carbamidomethyl	C	27
+PSM868_1_610	Phospho	S	19
+PSM868_1_611	Phospho	S	19
+PSM868_1_612	Phospho	S	19
+PSM868_1_613	Phospho	S	19
+PSM868_1_614	Phospho	S	19
+PSM868_1_615	Phospho	S	19
+PSM868_1_616	Phospho	S	19
+PSM868_1_617	Carbamidomethyl	C	7
+PSM868_1_618	Carbamidomethyl	C	7
+PSM868_1_619	Phospho	S	3
+PSM868_1_62	Phospho	S	3
+PSM868_1_62	Carbamidomethyl	C	21
+PSM868_1_62	Carbamidomethyl	C	27
+PSM868_1_620	Phospho	S	3
+PSM868_1_621	Phospho	S	3
+PSM868_1_622	Phospho	S	3
+PSM868_1_623	Phospho	S	1
+PSM868_1_624	Phospho	S	1
+PSM868_1_625	Phospho	S	1
+PSM868_1_626	Phospho	S	3
+PSM868_1_627	Phospho	S	3
+PSM868_1_628	Phospho	S	3
+PSM868_1_63	Phospho	S	3
+PSM868_1_63	Carbamidomethyl	C	21
+PSM868_1_63	Carbamidomethyl	C	27
+PSM868_1_633	Phospho	S	11
+PSM868_1_634	Phospho	S	11
+PSM868_1_635	Phospho	S	11
+PSM868_1_636	Phospho	S	11
+PSM868_1_637	Phospho	S	3
+PSM868_1_638	Phospho	S	3
+PSM868_1_639	Phospho	S	3
+PSM868_1_64	Phospho	S	3
+PSM868_1_64	Carbamidomethyl	C	21
+PSM868_1_64	Carbamidomethyl	C	27
+PSM868_1_640	Phospho	S	3
+PSM868_1_641	Phospho	S	3
+PSM868_1_642	Phospho	S	3
+PSM868_1_643	Phospho	S	3
+PSM868_1_644	Phospho	S	3
+PSM868_1_645	Phospho	S	3
+PSM868_1_646	Phospho	S	10
+PSM868_1_647	Phospho	S	10
+PSM868_1_648	Phospho	S	20
+PSM868_1_649	Phospho	S	20
+PSM868_1_65	Phospho	S	3
+PSM868_1_65	Carbamidomethyl	C	21
+PSM868_1_65	Carbamidomethyl	C	27
+PSM868_1_650	Phospho	S	20
+PSM868_1_651	Phospho	S	3
+PSM868_1_652	Phospho	S	3
+PSM868_1_653	Phospho	S	3
+PSM868_1_654	Phospho	S	3
+PSM868_1_655	Phospho	S	3
+PSM868_1_656	Phospho	S	6
+PSM868_1_657	Phospho	S	6
+PSM868_1_658	Phospho	S	6
+PSM868_1_659	Phospho	S	5
+PSM868_1_66	Phospho	S	3
+PSM868_1_66	Carbamidomethyl	C	21
+PSM868_1_66	Carbamidomethyl	C	27
+PSM868_1_660	Phospho	S	5
+PSM868_1_664	Phospho	S	3
+PSM868_1_665	Phospho	S	3
+PSM868_1_666	Phospho	S	3
+PSM868_1_667	Phospho	S	3
+PSM868_1_668	Phospho	S	3
+PSM868_1_669	Phospho	S	3
+PSM868_1_67	Phospho	S	3
+PSM868_1_67	Carbamidomethyl	C	21
+PSM868_1_67	Carbamidomethyl	C	27
+PSM868_1_670	Phospho	S	3
+PSM868_1_671	Phospho	S	3
+PSM868_1_672	Phospho	S	3
+PSM868_1_673	Phospho	S	3
+PSM868_1_674	Phospho	S	3
+PSM868_1_675	Phospho	S	9
+PSM868_1_676	Phospho	S	9
+PSM868_1_677	Phospho	S	9
+PSM868_1_678	Phospho	S	9
+PSM868_1_679	Phospho	S	9
+PSM868_1_68	Phospho	S	3
+PSM868_1_68	Carbamidomethyl	C	21
+PSM868_1_68	Carbamidomethyl	C	27
+PSM868_1_680	Phospho	S	9
+PSM868_1_681	Phospho	S	9
+PSM868_1_682	Phospho	S	9
+PSM868_1_683	Phospho	S	5
+PSM868_1_684	Phospho	S	5
+PSM868_1_685	Phospho	S	14
+PSM868_1_686	Phospho	S	14
+PSM868_1_687	Phospho	S	14
+PSM868_1_688	Phospho	S	14
+PSM868_1_689	Acetyl	N-term	
+PSM868_1_689	Phospho	S	23
+PSM868_1_69	Phospho	S	3
+PSM868_1_69	Carbamidomethyl	C	21
+PSM868_1_69	Carbamidomethyl	C	27
+PSM868_1_690	Acetyl	N-term	
+PSM868_1_690	Phospho	S	23
+PSM868_1_691	Acetyl	N-term	
+PSM868_1_691	Phospho	S	23
+PSM868_1_692	Acetyl	N-term	
+PSM868_1_692	Phospho	S	5
+PSM868_1_693	Acetyl	N-term	
+PSM868_1_693	Phospho	S	5
+PSM868_1_694	Acetyl	N-term	
+PSM868_1_694	Phospho	S	5
+PSM868_1_696	Carbamidomethyl	C	5
+PSM868_1_696	Phospho	S	17
+PSM868_1_697	Carbamidomethyl	C	5
+PSM868_1_697	Phospho	S	17
+PSM868_1_698	Carbamidomethyl	C	5
+PSM868_1_698	Phospho	S	17
+PSM868_1_699	Carbamidomethyl	C	5
+PSM868_1_699	Phospho	S	17
+PSM868_1_7	Ammonia-loss	N-term	
+PSM868_1_7	Carbamidomethyl	C	1
+PSM868_1_7	Phospho	S	22
+PSM868_1_70	Phospho	S	3
+PSM868_1_70	Carbamidomethyl	C	21
+PSM868_1_70	Carbamidomethyl	C	27
+PSM868_1_702	Phospho	S	5
+PSM868_1_703	Phospho	S	5
+PSM868_1_704	Phospho	T	3
+PSM868_1_705	Phospho	T	3
+PSM868_1_706	Phospho	T	3
+PSM868_1_707	Phospho	S	2
+PSM868_1_708	Phospho	S	2
+PSM868_1_709	Phospho	S	3
+PSM868_1_71	Phospho	S	3
+PSM868_1_71	Carbamidomethyl	C	21
+PSM868_1_71	Carbamidomethyl	C	27
+PSM868_1_710	Phospho	S	3
+PSM868_1_711	Phospho	S	3
+PSM868_1_712	Phospho	S	3
+PSM868_1_713	Phospho	S	3
+PSM868_1_714	Phospho	S	3
+PSM868_1_715	Phospho	S	5
+PSM868_1_716	Phospho	S	5
+PSM868_1_717	Phospho	S	5
+PSM868_1_718	Phospho	S	15
+PSM868_1_719	Acetyl	N-term	
+PSM868_1_72	Phospho	S	3
+PSM868_1_72	Carbamidomethyl	C	21
+PSM868_1_72	Carbamidomethyl	C	27
+PSM868_1_720	Oxidation	M	1
+PSM868_1_720	Phospho	S	22
+PSM868_1_721	Oxidation	M	1
+PSM868_1_721	Phospho	S	22
+PSM868_1_722	Oxidation	M	1
+PSM868_1_722	Phospho	S	22
+PSM868_1_723	Oxidation	M	1
+PSM868_1_723	Phospho	S	22
+PSM868_1_724	Acetyl	N-term	
+PSM868_1_724	Phospho	S	11
+PSM868_1_725	Acetyl	N-term	
+PSM868_1_725	Phospho	S	11
+PSM868_1_726	Acetyl	N-term	
+PSM868_1_726	Phospho	S	11
+PSM868_1_727	Acetyl	N-term	
+PSM868_1_727	Phospho	S	11
+PSM868_1_728	Acetyl	N-term	
+PSM868_1_728	Phospho	S	11
+PSM868_1_729	Acetyl	N-term	
+PSM868_1_729	Phospho	S	11
+PSM868_1_73	Phospho	S	3
+PSM868_1_73	Carbamidomethyl	C	21
+PSM868_1_73	Carbamidomethyl	C	27
+PSM868_1_730	Acetyl	N-term	
+PSM868_1_730	Phospho	S	23
+PSM868_1_730	Carbamidomethyl	C	28
+PSM868_1_74	Phospho	S	3
+PSM868_1_74	Carbamidomethyl	C	21
+PSM868_1_74	Carbamidomethyl	C	27
+PSM868_1_75	Phospho	S	3
+PSM868_1_75	Carbamidomethyl	C	21
+PSM868_1_75	Carbamidomethyl	C	27
+PSM868_1_76	Phospho	S	3
+PSM868_1_76	Carbamidomethyl	C	21
+PSM868_1_76	Carbamidomethyl	C	27
+PSM868_1_77	Phospho	S	3
+PSM868_1_77	Carbamidomethyl	C	21
+PSM868_1_77	Carbamidomethyl	C	27
+PSM868_1_78	Phospho	S	3
+PSM868_1_78	Carbamidomethyl	C	21
+PSM868_1_78	Carbamidomethyl	C	27
+PSM868_1_79	Phospho	S	10
+PSM868_1_8	Ammonia-loss	N-term	
+PSM868_1_8	Carbamidomethyl	C	1
+PSM868_1_8	Phospho	S	22
+PSM868_1_80	Phospho	S	10
+PSM868_1_81	Phospho	S	10
+PSM868_1_82	Phospho	S	10
+PSM868_1_83	Phospho	S	10
+PSM868_1_84	Phospho	T	10
+PSM868_1_85	Phospho	T	10
+PSM868_1_86	Phospho	T	10
+PSM868_1_87	Phospho	T	10
+PSM868_1_88	Phospho	T	10
+PSM868_1_89	Acetyl	N-term	
+PSM868_1_89	Phospho	S	12
+PSM868_1_9	Ammonia-loss	N-term	
+PSM868_1_9	Carbamidomethyl	C	1
+PSM868_1_9	Phospho	S	22
+PSM868_1_90	Acetyl	N-term	
+PSM868_1_90	Phospho	S	12
+PSM868_1_91	Acetyl	N-term	
+PSM868_1_91	Phospho	S	12
+PSM868_1_92	Acetyl	N-term	
+PSM868_1_92	Phospho	S	12
+PSM868_1_93	Acetyl	N-term	
+PSM868_1_93	Phospho	S	12
+PSM868_1_94	Phospho	T	4
+PSM868_1_95	Phospho	T	4
+PSM868_1_96	Phospho	T	4
+PSM868_1_97	Phospho	T	4
+PSM868_1_98	Phospho	S	10
+PSM868_1_99	Phospho	S	10

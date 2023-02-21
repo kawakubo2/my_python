@@ -1,0 +1,4 @@
+mondai_c.py
+ABC
+123
+あいう

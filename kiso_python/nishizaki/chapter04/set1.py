@@ -1,0 +1,13 @@
+colors = {"red", "green", "blue"}
+print(colors)
+colors.add("orange")
+print(colors)
+print("blue" in colors)
+colors.add("red")
+print(colors)
+colors.remove("red")
+print(colors)
+colors.clear()
+print(colors)
+print("blue" in colors)
+print(colors)

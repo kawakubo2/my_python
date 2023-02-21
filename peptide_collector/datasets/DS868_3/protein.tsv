@@ -1,0 +1,566 @@
+protein_id	accession	symbol	name	protein_type	pep_count	psm_count	uniq_pep_count
+PRT868_3_Q8BTI8	Q8BTI8	SRRM2_MOUSE	Serine/arginine repetitive matrix protein 2	Representative isoform	6	27	6
+PRT868_3_Q8K019	Q8K019	BCLF1_MOUSE	Bcl-2-associated transcription factor 1	Representative isoform	5	31	0
+PRT868_3_P19973	P19973	LSP1_MOUSE	Lymphocyte-specific protein 1	Representative isoform	4	59	1
+PRT868_3_Q9JIX8	Q9JIX8	ACINU_MOUSE	Apoptotic chromatin condensation inducer in the nucleus	Representative isoform	3	10	0
+PRT868_3_Q62318	Q62318	TIF1B_MOUSE	Transcription intermediary factor 1-beta	Representative isoform	3	17	3
+PRT868_3_Q52KI8	Q52KI8	SRRM1_MOUSE	Serine/arginine repetitive matrix protein 1	Representative isoform	3	16	0
+PRT868_3_Q8K4G5	Q8K4G5	ABLM1_MOUSE	Actin-binding LIM protein 1	Representative isoform	3	7	0
+PRT868_3_O35601	O35601	FYB1_MOUSE	FYN-binding protein 1	Representative isoform	3	11	1
+PRT868_3_Q3UZA1	Q3UZA1	CPZIP_MOUSE	CapZ-interacting protein	Representative isoform	2	4	2
+PRT868_3_Q08943	Q08943	SSRP1_MOUSE	FACT complex subunit SSRP1	Representative isoform	2	7	0
+PRT868_3_Q9CSU0	Q9CSU0	RPR1B_MOUSE	Regulation of nuclear pre-mRNA domain-containing protein 1B	Representative isoform	2	5	0
+PRT868_3_Q99PV8	Q99PV8	BC11B_MOUSE	B-cell lymphoma/leukemia 11B	Representative isoform	2	8	0
+PRT868_3_O54824	O54824	IL16_MOUSE	Pro-interleukin-16	Representative isoform	2	6	2
+PRT868_3_Q9DCB4	Q9DCB4	ARP21_MOUSE	cAMP-regulated phosphoprotein 21	Representative isoform	2	2	0
+PRT868_3_Q9CW46	Q9CW46	RAVR1_MOUSE	Ribonucleoprotein PTB-binding 1	Representative isoform	2	22	1
+PRT868_3_Q8C2B3	Q8C2B3	HDAC7_MOUSE	Histone deacetylase 7	Representative isoform	2	14	0
+PRT868_3_O88569	O88569	ROA2_MOUSE	Heterogeneous nuclear ribonucleoproteins A2/B1	Representative isoform	2	4	1
+PRT868_3_Q923E4	Q923E4	SIR1_MOUSE	NAD-dependent protein deacetylase sirtuin-1	Representative isoform	1	1	0
+PRT868_3_Q3UYC0	Q3UYC0	PPM1H_MOUSE	Protein phosphatase 1H	Representative isoform	1	4	1
+PRT868_3_Q9D0L8	Q9D0L8	MCES_MOUSE	mRNA cap guanine-N7 methyltransferase	Representative isoform	1	3	0
+PRT868_3_P70399	P70399	TP53B_MOUSE	TP53-binding protein 1	Representative isoform	1	1	0
+PRT868_3_Q80TY0	Q80TY0	FNBP1_MOUSE	Formin-binding protein 1	Representative isoform	1	5	0
+PRT868_3_Q9JL26	Q9JL26	FMNL1_MOUSE	Formin-like protein 1	Representative isoform	1	4	0
+PRT868_3_Q80YV2	Q80YV2	NIPA_MOUSE	Nuclear-interacting partner of ALK	Representative isoform	1	2	0
+PRT868_3_Q8BGU5	Q8BGU5	CCNY_MOUSE	Cyclin-Y	Representative isoform	1	3	1
+PRT868_3_E9Q394	E9Q394	AKP13_MOUSE	A-kinase anchor protein 13	Representative isoform	1	2	0
+PRT868_3_Q80UG5	Q80UG5	SEPT9_MOUSE	Septin-9	Representative isoform	1	3	0
+PRT868_3_Q8VBT9	Q8VBT9	ASPC1_MOUSE	Tether containing UBX domain for GLUT4	Representative isoform	1	2	1
+PRT868_3_Q8K296	Q8K296	MTMR3_MOUSE	Myotubularin-related protein 3	Representative isoform	1	1	0
+PRT868_3_Q9DBR1	Q9DBR1	XRN2_MOUSE	5'-3' exoribonuclease 2	Representative isoform	1	3	1
+PRT868_3_Q569Z5	Q569Z5	DDX46_MOUSE	Probable ATP-dependent RNA helicase DDX46	Representative isoform	1	1	0
+PRT868_3_Q8CHI8	Q8CHI8	EP400_MOUSE	E1A-binding protein p400	Representative isoform	1	3	1
+PRT868_3_Q8C2K1	Q8C2K1	DEFI6_MOUSE	Differentially expressed in FDCP 6	Representative isoform	1	2	0
+PRT868_3_P09838	P09838	TDT_MOUSE	DNA nucleotidylexotransferase	Representative isoform	1	5	1
+PRT868_3_Q810A7	Q810A7	DDX42_MOUSE	ATP-dependent RNA helicase DDX42	Representative isoform	1	3	1
+PRT868_3_A2BH40	A2BH40	ARI1A_MOUSE	AT-rich interactive domain-containing protein 1A	Representative isoform	1	4	0
+PRT868_3_Q8VDM6	Q8VDM6	HNRL1_MOUSE	Heterogeneous nuclear ribonucleoprotein U-like protein 1	Representative isoform	1	4	1
+PRT868_3_Q76N33	Q76N33	STALP_MOUSE	AMSH-like protease	Representative isoform	1	2	1
+PRT868_3_Q8C079	Q8C079	STRP1_MOUSE	Striatin-interacting protein 1	Representative isoform	1	4	1
+PRT868_3_Q8BKC8	Q8BKC8	PI4KB_MOUSE	Phosphatidylinositol 4-kinase beta	Representative isoform	1	1	0
+PRT868_3_Q6ZPZ3	Q6ZPZ3	ZC3H4_MOUSE	Zinc finger CCCH domain-containing protein 4	Representative isoform	1	4	0
+PRT868_3_E9Q5K9	E9Q5K9	YTDC1_MOUSE	YTH domain-containing protein 1	Representative isoform	1	5	0
+PRT868_3_Q8CBW3	Q8CBW3	ABI1_MOUSE	Abl interactor 1	Representative isoform	1	2	0
+PRT868_3_Q8BLB7	Q8BLB7	LMBL3_MOUSE	Lethal(3)malignant brain tumor-like protein 3	Representative isoform	1	2	1
+PRT868_3_Q8R550	Q8R550	SH3K1_MOUSE	SH3 domain-containing kinase-binding protein 1	Representative isoform	1	2	0
+PRT868_3_Q99JF8	Q99JF8	PSIP1_MOUSE	PC4 and SFRS1-interacting protein	Representative isoform	1	3	0
+PRT868_3_Q80U16	Q80U16	RIPR2_MOUSE	Rho family-interacting cell polarization regulator 2	Representative isoform	1	1	0
+PRT868_3_Q3UL36	Q3UL36	ARGL1_MOUSE	Arginine and glutamate-rich protein 1	Representative isoform	1	5	0
+PRT868_3_Q9CQV8	Q9CQV8	1433B_MOUSE	14-3-3 protein beta/alpha	Representative isoform	1	2	1
+PRT868_3_Q9D4J7	Q9D4J7	PHF6_MOUSE	PHD finger protein 6	Representative isoform	1	2	0
+PRT868_3_Q3UHJ0	Q3UHJ0	AAK1_MOUSE	AP2-associated protein kinase 1	Representative isoform	1	2	0
+PRT868_3_Q62018	Q62018	CTR9_MOUSE	RNA polymerase-associated protein CTR9 homolog	Representative isoform	1	2	1
+PRT868_3_Q8C147	Q8C147	DOCK8_MOUSE	Dedicator of cytokinesis protein 8	Representative isoform	1	4	1
+PRT868_3_Q99K48	Q99K48	NONO_MOUSE	Non-POU domain-containing octamer-binding protein	Representative isoform	1	2	0
+PRT868_3_Q64012	Q64012	RALY_MOUSE	RNA-binding protein Raly	Representative isoform	1	11	0
+PRT868_3_Q8VEK3	Q8VEK3	HNRPU_MOUSE	Heterogeneous nuclear ribonucleoprotein U	Representative isoform	1	31	1
+PRT868_3_Q99MR6	Q99MR6	SRRT_MOUSE	Serrate RNA effector molecule homolog	Representative isoform	1	3	0
+PRT868_3_Q03347	Q03347	RUNX1_MOUSE	Runt-related transcription factor 1	Representative isoform	1	4	0
+PRT868_3_Q61216	Q61216	MRE11_MOUSE	Double-strand break repair protein MRE11	Representative isoform	1	2	1
+PRT868_3_Q61029	Q61029	LAP2B_MOUSE	Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma	Representative isoform	1	4	0
+PRT868_3_Q9QYC0	Q9QYC0	ADDA_MOUSE	Alpha-adducin	Representative isoform	1	3	0
+PRT868_3_Q05AH6	Q05AH6	SPNDC_MOUSE	Spindlin interactor and repressor of chromatin-binding protein	Representative isoform	1	3	0
+PRT868_3_Q9CZ44	Q9CZ44	NSF1C_MOUSE	NSFL1 cofactor p47	Representative isoform	1	1	1
+PRT868_3_P70429	P70429	EVL_MOUSE	Ena/VASP-like protein	Representative isoform	1	3	0
+PRT868_3_Q03267	Q03267	IKZF1_MOUSE	DNA-binding protein Ikaros	Representative isoform	1	2	0
+PRT868_3_P06800	P06800	PTPRC_MOUSE	Receptor-type tyrosine-protein phosphatase C	Representative isoform	1	5	0
+PRT868_3_Q9CY57	Q9CY57	CHTOP_MOUSE	Chromatin target of PRMT1 protein	Representative isoform	1	2	0
+PRT868_3_Q9CWZ3	Q9CWZ3	RBM8A_MOUSE	RNA-binding protein 8A	Representative isoform	1	4	0
+PRT868_3_P70658	P70658	CXCR4_MOUSE	C-X-C chemokine receptor type 4	Representative isoform	1	4	0
+PRT868_3_Q8BG05	Q8BG05	ROA3_MOUSE	Heterogeneous nuclear ribonucleoprotein A3	Representative isoform	1	9	0
+PRT868_3_Q8BTI8	Q8BTI8	SRRM2_MOUSE	Serine/arginine repetitive matrix protein 2	leading protein	6	27	6
+PRT868_3_P97310	P97310	MCM2_MOUSE	DNA replication licensing factor MCM2	leading protein	5	21	5
+PRT868_3_Q8K019	Q8K019	BCLF1_MOUSE	Bcl-2-associated transcription factor 1	leading protein	5	31	0
+PRT868_3_O08784	O08784	TCOF_MOUSE	Treacle protein	leading protein	5	33	0
+PRT868_3_P43277	P43277	H13_MOUSE	Histone H1.3	leading protein	4	33	2
+PRT868_3_P19973	P19973	LSP1_MOUSE	Lymphocyte-specific protein 1	leading protein	4	59	1
+PRT868_3_Q569Z6	Q569Z6	TR150_MOUSE	Thyroid hormone receptor-associated protein 3	leading protein	3	27	0
+PRT868_3_Q9JIX8	Q9JIX8	ACINU_MOUSE	Apoptotic chromatin condensation inducer in the nucleus	leading protein	3	10	0
+PRT868_3_Q52KI8	Q52KI8	SRRM1_MOUSE	Serine/arginine repetitive matrix protein 1	leading protein	3	16	0
+PRT868_3_P16858	P16858	G3P_MOUSE	Glyceraldehyde-3-phosphate dehydrogenase	leading protein	3	7	0
+PRT868_3_Q8K4G5	Q8K4G5	ABLM1_MOUSE	Actin-binding LIM protein 1	leading protein	3	7	0
+PRT868_3_Q9R0P4	Q9R0P4	SMAP_MOUSE	Small acidic protein	leading protein	3	16	0
+PRT868_3_Q62318	Q62318	TIF1B_MOUSE	Transcription intermediary factor 1-beta	leading protein	3	17	3
+PRT868_3_Q61937	Q61937	NPM_MOUSE	Nucleophosmin	leading protein	3	16	0
+PRT868_3_O35601	O35601	FYB1_MOUSE	FYN-binding protein 1	leading protein	3	11	1
+PRT868_3_P60710	P60710	ACTB_MOUSE	Actin, cytoplasmic 1	leading protein	3	9	0
+PRT868_3_P43275	P43275	H11_MOUSE	Histone H1.1	leading protein	3	9	3
+PRT868_3_Q9CW46	Q9CW46	RAVR1_MOUSE	Ribonucleoprotein PTB-binding 1	leading protein	2	22	1
+PRT868_3_P10853	P10853	H2B1F_MOUSE	Histone H2B type 1-F/J/L	leading protein	2	2	0
+PRT868_3_P18760	P18760	COF1_MOUSE	Cofilin-1	leading protein	2	30	0
+PRT868_3_P60335	P60335	PCBP1_MOUSE	Poly(rC)-binding protein 1	leading protein	2	8	2
+PRT868_3_O54824	O54824	IL16_MOUSE	Pro-interleukin-16	leading protein	2	6	2
+PRT868_3_Q9JI11	Q9JI11	STK4_MOUSE	Serine/threonine-protein kinase 4	leading protein	2	4	0
+PRT868_3_Q923F1	Q923F1	Q923F1_MOUSE	Chloride channel, nucleotide-sensitive, 1A	leading protein	2	8	1
+PRT868_3_D3YXK2	D3YXK2	SAFB1_MOUSE	Scaffold attachment factor B1	leading protein	2	5	0
+PRT868_3_P20152	P20152	VIME_MOUSE	Vimentin	leading protein	2	9	2
+PRT868_3_Q91W40	Q91W40	KLC3_MOUSE	Kinesin light chain 3	leading protein	2	5	0
+PRT868_3_P54227	P54227	STMN1_MOUSE	Stathmin	leading protein	2	7	0
+PRT868_3_Q9CSU0	Q9CSU0	RPR1B_MOUSE	Regulation of nuclear pre-mRNA domain-containing protein 1B	leading protein	2	5	0
+PRT868_3_Q9D892	Q9D892	ITPA_MOUSE	Inosine triphosphate pyrophosphatase	leading protein	2	7	2
+PRT868_3_Q8R1G6	Q8R1G6	PDLI2_MOUSE	PDZ and LIM domain protein 2	leading protein	2	4	1
+PRT868_3_P43274	P43274	H14_MOUSE	Histone H1.4	leading protein	2	13	1
+PRT868_3_O89100	O89100	GRAP2_MOUSE	GRB2-related adaptor protein 2	leading protein	2	8	2
+PRT868_3_A0A0N4SVC2	A0A0N4SVC2	A0A0N4SVC2_MOUSE	Transformer-2 protein homolog alpha	leading protein	2	12	0
+PRT868_3_Q99PV8	Q99PV8	BC11B_MOUSE	B-cell lymphoma/leukemia 11B	leading protein	2	8	0
+PRT868_3_D3Z7R7	D3Z7R7	D3Z7R7_MOUSE	Rho GTPase-activating protein 45	leading protein	2	8	0
+PRT868_3_Q923F1	Q923F1	Q923F1_MOUSE	Methylosome subunit pICln	leading protein	2	8	1
+PRT868_3_O88569	O88569	ROA2_MOUSE	Heterogeneous nuclear ribonucleoproteins A2/B1	leading protein	2	4	1
+PRT868_3_Q8JZX4	Q8JZX4	SPF45_MOUSE	Splicing factor 45	leading protein	2	8	2
+PRT868_3_Q3UZA1	Q3UZA1	CPZIP_MOUSE	CapZ-interacting protein	leading protein	2	4	2
+PRT868_3_Q64511	Q64511	TOP2B_MOUSE	DNA topoisomerase 2-beta	leading protein	2	11	1
+PRT868_3_Q08943	Q08943	SSRP1_MOUSE	FACT complex subunit SSRP1	leading protein	2	7	0
+PRT868_3_Q9DCB4	Q9DCB4	ARP21_MOUSE	cAMP-regulated phosphoprotein 21	leading protein	2	2	0
+PRT868_3_P50580	P50580	PA2G4_MOUSE	Proliferation-associated protein 2G4	leading protein	2	12	2
+PRT868_3_P17742	P17742	PPIA_MOUSE	Peptidyl-prolyl cis-trans isomerase A	leading protein	2	3	0
+PRT868_3_Q8C2B3	Q8C2B3	HDAC7_MOUSE	Histone deacetylase 7	leading protein	2	14	0
+PRT868_3_P26350	P26350	PTMA_MOUSE	Prothymosin alpha	leading protein	2	13	0
+PRT868_3_Q923E4	Q923E4	SIR1_MOUSE	NAD-dependent protein deacetylase sirtuin-1	leading protein	1	1	0
+PRT868_3_Q9CY57	Q9CY57	CHTOP_MOUSE	Chromatin target of PRMT1 protein	leading protein	1	2	0
+PRT868_3_Q62383	Q62383	SPT6H_MOUSE	Transcription elongation factor SPT6	leading protein	1	2	1
+PRT868_3_Q9DBR1	Q9DBR1	XRN2_MOUSE	5'-3' exoribonuclease 2	leading protein	1	3	1
+PRT868_3_Q61216	Q61216	MRE11_MOUSE	Double-strand break repair protein MRE11	leading protein	1	2	1
+PRT868_3_P68510	P68510	1433F_MOUSE	14-3-3 protein eta	leading protein	1	4	1
+PRT868_3_Q8VEK3	Q8VEK3	HNRPU_MOUSE	Heterogeneous nuclear ribonucleoprotein U	leading protein	1	31	1
+PRT868_3_Q60787	Q60787	LCP2_MOUSE	Lymphocyte cytosolic protein 2	leading protein	1	3	0
+PRT868_3_Q8VDD5	Q8VDD5	MYH9_MOUSE	Myosin-9	leading protein	1	3	1
+PRT868_3_P62996	P62996	TRA2B_MOUSE	Transformer-2 protein homolog beta	leading protein	1	4	0
+PRT868_3_Q8CIN4	Q8CIN4	PAK2_MOUSE	Serine/threonine-protein kinase PAK 2	leading protein	1	3	1
+PRT868_3_Q8C147	Q8C147	DOCK8_MOUSE	Dedicator of cytokinesis protein 8	leading protein	1	4	1
+PRT868_3_Q8K3W3	Q8K3W3	CASC3_MOUSE	Protein CASC3	leading protein	1	3	1
+PRT868_3_O09106	O09106	HDAC1_MOUSE	Histone deacetylase 1	leading protein	1	5	1
+PRT868_3_P70441	P70441	NHRF1_MOUSE	Na(+)/H(+) exchange regulatory cofactor NHE-RF1	leading protein	1	4	1
+PRT868_3_Q8C079	Q8C079	STRP1_MOUSE	Striatin-interacting protein 1	leading protein	1	4	1
+PRT868_3_Q8BZ03	Q8BZ03	KPCD2_MOUSE	Serine/threonine-protein kinase D2	leading protein	1	3	1
+PRT868_3_Q6ZPZ3	Q6ZPZ3	ZC3H4_MOUSE	Zinc finger CCCH domain-containing protein 4	leading protein	1	4	0
+PRT868_3_Q8R344	Q8R344	CCD12_MOUSE	Coiled-coil domain-containing protein 12	leading protein	1	6	1
+PRT868_3_Q9CT10	Q9CT10	RANB3_MOUSE	Ran-binding protein 3	leading protein	1	2	0
+PRT868_3_O08582	O08582	GTPB1_MOUSE	GTP-binding protein 1	leading protein	1	3	1
+PRT868_3_Q569Z5	Q569Z5	DDX46_MOUSE	Probable ATP-dependent RNA helicase DDX46	leading protein	1	1	0
+PRT868_3_Q8K296	Q8K296	MTMR3_MOUSE	Myotubularin-related protein 3	leading protein	1	1	0
+PRT868_3_Q8CH02	Q8CH02	SUGP1_MOUSE	SURP and G-patch domain-containing protein 1	leading protein	1	1	1
+PRT868_3_Q91YD3	Q91YD3	DCP1A_MOUSE	mRNA-decapping enzyme 1A	leading protein	1	2	0
+PRT868_3_Q8CBW3	Q8CBW3	ABI1_MOUSE	Abl interactor 1	leading protein	1	2	0
+PRT868_3_P70288	P70288	HDAC2_MOUSE	Histone deacetylase 2	leading protein	1	8	0
+PRT868_3_P30681	P30681	HMGB2_MOUSE	High mobility group protein B2	leading protein	1	4	1
+PRT868_3_Q8BGU5	Q8BGU5	CCNY_MOUSE	Cyclin-Y	leading protein	1	3	1
+PRT868_3_Q1HDU4	Q1HDU4	Q1HDU4_MOUSE	Rho GTPase-activating protein 9	leading protein	1	3	0
+PRT868_3_Q56A08	Q56A08	GPKOW_MOUSE	G-patch domain and KOW motifs-containing protein	leading protein	1	3	1
+PRT868_3_P97492	P97492	RGS14_MOUSE	Regulator of G-protein signaling 14	leading protein	1	2	1
+PRT868_3_Q8VE65	Q8VE65	TAF12_MOUSE	Transcription initiation factor TFIID subunit 12	leading protein	1	3	0
+PRT868_3_Q8VBT9	Q8VBT9	ASPC1_MOUSE	Tether containing UBX domain for GLUT4	leading protein	1	2	1
+PRT868_3_Q924N4	Q924N4	S12A6_MOUSE	Solute carrier family 12 member 6	leading protein	1	2	0
+PRT868_3_Q8CHI8	Q8CHI8	EP400_MOUSE	E1A-binding protein p400	leading protein	1	3	1
+PRT868_3_Q91X84	Q91X84	CRTC3_MOUSE	CREB-regulated transcription coactivator 3	leading protein	1	2	1
+PRT868_3_O89053	O89053	COR1A_MOUSE	Coronin-1A	leading protein	1	1	0
+PRT868_3_P70429	P70429	EVL_MOUSE	Ena/VASP-like protein	leading protein	1	3	0
+PRT868_3_Q9D6Z1	Q9D6Z1	NOP56_MOUSE	Nucleolar protein 56	leading protein	1	4	0
+PRT868_3_Q9ERU9	Q9ERU9	RBP2_MOUSE	E3 SUMO-protein ligase RanBP2	leading protein	1	4	1
+PRT868_3_Q05D44	Q05D44	IF2P_MOUSE	Eukaryotic translation initiation factor 5B	leading protein	1	3	1
+PRT868_3_Q91WK2	Q91WK2	EIF3H_MOUSE	Eukaryotic translation initiation factor 3 subunit H	leading protein	1	3	1
+PRT868_3_O35492	O35492	CLK3_MOUSE	Dual specificity protein kinase CLK3	leading protein	1	4	0
+PRT868_3_P62806	P62806	H4_MOUSE	Histone H4	leading protein	1	3	1
+PRT868_3_Q99L45	Q99L45	IF2B_MOUSE	Eukaryotic translation initiation factor 2 subunit 2	leading protein	1	2	1
+PRT868_3_Q3UL36	Q3UL36	ARGL1_MOUSE	Arginine and glutamate-rich protein 1	leading protein	1	5	0
+PRT868_3_Q8R574	Q8R574	KPRB_MOUSE	Phosphoribosyl pyrophosphate synthase-associated protein 2	leading protein	1	3	1
+PRT868_3_P30987	P30987	TA2R_MOUSE	Thromboxane A2 receptor	leading protein	1	1	1
+PRT868_3_P31324	P31324	KAP3_MOUSE	cAMP-dependent protein kinase type II-beta regulatory subunit	leading protein	1	2	1
+PRT868_3_O54957	O54957	LAT_MOUSE	Linker for activation of T-cells family member 1	leading protein	1	2	0
+PRT868_3_Q9D4J7	Q9D4J7	PHF6_MOUSE	PHD finger protein 6	leading protein	1	2	0
+PRT868_3_C0HKE1	C0HKE1	H2A1B_MOUSE	Histone H2A type 1-B	leading protein	1	1	0
+PRT868_3_Q8VI33	Q8VI33	TAF9_MOUSE	Transcription initiation factor TFIID subunit 9	leading protein	1	1	0
+PRT868_3_F8VPZ9	F8VPZ9	BICRA_MOUSE	BRD4-interacting chromatin-remodeling complex-associated protein	leading protein	1	2	1
+PRT868_3_Q62193	Q62193	RFA2_MOUSE	Replication protein A 32 kDa subunit	leading protein	1	3	0
+PRT868_3_P02301	P02301	H3C_MOUSE	Histone H3.3C	leading protein	1	2	0
+PRT868_3_P11157	P11157	RIR2_MOUSE	Ribonucleoside-diphosphate reductase subunit M2	leading protein	1	1	1
+PRT868_3_Q8BUM3	Q8BUM3	PTN7_MOUSE	Tyrosine-protein phosphatase non-receptor type 7	leading protein	1	2	1
+PRT868_3_Q9ESX5	Q9ESX5	DKC1_MOUSE	H/ACA ribonucleoprotein complex subunit DKC1	leading protein	1	6	1
+PRT868_3_Q8VDM6	Q8VDM6	HNRL1_MOUSE	Heterogeneous nuclear ribonucleoprotein U-like protein 1	leading protein	1	4	1
+PRT868_3_P61982	P61982	1433G_MOUSE	14-3-3 protein gamma	leading protein	1	3	1
+PRT868_3_E9Q5K9	E9Q5K9	YTDC1_MOUSE	YTH domain-containing protein 1	leading protein	1	5	0
+PRT868_3_Q8C3J5	Q8C3J5	DOCK2_MOUSE	Dedicator of cytokinesis protein 2	leading protein	1	2	1
+PRT868_3_Q80XU3	Q80XU3	NUCKS_MOUSE	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	leading protein	1	6	0
+PRT868_3_Q8BKC8	Q8BKC8	PI4KB_MOUSE	Phosphatidylinositol 4-kinase beta	leading protein	1	1	0
+PRT868_3_O35892	O35892	SP100_MOUSE	Nuclear autoantigen Sp-100	leading protein	1	5	0
+PRT868_3_E9PYH6	E9PYH6	SET1A_MOUSE	Histone-lysine N-methyltransferase SETD1A	leading protein	1	4	1
+PRT868_3_Q9QYC0	Q9QYC0	ADDA_MOUSE	Alpha-adducin	leading protein	1	3	0
+PRT868_3_Q9CR00	Q9CR00	PSMD9_MOUSE	26S proteasome non-ATPase regulatory subunit 9	leading protein	1	4	0
+PRT868_3_Q99K48	Q99K48	NONO_MOUSE	Non-POU domain-containing octamer-binding protein	leading protein	1	2	0
+PRT868_3_Q1HDU4	Q1HDU4	Q1HDU4_MOUSE	ArhGAP9	leading protein	1	3	0
+PRT868_3_Q9DB52	Q9DB52	F122A_MOUSE	Protein FAM122A	leading protein	1	3	1
+PRT868_3_Q80UG5	Q80UG5	SEPT9_MOUSE	Septin-9	leading protein	1	3	0
+PRT868_3_Q8K352	Q8K352	SASH3_MOUSE	SAM and SH3 domain-containing protein 3	leading protein	1	6	1
+PRT868_3_Q61103	Q61103	REQU_MOUSE	Zinc finger protein ubi-d4	leading protein	1	9	0
+PRT868_3_Q7TT18	Q7TT18	MCAF1_MOUSE	Activating transcription factor 7-interacting protein 1	leading protein	1	1	0
+PRT868_3_Q03267	Q03267	IKZF1_MOUSE	DNA-binding protein Ikaros	leading protein	1	2	0
+PRT868_3_Q9DBC7	Q9DBC7	KAP0_MOUSE	cAMP-dependent protein kinase type I-alpha regulatory subunit	leading protein	1	10	0
+PRT868_3_P28667	P28667	MRP_MOUSE	MARCKS-related protein	leading protein	1	2	1
+PRT868_3_Q99LI7	Q99LI7	CSTF3_MOUSE	Cleavage stimulation factor subunit 3	leading protein	1	3	1
+PRT868_3_Q3UDE2	Q3UDE2	TTL12_MOUSE	Tubulin--tyrosine ligase-like protein 12	leading protein	1	6	0
+PRT868_3_P51859	P51859	HDGF_MOUSE	Hepatoma-derived growth factor	leading protein	1	4	0
+PRT868_3_Q9DBT5	Q9DBT5	AMPD2_MOUSE	AMP deaminase 2	leading protein	1	3	0
+PRT868_3_P35486	P35486	ODPA_MOUSE	Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial	leading protein	1	2	1
+PRT868_3_Q9JL26	Q9JL26	FMNL1_MOUSE	Formin-like protein 1	leading protein	1	4	0
+PRT868_3_Q03347	Q03347	RUNX1_MOUSE	Runt-related transcription factor 1	leading protein	1	4	0
+PRT868_3_Q07113	Q07113	MPRI_MOUSE	Cation-independent mannose-6-phosphate receptor	leading protein	1	1	1
+PRT868_3_P42209	P42209	SEPT1_MOUSE	Septin-1	leading protein	1	2	0
+PRT868_3_Q64012	Q64012	RALY_MOUSE	RNA-binding protein Raly	leading protein	1	11	0
+PRT868_3_Q05AH6	Q05AH6	SPNDC_MOUSE	Spindlin interactor and repressor of chromatin-binding protein	leading protein	1	3	0
+PRT868_3_Q810A7	Q810A7	DDX42_MOUSE	ATP-dependent RNA helicase DDX42	leading protein	1	3	1
+PRT868_3_Q62018	Q62018	CTR9_MOUSE	RNA polymerase-associated protein CTR9 homolog	leading protein	1	2	1
+PRT868_3_Q5NCR9	Q5NCR9	NSRP1_MOUSE	Nuclear speckle splicing regulatory protein 1	leading protein	1	3	0
+PRT868_3_P42669	P42669	PURA_MOUSE	Transcriptional activator protein Pur-alpha	leading protein	1	2	1
+PRT868_3_Q80U16	Q80U16	RIPR2_MOUSE	Rho family-interacting cell polarization regulator 2	leading protein	1	1	0
+PRT868_3_E9Q394	E9Q394	AKP13_MOUSE	A-kinase anchor protein 13	leading protein	1	2	0
+PRT868_3_P17156	P17156	HSP72_MOUSE	Heat shock-related 70 kDa protein 2	leading protein	1	2	0
+PRT868_3_P63101	P63101	1433Z_MOUSE	14-3-3 protein zeta/delta	leading protein	1	7	1
+PRT868_3_Q8R550	Q8R550	SH3K1_MOUSE	SH3 domain-containing kinase-binding protein 1	leading protein	1	2	0
+PRT868_3_Q8C3R1	Q8C3R1	BRAT1_MOUSE	BRCA1-associated ATM activator 1	leading protein	1	3	0
+PRT868_3_P62259	P62259	1433E_MOUSE	14-3-3 protein epsilon	leading protein	1	6	1
+PRT868_3_C0HKD8	C0HKD8	MFA1A_MOUSE	Microfibrillar-associated protein 1A	leading protein	1	6	0
+PRT868_3_Q8BLB7	Q8BLB7	LMBL3_MOUSE	Lethal(3)malignant brain tumor-like protein 3	leading protein	1	2	1
+PRT868_3_Q6P5G6	Q6P5G6	UBXN7_MOUSE	UBX domain-containing protein 7	leading protein	1	3	0
+PRT868_3_P23198	P23198	CBX3_MOUSE	Chromobox protein homolog 3	leading protein	1	1	0
+PRT868_3_Q78ZA7	Q78ZA7	NP1L4_MOUSE	Nucleosome assembly protein 1-like 4	leading protein	1	2	0
+PRT868_3_P81069	P81069	GABP2_MOUSE	GA-binding protein subunit beta-2	leading protein	1	3	1
+PRT868_3_A2BH40	A2BH40	ARI1A_MOUSE	AT-rich interactive domain-containing protein 1A	leading protein	1	4	0
+PRT868_3_Q03147	Q03147	CDK7_MOUSE	Cyclin-dependent kinase 7	leading protein	1	1	0
+PRT868_3_Q6P542	Q6P542	ABCF1_MOUSE	ATP-binding cassette sub-family F member 1	leading protein	1	4	0
+PRT868_3_P09838	P09838	TDT_MOUSE	DNA nucleotidylexotransferase	leading protein	1	5	1
+PRT868_3_Q76N33	Q76N33	STALP_MOUSE	AMSH-like protease	leading protein	1	2	1
+PRT868_3_Q60775	Q60775	ELF1_MOUSE	ETS-related transcription factor Elf-1	leading protein	1	3	0
+PRT868_3_P97315	P97315	CSRP1_MOUSE	Cysteine and glycine-rich protein 1	leading protein	1	2	1
+PRT868_3_Q9D0L8	Q9D0L8	MCES_MOUSE	mRNA cap guanine-N7 methyltransferase	leading protein	1	3	0
+PRT868_3_Q9CQV8	Q9CQV8	1433B_MOUSE	14-3-3 protein beta/alpha	leading protein	1	2	1
+PRT868_3_P70399	P70399	TP53B_MOUSE	TP53-binding protein 1	leading protein	1	1	0
+PRT868_3_Q5XJE5	Q5XJE5	LEO1_MOUSE	RNA polymerase-associated protein LEO1	leading protein	1	1	1
+PRT868_3_Q8C2K1	Q8C2K1	DEFI6_MOUSE	Differentially expressed in FDCP 6	leading protein	1	2	0
+PRT868_3_Q9DBC3	Q9DBC3	CMTR1_MOUSE	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	leading protein	1	4	0
+PRT868_3_P42230	P42230	STA5A_MOUSE	Signal transducer and activator of transcription 5A	leading protein	1	2	1
+PRT868_3_A5A4Y9	A5A4Y9	A5A4Y9_MOUSE	TCTEX5 long isoform	leading protein	1	5	0
+PRT868_3_Q9DA19	Q9DA19	CIR1_MOUSE	Corepressor interacting with RBPJ 1	leading protein	1	3	1
+PRT868_3_O70400	O70400	PDLI1_MOUSE	PDZ and LIM domain protein 1	leading protein	1	1	0
+PRT868_3_Q80X82	Q80X82	SYMPK_MOUSE	Symplekin	leading protein	1	2	1
+PRT868_3_Q3UGC7	Q3UGC7	EI3JA_MOUSE	Eukaryotic translation initiation factor 3 subunit J-A	leading protein	1	6	0
+PRT868_3_O35295	O35295	PURB_MOUSE	Transcriptional activator protein Pur-beta	leading protein	1	5	1
+PRT868_3_P05213	P05213	TBA1B_MOUSE	Tubulin alpha-1B chain	leading protein	1	3	0
+PRT868_3_Q61029	Q61029	LAP2B_MOUSE	Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma	leading protein	1	4	0
+PRT868_3_P70658	P70658	CXCR4_MOUSE	C-X-C chemokine receptor type 4	leading protein	1	4	0
+PRT868_3_Q9CZ44	Q9CZ44	NSF1C_MOUSE	NSFL1 cofactor p47	leading protein	1	1	1
+PRT868_3_Q9R190	Q9R190	MTA2_MOUSE	Metastasis-associated protein MTA2	leading protein	1	3	1
+PRT868_3_Q6P8I4	Q6P8I4	PCNP_MOUSE	PEST proteolytic signal-containing nuclear protein	leading protein	1	13	0
+PRT868_3_P26645	P26645	MARCS_MOUSE	Myristoylated alanine-rich C-kinase substrate	leading protein	1	4	1
+PRT868_3_Q8K124	Q8K124	PKHO2_MOUSE	Pleckstrin homology domain-containing family O member 2	leading protein	1	2	1
+PRT868_3_P42208	P42208	SEPT2_MOUSE	Septin-2	leading protein	1	3	0
+PRT868_3_Q9Z2A0	Q9Z2A0	PDPK1_MOUSE	3-phosphoinositide-dependent protein kinase 1	leading protein	1	2	0
+PRT868_3_Q8BG05	Q8BG05	ROA3_MOUSE	Heterogeneous nuclear ribonucleoprotein A3	leading protein	1	9	0
+PRT868_3_P06800	P06800	PTPRC_MOUSE	Receptor-type tyrosine-protein phosphatase C	leading protein	1	5	0
+PRT868_3_Q99MR6	Q99MR6	SRRT_MOUSE	Serrate RNA effector molecule homolog	leading protein	1	3	0
+PRT868_3_Q9R0P5	Q9R0P5	DEST_MOUSE	Destrin	leading protein	1	1	1
+PRT868_3_Q2NL51	Q2NL51	GSK3A_MOUSE	Glycogen synthase kinase-3 alpha	leading protein	1	2	0
+PRT868_3_Q9CWZ3	Q9CWZ3	RBM8A_MOUSE	RNA-binding protein 8A	leading protein	1	4	0
+PRT868_3_Q8R1B4	Q8R1B4	EIF3C_MOUSE	Eukaryotic translation initiation factor 3 subunit C	leading protein	1	1	1
+PRT868_3_P63158	P63158	HMGB1_MOUSE	High mobility group protein B1	leading protein	1	2	0
+PRT868_3_O35143	O35143	ATIF1_MOUSE	ATPase inhibitor, mitochondrial	leading protein	1	2	0
+PRT868_3_A5A4Y9	A5A4Y9	A5A4Y9_MOUSE	E3 ubiquitin-protein ligase PPP1R11	leading protein	1	5	0
+PRT868_3_Q7TT28	Q7TT28	REXO1_MOUSE	RNA exonuclease 1 homolog	leading protein	1	1	1
+PRT868_3_P43276	P43276	H15_MOUSE	Histone H1.5	leading protein	1	7	1
+PRT868_3_Q9CSN1	Q9CSN1	SNW1_MOUSE	SNW domain-containing protein 1	leading protein	1	1	0
+PRT868_3_Q9CWK3	Q9CWK3	CD2B2_MOUSE	CD2 antigen cytoplasmic tail-binding protein 2	leading protein	1	1	0
+PRT868_3_Q3UYC0	Q3UYC0	PPM1H_MOUSE	Protein phosphatase 1H	leading protein	1	4	1
+PRT868_3_Q80TY0	Q80TY0	FNBP1_MOUSE	Formin-binding protein 1	leading protein	1	5	0
+PRT868_3_Q3UHJ0	Q3UHJ0	AAK1_MOUSE	AP2-associated protein kinase 1	leading protein	1	2	0
+PRT868_3_Q99JF8	Q99JF8	PSIP1_MOUSE	PC4 and SFRS1-interacting protein	leading protein	1	3	0
+PRT868_3_Q61136	Q61136	PRP4B_MOUSE	Serine/threonine-protein kinase PRP4 homolog	leading protein	1	4	0
+PRT868_3_Q8BTM8	Q8BTM8	FLNA_MOUSE	Filamin-A	leading protein	1	2	0
+PRT868_3_E9Q784	E9Q784	ZC3HD_MOUSE	Zinc finger CCCH domain-containing protein 13	leading protein	1	2	0
+PRT868_3_Q61165	Q61165	SL9A1_MOUSE	Sodium/hydrogen exchanger 1	leading protein	1	1	1
+PRT868_3_Q80YV2	Q80YV2	NIPA_MOUSE	Nuclear-interacting partner of ALK	leading protein	1	2	0
+PRT868_3_Q9DBD5	Q9DBD5	PELP1_MOUSE	Proline-, glutamic acid- and leucine-rich protein 1	leading protein	1	3	0
+PRT868_3_A0A087WQA0	A0A087WQA0	A0A087WQA0_MOUSE	Bcl-2-associated transcription factor 1	spectrum same-set protein	5	31	0
+PRT868_3_H3BL37	H3BL37	H3BL37_MOUSE	Treacle protein	spectrum same-set protein	5	33	0
+PRT868_3_F8WI22	F8WI22	F8WI22_MOUSE	Bcl-2-associated transcription factor 1	spectrum same-set protein	5	31	0
+PRT868_3_A0A087WRN1	A0A087WRN1	A0A087WRN1_MOUSE	Bcl-2-associated transcription factor 1	spectrum same-set protein	5	31	0
+PRT868_3_P63260	P63260	ACTG_MOUSE	Actin, cytoplasmic 2	spectrum same-set protein	3	9	0
+PRT868_3_E9PUK6	E9PUK6	E9PUK6_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum same-set protein	3	16	0
+PRT868_3_E9Q9D2	E9Q9D2	E9Q9D2_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9Q030	E9Q030	E9Q030_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9Q9D1	E9Q9D1	E9Q9D1_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_A2A8V9	A2A8V9	A2A8V9_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum same-set protein	3	16	0
+PRT868_3_E9Q9C7	E9Q9C7	E9Q9C7_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_F6RJ39	F6RJ39	F6RJ39_MOUSE	Apoptotic chromatin condensation inducer in the nucleus	spectrum same-set protein	3	10	0
+PRT868_3_A2A8V8	A2A8V8	A2A8V8_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum same-set protein	3	16	0
+PRT868_3_Q8BZN7	Q8BZN7	Q8BZN7_MOUSE	Thyroid hormone receptor-associated protein 3	spectrum same-set protein	3	27	0
+PRT868_3_D6RI64	D6RI64	D6RI64_MOUSE	RIKEN cDNA 1110004F10 gene	spectrum same-set protein	3	16	0
+PRT868_3_E9Q9C0	E9Q9C0	E9Q9C0_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9Q9C1	E9Q9C1	E9Q9C1_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_Q9DAY9	Q9DAY9	Q9DAY9_MOUSE	Nucleophosmin	spectrum same-set protein	3	16	0
+PRT868_3_S4R1W1	S4R1W1	S4R1W1_MOUSE	Glyceraldehyde-3-phosphate dehydrogenase	spectrum same-set protein	3	7	0
+PRT868_3_Q5SQB0	Q5SQB0	Q5SQB0_MOUSE	Nucleophosmin	spectrum same-set protein	3	16	0
+PRT868_3_E9Q5F4	E9Q5F4	E9Q5F4_MOUSE	Actin, cytoplasmic 1	spectrum same-set protein	3	9	0
+PRT868_3_Q5SQB5	Q5SQB5	Q5SQB5_MOUSE	Nucleophosmin	spectrum same-set protein	3	16	0
+PRT868_3_E9Q9Q7	E9Q9Q7	E9Q9Q7_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9Q9C2	E9Q9C2	E9Q9C2_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9QK41	E9QK41	E9QK41_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_E9Q9C4	E9Q9C4	E9Q9C4_MOUSE	Actin-binding LIM protein 1	spectrum same-set protein	3	7	0
+PRT868_3_F7AB07	F7AB07	F7AB07_MOUSE	Thyroid hormone receptor-associated protein 3	spectrum same-set protein	3	27	0
+PRT868_3_A0A1D5RLD8	A0A1D5RLD8	A0A1D5RLD8_MOUSE	Glyceraldehyde-3-phosphate dehydrogenase	spectrum same-set protein	3	7	0
+PRT868_3_A0A0A0MQF6	A0A0A0MQF6	A0A0A0MQF6_MOUSE	Glyceraldehyde-3-phosphate dehydrogenase	spectrum same-set protein	3	7	0
+PRT868_3_E9PX62	E9PX62	E9PX62_MOUSE	Histone deacetylase	spectrum same-set protein	2	14	0
+PRT868_3_A0A087WPN6	A0A087WPN6	A0A087WPN6_MOUSE	Prothymosin alpha	spectrum same-set protein	2	13	0
+PRT868_3_G3X9Q3	G3X9Q3	G3X9Q3_MOUSE	Rho GTPase-activating protein 45	spectrum same-set protein	2	8	0
+PRT868_3_E9PZG4	E9PZG4	E9PZG4_MOUSE	Histone deacetylase 7	spectrum same-set protein	2	14	0
+PRT868_3_A2AW05	A2AW05	A2AW05_MOUSE	FACT complex subunit SSRP1	spectrum same-set protein	2	7	0
+PRT868_3_F7BYZ4	F7BYZ4	F7BYZ4_MOUSE	Serine/threonine-protein kinase 4	spectrum same-set protein	2	4	0
+PRT868_3_Q64478	Q64478	H2B1H_MOUSE	Histone H2B type 1-H	spectrum same-set protein	2	2	0
+PRT868_3_Q8CBB6	Q8CBB6	Q8CBB6_MOUSE	Histone H2B	spectrum same-set protein	2	2	0
+PRT868_3_A0A0R4J195	A0A0R4J195	A0A0R4J195_MOUSE	Regulation of nuclear pre-mRNA domain-containing protein 1B	spectrum same-set protein	2	5	0
+PRT868_3_E9Q4A0	E9Q4A0	E9Q4A0_MOUSE	cAMP-regulated phosphoprotein 21	spectrum same-set protein	2	2	0
+PRT868_3_S4R1M2	S4R1M2	S4R1M2_MOUSE	Scaffold attachment factor B1	spectrum same-set protein	2	5	0
+PRT868_3_F8WGL3	F8WGL3	F8WGL3_MOUSE	Cofilin-1	spectrum same-set protein	2	30	0
+PRT868_3_Q9D2U9	Q9D2U9	H2B3A_MOUSE	Histone H2B type 3-A	spectrum same-set protein	2	2	0
+PRT868_3_E9PXW1	E9PXW1	E9PXW1_MOUSE	Histone deacetylase	spectrum same-set protein	2	14	0
+PRT868_3_Q64525	Q64525	H2B2B_MOUSE	Histone H2B type 2-B	spectrum same-set protein	2	2	0
+PRT868_3_D3Z5N2	D3Z5N2	D3Z5N2_MOUSE	Stathmin	spectrum same-set protein	2	7	0
+PRT868_3_A0A0R4J1E1	A0A0R4J1E1	A0A0R4J1E1_MOUSE	B-cell lymphoma/leukemia 11B	spectrum same-set protein	2	8	0
+PRT868_3_A0A087WP98	A0A087WP98	A0A087WP98_MOUSE	Prothymosin alpha	spectrum same-set protein	2	13	0
+PRT868_3_Q8CGP1	Q8CGP1	H2B1K_MOUSE	Histone H2B type 1-K	spectrum same-set protein	2	2	0
+PRT868_3_D3Z710	D3Z710	D3Z710_MOUSE	Kinesin light chain 3	spectrum same-set protein	2	5	0
+PRT868_3_A0A1L1SST0	A0A1L1SST0	A0A1L1SST0_MOUSE	Peptidyl-prolyl cis-trans isomerase	spectrum same-set protein	2	3	0
+PRT868_3_A0A494B9A7	A0A494B9A7	A0A494B9A7_MOUSE	Cofilin-1	spectrum same-set protein	2	30	0
+PRT868_3_E9QP00	E9QP00	E9QP00_MOUSE	Transformer-2 protein homolog alpha	spectrum same-set protein	2	12	0
+PRT868_3_Q64475	Q64475	H2B1B_MOUSE	Histone H2B type 1-B	spectrum same-set protein	2	2	0
+PRT868_3_P10854	P10854	H2B1M_MOUSE	Histone H2B type 1-M	spectrum same-set protein	2	2	0
+PRT868_3_E9PXW8	E9PXW8	E9PXW8_MOUSE	Histone deacetylase	spectrum same-set protein	2	14	0
+PRT868_3_Q8CGP0	Q8CGP0	H2B3B_MOUSE	Histone H2B type 3-B	spectrum same-set protein	2	2	0
+PRT868_3_D3Z1Z8	D3Z1Z8	D3Z1Z8_MOUSE	Stathmin	spectrum same-set protein	2	7	0
+PRT868_3_P70696	P70696	H2B1A_MOUSE	Histone H2B type 1-A	spectrum same-set protein	2	2	0
+PRT868_3_F6YB25	F6YB25	F6YB25_MOUSE	Regulation of nuclear pre-mRNA domain-containing protein 1B	spectrum same-set protein	2	5	0
+PRT868_3_Q8CGP2	Q8CGP2	H2B1P_MOUSE	Histone H2B type 1-P	spectrum same-set protein	2	2	0
+PRT868_3_Q6ZWY9	Q6ZWY9	H2B1C_MOUSE	Histone H2B type 1-C/E/G	spectrum same-set protein	2	2	0
+PRT868_3_Q64524	Q64524	H2B2E_MOUSE	Histone H2B type 2-E	spectrum same-set protein	2	2	0
+PRT868_3_Q8CGP4	Q8CGP4	Q8CGP4_MOUSE	Histone H2A	spectrum same-set protein	1	1	0
+PRT868_3_A0A5F8MPY8	A0A5F8MPY8	A0A5F8MPY8_MOUSE	Rho family-interacting cell polarization regulator 2	spectrum same-set protein	1	1	0
+PRT868_3_B1AZ85	B1AZ85	B1AZ85_MOUSE	SH3 domain-containing kinase-binding protein 1	spectrum same-set protein	1	2	0
+PRT868_3_A2AQ43	A2AQ43	A2AQ43_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_E9QLK3	E9QLK3	E9QLK3_MOUSE	BRCA1-associated ATM activator 1	spectrum same-set protein	1	3	0
+PRT868_3_A6PW28	A6PW28	A6PW28_MOUSE	Rho family-interacting cell polarization regulator 2	spectrum same-set protein	1	1	0
+PRT868_3_A0A0G2JGN6	A0A0G2JGN6	A0A0G2JGN6_MOUSE	26S proteasome non-ATPase regulatory subunit 9	spectrum same-set protein	1	4	0
+PRT868_3_A0A1W2P6X3	A0A1W2P6X3	A0A1W2P6X3_MOUSE	Formin-like protein 1	spectrum same-set protein	1	4	0
+PRT868_3_B7FAV1	B7FAV1	B7FAV1_MOUSE	Filamin, alpha	spectrum same-set protein	1	2	0
+PRT868_3_A0A571BDM4	A0A571BDM4	A0A571BDM4_MOUSE	AP2-associated protein kinase 1	spectrum same-set protein	1	2	0
+PRT868_3_A2BI12	A2BI12	A2BI12_MOUSE	PC4 and SFRS1-interacting protein	spectrum same-set protein	1	3	0
+PRT868_3_P68369	P68369	TBA1A_MOUSE	Tubulin alpha-1A chain	spectrum same-set protein	1	3	0
+PRT868_3_A0A140LIS5	A0A140LIS5	A0A140LIS5_MOUSE	Arginine and glutamate-rich protein 1	spectrum same-set protein	1	5	0
+PRT868_3_F8WGR0	F8WGR0	F8WGR0_MOUSE	Alpha-adducin	spectrum same-set protein	1	3	0
+PRT868_3_A0A0G2JEA9	A0A0G2JEA9	A0A0G2JEA9_MOUSE	RNA-binding protein 8A	spectrum same-set protein	1	4	0
+PRT868_3_Q8C405	Q8C405	Q8C405_MOUSE	Nuclear autoantigen Sp-100	spectrum same-set protein	1	5	0
+PRT868_3_B7FAV1	B7FAV1	B7FAV1_MOUSE	Filamin-A	spectrum same-set protein	1	2	0
+PRT868_3_D3Z478	D3Z478	D3Z478_MOUSE	mRNA cap guanine-N7 methyltransferase	spectrum same-set protein	1	3	0
+PRT868_3_A0A0B4J1E2	A0A0B4J1E2	A0A0B4J1E2_MOUSE	SNW domain-containing protein 1	spectrum same-set protein	1	1	0
+PRT868_3_B7ZCU3	B7ZCU3	B7ZCU3_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_C0HKD9	C0HKD9	MFA1B_MOUSE	Microfibrillar-associated protein 1B	spectrum same-set protein	1	6	0
+PRT868_3_G3UWD2	G3UWD2	G3UWD2_MOUSE	Runt-related transcription factor	spectrum same-set protein	1	4	0
+PRT868_3_E9QAQ7	E9QAQ7	E9QAQ7_MOUSE	AT-rich interactive domain-containing protein 1A	spectrum same-set protein	1	4	0
+PRT868_3_C0HKE8	C0HKE8	H2A1O_MOUSE	Histone H2A type 1-O	spectrum same-set protein	1	1	0
+PRT868_3_A0A3Q4EHZ1	A0A3Q4EHZ1	A0A3Q4EHZ1_MOUSE	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	spectrum same-set protein	1	4	0
+PRT868_3_C0HKE3	C0HKE3	H2A1D_MOUSE	Histone H2A type 1-D	spectrum same-set protein	1	1	0
+PRT868_3_F8WHZ9	F8WHZ9	F8WHZ9_MOUSE	Alpha-adducin	spectrum same-set protein	1	3	0
+PRT868_3_A0A0J9YUZ4	A0A0J9YUZ4	A0A0J9YUZ4_MOUSE	High mobility group protein B1	spectrum same-set protein	1	2	0
+PRT868_3_A0A286YDC8	A0A286YDC8	A0A286YDC8_MOUSE	mRNA-decapping enzyme 1A	spectrum same-set protein	1	2	0
+PRT868_3_P84228	P84228	H32_MOUSE	Histone H3.2	spectrum same-set protein	1	2	0
+PRT868_3_G5E8R8	G5E8R8	G5E8R8_MOUSE	UBX domain-containing protein 7	spectrum same-set protein	1	3	0
+PRT868_3_A0A494BBF7	A0A494BBF7	A0A494BBF7_MOUSE	Zinc finger protein ubi-d4	spectrum same-set protein	1	9	0
+PRT868_3_F8WHR6	F8WHR6	F8WHR6_MOUSE	Probable ATP-dependent RNA helicase DDX46	spectrum same-set protein	1	1	0
+PRT868_3_V9GXC3	V9GXC3	V9GXC3_MOUSE	Transcription factor 12	spectrum same-set protein	1	10	0
+PRT868_3_G5E8H3	G5E8H3	G5E8H3_MOUSE	DNA-binding protein Ikaros	spectrum same-set protein	1	2	0
+PRT868_3_D3Z0T1	D3Z0T1	D3Z0T1_MOUSE	Alpha-adducin	spectrum same-set protein	1	3	0
+PRT868_3_D3Z491	D3Z491	D3Z491_MOUSE	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	spectrum same-set protein	1	4	0
+PRT868_3_E0CYR7	E0CYR7	E0CYR7_MOUSE	H3.3 histone A	spectrum same-set protein	1	2	0
+PRT868_3_D3Z4K1	D3Z4K1	D3Z4K1_MOUSE	mRNA cap guanine-N7 methyltransferase	spectrum same-set protein	1	3	0
+PRT868_3_Q66JS6	Q66JS6	EI3JB_MOUSE	Eukaryotic translation initiation factor 3 subunit J-B	spectrum same-set protein	1	6	0
+PRT868_3_P68373	P68373	TBA1C_MOUSE	Tubulin alpha-1C chain	spectrum same-set protein	1	3	0
+PRT868_3_B1ATD4	B1ATD4	B1ATD4_MOUSE	Myotubularin-related protein 3	spectrum same-set protein	1	1	0
+PRT868_3_A0A1W2P768	A0A1W2P768	A0A1W2P768_MOUSE	H3 clustered histone 14	spectrum same-set protein	1	2	0
+PRT868_3_A0A286YDC0	A0A286YDC0	A0A286YDC0_MOUSE	Cyclin-dependent kinase 7	spectrum same-set protein	1	1	0
+PRT868_3_A2AB60	A2AB60	A2AB60_MOUSE	Formin-like protein 1	spectrum same-set protein	1	4	0
+PRT868_3_R4GML8	R4GML8	R4GML8_MOUSE	Myotubularin-related protein 3	spectrum same-set protein	1	1	0
+PRT868_3_A0A0U1RQA1	A0A0U1RQA1	A0A0U1RQA1_MOUSE	Septin-1	spectrum same-set protein	1	2	0
+PRT868_3_A2AI69	A2AI69	A2AI69_MOUSE	cAMP-dependent protein kinase type I-alpha regulatory subunit	spectrum same-set protein	1	10	0
+PRT868_3_A0A0U1RNG1	A0A0U1RNG1	A0A0U1RNG1_MOUSE	CD2 antigen cytoplasmic tail-binding protein 2	spectrum same-set protein	1	1	0
+PRT868_3_A0A1Y7VJA2	A0A1Y7VJA2	A0A1Y7VJA2_MOUSE	Ena/VASP-like protein	spectrum same-set protein	1	3	0
+PRT868_3_B1ATD1	B1ATD1	B1ATD1_MOUSE	Lymphocyte cytosolic protein 2	spectrum same-set protein	1	3	0
+PRT868_3_P05214	P05214	TBA3_MOUSE	Tubulin alpha-3 chain	spectrum same-set protein	1	3	0
+PRT868_3_E9PUF7	E9PUF7	E9PUF7_MOUSE	Rho guanine nucleotide exchange factor 1	spectrum same-set protein	1	4	0
+PRT868_3_F8WJB9	F8WJB9	F8WJB9_MOUSE	Ena/VASP-like protein	spectrum same-set protein	1	3	0
+PRT868_3_A0A087WR75	A0A087WR75	A0A087WR75_MOUSE	Activating transcription factor 7-interacting protein 1	spectrum same-set protein	1	1	0
+PRT868_3_E9Q8K8	E9Q8K8	E9Q8K8_MOUSE	Zinc finger CCCH domain-containing protein 4	spectrum same-set protein	1	4	0
+PRT868_3_Q9D4T3	Q9D4T3	Q9D4T3_MOUSE	Proline-, glutamic acid- and leucine-rich protein 1	spectrum same-set protein	1	3	0
+PRT868_3_C0HKE7	C0HKE7	H2A1N_MOUSE	Histone H2A type 1-N	spectrum same-set protein	1	1	0
+PRT868_3_F2Z400	F2Z400	F2Z400_MOUSE	3-phosphoinositide-dependent protein kinase 1	spectrum same-set protein	1	2	0
+PRT868_3_A2AE27	A2AE27	A2AE27_MOUSE	AMP deaminase	spectrum same-set protein	1	3	0
+PRT868_3_B7ZNL2	B7ZNL2	B7ZNL2_MOUSE	Nucleosome assembly protein 1-like 4	spectrum same-set protein	1	2	0
+PRT868_3_A0A0U1RP03	A0A0U1RP03	A0A0U1RP03_MOUSE	Linker for activation of T-cells family member 1	spectrum same-set protein	1	2	0
+PRT868_3_F2Z3X6	F2Z3X6	F2Z3X6_MOUSE	3-phosphoinositide-dependent protein kinase 1	spectrum same-set protein	1	2	0
+PRT868_3_C0HKE4	C0HKE4	H2A1E_MOUSE	Histone H2A type 1-E	spectrum same-set protein	1	1	0
+PRT868_3_G3UYK8	G3UYK8	G3UYK8_MOUSE	Coronin	spectrum same-set protein	1	1	0
+PRT868_3_Q8CGP5	Q8CGP5	H2A1F_MOUSE	Histone H2A type 1-F	spectrum same-set protein	1	1	0
+PRT868_3_S4R1M0	S4R1M0	S4R1M0_MOUSE	Receptor-type tyrosine-protein phosphatase C	spectrum same-set protein	1	5	0
+PRT868_3_A2AQ44	A2AQ44	A2AQ44_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_P68368	P68368	TBA4A_MOUSE	Tubulin alpha-4A chain	spectrum same-set protein	1	3	0
+PRT868_3_P84244	P84244	H33_MOUSE	Histone H3.3	spectrum same-set protein	1	2	0
+PRT868_3_A2AU61	A2AU61	A2AU61_MOUSE	RNA-binding protein Raly	spectrum same-set protein	1	11	0
+PRT868_3_A2APD7	A2APD7	A2APD7_MOUSE	Nucleolar protein 56	spectrum same-set protein	1	4	0
+PRT868_3_C0HKE5	C0HKE5	H2A1G_MOUSE	Histone H2A type 1-G	spectrum same-set protein	1	1	0
+PRT868_3_E9PW20	E9PW20	E9PW20_MOUSE	Chromatin target of PRMT1 protein	spectrum same-set protein	1	2	0
+PRT868_3_A0A2R8VHK2	A0A2R8VHK2	A0A2R8VHK2_MOUSE	Probable ATP-dependent RNA helicase DDX46	spectrum same-set protein	1	1	0
+PRT868_3_Q3UXQ3	Q3UXQ3	Q3UXQ3_MOUSE	Transcription factor 12	spectrum same-set protein	1	10	0
+PRT868_3_Q5SWU0	Q5SWU0	Q5SWU0_MOUSE	IKAROS family zinc finger 1	spectrum same-set protein	1	2	0
+PRT868_3_A2A6U3	A2A6U3	A2A6U3_MOUSE	Septin-9	spectrum same-set protein	1	3	0
+PRT868_3_A0A494BBB2	A0A494BBB2	A0A494BBB2_MOUSE	Spindlin interactor and repressor of chromatin-binding protein	spectrum same-set protein	1	3	0
+PRT868_3_A0A087WR39	A0A087WR39	A0A087WR39_MOUSE	Activating transcription factor 7-interacting protein 1	spectrum same-set protein	1	1	0
+PRT868_3_A0A0A6YWT1	A0A0A6YWT1	A0A0A6YWT1_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_H3BKM2	H3BKM2	H3BKM2_MOUSE	Nuclear-interacting partner of ALK	spectrum same-set protein	1	2	0
+PRT868_3_D6RI80	D6RI80	D6RI80_MOUSE	Phosphatidylinositol 4-kinase beta	spectrum same-set protein	1	1	0
+PRT868_3_A0A140LJJ5	A0A140LJJ5	A0A140LJJ5_MOUSE	A-kinase anchor protein 13	spectrum same-set protein	1	2	0
+PRT868_3_D3Z5N6	D3Z5N6	D3Z5N6_MOUSE	Zinc finger protein ubi-d4	spectrum same-set protein	1	9	0
+PRT868_3_A2AU90	A2AU90	A2AU90_MOUSE	Transformation-related protein 53-binding protein 1	spectrum same-set protein	1	1	0
+PRT868_3_F8WJG3	F8WJG3	F8WJG3_MOUSE	Transformer-2 protein homolog beta	spectrum same-set protein	1	4	0
+PRT868_3_Q5NCR8	Q5NCR8	Q5NCR8_MOUSE	Nuclear speckle-splicing regulatory protein 1	spectrum same-set protein	1	3	0
+PRT868_3_Q504P4	Q504P4	Q504P4_MOUSE	Heat shock cognate 71 kDa protein	spectrum same-set protein	1	2	0
+PRT868_3_A2AU60	A2AU60	A2AU60_MOUSE	RNA-binding protein Raly	spectrum same-set protein	1	11	0
+PRT868_3_A2AL13	A2AL13	A2AL13_MOUSE	Heterogeneous nuclear ribonucleoprotein A3	spectrum same-set protein	1	9	0
+PRT868_3_A0A0R4J008	A0A0R4J008	A0A0R4J008_MOUSE	Histone deacetylase 2	spectrum same-set protein	1	8	0
+PRT868_3_F6ZN61	F6ZN61	F6ZN61_MOUSE	Rho guanine nucleotide exchange factor 1	spectrum same-set protein	1	4	0
+PRT868_3_D3YZ18	D3YZ18	D3YZ18_MOUSE	High mobility group protein B1	spectrum same-set protein	1	2	0
+PRT868_3_A0A0N4SV66	A0A0N4SV66	A0A0N4SV66_MOUSE	Histone H2A	spectrum same-set protein	1	1	0
+PRT868_3_A0A3Q4EH87	A0A3Q4EH87	A0A3Q4EH87_MOUSE	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	spectrum same-set protein	1	4	0
+PRT868_3_Q3TM89	Q3TM89	Q3TM89_MOUSE	PEST proteolytic signal-containing nuclear protein	spectrum same-set protein	1	13	0
+PRT868_3_E9Q0C1	E9Q0C1	E9Q0C1_MOUSE	SH3 domain-containing kinase-binding protein 1	spectrum same-set protein	1	2	0
+PRT868_3_A0A087WRY3	A0A087WRY3	A0A087WRY3_MOUSE	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	spectrum same-set protein	1	6	0
+PRT868_3_Q8BFU2	Q8BFU2	H2A3_MOUSE	Histone H2A type 3	spectrum same-set protein	1	1	0
+PRT868_3_A6PW28	A6PW28	A6PW28_MOUSE	Likely orthologue of H. sapiens chromosome 6 open reading frame 32 (C6orf32)	spectrum same-set protein	1	1	0
+PRT868_3_A0A087WNM2	A0A087WNM2	A0A087WNM2_MOUSE	Transcription initiation factor TFIID subunit 9	spectrum same-set protein	1	1	0
+PRT868_3_Q9DCC5	Q9DCC5	Q9DCC5_MOUSE	Cbx3 protein	spectrum same-set protein	1	1	0
+PRT868_3_E0CXA0	E0CXA0	E0CXA0_MOUSE	Hepatoma-derived growth factor	spectrum same-set protein	1	4	0
+PRT868_3_C0HKE9	C0HKE9	H2A1P_MOUSE	Histone H2A type 1-P	spectrum same-set protein	1	1	0
+PRT868_3_A0A0U1RP07	A0A0U1RP07	A0A0U1RP07_MOUSE	CD2 antigen cytoplasmic tail-binding protein 2	spectrum same-set protein	1	1	0
+PRT868_3_E0CZ27	E0CZ27	E0CZ27_MOUSE	Histone H3	spectrum same-set protein	1	2	0
+PRT868_3_E9Q8A3	E9Q8A3	E9Q8A3_MOUSE	Phosphatidylinositol 4-kinase beta	spectrum same-set protein	1	1	0
+PRT868_3_A2AQ42	A2AQ42	A2AQ42_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_E9QAG2	E9QAG2	E9QAG2_MOUSE	PHD finger protein 6	spectrum same-set protein	1	2	0
+PRT868_3_G3V012	G3V012	G3V012_MOUSE	ATP-binding cassette sub-family F member 1	spectrum same-set protein	1	4	0
+PRT868_3_Q8R1M2	Q8R1M2	H2AJ_MOUSE	Histone H2A.J	spectrum same-set protein	1	1	0
+PRT868_3_Q5SWT9	Q5SWT9	Q5SWT9_MOUSE	DNA-binding protein Ikaros	spectrum same-set protein	1	2	0
+PRT868_3_A2AL12	A2AL12	A2AL12_MOUSE	Heterogeneous nuclear ribonucleoprotein A3	spectrum same-set protein	1	9	0
+PRT868_3_F8WI88	F8WI88	F8WI88_MOUSE	PEST proteolytic signal-containing nuclear protein	spectrum same-set protein	1	13	0
+PRT868_3_Q9JJZ2	Q9JJZ2	TBA8_MOUSE	Tubulin alpha-8 chain	spectrum same-set protein	1	3	0
+PRT868_3_E9QNT5	E9QNT5	E9QNT5_MOUSE	Transcription initiation factor TFIID subunit 12	spectrum same-set protein	1	3	0
+PRT868_3_Q504P4	Q504P4	Q504P4_MOUSE	Hspa8 protein	spectrum same-set protein	1	2	0
+PRT868_3_J3QNK8	J3QNK8	J3QNK8_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_A0A1L1SQT5	A0A1L1SQT5	A0A1L1SQT5_MOUSE	Dual-specificity protein kinase CLK3	spectrum same-set protein	1	4	0
+PRT868_3_Q9DCC5	Q9DCC5	Q9DCC5_MOUSE	Chromobox protein homolog 3	spectrum same-set protein	1	1	0
+PRT868_3_Q9WV60	Q9WV60	GSK3B_MOUSE	Glycogen synthase kinase-3 beta	spectrum same-set protein	1	2	0
+PRT868_3_B7FAU9	B7FAU9	B7FAU9_MOUSE	Filamin, alpha	spectrum same-set protein	1	2	0
+PRT868_3_P63017	P63017	HSP7C_MOUSE	Heat shock cognate 71 kDa protein	spectrum same-set protein	1	2	0
+PRT868_3_A0A2R8VHF3	A0A2R8VHF3	A0A2R8VHF3_MOUSE	Tubulin alpha chain	spectrum same-set protein	1	3	0
+PRT868_3_E9Q1K3	E9Q1K3	E9Q1K3_MOUSE	Alpha-adducin	spectrum same-set protein	1	3	0
+PRT868_3_D6RG95	D6RG95	D6RG95_MOUSE	YTH domain-containing protein 1	spectrum same-set protein	1	5	0
+PRT868_3_A0A2I3BPQ5	A0A2I3BPQ5	A0A2I3BPQ5_MOUSE	Zinc finger CCCH domain-containing protein 13	spectrum same-set protein	1	2	0
+PRT868_3_E9QA05	E9QA05	E9QA05_MOUSE	Nuclear autoantigen Sp-100	spectrum same-set protein	1	5	0
+PRT868_3_Q61033	Q61033	LAP2A_MOUSE	Lamina-associated polypeptide 2, isoforms alpha/zeta	spectrum same-set protein	1	4	0
+PRT868_3_E9PV44	E9PV44	E9PV44_MOUSE	ATPase inhibitory factor 1	spectrum same-set protein	1	2	0
+PRT868_3_A2AQ45	A2AQ45	A2AQ45_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_G3UZ30	G3UZ30	G3UZ30_MOUSE	E3 ubiquitin-protein ligase PPP1R11	spectrum same-set protein	1	5	0
+PRT868_3_A0A1L1STP6	A0A1L1STP6	A0A1L1STP6_MOUSE	Dual-specificity protein kinase CLK3	spectrum same-set protein	1	4	0
+PRT868_3_A0A0R4J0N8	A0A0R4J0N8	A0A0R4J0N8_MOUSE	C-X-C chemokine receptor type 4	spectrum same-set protein	1	4	0
+PRT868_3_A0A0R4IZX1	A0A0R4IZX1	A0A0R4IZX1_MOUSE	Differentially-expressed in FDCP 6	spectrum same-set protein	1	2	0
+PRT868_3_S4R1V0	S4R1V0	S4R1V0_MOUSE	PDZ and LIM domain protein 1	spectrum same-set protein	1	1	0
+PRT868_3_Q3TE40	Q3TE40	Q3TE40_MOUSE	Replication protein A 32 kDa subunit	spectrum same-set protein	1	3	0
+PRT868_3_B1ATD5	B1ATD5	B1ATD5_MOUSE	Myotubularin-related protein 3	spectrum same-set protein	1	1	0
+PRT868_3_A0A2I3BPX9	A0A2I3BPX9	A0A2I3BPX9_MOUSE	ETS-related transcription factor Elf-1	spectrum same-set protein	1	3	0
+PRT868_3_Q3V0N8	Q3V0N8	Q3V0N8_MOUSE	Solute carrier family 12 member 6	spectrum same-set protein	1	2	0
+PRT868_3_F2Z423	F2Z423	F2Z423_MOUSE	Tubulin--tyrosine ligase-like protein 12	spectrum same-set protein	1	6	0
+PRT868_3_C0HKE6	C0HKE6	H2A1I_MOUSE	Histone H2A type 1-I	spectrum same-set protein	1	1	0
+PRT868_3_A0A1Y7VLT3	A0A1Y7VLT3	A0A1Y7VLT3_MOUSE	Serine/threonine-protein kinase PRP4 homolog	spectrum same-set protein	1	4	0
+PRT868_3_A0A0J9YUD8	A0A0J9YUD8	A0A0J9YUD8_MOUSE	High mobility group protein B1	spectrum same-set protein	1	2	0
+PRT868_3_Q6P6P5	Q6P6P5	Q6P6P5_MOUSE	Predicted gene 21985	spectrum same-set protein	1	2	0
+PRT868_3_B7ZCU5	B7ZCU5	B7ZCU5_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_B7ZNL2	B7ZNL2	B7ZNL2_MOUSE	Nap1l4 protein	spectrum same-set protein	1	2	0
+PRT868_3_D3YWA4	D3YWA4	D3YWA4_MOUSE	PEST proteolytic signal-containing nuclear protein	spectrum same-set protein	1	13	0
+PRT868_3_E9QAQ5	E9QAQ5	E9QAQ5_MOUSE	Glycogen synthase kinase-3 beta	spectrum same-set protein	1	2	0
+PRT868_3_A0A0A0MQA5	A0A0A0MQA5	A0A0A0MQA5_MOUSE	Tubulin alpha chain	spectrum same-set protein	1	3	0
+PRT868_3_D3YYS7	D3YYS7	D3YYS7_MOUSE	mRNA cap guanine-N7 methyltransferase	spectrum same-set protein	1	3	0
+PRT868_3_Q5SWU0	Q5SWU0	Q5SWU0_MOUSE	DNA-binding protein Ikaros	spectrum same-set protein	1	2	0
+PRT868_3_F8WIP7	F8WIP7	F8WIP7_MOUSE	Zinc finger protein ubi-d4	spectrum same-set protein	1	9	0
+PRT868_3_A0A1L1SST3	A0A1L1SST3	A0A1L1SST3_MOUSE	Dual-specificity protein kinase CLK3	spectrum same-set protein	1	4	0
+PRT868_3_Q3UNI1	Q3UNI1	Q3UNI1_MOUSE	NAD-dependent protein deacetylase sirtuin-1	spectrum same-set protein	1	1	0
+PRT868_3_B1AXT0	B1AXT0	B1AXT0_MOUSE	Non-POU domain-containing octamer-binding protein	spectrum same-set protein	1	2	0
+PRT868_3_B7FAU9	B7FAU9	B7FAU9_MOUSE	Filamin-A	spectrum same-set protein	1	2	0
+PRT868_3_Q8QZW8	Q8QZW8	Q8QZW8_MOUSE	Rho GTPase-activating protein 9	spectrum same-set protein	1	3	0
+PRT868_3_B7ZCU4	B7ZCU4	B7ZCU4_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_Q3UM65	Q3UM65	Q3UM65_MOUSE	Runt-related transcription factor	spectrum same-set protein	1	4	0
+PRT868_3_A0A0U1RQ02	A0A0U1RQ02	A0A0U1RQ02_MOUSE	Linker for activation of T-cells family member 1	spectrum same-set protein	1	2	0
+PRT868_3_E9PVP4	E9PVP4	E9PVP4_MOUSE	Ena/VASP-like protein	spectrum same-set protein	1	3	0
+PRT868_3_A0A5H1ZRL7	A0A5H1ZRL7	A0A5H1ZRL7_MOUSE	Transformation related protein 53 binding protein 1	spectrum same-set protein	1	1	0
+PRT868_3_P68433	P68433	H31_MOUSE	Histone H3.1	spectrum same-set protein	1	2	0
+PRT868_3_A2AQ41	A2AQ41	A2AQ41_MOUSE	Formin-binding protein 1	spectrum same-set protein	1	5	0
+PRT868_3_F8WI35	F8WI35	F8WI35_MOUSE	Histone H3	spectrum same-set protein	1	2	0
+PRT868_3_D3Z7E5	D3Z7E5	D3Z7E5_MOUSE	Glycogen synthase kinase-3 alpha	spectrum same-set protein	1	2	0
+PRT868_3_D3Z3V3	D3Z3V3	D3Z3V3_MOUSE	Septin-1	spectrum same-set protein	1	2	0
+PRT868_3_Q6P6P5	Q6P6P5	Q6P6P5_MOUSE	Slc12a6 protein	spectrum same-set protein	1	2	0
+PRT868_3_A2AGJ9	A2AGJ9	A2AGJ9_MOUSE	Solute carrier family 12 member 6	spectrum same-set protein	1	2	0
+PRT868_3_A2AU62	A2AU62	A2AU62_MOUSE	RNA-binding protein Raly	spectrum same-set protein	1	11	0
+PRT868_3_A0A0G2JDF8	A0A0G2JDF8	A0A0G2JDF8_MOUSE	Serrate RNA effector molecule homolog	spectrum same-set protein	1	3	0
+PRT868_3_B7ZCU2	B7ZCU2	B7ZCU2_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_A0A1B0GRU3	A0A1B0GRU3	A0A1B0GRU3_MOUSE	Zinc finger CCCH domain-containing protein 4	spectrum same-set protein	1	4	0
+PRT868_3_Q8CGP6	Q8CGP6	H2A1H_MOUSE	Histone H2A type 1-H	spectrum same-set protein	1	1	0
+PRT868_3_A0A286YCN4	A0A286YCN4	A0A286YCN4_MOUSE	mRNA-decapping enzyme 1A	spectrum same-set protein	1	2	0
+PRT868_3_A0A3B2WCL5	A0A3B2WCL5	A0A3B2WCL5_MOUSE	Ran-binding protein 3	spectrum same-set protein	1	2	0
+PRT868_3_B7ZCU0	B7ZCU0	B7ZCU0_MOUSE	Abl interactor 1	spectrum same-set protein	1	2	0
+PRT868_3_E9Q3V6	E9Q3V6	E9Q3V6_MOUSE	Septin-2	spectrum same-set protein	1	3	0
+PRT868_3_A0A3Q4EBV9	A0A3Q4EBV9	A0A3Q4EBV9_MOUSE	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	spectrum same-set protein	1	4	0
+PRT868_3_F2Z3Z9	F2Z3Z9	F2Z3Z9_MOUSE	3-phosphoinositide-dependent protein kinase 1	spectrum same-set protein	1	2	0
+PRT868_3_Q8CGP7	Q8CGP7	H2A1K_MOUSE	Histone H2A type 1-K	spectrum same-set protein	1	1	0
+PRT868_3_A0A0G2JFX7	A0A0G2JFX7	A0A0G2JFX7_MOUSE	RNA-binding protein 8A	spectrum same-set protein	1	4	0
+PRT868_3_C0HKE2	C0HKE2	H2A1C_MOUSE	Histone H2A type 1-C	spectrum same-set protein	1	1	0
+PRT868_3_M0QW74	M0QW74	M0QW74_MOUSE	Myotubularin-related protein 3	spectrum same-set protein	1	1	0
+PRT868_3_Q3TRL2	Q3TRL2	Q3TRL2_MOUSE	3-phosphoinositide-dependent protein kinase 1	spectrum same-set protein	1	2	0
+PRT868_3_E9Q4Y0	E9Q4Y0	E9Q4Y0_MOUSE	Nuclear autoantigen Sp-100	spectrum same-set protein	1	5	0
+PRT868_3_F6R3V4	F6R3V4	F6R3V4_MOUSE	Treacle protein	spectrum sub-set protein	4	28	0
+PRT868_3_H3BIX0	H3BIX0	H3BIX0_MOUSE	Treacle protein	spectrum sub-set protein	4	28	0
+PRT868_3_A2A6J4	A2A6J4	A2A6J4_MOUSE	Lymphocyte-specific protein 1	spectrum sub-set protein	3	42	0
+PRT868_3_A2A6J7	A2A6J7	A2A6J7_MOUSE	Lymphocyte-specific protein 1	spectrum sub-set protein	3	42	0
+PRT868_3_E9QKA4	E9QKA4	E9QKA4_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum sub-set protein	2	13	0
+PRT868_3_P68134	P68134	ACTS_MOUSE	Actin, alpha skeletal muscle	spectrum sub-set protein	2	6	0
+PRT868_3_S4R257	S4R257	S4R257_MOUSE	Glyceraldehyde-3-phosphate dehydrogenase	spectrum sub-set protein	2	5	0
+PRT868_3_G3UZ07	G3UZ07	G3UZ07_MOUSE	Actin, cytoplasmic 2	spectrum sub-set protein	2	8	0
+PRT868_3_A0A2I3BRH1	A0A2I3BRH1	A0A2I3BRH1_MOUSE	FYN-binding protein	spectrum sub-set protein	2	6	0
+PRT868_3_G3UYG0	G3UYG0	G3UYG0_MOUSE	Actin, cytoplasmic 2	spectrum sub-set protein	2	8	0
+PRT868_3_E9Q606	E9Q606	E9Q606_MOUSE	Actin, cytoplasmic 1	spectrum sub-set protein	2	8	0
+PRT868_3_P68033	P68033	ACTC_MOUSE	Actin, alpha cardiac muscle 1	spectrum sub-set protein	2	6	0
+PRT868_3_A0A2I3BPY6	A0A2I3BPY6	A0A2I3BPY6_MOUSE	FYN-binding protein	spectrum sub-set protein	2	6	0
+PRT868_3_P63268	P63268	ACTH_MOUSE	Actin, gamma-enteric smooth muscle	spectrum sub-set protein	2	6	0
+PRT868_3_P15864	P15864	H12_MOUSE	Histone H1.2	spectrum sub-set protein	2	24	0
+PRT868_3_P62737	P62737	ACTA_MOUSE	Actin, aortic smooth muscle	spectrum sub-set protein	2	6	0
+PRT868_3_A0A494B9T3	A0A494B9T3	A0A494B9T3_MOUSE	Actin, aortic smooth muscle	spectrum sub-set protein	1	5	0
+PRT868_3_V9GX06	V9GX06	V9GX06_MOUSE	Predicted gene 11214	spectrum sub-set protein	1	2	0
+PRT868_3_A0A0U1RQ96	A0A0U1RQ96	A0A0U1RQ96_MOUSE	Actin, gamma-enteric smooth muscle	spectrum sub-set protein	1	1	0
+PRT868_3_A0A1D5RM20	A0A1D5RM20	A0A1D5RM20_MOUSE	Actin, alpha skeletal muscle	spectrum sub-set protein	1	5	0
+PRT868_3_Q61189	Q61189	ICLN_MOUSE	Methylosome subunit pICln	spectrum sub-set protein	1	3	0
+PRT868_3_I7HFT9	I7HFT9	I7HFT9_MOUSE	Histone cluster 1, H1t	spectrum sub-set protein	1	8	0
+PRT868_3_A0A0N4SUM2	A0A0N4SUM2	A0A0N4SUM2_MOUSE	Heterogeneous nuclear ribonucleoproteins A2/B1	spectrum sub-set protein	1	2	0
+PRT868_3_D3YZY0	D3YZY0	D3YZY0_MOUSE	Actin, gamma-enteric smooth muscle	spectrum sub-set protein	1	5	0
+PRT868_3_A0A1L1SRY4	A0A1L1SRY4	A0A1L1SRY4_MOUSE	Predicted gene, 38431	spectrum sub-set protein	1	18	0
+PRT868_3_E9Q996	E9Q996	E9Q996_MOUSE	PDZ and LIM domain protein 2	spectrum sub-set protein	1	2	0
+PRT868_3_F6XX57	F6XX57	F6XX57_MOUSE	DNA topoisomerase 2-beta	spectrum sub-set protein	1	1	0
+PRT868_3_Q07133	Q07133	H1T_MOUSE	Histone H1t	spectrum sub-set protein	1	8	0
+PRT868_3_Q3TBD2	Q3TBD2	HMHA1_MOUSE	Rho GTPase-activating protein 45	spectrum sub-set protein	1	2	0
+PRT868_3_A0A087WQN2	A0A087WQN2	A0A087WQN2_MOUSE	Prothymosin alpha	spectrum sub-set protein	1	8	0
+PRT868_3_Q8BFZ3	Q8BFZ3	ACTBL_MOUSE	Beta-actin-like protein 2	spectrum sub-set protein	1	1	0
+PRT868_3_E9Q1F2	E9Q1F2	E9Q1F2_MOUSE	Actin, cytoplasmic 1	spectrum sub-set protein	1	1	0
+PRT868_3_D3Z2K3	D3Z2K3	D3Z2K3_MOUSE	Actin, gamma-enteric smooth muscle	spectrum sub-set protein	1	5	0
+PRT868_3_I7HFT9	I7HFT9	I7HFT9_MOUSE	H1.6 linker histone, cluster member	spectrum sub-set protein	1	8	0
+PRT868_3_F7BWM1	F7BWM1	F7BWM1_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum sub-set protein	1	5	0
+PRT868_3_F6UK16	F6UK16	F6UK16_MOUSE	Serine/arginine repetitive matrix protein 1	spectrum sub-set protein	1	8	0

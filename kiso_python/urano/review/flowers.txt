@@ -1,0 +1,8 @@
+チューリップ,tulip
+ヒマワリ,sunflower
+タンポポ,dandelion
+コスモス,cosmos
+ユリ,lily
+マリーゴールド,marigold
+アケビ,chocolate vine
+シクラメン,cyclamen

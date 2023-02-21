@@ -1,0 +1,7 @@
+基礎Python,2680,基礎Python
+独習Python,3200,独習Python
+PHP入門教室,3480,PHP入門教室
+独習PHP,3680,独習PHP
+入門Python,2380,入門Python
+JavaScript本格入門,3200,JavaScript本格入門
+新・明解C言語入門,2380,新・明解C言語入門
