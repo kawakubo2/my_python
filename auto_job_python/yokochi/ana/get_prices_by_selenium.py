@@ -157,11 +157,11 @@ def main(departure="FUK", arrival="HND"):
         driver.close()
     print("---< 最終結果 >---")
     print(price_dict)
-    headers = create_exel_headers(price_dict, date_strs)
+    headers = create_excel_headers(price_dict, date_strs)
     print(headers)
     write_excel(headers, price_dict, date_strs)
 
-def create_exel_headers(price_dict, date_strs):
+def create_excel_headers(price_dict, date_strs):
     header_dict = {}
     for id, fare in price_dict.items():
         header_dict[id] = {} 
@@ -226,8 +226,7 @@ def write_excel(headers, price_dict, date_strs):
 
             # price_typeとは「プレミアム」、「フレックス」、「バリュー」等のことを指す
             col=4
-            # TODO price_typeは見出し行を作成するときに使用予定
-            for price_type, date_price_dict in main_prices['料金表'].items():
+            for _, date_price_dict in main_prices['料金表'].items():
                 for date_str in date_strs:
                     c = sheet.cell(row + 2, col);
                     if date_str in date_price_dict:
