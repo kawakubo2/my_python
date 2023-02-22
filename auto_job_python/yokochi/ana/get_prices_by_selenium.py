@@ -236,6 +236,7 @@ def write_excel(headers, price_dict, date_strs):
                     col += 1
 
             row += 1
+    book.remove(book['Sheet'])
     book.save(save_file)
 
 
