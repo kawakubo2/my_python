@@ -7,7 +7,6 @@ import datetime
 import time
 import re
 import sys
-import json
 import openpyxl as excel
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
@@ -154,8 +153,9 @@ def main(departure="FUK", arrival="HND"):
                             f"#{id} > table > tbody > tr:nth-child({i}) > td:nth-child({j}) > div > span:nth-child(1)")
                         if full_occupancy:
                             # 満席
-                            price_table[excel_headers[j + 1]][date_str] = full_occupancy[0].text
+                           price_table[excel_headers[j + 1]][date_str] = full_occupancy[0].text
         driver.close()
+
     print("---< 最終結果 >---")
     print(price_dict)
     headers = create_excel_headers(price_dict, date_strs)
