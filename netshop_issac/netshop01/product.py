@@ -35,8 +35,8 @@ class AbstractProductsProducer(ABC):
 class ProductsProducerFromHardcode(AbstractProductsProducer):
     def get_products(self):
         products = {}
-        products["K16"] = Product("K16", "Wood Screw", "aaa", 7.50)
-        products["D24"] = Product("K24", "Wood Glue", "bbb", 11.00)
+        products["K16"] = Product("K16", "Wood Screw", "brass 20mm pack of 50", 7.75)
+        products["D24"] = Product("K24", "Wood Glue", "clear 1 letter", 5.50)
         return products
 
 class ProductsProducerFromFile(AbstractProductsProducer):
@@ -61,6 +61,6 @@ class ProductsViewer():
         -------
             なし
         """
-        print("code    name                description           unit price")
+        print("コード  製品名              製品内容                    単価")
         for code, product in products.items():
             print(f"{code:<8}{product.name:<20}{product.desc:<24}{product.unit_price:>8.2f}")

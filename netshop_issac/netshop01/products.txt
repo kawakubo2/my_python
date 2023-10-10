@@ -1,2 +1,2 @@
-K16,Wood Screw,aaa,7.50
-D24,Wood Glue,bbb,11.00
+K16,Wood screw,brass 20mm pack of 50,7.75
+D24,Wood glue,clear 1 letter,5.50

@@ -8,7 +8,11 @@ class Order():
     def get_customer(self):
         return self.__customer
 
+    def get_order_detail(self):
+        return self.__order_detail
+
     customer = property(get_customer)
+    order_detail = property(get_order_detail)
     
     def add_item(self, product_code, quantity):
         if product_code in self.__order_detail:
