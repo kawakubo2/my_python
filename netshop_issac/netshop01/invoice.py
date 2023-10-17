@@ -62,7 +62,7 @@ class ConsoleInvoicePrinter(InvoicePrinter):
     def print_header(self):
         customer = self.invoice.order.customer
         print(f"氏名　　: {customer.name}")
-        print(f"住所　１: {customer.address1}")
+        print(f"住所１　: {customer.address1}")
         print(f"住所２　: {customer.address2}")
         print(f"郵便番号: {customer.zipcode}")
 
