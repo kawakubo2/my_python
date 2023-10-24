@@ -48,6 +48,7 @@ class InvoicePrinter(ABC):
     @abstractmethod
     def print_footer(self):
         pass
+    # template method pattern
     def print(self):
         self.print_header()
         self.print_body()
