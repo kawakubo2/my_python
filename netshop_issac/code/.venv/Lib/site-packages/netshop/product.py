@@ -32,6 +32,9 @@ class Product():
     unit_price = property(get_unit_price)
     
     
+    def __eq__(self, other):
+        return self.code == other.code and self.name == other.name and self.desc == other.desc and self.unit_price == other.unit_price
+
     def __str__(self):
         return f"code={self.code}, name={self.name}, desc={self.desc}, unit_price={self.unit_price}"
 
