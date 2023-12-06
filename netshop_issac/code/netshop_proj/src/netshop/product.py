@@ -15,6 +15,10 @@ class Product():
         self.__code = code
         self.__name = name
         self.__desc = desc
+        if type(unit_price) != int:
+            raise TypeError;
+        if unit_price < 0:
+            raise ValueError(f"負の値: {unit_price}")
         self.__unit_price = unit_price
 
     def get_code(self):
