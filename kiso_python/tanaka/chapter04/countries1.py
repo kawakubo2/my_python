@@ -8,7 +8,7 @@ def random_list(dic):
     return result
 
 answers = random_list({'イギリス': 6, 'スペイン': 8, 'ドイツ': 3, 'フランス': 9, 'イタリア': 14})
-# print(answers)
+print(answers)
 
 results = {}
 
