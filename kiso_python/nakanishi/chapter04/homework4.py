@@ -2,11 +2,15 @@
 cookpad = [
     {"タマゴ", "ギュウニュウ", "ジャガイモ", "チーズ"},
     {"ジャガイモ", "ホウレンソウ", "シジミ", "ニンジン"},
+    {"タマゴ", "アサリ", "ニンジン"}
 ]
 # 冷蔵庫にある食材
-refreg = {"xxx", "yyy", "zzz"}
+refreg = {"チーズ", "ジャガイモ", "タマゴ", "ニンジン", "アサリ", "タマゴ", "ギュウニュウ"}
 """
 冷蔵庫(refreg)にある食材だけで作れるレシピ探す
 """
-def cancook(cookpad):
-    pass
+for cook in cookpad:
+    st = cook - refreg
+    if len(st) == 0:
+        print(cook)
+        

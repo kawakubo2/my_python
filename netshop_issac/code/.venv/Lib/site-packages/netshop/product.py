@@ -15,7 +15,7 @@ class Product():
         self.__code = code
         self.__name = name
         self.__desc = desc
-        if type(unit_price) != int:
+        if type(unit_price) != float:
             raise TypeError;
         if unit_price < 0:
             raise ValueError(f"負の値: {unit_price}")
