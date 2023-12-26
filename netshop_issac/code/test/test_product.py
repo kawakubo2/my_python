@@ -3,10 +3,10 @@ import pytest
 
 def test_constructor():
     product = Product("A100", "洗濯機", "5kg高速洗浄", 50000)
-    assert product.code == "A100"
-    assert product.name == "洗濯機"
-    assert product.desc == "5kg高速洗浄"
-    assert product.unit_price == 50000
+    assert  product.code == "A100" and \
+            product.name == "洗濯機" and \
+            product.desc == "5kg高速洗浄" and \
+            product.unit_price == 50000
 
 def test_equality():
     p1 = Product("XPS8950", "DELL製デスクトップパソコン", "メモ32G  CPU Intel Core i7", 298000);
