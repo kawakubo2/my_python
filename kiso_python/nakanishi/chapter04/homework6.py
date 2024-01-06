@@ -9,3 +9,6 @@ members = [
 タプルのリストからBMI値が26を超える人の名前だけを格納したリストを作成
 リストの内包表記で解くこと
 """
+
+names = [m[0] for m in members if m[3] / (m[2] / 100) ** 2 > 26]
+print(names)
