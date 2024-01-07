@@ -11,7 +11,6 @@ import json
 import openpyxl as excel
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
-from selenium.webdriver.common.by import By
 
 # 正規表現をあらかじめコンパイルしておく
 departure_arrival_pattern = re.compile(
@@ -56,18 +55,18 @@ def main(departure="FUK", arrival="HND"):
             if id not in price_dict:
                 price_dict[id] = {}
             print(f"-----< {tabs[id]} >---")
-            fare_button = driver.find_element(By.CSS_SELECTOR,
+            fare_button = driver.find_elements_by_css_selector(
                 f"#{button} > a")
             fare_button[0].click()
             time.sleep(2)
 
             # Excel見出し行作成
             excel_headers = ['出発時刻', '到着時刻', '便名', 'プレミアムクラス']
-            head_tds = driver.find_element(By.CSS_SELECTOR,
+            head_tds = driver.find_elements_by_css_selector(
                 f"#{id} > table > thead > tr > td")
             print(f"見出しのセル数: {len(head_tds)}")
             for i in range(3, len(head_tds) + 1):
-                head_text = driver.find_element(By.CSS_SELECTOR,
+                head_text = driver.find_elements_by_css_selector(
                     f"#{id} > table > thead > tr > td:nth-child({i}) > div > a")
                 if head_text:
                     excel_headers.append(head_text[0].text.replace("\n", ""))
@@ -76,19 +75,19 @@ def main(departure="FUK", arrival="HND"):
             print(excel_headers)
 
             # Excelデータ行の作成
-            trs = driver.find_element(By.CSS_SELECTOR,
+            trs = driver.find_elements_by_css_selector(
                 f"#{id} > table > tbody > tr")
             tr_len = len(trs)
             print(f"行数:{tr_len}")
             for i in range(1, tr_len + 1):
-                departure_arrival = driver.find_element(By.CSS_SELECTOR,
+                departure_arrival = driver.find_elements_by_css_selector(
                     f"#{id} > table > tbody > tr:nth-child({i}) > td.headCell > p.availabilityResultFlightTime")
                 departure_time, arrival_time = parse_departure_arrival(
                     departure_arrival[0].text)
                 print("-----------------")
                 # 便名
 
-                flight_number = driver.find_element(By.CSS_SELECTOR,
+                flight_number = driver.find_elements_by_css_selector(
                     f"#{id} > table > tbody > tr:nth-child({i}) > td.headCell > p.availabilityResultFlightDetail > span:nth-child(1)")
                 flight_number_name = flight_number_pattern.search(
                     flight_number[0].text).group(1)
@@ -113,7 +112,7 @@ def main(departure="FUK", arrival="HND"):
                 print(price_table)
 
                 # premiumクラスの料金取得
-                premium_class = driver.find_element(By.CSS_SELECTOR,
+                premium_class = driver.find_elements_by_css_selector(
                     f"#{id} > table > tbody > tr:nth-child({i}) > td[class='availabilityResultPremiumClass'] div > a")
                 if premium_class:
                     # premium
@@ -123,7 +122,7 @@ def main(departure="FUK", arrival="HND"):
                     pass
 
                 # premiumクラス以外の料金取得
-                tds = driver.find_element(By.CSS_SELECTOR,
+                tds = driver.find_elements_by_css_selector(
                     f"#{id} > table > tbody > tr:nth-child({i}) > td")
                 td_len = len(tds)
                 print(F"価格カラム数: {td_len}")
@@ -132,11 +131,11 @@ def main(departure="FUK", arrival="HND"):
                     # 4は出発時刻、到着時刻、便名、プレミアム。4つのExcelのセルを使っている
                     # 2は1番目のtdには出発時刻、到着時刻、便名。2番目にはプレミアムの値が入っている
                     # したがって、繰り返し処理するtdタグは3番目から存在するため + 2する必要がある。
-                    waiting = driver.find_element(By.CSS_SELECTOR,
+                    waiting = driver.find_elements_by_css_selector(
                         f"#{id} > table > tbody > tr:nth-child({i}) > td:nth-child({j}) > div > span:nth-child(1) > label:nth-child(1) > span[class='hasSeatWait'] ")
                     if waiting:
                         print(waiting[0].text, end="")
-                    price = driver.find_element(By.CSS_SELECTOR,
+                    price = driver.find_elements_by_css_selector(
                         f"#{id} > table > tbody > tr:nth-child({i}) > td:nth-child({j}) > div > span:nth-child(1) > label:nth-child(1) > em ")
                     if price:
                         print(f"価格: {price[0].text}")
@@ -151,7 +150,7 @@ def main(departure="FUK", arrival="HND"):
                             price_table[excel_headers[j + 1]
                                         ][date_str] = parse_price(price[0].text)
                     else:
-                        full_occupancy = driver.find_element(By.CSS_SELECTOR,
+                        full_occupancy = driver.find_elements_by_css_selector(
                             f"#{id} > table > tbody > tr:nth-child({i}) > td:nth-child({j}) > div > span:nth-child(1)")
                         if full_occupancy:
                             # 満席
@@ -297,7 +296,7 @@ def get_search_form():
     """
     検索画面の表示
     """
-    ticket_submit_button = driver.find_element(By.CSS_SELECTOR,
+    ticket_submit_button = driver.find_elements_by_css_selector(
         ".be-domestic-reserve-ticket-submit__button")
     ticket_submit_button[0].click()
 
@@ -330,7 +329,7 @@ def select_date(target_date):
     outwardEmbarkationDate_elem.click()
     time.sleep(3)
     # カレンダーから日付を選択
-    calendar_elem = driver.find_element(By.CSS_SELECTOR,
+    calendar_elem = driver.find_elements_by_css_selector(
         f"#modal_scroller_calendar_outwardEmbarkationDate td[data-date = '{target_date}'] > a")
     calendar_elem[0].click()
 

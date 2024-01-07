@@ -83,8 +83,9 @@ def get_hospital_main(target_url, base_url, pref_code):
     """
     global row
     urls = get_hospital_list(target_url, base_url)
-    # for url in urls[:2]:
-    for url in urls:
+    # テストのために2URLのみ
+    for url in urls[:2]:
+    # for url in urls:
         write_hospital_details(url, pref_code)
         print(f"row=${row}")
         time.sleep(30)
