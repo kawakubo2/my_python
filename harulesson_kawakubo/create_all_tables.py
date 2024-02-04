@@ -27,7 +27,33 @@ create_courses_sql = """CREATE TABLE {}(
     );
     """
 
+create_unit_prices_sql = """CREATE TABLE {}(
+        id INT NOT NULL AUTO_INCREMENT,
+        生徒id INT NOT NULL,
+        コースid INT NOT NULL,
+        適用開始日 DATE NOT NULL,
+        時間単価 INT NOT NULL,
+        PRIMARY KEY(id),
+        FOREIGN KEY(生徒id) REFERENCES 生徒(id),
+        FOREIGN KEY(コースid) REFERENCES コース(id)
+    );
+    """
+
+create_lesson_records_sql = """CREATE TABLE {}(
+        id INT NOT NULL AUTO_INCREMENT,
+        単価id INT NOT NULL,
+        受講日 DATE NOT NULL,
+        開始時刻 TIME NOT NULL,
+        終了時刻 TIME NOT NULL,
+        請求済みフラグ CHAR(1) DEFAULT '0' COMMENT '0: 未請求 1:請求済み',
+        PRIMARY KEY(id),
+        FOREIGN KEY(単価id) REFERENCES 単価(id)
+    );
+    """
+
 operations = [
+    {"name": "受講記録", "sql": create_lesson_records_sql },
+    {"name": "単価", "sql": create_unit_prices_sql },
     {"name": "コース", "sql": create_courses_sql },
     {"name": "生徒", "sql": create_students_sql },
     {"name": "会社", "sql": create_companies_sql },
