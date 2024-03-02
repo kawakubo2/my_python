@@ -1,5 +1,6 @@
 from tables import create_table, drop_table
 from collections import deque
+from get_connect import get_connect
 
 create_companies_sql = """CREATE TABLE {}(
         id INT NOT NULL AUTO_INCREMENT,
@@ -61,14 +62,16 @@ operations = [
 
 def create_all_tables():
     stack = deque()
-    for operation in operations:
-        stack.append(operation)
-        drop_table(operation["name"])
-    while stack:
-        operation = stack.pop()
-        create_table(operation["name"], operation["sql"])
+    with get_connect() as connect:
+        for operation in operations:
+            stack.append(operation)
+            drop_table(connect, operation["name"])
+        while stack:
+            operation = stack.pop()
+            create_table(connect, operation["name"], operation["sql"])
+        connect.commit()
+        print("テーブルの作成に成功しました。")
 
 if __name__ == "__main__":
     create_all_tables()
-    print("テーブルの作成に成功しました。")
 

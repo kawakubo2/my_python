@@ -6,4 +6,7 @@ def reset():
     insert_all_tables()
 
 if __name__ == "__main__":
-    reset()
+    try:
+        reset()
+    except Exception as e:
+        print(e)
