@@ -33,6 +33,7 @@ create_unit_prices_sql = """CREATE TABLE {}(
         生徒id INT NOT NULL,
         コースid INT NOT NULL,
         適用開始日 DATE NOT NULL,
+        適用開始時刻 TIME NOT NULL,
         時間単価 INT NOT NULL,
         PRIMARY KEY(id),
         FOREIGN KEY(生徒id) REFERENCES 生徒(id),
