@@ -22,6 +22,8 @@ students = [
     (108, '星山裕子', 'yuko@hoshiyama.com', 2),
     (109, '佐藤勝男', 'katsuo@sato.com', 2),    
     (110, '遠藤大翔', 'haruto@endo.com', 2),    
+    (111, '山田太郎', 'taro2@yamada.com', None),    
+    (112, '横山花子', 'hanako2@yokoyama.com', None),    
 ]
 insert_students_sql = """
             INSERT INTO {}
@@ -55,6 +57,7 @@ unit_prices = [
     (309, 109, 201, date(2024,6,1), time(12, 0), 2200),
     (310, 110, 201, date(2024,6,1), time(12, 0), 2200),
     (311, 110, 204, date(2024,6,2), time(12, 0), 2800),
+    (312, 111, 204, date(2024,7,1), time(12, 0), 2800),
 ]
 insert_unit_prices_sql = """
             INSERT INTO {}
@@ -68,6 +71,7 @@ insert_unit_prices_sql = """
 # 6, 7は2名同時受講 
 # 8, 9, 10は3名同時受講
 # 11は10と同じ生徒が別コースを同じ期間で受講する
+# 12は1と同姓同名
 """
 lesson_record_source_data = [
     { "unit_price_id": 301, "start_date": [ date(2024, 4, 1) ], "start_time": time(12, 0), "end_time": time(14, 0)}, #1
@@ -81,6 +85,7 @@ lesson_record_source_data = [
     { "unit_price_id": 309, "start_date": [ date(2024, 6, 1) ], "start_time": time(12, 0), "end_time": time(14, 0)}, #9
     { "unit_price_id": 310, "start_date": [ date(2024, 6, 1) ], "start_time": time(12, 0), "end_time": time(14, 0)}, #10
     { "unit_price_id": 311, "start_date": [ date(2024, 6, 2) ], "start_time": time(12, 0), "end_time": time(14, 0)}, #11
+    { "unit_price_id": 312, "start_date": [ date(2024, 7, 1) ], "start_time": time(12, 0), "end_time": time(14, 0)}, #12
 ]
 
 def create_lesson_data(lesson_record_source_data):

@@ -2,9 +2,8 @@
 import os
 import random
 from time import sleep
-# import xlrd
-import 
-wb = xlrd.open_workbook(os.path.dirname(__file__) + '/sample.xlsx')
+import xlrd
+wb = xlrd.open_workbook(os.path.join(os.path.dirname(__file__), 'sample.xlsx'))
 print()
 print('タイピング練習しながら英単語を覚えましょう！')
 print('正しく入力されると日本語訳が出ます。')
